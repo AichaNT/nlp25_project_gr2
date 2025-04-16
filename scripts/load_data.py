@@ -119,19 +119,17 @@ def read_tsv_file(path, label2id):
 
             # splitting at 'tab', as the data is tab separated 
             tok = line.split('\t')
+            
+            # extract the token (first column)
+            token = tok[0]
 
-            # append the word (first column) to current_words
-            current_words.append(tok[0]) 
+            # check if the label is in the provided label2id dictionary
+            # if it's not, replace the label with 'O'
+            label = tok[1] if tok[1] in label2id else 'O'
 
-            # skip labels that are not in the mapping (part and deriv)
-            if tok[1] not in label2id:
-                continue
-
-            # add the current tag 
-            current_tags.append(tok[1]) 
-
-            # add the current tag mapped to the corresponding ID (int)
-            current_tag_ids.append(label2id[tok[1]]) 
+            current_words.append(token)
+            current_tags.append(label)
+            current_tag_ids.append(label2id[label])
         
         else: # skip empty lines
             if current_words: # if current_words is not empty
@@ -151,16 +149,20 @@ def read_tsv_file(path, label2id):
     return data
 
 # extracting tokens to check for overlap in train, dev and test sets
-def extract_labeled_tokens(dataset, exclude_label_id = "0"):
+def extract_labeled_tokens(dataset, exclude_label = "O", include_label_pair=False):
     '''
-    This functionxtracts tokens from a dataset that have a tag ID not equal to `exclude_label_id`.
-    
+    This function extracts tokens from a dataset that have a string label different from `exclude_label`.
+    Optionally, it can return the (token, label) pairs instead of just tokens.
+
     Parameters:
         dataset (List[dict]): The token-tagged dataset.
-        exclude_label_id (int): The tag ID to exclude (default is 0).
-
+        exclude_label (str): The label to ignore (default is 'O').
+        include_label_pair (bool): Whether to include the (token, label) pairs in the result (default is False).
+        
     Returns:
-        Set[str]: A set of tokens with tag IDs different from `exclude_label_id`.
+         Set[str] or Set[Tuple[str, str]]: 
+            - A set of tokens with meaningful (non-O) labels if `include_label_pair` is False.
+            - A set of (token, label) pairs if `include_label_pair` is True.
     '''
 
     # create empty set to store the unique tokens
@@ -168,8 +170,11 @@ def extract_labeled_tokens(dataset, exclude_label_id = "0"):
     
     for sentence in dataset:
         # iterate over each token and its corresponding tag ID
-        for token, tag_id in zip(sentence["tokens"], sentence["tag_ids"]):
-            if tag_id != exclude_label_id:  # check if the tag is not the excluded one
-                labeled_tokens.add(token)    # add the token to the set (duplicates automatically removed)
+        for token, label in zip(sentence["tokens"], sentence["ner_tags"]):
+            if label != exclude_label:                      # check if the tag is not the excluded one
+                if include_label_pair:
+                    labeled_tokens.add((token, label))      # add (token, label) pair if the flag is True
+                else:
+                    labeled_tokens.add(token)               # add just the token if the flag is False
     
     return labeled_tokens
