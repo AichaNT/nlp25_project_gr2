@@ -12,4 +12,5 @@ with fitz.open("../data_aug_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf") as
                         if name:
                             B_PER.append(name)
 
+ME_BPER = [name.replace("*", "") for name in B_PER]
 ME_BPER = list(set(B_PER))
