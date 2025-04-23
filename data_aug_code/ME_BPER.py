@@ -10,6 +10,8 @@ with fitz.open("../data_aug_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf") as
                     if span["flags"] & 16:  # 16 targets bold text
                         name = span["text"].strip()
                         if name:
+                            if len(name) <= 1 or any(char in name for char in "+-*"):
+                                continue
                             B_PER.append(name)
 
 ME_BPER = [name.replace("*", "") for name in B_PER]
