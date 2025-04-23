@@ -339,6 +339,22 @@ i	O
 arbejde	O
 .	O
 
+Kun	O
+den	O
+orangegule	O
+norske	O
+Fanta	B-MISC
+,	O
+Solus	B-MISC
+,	O
+kan	O
+holde	O
+øjne	O
+og	O
+mund	O
+åbne	O
+.	O
+
 Nye	O
 i	O
 BTCC	B-ORG
@@ -427,6 +443,31 @@ snart	O
 skulle	O
 til	O
 området	O
+.	O
+
+De	O
+,	O
+der	O
+udførte	O
+bagholdsangrebet	O
+,	O
+er	O
+i	O
+øvrigt	O
+uden	O
+for	O
+vor	O
+direkte	O
+kontrol	O
+,	O
+"	O
+sagde	O
+han	O
+til	O
+den	O
+britiske	O
+tv-station	O
+Sky	B-ORG
 .	O
 
 En	O
@@ -1010,6 +1051,19 @@ siger	O
 Smith	B-PER
 .	O
 
+-	O
+...	O
+ja	O
+,	O
+det	O
+er	O
+Svane	B-PER
+...	O
+hvad	O
+siger	O
+du	O
+?	O
+
 Syriens	O
 præsident	O
 ,	O
@@ -1581,17 +1635,6 @@ prøvede	O
 at	O
 løsrive	O
 sig	O
-.	O
-
-Så	O
-er	O
-nej'et	O
-hjemme	O
-,	O
-"	O
-mente	O
-Steen	B-PER
-Gade	I-PER
 .	O
 
 Faraos	O
@@ -2718,6 +2761,30 @@ naturlig	O
 følge	O
 .	O
 "	O
+
+Dommeren	O
+,	O
+Villy	B-PER
+Nielsen	I-PER
+,	O
+måtte	O
+have	O
+beskyttelse	O
+af	O
+kontrollører	O
+for	O
+at	O
+slippe	O
+fri	O
+af	O
+truende	O
+OB-fans	O
+ved	O
+pausen	O
+og	O
+efter	O
+kampen	O
+.	O
 
 Jeg	O
 vidste	O
@@ -5126,6 +5193,31 @@ onsdag	O
 
 Steffensen	B-PER
 
+Og	O
+det	O
+er	O
+fuldstændig	O
+uden	O
+sentimentalitet	O
+(	O
+han	O
+har	O
+slet	O
+ikke	O
+alderen	O
+til	O
+at	O
+være	O
+sentimental	O
+)	O
+Lars	B-PER
+Højer	I-PER
+fortæller	O
+om	O
+sin	O
+fodboldbarndom	O
+.	O
+
 Brian	B-PER
 Nielsen	I-PER
 ,	O
@@ -5160,6 +5252,34 @@ mellem	O
 Budapest	B-LOC
 og	O
 Prag	B-LOC
+.	O
+
+En	O
+kilde	O
+fra	O
+mujahedinlederen	O
+Masoods	B-PER
+stab	O
+sagde	O
+,	O
+at	O
+hovedformålet	O
+med	O
+beskydningen	O
+var	O
+at	O
+"	O
+få	O
+overstået	O
+kampen	O
+om	O
+Bala	B-LOC
+Hissar	I-LOC
+og	O
+tilintetgøre	O
+Hekmatyars	B-LOC
+luftværnsskyts	O
+"	O
 .	O
 
 MAKKERSKABET	O
@@ -5428,6 +5548,40 @@ mellem	O
 øst	O
 og	O
 vest	O
+.	O
+
+Bill	B-PER
+Clinton	I-PER
+har	O
+i	O
+de	O
+seneste	O
+dage	O
+helt	O
+skiftet	O
+emne	O
+af	O
+frygt	O
+for	O
+,	O
+at	O
+hård	O
+kritik	O
+af	O
+præsidenten	O
+skal	O
+støde	O
+hvide	O
+mellemklassevælgere	O
+væk	O
+fra	O
+demokraterne	O
+,	O
+som	O
+det	O
+skete	O
+gennem	O
+1980erne	O
 .	O
 
 Sådan	O
@@ -6362,6 +6516,19 @@ lille	O
 lejlighed	O
 .	O
 
+Robert	B-PER
+brugte	O
+sin	O
+frokostpause	O
+,	O
+som	O
+han	O
+plejede	O
+at	O
+bruge	O
+den	O
+.	O
+
 I	O
 sidste	O
 øjeblik	O
@@ -7138,6 +7305,29 @@ for	O
 dyrt	O
 .	O
 
+I	O
+lørdags	O
+ringede	O
+han	O
+til	O
+Birthe	B-PER
+Knudsen	I-PER
+,	O
+40	O
+,	O
+der	O
+kendte	O
+Palle	B-PER
+Kreiberg	I-PER
+en	O
+smule	O
+gennem	O
+sit	O
+virke	O
+som	O
+kunstner	O
+.	O
+
 Barer	O
 ,	O
 restauranter	O
@@ -7639,6 +7829,51 @@ Calvino	I-PER
 og	O
 Günter	B-PER
 Grass	I-PER
+.	O
+
+"	O
+Hvis	O
+man	O
+nærmest	O
+har	O
+revet	O
+totterne	O
+af	O
+hinanden	O
+om	O
+dagen	O
+,	O
+fordi	O
+man	O
+er	O
+rivende	O
+uenige	O
+i	O
+nogle	O
+politiske	O
+debatter	O
+,	O
+så	O
+er	O
+det	O
+klart	O
+,	O
+at	O
+så	O
+skal	O
+du	O
+altså	O
+have	O
+en	O
+Sort	B-MISC
+Guld	I-MISC
+,	O
+inden	O
+du	O
+kan	O
+begynde	O
+at	O
+elske	O
 .	O
 
 Johanniterbrødrene	O
@@ -8326,33 +8561,6 @@ Steen	B-PER
 Gade	I-PER
 .	O
 
-Men	O
-Stenbjerre	B-PER
-valgte	O
-den	O
-helt	O
-kommercielle	O
-løsning	O
-uden	O
-skelen	O
-til	O
-nationalitet	O
-,	O
-og	O
-resultatet	O
-blev	O
-,	O
-at	O
-Brüel	B-ORG
-&	I-ORG
-Kjær	I-ORG
-i	O
-dag	O
-ejes	O
-af	O
-tyskere	O
-.	O
-
 Bureauet	O
 citerer	O
 en	O
@@ -8641,6 +8849,28 @@ i	O
 det	O
 nordlige	O
 Grækenland	B-LOC
+.	O
+
+Det	O
+hele	O
+startede	O
+med	O
+at	O
+min	O
+veninde	O
+og	O
+jeg	O
+skulle	O
+til	O
+fest	O
+hos	O
+Søren	B-PER
+,	O
+en	O
+af	O
+min	O
+venindes	O
+studiekammerater	O
 .	O
 
 Der	O
@@ -9027,47 +9257,6 @@ kinesiske	O
 grænse	O
 .	O
 
-Vi	O
-vil	O
-bede	O
-de	O
-andre	O
-partier	O
-studere	O
-vores	O
-papir	O
-og	O
-høre	O
-,	O
-om	O
-ikke	O
-de	O
-mener	O
-,	O
-at	O
-det	O
-er	O
-på	O
-det	O
-grundlag	O
-,	O
-vi	O
-skal	O
-starte	O
-i	O
-loyalitet	O
-over	O
-for	O
-nej'et	O
-ved	O
-folkeafstemningen	O
-,	O
-"	O
-mener	O
-Steen	B-PER
-Gade	I-PER
-.	O
-
 Miljøbevidste	O
 postfolk	O
 på	O
@@ -9192,6 +9381,54 @@ Stevenson	I-PER
 og	O
 George	B-PER
 McGovern	I-PER
+.	O
+
+I	O
+efteråret	O
+1984	O
+var	O
+Helle	B-PER
+færdig	O
+med	O
+sin	O
+EFG-skole	O
+,	O
+men	O
+kunne	O
+ikke	O
+få	O
+en	O
+elevplads	O
+indenfor	O
+kolonialhandel	O
+,	O
+og	O
+på	O
+hendes	O
+tidligere	O
+arbejdsplads	O
+,	O
+som	O
+afløser	O
+i	O
+en	O
+kiosk	O
+,	O
+havde	O
+de	O
+ikke	O
+råd	O
+til	O
+en	O
+voksen	O
+afløser	O
+til	O
+nogle	O
+og	O
+30	O
+kroner	O
+i	O
+timen	O
 .	O
 
 Det	O
@@ -9319,6 +9556,19 @@ at	O
 revisorlovgivningen	O
 skal	O
 strammes	O
+.	O
+
+"	O
+Nej	O
+,	O
+den	O
+bliver	O
+ikke	O
+som	O
+"	O
+Twin	B-MISC
+Peaks	I-MISC
+"	O
 .	O
 
 "	O
@@ -9509,6 +9759,36 @@ Poul	B-PER
 Schlüter	I-PER
 .	O
 
+Trøstet	O
+er	O
+man	O
+også	O
+blevet	O
+af	O
+SF	B-ORG
+med	O
+at	O
+beløbet	O
+plus	O
+renter	O
+kan	O
+indefryses	O
+som	O
+gæld	O
+til	O
+kommunen	O
+i	O
+familiens	O
+parcelhus	O
+,	O
+ligesom	O
+den	O
+kan	O
+gøres	O
+med	O
+ejendomsbeskatningen	O
+.	O
+
 Sælges	O
 alle	O
 billetter	O
@@ -9621,6 +9901,25 @@ til	O
 øen	O
 fra	O
 Stockholm	B-LOC
+.	O
+
+Jeg	O
+frygter	O
+,	O
+der	O
+er	O
+mange	O
+dræbte	O
+,	O
+"	O
+sagde	O
+en	O
+talsmand	O
+for	O
+politiet	O
+,	O
+Klaaf	B-PER
+Wilting	I-PER
 .	O
 
 Kikker	O
@@ -10051,6 +10350,29 @@ sidste	O
 år	O
 .	O
 "	O
+
+Knæet	O
+er	O
+også	O
+årsag	O
+til	O
+,	O
+at	O
+Dronningen	O
+endnu	O
+ikke	O
+ved	O
+,	O
+om	O
+hun	O
+kan	O
+gennemføre	O
+sin	O
+årlige	O
+skitur	O
+i	O
+Norge	B-LOC
+.	O
 
 Danskernes	O
 forbrug	O
@@ -10563,29 +10885,6 @@ til	O
 B.T.	B-ORG
 .	O
 
-De	O
-politiske	O
-lederes	O
-underskrift	O
-var	O
-en	O
-betingelse	O
-for	O
-,	O
-at	O
-FN	B-ORG
-ville	O
-iværksætte	O
-den	O
-hidtil	O
-mest	O
-omfattende	O
-hjælpe-operation	O
-i	O
-organisationens	O
-historie	O
-.	O
-
 Og	O
 håb	O
 om	O
@@ -10635,37 +10934,56 @@ mener	O
 han	O
 .	O
 
-Det	O
-jugoslaviske	O
-præsidentråd	O
-appellerede	O
-i	O
-sidste	O
-øjeblik	O
-til	O
-FN	B-ORG
-om	O
-at	O
-undlade	O
-at	O
-iværksætte	O
+"	O
+Debatten	O
+må	O
+sende	O
 en	O
-boykot	O
-og	O
-opfordrede	O
+klar	O
+besked	O
 til	O
+dem	O
 ,	O
-at	O
 der	O
-i	O
-stedet	O
-indkaldes	O
-til	O
-en	O
-international	O
-konference	O
+er	O
+ansvarlige	O
+for	O
+lemlæstelsen	O
+af	O
+Bosnien-Hercegovina	B-LOC
+,	O
 om	O
-konflikten	O
+at	O
+det	O
+internationale	O
+samfunds	O
+tålmodighed	O
+er	O
+sluppet	O
+op	O
+,	O
+og	O
+at	O
+yderligere	O
+voldshandlinger	O
+og	O
+manglende	O
+overholdelse	O
+af	O
+internationale	O
+normer	O
+ikke	O
+vil	O
+blive	O
+tilladt	O
+,	O
+"	O
+sagde	O
+Tyrkiets	B-LOC
+FN-ambassadør	O
+,	O
+Mustafa	B-PER
+Aksin	I-PER
 .	O
 
 "	O
@@ -10728,6 +11046,28 @@ partisanerne	O
 i	O
 Guatamalas	B-LOC
 jungle	O
+.	O
+
+Prisen	O
+for	O
+en	O
+køl	O
+er	O
+henholdsvis	O
+9.000	O
+kr.	O
+og	O
+10.000	O
+kr.	O
+,	O
+hvortil	O
+kommer	O
+en	O
+eventuel	O
+mast	O
+fra	O
+John	B-ORG
+Mast	I-ORG
 .	O
 
 Andre	O
@@ -11577,6 +11917,31 @@ uheldige	O
 vendinger	O
 .	O
 
+Jørgen	B-PER
+Vetter	I-PER
+sagde	O
+på	O
+personaleforeningens	O
+vegne	O
+,	O
+at	O
+medarbejderne	O
+var	O
+enige	O
+i	O
+målet	O
+om	O
+et	O
+bedre	O
+resultat	O
+på	O
+bundlinien	O
+og	O
+en	O
+bedre	O
+konsolidering	O
+.	O
+
 CD	B-ORG
 mister	O
 0,7	O
@@ -12248,6 +12613,18 @@ Sarajevo	B-LOC
 
 LONDON	B-LOC
 
+Dansk	B-ORG
+Psykologforenings	I-ORG
+etiknævn	O
+har	O
+afgivet	O
+erklæring	O
+til	O
+retten	O
+om	O
+sagen	O
+.	O
+
 Sørøveren	O
 Selkirk	B-PER
 
@@ -12615,6 +12992,27 @@ målrettet	O
 ,	O
 sportslig	O
 professionalisme	O
+.	O
+
+I	O
+disse	O
+byer	O
+har	O
+der	O
+heller	O
+ikke	O
+været	O
+det	O
+monopol	O
+,	O
+som	O
+f.eks.	O
+Nordisk	B-ORG
+Film	I-ORG
+har	O
+haft	O
+i	O
+København	B-LOC
 .	O
 
 Det	O
@@ -13018,6 +13416,15 @@ Camilla	B-PER
 Miehe-Renard	I-PER
 .	O
 
+Arnaltas	B-PER
+luende	O
+blik	O
+måtte	O
+have	O
+ramt	O
+ham	O
+.	O
+
 Foto	O
 :	O
 WINNIFRED	B-PER
@@ -13077,6 +13484,18 @@ formand	O
 Mogens	B-PER
 Nielsen	I-PER
 båltalen	O
+.	O
+
+Børnenes	O
+forskellige	O
+evner	O
+tilgodeses	O
+ganske	O
+glimrende	O
+i	O
+den	B-ORG
+danske	I-ORG
+enhedsskole	I-ORG
 .	O
 
 Det	O
@@ -13759,22 +14178,6 @@ byen	O
 .	O
 "	O
 
-Nanna	B-PER
-Carlsen	I-PER
-er	O
-dog	O
-ikke	O
-medunderskriver	O
-,	O
-da	O
-hun	O
-har	O
-orlov	O
-i	O
-næste	O
-skoleår	O
-.	O
-
 Den	O
 mindre	O
 prisforskel	O
@@ -13945,24 +14348,29 @@ også	O
 narkotika	O
 .	O
 
-I	O
-de	O
-senere	O
-år	O
-er	O
-bevilget	O
-årligt	O
-600-1.000	O
-mio.	O
-kr.	O
-i	O
-England	B-LOC
+Vi	O
+har	O
+lavet	O
+"	O
+Chicism	B-MISC
+"	O
 ,	O
-Vesttyskland	B-LOC
+fordi	O
+vi	O
+gerne	O
+vil	O
+ud	O
 og	O
-Frankrig	B-LOC
-til	O
-støtteprogrammer	O
+turnere	O
+,	O
+stå	O
+på	O
+scenen	O
+og	O
+mærke	O
+det	O
+der	O
+sus	O
 .	O
 
 O	O
@@ -14210,36 +14618,6 @@ som	O
 så	O
 med	O
 friheden	O
-.	O
-
-Hvor	O
-IRA	B-ORG
-ifølge	O
-politiets	O
-oplysninger	O
-er	O
-"	O
-politiske	O
-aktivister	O
-uden	O
-kriminel	O
-fortid	O
-"	O
-,	O
-så	O
-består	O
-de	O
-protestantiske	O
-para-militære	O
-organisationer	O
-fortrinsvis	O
-af	O
-"	O
-almindelige	O
-,	O
-afstumpede	O
-kriminelle	O
-"	O
 .	O
 
 Hendes	O
@@ -15900,6 +16278,16 @@ Stater	I-ORG
 "	O
 .	O
 
+I	O
+så	O
+fald	O
+bliver	O
+Tina	B-PER
+min	O
+nye	O
+mor	O
+.	O
+
 Også	O
 ekstraudsendelser	O
 i	O
@@ -16307,6 +16695,10 @@ for	O
 indslaget	O
 .	O
 
+Foto	O
+:	O
+AP	B-PER
+
 Sine	B-PER
 Diemar	I-PER
 har	O
@@ -16465,6 +16857,13 @@ to	O
 flygtninge	O
 til	O
 politiet	O
+.	O
+
+Sonjas	B-PER
+øjne	O
+lyser	O
+ved	O
+tanken	O
 .	O
 
 Den	O
@@ -16790,6 +17189,29 @@ standardvogns	O
 racing	O
 i	O
 1993	O
+.	O
+
+"	O
+Vi	O
+kender	O
+intet	O
+til	O
+terroristerne	O
+,	O
+"	O
+svarer	O
+nationalistpartiet	O
+Sinn	B-PER
+Fein	I-PER
+,	O
+men	O
+det	O
+er	O
+der	O
+ingen	O
+der	O
+tror	O
+på	O
 .	O
 
 Rudbjerg	B-LOC
@@ -17176,6 +17598,32 @@ sig	O
 til	O
 anden	O
 side	O
+.	O
+
+I	O
+år	O
+regner	O
+vi	O
+med	O
+at	O
+sælge	O
+700	O
+ton	O
+-	O
+det	O
+svarer	O
+til	O
+2,8	O
+millioner	O
+pakker	O
+,	O
+fortæller	O
+produktchef	O
+Lars	B-PER
+Bred	I-PER
+,	O
+Tholstrup	B-ORG
+Cheese	I-ORG
 .	O
 
 Hvis	O
@@ -17853,6 +18301,27 @@ internationale	O
 poster	O
 .	O
 
+Det	O
+er	O
+forbudt	O
+og	O
+bør	O
+være	O
+forbudt	O
+at	O
+besidde	O
+hash	B-MISC
+eller	O
+overdrage	O
+det	O
+,	O
+også	O
+hvis	O
+det	O
+sker	O
+gratis	O
+.	O
+
 Demokraterne	O
 i	O
 Kongressen	B-ORG
@@ -17910,6 +18379,24 @@ et	O
 AIDS-projekt	O
 i	O
 Tanzania	B-LOC
+.	O
+
+Nazisterne	O
+lover	O
+at	O
+fortsætte	O
+til	O
+1.	O
+september	O
+,	O
+dagen	O
+hvor	O
+Anden	B-MISC
+Verdenskrig	I-MISC
+blev	O
+startet	O
+i	O
+1939	O
 .	O
 
 John	B-PER
@@ -18174,6 +18661,19 @@ og	O
 1,25	O
 i	O
 Tyskland	B-LOC
+.	O
+
+Kun	O
+ikke	O
+i	O
+Det	B-ORG
+Konservative	I-ORG
+Folkeparti	I-ORG
+eller	O
+i	O
+Berlingske	B-ORG
+Tidendes	I-ORG
+redaktion	O
 .	O
 
 Lars	B-PER
@@ -18749,6 +19249,19 @@ de	O
 tilskuerpladser	O
 ?	O
 
+For	O
+fru	O
+Kirsten	B-PER
+har	O
+altid	O
+brug	O
+for	O
+lidt	O
+flere	O
+penge	O
+til	O
+madlavningen	O
+
 Ifølge	O
 regeringen	O
 drejer	O
@@ -18971,6 +19484,26 @@ elleve	O
 pct.	O
 .	O
 
+Hekmatyars	B-PER
+styker	O
+stormede	O
+en	O
+politistation	O
+i	O
+nærheden	O
+af	O
+præsidentpaladset	O
+og	O
+beskød	O
+den	O
+sydøstlige	O
+del	O
+af	O
+byen	O
+med	O
+raketter	O
+.	O
+
 I	O
 1996	O
 vil	O
@@ -19129,6 +19662,22 @@ Postboks	O
 København	B-LOC
 K.	I-LOC
 
+Gaderne	O
+var	O
+tømt	O
+for	O
+mennesker	O
+,	O
+mens	O
+raketter	O
+og	O
+granatsplinter	O
+føg	O
+omkring	O
+Kabul	B-ORG
+Hotel	I-ORG
+.	O
+
 Han	O
 kikkede	O
 på	O
@@ -19167,6 +19716,36 @@ han	O
 på	O
 gebrokkent	O
 engelsk	O
+.	O
+
+I	O
+København	B-LOC
+er	O
+der	O
+faktisk	O
+kun	O
+seks	O
+premierebiografer	O
+tilbage	O
+.	O
+
+Guvernøren	O
+for	O
+Erzincan-provinsen	B-LOC
+,	O
+Fikret	B-PER
+Cuhadaroglu	I-PER
+,	O
+oplyste	O
+,	O
+at	O
+en	O
+fjerdedel	O
+af	O
+byen	O
+lå	O
+i	O
+ruiner	O
 .	O
 
 Oluf	B-PER
@@ -19843,6 +20422,17 @@ to	O
 siden	O
 .	O
 
+"	O
+Kritikken	O
+skyder	O
+forbi	O
+,	O
+"	O
+mener	O
+Claus	B-PER
+Hagedorn-Olsen	I-PER
+.	O
+
 Ifølge	O
 Eilif	B-PER
 Larsen	I-PER
@@ -19966,6 +20556,27 @@ Bent	B-PER
 Hansen	I-PER
 ,	O
 drabsafdelingen	O
+.	O
+
+Men	O
+det	O
+ville	O
+jo	O
+være	O
+endnu	O
+bedre	O
+,	O
+hvis	O
+alle	O
+landene	O
+omkring	O
+Østersøen	B-LOC
+var	O
+med	O
+i	O
+sådan	O
+en	O
+indsats	O
 .	O
 
 En	O
@@ -20214,26 +20825,6 @@ Dalsø	I-PER
 Nielsen	I-PER
 .	O
 
--	O
-Lotte	B-PER
-,	O
-vent	O
-,	O
-råbte	O
-han	O
-bag	O
-mig	O
-,	O
-og	O
-jeg	O
-blev	O
-stående	O
-stiv	O
-som	O
-en	O
-støtte	O
-.	O
-
 Ægypteren	O
 Sinuhe	B-PER
 den	O
@@ -20361,15 +20952,9 @@ ved	O
 Kunstakademiet	O
 .	O
 
-At	O
-Tove	B-PER
-er	O
-flittig	O
-,	O
-er	O
-en	O
-kendt	O
-sag	O
+"	O
+Karlsvognen	B-MISC
+"	O
 .	O
 
 Jeg	O
@@ -20419,6 +21004,12 @@ afholder	O
 på	O
 sit	O
 galleri	O
+.	O
+
+Foto	O
+:	O
+Jan	B-PER
+Knudsen	I-PER
 .	O
 
 Vi	O
@@ -20520,6 +21111,54 @@ og	O
 Diana	B-PER
 til	O
 B.T.	B-ORG
+.	O
+
+Kurset	O
+,	O
+som	O
+kombinerer	O
+tre	O
+sanser	O
+:	O
+syns-	O
+,	O
+høre-	O
+og	O
+følesansen	O
+,	O
+udbydes	O
+normalt	O
+på	O
+Tasteskolen	B-ORG
+i	O
+København	B-LOC
+,	O
+og	O
+her	O
+har	O
+24	O
+dansklærere	O
+fra	O
+gymnasiet	O
+fået	O
+undervisning	O
+siden	O
+foråret	O
+.	O
+
+-	O
+Ja	O
+,	O
+det	O
+er	O
+Søren	B-PER
+også	O
+,	O
+hørte	O
+hun	O
+sig	O
+selv	O
+sige	O
 .	O
 
 JACOB	B-PER
@@ -20713,6 +21352,35 @@ da	O
 .	O
 "	O
 
+En	O
+del	O
+af	O
+byens	O
+borgere	O
+havde	O
+klokken	O
+14	O
+fundet	O
+vej	O
+til	O
+folkekirken	O
+,	O
+hvor	O
+der	O
+i	O
+dagens	O
+anledning	O
+var	O
+gudstjeneste	O
+-	O
+en	O
+slags	O
+demonstration	O
+mod	O
+ETAHS	B-ORG
+arrangement	O
+.	O
+
 "	O
 Investorerne	O
 kan	O
@@ -20893,6 +21561,26 @@ lokal	O
 satsning	O
 giver	O
 pote	O
+.	O
+
+Et	O
+par	O
+timer	O
+senere	O
+,	O
+kort	O
+før	O
+klokken	O
+seks	O
+morgen	O
+,	O
+står	O
+hendes	O
+danske	O
+kollega	O
+Anne-Mette	B-PER
+Larsen	I-PER
+op	O
 .	O
 
 Flemming	B-PER
@@ -21281,6 +21969,30 @@ debuten	O
 op	O
 .	O
 
+Resultatet	O
+er	O
+en	O
+fælles	O
+rapport	O
+,	O
+som	O
+holdet	O
+var	O
+ved	O
+at	O
+lægge	O
+sidste	O
+computerhånd	O
+på	O
+,	O
+da	O
+Berlingske	B-ORG
+Tidende	I-ORG
+var	O
+på	O
+besøg	O
+.	O
+
 AALBORG	B-LOC
 :	O
 
@@ -21465,6 +22177,34 @@ Sparekasseforeningens	O
 budskaber	O
 .	O
 
+Men	O
+det	O
+er	O
+hensigten	O
+,	O
+at	O
+Hafnias	B-ORG
+aktiepost	O
+efterhånden	O
+skal	O
+drosles	O
+ned	O
+til	O
+25	O
+procent	O
+i	O
+takt	O
+med	O
+,	O
+at	O
+nye	O
+selskaber	O
+kommer	O
+inden	O
+for	O
+døren	O
+.	O
+
 Vinder	O
 republikanerne	O
 valget	O
@@ -21588,6 +22328,44 @@ modeforretning	O
 .	O
 
 Men	O
+partiet	O
+vil	O
+gerne	O
+have	O
+en	O
+EF-ombudsmand	O
+,	O
+forbrugerpolitik	O
+og	O
+formentlig	O
+også	O
+industripolitik	O
+,	O
+mens	O
+der	O
+ifølge	O
+SF	B-ORG
+skal	O
+forhandles	O
+forbedringer	O
+hjem	O
+for	O
+at	O
+skaffe	O
+mere	O
+demokrati	O
+,	O
+et	O
+reelt	O
+nærhedsprincip	O
+,	O
+bedre	O
+miljøbestemmelser	O
+og	O
+lønmodtagerrettigheder	O
+.	O
+
+Men	O
 selv	O
 om	O
 Michael	B-PER
@@ -21641,6 +22419,17 @@ undtagen	O
 kampen	O
 mod	O
 Sverige	B-LOC
+.	O
+
+Robert	B-PER
+har	O
+været	O
+trofast	O
+,	O
+når	O
+det	O
+gjaldt	O
+grafikken	O
 .	O
 
 For	O
@@ -22452,29 +23241,13 @@ Bergske	I-ORG
 Nyhedstjeneste	I-ORG
 .	O
 
-FN	B-ORG
-kan	O
-ikke	O
-komme	O
-derover	O
-,	O
-og	O
-at	O
-rejse	O
-derover	O
-som	O
-dansk	O
-reporter	O
-,	O
+Lars	B-PER
+Højer	I-PER
 er	O
-at	O
-bede	O
-om	O
-at	O
-blive	O
-arresteret	O
-som	O
-spion	O
+en	O
+af	O
+de	O
+mange	O
 .	O
 
 Også	O
@@ -22988,6 +23761,17 @@ planterne	O
 usårlige	O
 overfor	O
 frost	O
+.	O
+
+DE	B-ORG
+BEERS	I-ORG
+CENTENARY	I-ORG
+åbnede	O
+den	O
+8.september	O
+kontor	O
+i	O
+Moskva	B-LOC
 .	O
 
 I	O
@@ -24114,6 +24898,22 @@ ude	O
 i	O
 .	O
 
+"	O
+Søren	B-PER
+er	O
+født	O
+året	O
+inden	O
+besættelsen	O
+,	O
+og	O
+jeg	O
+er	O
+født	O
+året	O
+efter	O
+.	O
+
 Derfor	O
 må	O
 forældrene	O
@@ -24858,6 +25658,14 @@ lige	O
 vel	O
 .	O
 
+Det	O
+havde	O
+naturligvis	O
+ikke	O
+været	O
+Søren	B-PER
+.	O
+
 Grindsted	B-ORG
 Products	I-ORG
 ,	O
@@ -24934,6 +25742,33 @@ vedtage	O
 sanktioner	O
 mod	O
 Serbien	B-LOC
+.	O
+
+Genboen	O
+fortæller	O
+,	O
+at	O
+Clinton	B-PER
+allerede	O
+i	O
+drengeårene	O
+viste	O
+naturlige	O
+lederevner	O
+.	O
+
+-	O
+Cocain	O
+er	O
+Latinamerikas	B-LOC
+atombombe	O
+i	O
+krigen	O
+mod	O
+USA	B-LOC
+,	O
+sagde	O
+han	O
 .	O
 
 I	O
@@ -25273,6 +26108,18 @@ Nikolaj	B-LOC
 Plads	I-LOC
 i	O
 København	B-LOC
+.	O
+
+Baglokalet	O
+står	O
+tomt	O
+indtil	O
+videre	O
+,	O
+men	O
+Helle	B-PER
+har	O
+planer	O
 .	O
 
 Hans	B-PER
@@ -25951,6 +26798,13 @@ Marilyn	B-PER
 Mazur	I-PER
 .	O
 
+Martin	B-PER
+Sten	I-PER
+Rasmussen	I-PER
+:	O
+IKKE-skyldig	O
+.	O
+
 Tilbage	O
 er	O
 kun	O
@@ -26174,28 +27028,6 @@ radioen	O
 
 I	O
 den	O
-tostribede	O
-og	O
-veltilskårne	O
-bog	O
-om	O
-varulve	O
-giver	O
-forfatteren	O
-Nicolas	B-PER
-Barbano	I-PER
-rimelige	O
-forklaringer	O
-på	O
-,	O
-at	O
-myten	O
-kunne	O
-opstå	O
-.	O
-
-I	O
-den	O
 forbindelse	O
 er	O
 det	O
@@ -26297,6 +27129,32 @@ dygtig	O
 studerende	O
 .	O
 
+"	O
+Vi	O
+vil	O
+gerne	O
+profilere	O
+os	O
+og	O
+vise	O
+,	O
+at	O
+Det	B-ORG
+Danske	I-ORG
+Filminstitut	I-ORG
+ikke	O
+er	O
+en	O
+kedelig	O
+institution	O
+,	O
+"	O
+siger	O
+institut-direktør	O
+Bo	B-PER
+Christensen	I-PER
+.	O
+
 Kunne	O
 du	O
 ikke	O
@@ -26330,6 +27188,10 @@ deriblandt	O
 Larsen	B-ORG
 Rejser	I-ORG
 :	O
+
+Jul	O
+i	O
+Norge	B-LOC
 
 Vedtagelsen	O
 af	O
@@ -26673,6 +27535,19 @@ krav	O
 "	O
 sagde	O
 han	O
+.	O
+
+Første	O
+og	O
+måske	O
+også	O
+eneste	O
+gang	O
+han	O
+vil	O
+lande	O
+i	O
+København	B-LOC
 .	O
 
 Og	O
@@ -27111,6 +27986,19 @@ skriver	O
 under	O
 på	O
 
+Ved	O
+oversættelsen	O
+til	O
+"	O
+Karlsvognen	B-MISC
+"	O
+tabes	O
+en	O
+del	O
+af	O
+magien	O
+.	O
+
 To	O
 liggepladser	O
 er	O
@@ -27504,6 +28392,39 @@ sin	O
 musik	O
 .	O
 
+En	O
+ubehagelig	O
+kemisk	O
+lugt	O
+har	O
+bredt	O
+sig	O
+,	O
+men	O
+Nana	B-PER
+og	O
+de	O
+af	O
+hans	O
+24	O
+børn	O
+,	O
+som	O
+stadig	O
+bor	O
+hjemme	O
+,	O
+siger	O
+,	O
+at	O
+de	O
+har	O
+vænnet	O
+sig	O
+til	O
+det	O
+.	O
+
 "	O
 Ja	O
 ,	O
@@ -27591,6 +28512,43 @@ blander	O
 de	O
 to	O
 produkter	O
+.	O
+
+Det	O
+er	O
+et	O
+af	O
+de	O
+ord	O
+,	O
+vor	O
+danske	O
+hovedperson	O
+kommer	O
+galt	O
+afsted	O
+med	O
+i	O
+"	O
+Karlsvognen	B-MISC
+"	O
+,	O
+der	O
+imidlertid	O
+hverken	O
+rigtig	O
+er	O
+det	O
+ene	O
+eller	O
+det	O
+andet	O
+:	O
+rolig	O
+nok	O
+eller	O
+morsom	O
+nok	O
 .	O
 
 Tallene	O
@@ -27881,6 +28839,42 @@ Grønbech	I-PER
 ombord	O
 .	O
 
+Hermed	O
+sluttede	O
+måneders	O
+uvished	O
+om	O
+de	O
+to	O
+republikkers	O
+folkeretlige	O
+status	O
+,	O
+og	O
+det	O
+gamle	O
+Jugoslavien	B-LOC
+ophørte	O
+med	O
+at	O
+eksistere	O
+for	O
+alle	O
+andre	O
+end	O
+serberne	O
+,	O
+som	O
+siden	O
+sidste	O
+sommer	O
+har	O
+ført	O
+krig	O
+mod	O
+kroaterne	O
+.	O
+
 I	O
 resolutionen	O
 fra	O
@@ -28159,37 +29153,6 @@ Tegnestue	I-ORG
 Aalborg	B-LOC
 .	O
 
-Her	O
-i	O
-Beograd	B-LOC
-er	O
-det	O
-blevet	O
-sværere	O
-af	O
-skaffe	O
-mad	O
-,	O
-og	O
-det	O
-begynder	O
-at	O
-blive	O
-småt	O
-med	O
-varer	O
-som	O
-sukker	O
-,	O
-spiseolier	O
-og	O
-benzin	O
-,	O
-"	O
-tilføjer	O
-diplomaten	O
-.	O
-
 Efter	O
 Korstogene	O
 blev	O
@@ -28310,6 +29273,17 @@ i	O
 udlandet	O
 .	O
 
+-	O
+Toget	O
+til	O
+København	B-LOC
+er	O
+forsinket	O
+cirka	O
+45	O
+minutter	O
+...	O
+
 Prisen	O
 for	O
 Stefan	B-PER
@@ -28390,6 +29364,25 @@ Ikke	O
 mindst	O
 John	B-PER
 Winther	I-PER
+.	O
+
+Mens	O
+Det	B-ORG
+konservative	I-ORG
+Folkeparti	I-ORG
+går	O
+1,3	O
+procent	O
+frem	O
+,	O
+viser	O
+GfK-undersøgelsen	O
+,	O
+der	O
+er	O
+foretaget	O
+31.	O
+august	O
 .	O
 
 Thomas	B-PER
@@ -30091,6 +31084,10 @@ ved	O
 Rødkærsbro	B-LOC
 .	O
 
+Rasmus	B-PER
+Helveg	I-PER
+Petersen	I-PER
+
 Bassam	B-PER
 på	O
 35	O
@@ -30237,6 +31234,16 @@ tur	O
 i	O
 Tivoli	B-LOC
 .	O
+
+Har	O
+du	O
+fokuseret	O
+for	O
+meget	O
+på	O
+John	B-PER
+Jacobsen	I-PER
+?	O
 
 Interessentskaberne	O
 betragtes	O
@@ -30444,14 +31451,38 @@ Danske	I-ORG
 Bank	I-ORG
 .	O
 
-Ugen	O
-efter	O
-fik	O
-jeg	O
-en	O
-standardafvisning	O
-fra	O
-Jyllands-Posten	B-ORG
+Italienerne	O
+ved	O
+,	O
+hvad	O
+udfordringen	O
+på	O
+Gentofte	B-LOC
+Stadion	I-LOC
+indeholder	O
+,	O
+og	O
+de	O
+bør	O
+-	O
+nøgternt	O
+bedømt	O
+-	O
+ikke	O
+komme	O
+i	O
+større	O
+vanskeligheder	O
+end	O
+de	O
+kan	O
+klare	O
+i	O
+kraft	O
+af	O
+kvalitet	O
+og	O
+træningstilstand	O
 .	O
 
 Om	O
@@ -31124,6 +32155,43 @@ sagde	O
 Andreasson	B-PER
 .	O
 
+Men	O
+hvorfor	O
+skal	O
+jeg	O
+som	O
+politiker	O
+få	O
+dem	O
+fra	O
+pressen	O
+,	O
+sagde	O
+ophavskvinden	O
+til	O
+den	O
+seneste	O
+tids	O
+debat	O
+om	O
+værdien	O
+af	O
+hjerte-transplantationer	O
+,	O
+da	O
+Berlingske	B-ORG
+Tidende	I-ORG
+i	O
+går	O
+læste	O
+en	O
+ny	O
+opgørelse	O
+op	O
+for	O
+hende	O
+.	O
+
 Vi	O
 har	O
 ingen	O
@@ -31305,6 +32373,17 @@ og	O
 tre	O
 ægte	O
 akrobater	O
+.	O
+
+Overgangssummen	O
+på	O
+1,3	O
+mill.	O
+franc	O
+reddede	O
+Valenciennes	B-ORG
+fra	O
+konkurs	O
 .	O
 
 Desuden	O
@@ -31519,6 +32598,31 @@ svagt	O
 vågeblus	O
 .	O
 
+Som	O
+14-årig	O
+kom	O
+Kjeld	B-PER
+Christensen	I-PER
+til	O
+landbruget	O
+,	O
+men	O
+efter	O
+soldatertiden	O
+kom	O
+han	O
+på	O
+en	O
+fabrik	O
+,	O
+hvor	O
+han	O
+arbejdede	O
+i	O
+18	O
+år	O
+.	O
+
 -	O
 Birte	B-PER
 er	O
@@ -31679,6 +32783,47 @@ samt	O
 et	O
 nært	O
 venskab	O
+.	O
+
+Mens	O
+RS	O
+2000	O
+har	O
+en	O
+kvadratisk	O
+motor	O
+,	O
+det	O
+vil	O
+sige	O
+lige	O
+stor	O
+boring	O
+og	O
+slaglængde	O
+,	O
+er	O
+Cosworth-motoren	O
+overkvadratisk	O
+,	O
+boringen	O
+er	O
+noget	O
+større	O
+end	O
+slaglængden	O
+,	O
+og	O
+så	O
+er	O
+den	O
+forsynet	O
+med	O
+en	O
+Garrett	B-ORG
+turbolader	O
+og	O
+intercooler	O
 .	O
 
 Lad	O
@@ -32053,6 +33198,40 @@ for	O
 tilbage	O
 .	O
 
+Palle	B-PER
+Kreiberg	I-PER
+spurgte	O
+,	O
+om	O
+hun	O
+var	O
+interesseret	O
+i	O
+et	O
+billede	O
+af	O
+sit	O
+barndomshjem	O
+,	O
+og	O
+da	O
+hun	O
+svarede	O
+bekræftende	O
+,	O
+aftalte	O
+de	O
+,	O
+at	O
+flyet	O
+skulle	O
+komme	O
+forbi	O
+søndag	O
+ved	O
+frokosttid	O
+.	O
+
 De	O
 nye	O
 virksomheder	O
@@ -32312,6 +33491,43 @@ med	O
 sit	O
 lommetørklæde	O
 
+Daells	B-ORG
+Varehus	I-ORG
+synger	O
+gerne	O
+med	O
+på	O
+samme	O
+sang	O
+:	O
+"	O
+Vi	O
+begyndte	O
+udsalget	O
+den	O
+22.	O
+juni	O
+og	O
+gjorde	O
+lidt	O
+ekstra	O
+ud	O
+af	O
+det	O
+igen	O
+i	O
+går	O
+,	O
+da	O
+de	O
+andre	O
+stormagasiner	O
+i	O
+København	B-LOC
+indledte	O
+deres	O
+.	O
+
 Ejendomsselskabet	O
 Norden	B-ORG
 ønsker	O
@@ -32367,17 +33583,20 @@ med	O
 ØMU	B-ORG
 .	O
 
-Det	O
-kan	O
-også	O
-ske	O
+Dette	O
+gælder	O
+flere	O
+andre	O
+gader	O
 i	O
-Schleimanns	B-PER
-tilfælde	O
+det	O
+efterhånden	O
+forfaldne	O
 ,	O
-men	O
-ikke	O
-nødvendigvis	O
+nedslidte	O
+og	O
+snavsede	O
+København	B-LOC
 .	O
 
 Hun	O
@@ -32426,25 +33645,6 @@ hænge	O
 så	O
 tæt	O
 sammen	O
-.	O
-
-FLS	B-ORG
-har	O
-været	O
-aktiv	O
-i	O
-Kina	B-LOC
-siden	O
-1906	O
-og	O
-har	O
-opført	O
-20-30	O
-cement-fabrikker	O
-rundt	O
-om	O
-i	O
-landet	O
 .	O
 
 Det	O
@@ -33397,6 +34597,17 @@ indtager	O
 piller	O
 .	O
 
+-	O
+Og	O
+hvis	O
+nu	O
+også	O
+Tina	B-PER
+er	O
+forrykt	O
+nok	O
+?	O
+
 Efter	O
 at	O
 være	O
@@ -33508,6 +34719,28 @@ bliver	O
 det	O
 fortsættende	O
 selskab	O
+.	O
+
+Og	O
+jo	O
+mere	O
+man	O
+ved	O
+,	O
+jo	O
+bedre	O
+chance	O
+har	O
+man	O
+,	O
+"	O
+siger	O
+souschef	O
+i	O
+Fællessekretariatet	O
+,	O
+Merethe	B-PER
+Markvard	I-PER
 .	O
 
 Al	O
@@ -34019,6 +35252,59 @@ Railroad	B-ORG
 Hotel	I-ORG
 .	O
 
+"	O
+Da	O
+vi	O
+begyndte	O
+indspilningen	O
+af	O
+"	O
+Chicism	B-MISC
+"	O
+,	O
+havde	O
+vi	O
+egentlig	O
+tænkt	O
+os	O
+,	O
+at	O
+vi	O
+ville	O
+bruge	O
+hip-hop-genren	O
+som	O
+udgangspunkt	O
+,	O
+men	O
+vi	O
+fandt	O
+hurtigt	O
+ud	O
+af	O
+,	O
+at	O
+vi	O
+er	O
+bedre	O
+til	O
+at	O
+spille	O
+musik	O
+med	O
+rigtig	O
+instrumentering	O
+,	O
+fremfor	O
+at	O
+bruge	O
+tonsvis	O
+af	O
+trommemaskiner	O
+og	O
+computer-sampling	O
+.	O
+
 Konsekvenserne	O
 sætter	O
 ind	O
@@ -34115,34 +35401,6 @@ Karl	B-PER
 Gaub	I-PER
 til	O
 B.T.	B-ORG
-.	O
-
-Bestyrelsesformanden	O
-for	O
-TV	O
-2	O
-,	O
-professor	O
-Jørn	B-PER
-Henrik	I-PER
-Petersen	I-PER
-,	O
-afviser	O
-ikke	O
-,	O
-at	O
-den	O
-ny	O
-chef	O
-kan	O
-tiltræde	O
-,	O
-før	O
-Schleimanns	B-PER
-kontrakt	O
-udløber	O
-til	O
-oktober	O
 .	O
 
 Godset	O
@@ -34741,23 +35999,6 @@ af	O
 møbler	O
 .	O
 
-"	O
-Vi	O
-har	O
-i	O
-lang	O
-tid	O
-hørt	O
-alt	O
-muligt	O
-fra	O
-Beograd	B-LOC
-,	O
-"	O
-sagde	O
-han	O
-.	O
-
 Samtidig	O
 var	O
 en	O
@@ -34829,34 +36070,18 @@ hjælpsomheden	O
 selv	O
 .	O
 
-Sissel	B-PER
-Kyrkjebø	I-PER
+Først	O
+sagde	O
+jeg	O
+nej	O
 ,	O
-der	O
-for	O
-to	O
-år	O
-siden	O
-trak	O
-over	O
-20.000	O
-tilhørere	O
-til	O
-udsolgte	O
-koncerter	O
-i	O
-store	O
-sale	O
-,	O
-har	O
-denne	O
-gang	O
-valgt	O
-udelukkende	O
+men	O
+Tina	B-PER
+blev	O
+ved	O
+med	O
 at	O
-optræde	O
-i	O
-kirker	O
+presse	O
 .	O
 
 Og	O
@@ -34870,6 +36095,27 @@ for	O
 Accumulators	B-ORG
 regnskab	O
 .	O
+
+"	O
+Jeg	O
+er	O
+meget	O
+glad	O
+for	O
+at	O
+være	O
+i	O
+City	B-ORG
+og	O
+har	O
+forlænget	O
+min	O
+kontrakt	O
+til	O
+sommeren	O
+1997	O
+.	O
+"	O
 
 Dialog	B-ORG
 Fondene	I-ORG
@@ -35224,6 +36470,22 @@ til	O
 Ærøskøbing	B-LOC
 og	O
 Sindal	B-LOC
+.	O
+
+Det	O
+var	O
+i	O
+parken	O
+,	O
+den	O
+19-årige	O
+producer	O
+Jermaine	B-PER
+Dupri	I-PER
+fik	O
+øje	O
+på	O
+dem	O
 .	O
 
 Assads	B-PER
@@ -35682,6 +36944,27 @@ fortæller	O
 han	O
 .	O
 
+Må	O
+I	O
+i	O
+dag	O
+,	O
+når	O
+I	O
+ser	O
+i	O
+bakspejlet	O
+,	O
+erkende	O
+at	O
+købet	O
+af	O
+Tjæreborg	B-LOC
+var	O
+en	O
+fejl	O
+?	O
+
 Af	O
 Egon	B-PER
 Nielsen	I-PER
@@ -35962,6 +37245,22 @@ kriminalinspektør	O
 Chr.	B-PER
 Petersen	I-PER
 .	O
+
+Det	O
+er	O
+få	O
+der	O
+ved	O
+at	O
+Kjeld	B-PER
+Christensen	I-PER
+er	O
+født	O
+i	O
+København	B-LOC
+,	O
+bob,bob	O
+!	O
 
 "	O
 Orlando	B-PER
@@ -36258,6 +37557,11 @@ i	O
 Danmark	B-LOC
 .	O
 
+Til	O
+orgie	O
+hos	O
+Søren	B-PER
+
 Rudbjerg	B-ORG
 vil	O
 samarbejde	O
@@ -36391,6 +37695,41 @@ transcontinentale	O
 rallyrute	O
 .	O
 
+Men	O
+Nanna	B-PER
+bakker	O
+opfordringen	O
+op	O
+og	O
+det	O
+skal	O
+nævnes	O
+,	O
+at	O
+hun	O
+var	O
+en	O
+af	O
+hovedkræfterne	O
+bag	O
+den	O
+succesrige	O
+musical	O
+,	O
+som	O
+10.	O
+klasses	O
+elever	O
+opførte	O
+som	O
+alternativ	O
+til	O
+undervisningen	O
+i	O
+efteråret	O
+1985	O
+.	O
+
 Da	O
 du	O
 i	O
@@ -36463,6 +37802,27 @@ gyser	O
 "	O
 Spejldans	B-MISC
 "	O
+.	O
+
+Da	O
+vi	O
+kom	O
+ud	O
+til	O
+Søren	B-PER
+,	O
+var	O
+der	O
+kommet	O
+en	O
+del	O
+gæster	O
+,	O
+men	O
+det	O
+var	O
+kun	O
+drenge	O
 .	O
 
 Erfarne	O
@@ -36626,6 +37986,29 @@ være	O
 interesseret	O
 i	O
 mig	O
+.	O
+
+Butikken	O
+har	O
+kun	O
+ligget	O
+der	O
+nogle	O
+få	O
+måneder	O
+,	O
+men	O
+de	O
+snub-næsede	O
+sko	O
+går	O
+allerede	O
+rundt	O
+i	O
+København	B-LOC
+i	O
+mange	O
+eksemplarer	O
 .	O
 
 Morten	B-PER
@@ -37366,6 +38749,34 @@ Jensen	I-PER
 Vejle	B-LOC
 .	O
 
+Måtte	O
+også	O
+Det	B-ORG
+Konservative	I-ORG
+Folkeparti	I-ORG
+og	O
+Berlingske	B-ORG
+Tidendes	I-ORG
+redaktion	O
+en	O
+dag	O
+komme	O
+ud	O
+af	O
+hullerne	O
+,	O
+når	O
+det	O
+drejer	O
+sig	O
+om	O
+kulturpolitikken	O
+i	O
+en	O
+elektronisk	O
+verden	O
+.	O
+
 Kommunalbestyrelsen	O
 har	O
 besluttet	O
@@ -37602,6 +39013,35 @@ siger	O
 du	O
 ...	O
 ?	O
+
+Min	O
+veninde	O
+og	O
+jeg	O
+havde	O
+besluttet	O
+,	O
+at	O
+vi	O
+ville	O
+drage	O
+til	O
+København	B-LOC
+med	O
+vore	O
+fire	O
+børn	O
+,	O
+så	O
+de	O
+kunne	O
+få	O
+lov	O
+at	O
+se	O
+storbyens	O
+stråleglans	O
+...	O
 
 Den	O
 store	O
@@ -38260,6 +39700,35 @@ Bent	B-PER
 Rej	I-PER
 )	O
 
+Soldaterne	O
+blev	O
+i	O
+aftes	O
+overgivet	O
+til	O
+FN-styrken	O
+i	O
+Jugoslavien	B-LOC
+.	O
+
+Træsnits-vurderingerne	O
+spænder	O
+fra	O
+500	O
+kr.	O
+for	O
+et	O
+usigneret	O
+til	O
+4.000	O
+for	O
+et	O
+arbejde	O
+af	O
+Toyokuni	B-PER
+VI	I-PER
+.	O
+
 Sådan	O
 siger	O
 den	O
@@ -38404,12 +39873,6 @@ havde	O
 andre	O
 tanker	O
 .	O
-
-Lotte	B-PER
-,	O
-jeg	O
-elsker	O
-dig	O
 
 Agterlanternen	O
 Roar	B-PER
@@ -38584,6 +40047,19 @@ mod	O
 et	O
 grønt	O
 område	O
+.	O
+
+Både	O
+de	O
+konservative	O
+euroskeptikere	O
+og	O
+oppositionspartiet	O
+Labour	B-ORG
+protesterede	O
+mod	O
+denne	O
+taktik	O
 .	O
 
 AALBORG	B-LOC
@@ -39204,6 +40680,26 @@ vender	O
 hjem	O
 .	O
 
+"	O
+De	O
+kunne	O
+se	O
+en	O
+kæmpe	O
+ildkugle	O
+,	O
+"	O
+siger	O
+en	O
+ansat	O
+fra	O
+det	O
+hollandske	O
+luftfartsselskab	O
+,	O
+KLM	B-ORG
+.	O
+
 Den	O
 vare	O
 leverer	O
@@ -39214,6 +40710,27 @@ en	O
 gang	O
 om	O
 året	O
+.	O
+
+Han	O
+har	O
+ikke	O
+noget	O
+arbejde	O
+,	O
+men	O
+modtager	O
+hver	O
+måned	O
+et	O
+beløb	O
+på	O
+20.000	O
+kroner	O
+fra	O
+modstanderen	O
+Axel	B-PER
+Juhl-Jørgensen	I-PER
 .	O
 
 Mens	O
@@ -39289,6 +40806,26 @@ huse	O
 i	O
 Pavillon	B-LOC
 Lunden	I-LOC
+.	O
+
+Hvis	O
+Clinton	B-PER
+har	O
+en	O
+plan	O
+til	O
+at	O
+angribe	O
+storbyernes	O
+problemer	O
+,	O
+holder	O
+han	O
+den	O
+foreløbig	O
+for	O
+sig	O
+selv	O
 .	O
 
 -	O
@@ -39446,6 +40983,32 @@ det	O
 helt	O
 store	O
 drama	O
+.	O
+
+SF	B-ORG
+har	O
+fået	O
+to	O
+små	O
+indrømmelser	O
+,	O
+nemlig	O
+at	O
+orloven	O
+for	O
+småbørnsforældre	O
+og	O
+personer	O
+,	O
+der	O
+vil	O
+videreuddanne	O
+sig	O
+,	O
+hæves	O
+til	O
+36	O
+uger	O
 .	O
 
 Som	O
@@ -39696,6 +41259,16 @@ døren	O
 og	O
 forsvinder	O
 .	O
+
+Her	O
+formanden	O
+for	O
+Mellemfolkeligt	B-ORG
+Samvirke	I-ORG
+,	O
+Knud	B-PER
+Vilby	I-PER
+:	O
 
 FISA	B-ORG
 tvang	O
@@ -40021,6 +41594,48 @@ i	O
 division	O
 .	O
 
+Det	O
+er	O
+ikke	O
+forkert	O
+,	O
+når	O
+"	O
+Sankt	B-MISC
+Markus	I-MISC
+Nat	I-MISC
+"	O
+bag	O
+på	O
+omslaget	O
+bliver	O
+kaldt	O
+en	O
+beretning	O
+om	O
+længslen	O
+efter	O
+at	O
+forstå	O
+det	O
+ubegribelige	O
+,	O
+om	O
+søgen	O
+efter	O
+det	O
+umulige	O
+,	O
+om	O
+overskridelse	O
+af	O
+grænsen	O
+for	O
+al	O
+menneskelig	O
+formåen	O
+.	O
+
 Nogen	O
 hobby	O
 giver	O
@@ -40316,6 +41931,30 @@ infektionen	O
 siger	O
 Knud	B-PER
 Gaarslev	I-PER
+.	O
+
+Dyrt	O
+klædte	O
+familier	O
+Jönsson	O
+og	O
+Carlsson'er	O
+i	O
+hobetal	O
+slentrer	O
+ind	O
+og	O
+ud	O
+af	O
+de	O
+mange	O
+luksuriøse	O
+butikker	O
+i	O
+det	O
+centrale	O
+Stockholms	B-LOC
+Norrmalm-kvarter	O
 .	O
 
 Der	O
@@ -41397,6 +43036,9 @@ temmelig	O
 dumt	O
 .	O
 
+Steen	B-PER
+Uno	I-PER
+
 Alle	O
 ville	O
 ha'	O
@@ -41770,6 +43412,34 @@ vindjakke	O
 med	O
 opsmøgede	O
 ærmer	O
+.	O
+
+Så	O
+for	O
+at	O
+mildne	O
+det	O
+bastante	O
+udseende	O
+og	O
+tage	O
+brodden	O
+af	O
+eventuelle	O
+aggressioner	O
+,	O
+kalder	O
+jeg	O
+altid	O
+den	O
+forhåndenværende	O
+hund	O
+Pølse	B-PER
+,	O
+når	O
+vi	O
+møder	O
+fremmede	O
 .	O
 
 Brian	B-PER
@@ -42398,6 +44068,33 @@ en	O
 mulighed	O
 .	O
 
+Hun	O
+kunne	O
+være	O
+en	O
+fin	O
+chef	O
+for	O
+en	O
+kommende	O
+borgerlig	O
+regering	O
+,	O
+der	O
+dermed	O
+ville	O
+få	O
+en	O
+langt	O
+skarpere	O
+profil	O
+,	O
+"	O
+siger	O
+Aage	B-PER
+Brusgaard	I-PER
+.	O
+
 Senere	O
 på	O
 dagen	O
@@ -42738,56 +44435,6 @@ er	O
 ikke	O
 helt	O
 nyt	O
-.	O
-
-Faktisk	O
-blev	O
-der	O
-holdt	O
-et	O
-historisk	O
-fælles	O
-gruppemøde	O
-forud	O
-for	O
-lanceringen	O
-af	O
-KV-planen	O
-i	O
-1964	O
-,	O
-og	O
-i	O
-1965	O
-kostede	O
-det	O
-Venstres	B-ORG
-daværende	O
-leder	O
-,	O
-tidl.	O
-statsminister	O
-Erik	B-PER
-Eriksen	I-PER
-,	O
-rollen	O
-som	O
-sit	O
-partis	O
-frontfigur	O
-,	O
-at	O
-han	O
-direkte	O
-gik	O
-ind	O
-for	O
-en	O
-sammenslutning	O
-af	O
-de	O
-to	O
-partier	O
 .	O
 
 Efter	O
@@ -43274,6 +44921,22 @@ dukket	O
 op	O
 .	O
 
+En	O
+stor	O
+del	O
+af	O
+Ungbos	B-ORG
+1.600	O
+ungdomsboliger	O
+og	O
+2.200	O
+hybler	O
+er	O
+truet	O
+af	O
+tvangsauktion	O
+.	O
+
 I	O
 går	O
 hævdede	O
@@ -43310,6 +44973,24 @@ sagde	O
 "	O
 Mercedesmanden	B-PER
 "	O
+.	O
+
+"	O
+Havde	O
+I	O
+mistanke	O
+om	O
+,	O
+at	O
+telefonen	O
+blev	O
+aflyttet	O
+?	O
+"	O
+spurgte	O
+anklager	O
+Annette	B-PER
+Vester	I-PER
 .	O
 
 Computermanden	B-PER
@@ -43445,19 +45126,6 @@ holdet	O
 Susanne	B-PER
 ,	O
 Østrup	B-LOC
-
-Overfarten	O
-på	O
-Storebælt	B-LOC
-åbnedes	O
-for	O
-almindelig	O
-trafik	O
-den	O
-1.	O
-december	O
-1883	O
-.	O
 
 Ligesom	O
 Italiens	B-LOC
@@ -43700,6 +45368,30 @@ venstreorienterede	O
 tradition	O
 .	O
 
+Oprindelig	O
+havde	O
+hans	O
+bekendte	O
+Steen	B-PER
+Olsen	I-PER
+,	O
+der	O
+arbejder	O
+i	O
+et	O
+kontorvarefirma	O
+i	O
+København	B-LOC
+,	O
+bestilt	O
+programmet	O
+for	O
+prisen	O
+på	O
+100	O
+programmørtimer	O
+.	O
+
 Så	O
 langt	O
 ned	O
@@ -43711,20 +45403,6 @@ Morten	B-PER
 25	O
 m.	O
 .	O
-
-Og	O
-Lotte	B-PER
-løber	O
-ikke	O
-med	O
-sladder	O
-,	O
-er	O
-jeg	O
-sikker	O
-på	O
-.	O
-"	O
 
 Ikke	O
 desto	O
@@ -44739,6 +46417,27 @@ fra	O
 Lykke	B-PER
 .	O
 
+Denne	O
+globale	O
+bevidsthed	O
+har	O
+siden	O
+haft	O
+en	O
+betydelig	O
+indflydelse	O
+på	O
+næsten	O
+alt	O
+,	O
+hvad	O
+Kim	B-PER
+Fupz	I-PER
+har	O
+rørt	O
+ved	O
+.	O
+
 Sættet	O
 rummer	O
 blandt	O
@@ -44828,6 +46527,28 @@ gange	O
 ,	O
 sagde	O
 Gunnar	B-PER
+.	O
+
+Desuden	O
+er	O
+SF	B-ORG
+"	O
+ikke	O
+forpligtet	O
+"	O
+,	O
+som	O
+det	O
+hedder	O
+,	O
+til	O
+at	O
+støtte	O
+et	O
+forslag	O
+om	O
+privat	O
+byfornyelse	O
 .	O
 
 Det	O
@@ -45117,31 +46838,6 @@ Besiktas	B-ORG
 Fenerbache	B-ORG
 eller	O
 Galatasaray	B-ORG
-.	O
-
-Nørrebro	B-ORG
-Bibliotek	I-ORG
-introducerede	O
-for	O
-et	O
-par	O
-år	O
-siden	O
-NU-bøgerne	O
--	O
-hvilket	O
-vil	O
-sige	O
-,	O
-helt	O
-aktuelle	O
-bøger	O
-med	O
-en	O
-udlånstid	O
-på	O
-7	O
-dage	O
 .	O
 
 Det	O

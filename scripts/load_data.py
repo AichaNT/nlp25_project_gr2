@@ -1,3 +1,7 @@
+import numpy as np
+from transformers import AutoTokenizer
+from evaluate import load 
+
 # reading label data from a given column
 # this is the readNlu function from the provided span_f1 file
 # minor modifications were made to make it usable with our data. 
@@ -179,7 +183,9 @@ def extract_labeled_tokens(dataset, exclude_label = "O", include_label_pair=Fals
     
     return labeled_tokens
 
-def tokenize_and_align_labels(data, tokenizer):
+tokenizer = AutoTokenizer.from_pretrained("vesteinn/DanskBERT")
+
+def tokenize_and_align_labels(data):
     '''
     This function tokentizes the tokens and align the labels to the newly created subwords.
     The tokens can be split into multiple subwords, which are marked with -100, so they are ignored
@@ -239,3 +245,65 @@ def tokenize_and_align_labels(data, tokenizer):
     tokenized_inputs["labels"] = all_labels
 
     return tokenized_inputs
+
+def pred2label(predictions, id2label):
+    '''
+    
+    '''
+    logits, labels = predictions # unpack predictons into logits (probabilities) and labels
+
+    preds = np.argmax(logits, axis = -1) # choose the highest probability as the prediciton
+
+    true_labels = [] # list to hold true labels
+    pred_labels = []  # list to hold predicted labels
+
+    # convert true labels and predictions to string
+    for pred_seq, label_seq in zip(preds, labels):
+
+        true_labels.append([id2label[label] for label in label_seq if label != -100])
+        
+        pred_labels.append([id2label[pred] for pred, label in zip(pred_seq, label_seq) if label != -100])
+
+    return true_labels, pred_labels
+
+metric = load("seqeval")  # load the seqeval metric 
+
+def compute_metrics(predictions):
+    '''
+    This function computes precision, recall, f1 and accuracy.
+
+    Parameters: 
+    - predictions
+    '''
+    true_labels, pred_labels = pred2label(predictions)
+
+    results = metric.compute(predictions = pred_labels, references = true_labels)
+
+    return {
+        "Precision": results["overall_precision"],
+        "Recall": results["overall_recall"],
+        "F1-score": results["overall_f1"],
+        "Accuracy": results["overall_accuracy"]
+    }
+
+def write_iob2_file(data, predictions = None, path = None, gold = False):
+    '''
+    
+    '''
+    # formatting the predictions on dev set
+    format = []
+
+    # Loop through all items in dev_data
+    for i in range(len(data)):
+        if gold:
+            format.append((data[i]['tokens'], (data[i]['ner_tags'])))
+        else:
+            # Access 'tokens' in dev_data[i] and append it with the corresponding prediction
+            format.append((data[i]['tokens'], predictions[i]))
+
+    with open(path, "w", encoding = "utf-8") as f:
+        for sentence in format:
+            words, labels = sentence
+            for idx, (word, label) in enumerate(zip(words, labels), start = 1):
+                f.write(f"{idx}\t{word}\t{label}\t-\t-\n")
+            f.write("\n")
