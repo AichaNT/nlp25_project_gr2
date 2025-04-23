@@ -1,3 +1,5 @@
+from transformers import AutoTokenizer
+
 # reading label data from a given column
 # this is the readNlu function from the provided span_f1 file
 # minor modifications were made to make it usable with our data. 
@@ -179,7 +181,9 @@ def extract_labeled_tokens(dataset, exclude_label = "O", include_label_pair=Fals
     
     return labeled_tokens
 
-def tokenize_and_align_labels(data, tokenizer):
+tokenizer = AutoTokenizer.from_pretrained("vesteinn/DanskBERT")
+
+def tokenize_and_align_labels(data):
     '''
     This function tokentizes the tokens and align the labels to the newly created subwords.
     The tokens can be split into multiple subwords, which are marked with -100, so they are ignored
