@@ -287,3 +287,56 @@ def write_iob2_file(data, predictions = None, path = None, gold = False):
             for idx, (word, label) in enumerate(zip(words, labels), start = 1):
                 f.write(f"{idx}\t{word}\t{label}\t-\t-\n")
             f.write("\n")
+
+def read_iob2_file(path, label2id):
+    '''
+    This function reads iob2 files
+    
+    Parameters:
+    - path: path to read from
+
+    Returns:
+    - list with dictionaries for each sentence where the keys are 'tokens', 'ner_tags', and 'tag_ids' and 
+      the values are lists that hold the tokens, ner_tags, and tag_ids.
+    '''
+
+    data = []
+    current_words = []
+    current_tags = []
+    current_tag_ids = []
+
+    for line in open(path, encoding='utf-8'):
+        line = line.strip() # removes any leading and trailing whitespaces from the line
+
+        if line:
+            if line[0] == '#': 
+                continue # skip comments
+
+            # splitting at 'tab', as the data is tab separated 
+            tok = line.split('\t')
+
+            # add the entry in the second colun (the word) to current_words
+            current_words.append(tok[1]) 
+
+            # add the current tag 
+            current_tags.append(tok[2]) 
+
+            # add the current tag mapped to the corresponding id (int)
+            current_tag_ids.append(label2id[tok[2]]) 
+        
+        else: # skip empty lines
+            if current_words: # if current_words is not empty
+
+                # add entry to dict where tokens and ner_tags are keys and the values are lists
+                data.append({"tokens": current_words, "ner_tags": current_tags, "tag_ids": current_tag_ids})
+
+            # start over  
+            current_words = []
+            current_tags = []
+            current_tag_ids = []
+
+    # check for last one
+    if current_tags != []:
+        data.append({"tokens": current_words, "ner_tags": current_tags, "tag_ids": current_tag_ids})
+        
+    return data
