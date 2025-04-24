@@ -1,6 +1,5 @@
 import numpy as np
 from transformers import AutoTokenizer
-from evaluate import load 
 
 # reading label data from a given column
 # this is the readNlu function from the provided span_f1 file
@@ -266,25 +265,6 @@ def pred2label(predictions, id2label):
 
     return true_labels, pred_labels
 
-metric = load("seqeval")  # load the seqeval metric 
-
-def compute_metrics(predictions):
-    '''
-    This function computes precision, recall, f1 and accuracy.
-
-    Parameters: 
-    - predictions
-    '''
-    true_labels, pred_labels = pred2label(predictions)
-
-    results = metric.compute(predictions = pred_labels, references = true_labels)
-
-    return {
-        "Precision": results["overall_precision"],
-        "Recall": results["overall_recall"],
-        "F1-score": results["overall_f1"],
-        "Accuracy": results["overall_accuracy"]
-    }
 
 def write_iob2_file(data, predictions = None, path = None, gold = False):
     '''

@@ -1,18 +1,14 @@
 # imports
-import sys
-sys.path.append("../")
-
-from scripts.load_data import mapping, read_tsv_file, tokenize_and_align_labels, pred2label, compute_metrics, write_iob2_file
+from scripts.load_data import mapping, read_tsv_file, tokenize_and_align_labels, pred2label, write_iob2_file
 from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, AutoConfig, AutoTokenizer, DataCollatorForTokenClassification
 from datasets import Dataset
 import torch
-import numpy as np
 from evaluate import load 
 
 # path to the data files
-path_train = "../new_data/new_da_news_train.tsv"
-path_dev = "../new_data/new_da_news_dev.tsv"
-path_test = "../new_data/new_da_news_test.tsv"
+path_train = "new_data/new_da_news_train.tsv"
+path_dev = "new_data/new_da_news_dev.tsv"
+path_test = "new_data/new_da_news_test.tsv"
 
 # saving model name
 model_name = "vesteinn/DanskBERT"
@@ -72,6 +68,26 @@ data_collator = DataCollatorForTokenClassification(tokenizer)
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model.to(device)
 
+metric = load("seqeval")  # load the seqeval metric 
+
+def compute_metrics(predictions):
+    '''
+    This function computes precision, recall, f1 and accuracy.
+
+    Parameters: 
+    - predictions
+    '''
+    true_labels, pred_labels = pred2label(predictions, id2label)
+
+    results = metric.compute(predictions = pred_labels, references = true_labels)
+
+    return {
+        "Precision": results["overall_precision"],
+        "Recall": results["overall_recall"],
+        "F1-score": results["overall_f1"],
+        "Accuracy": results["overall_accuracy"]
+    }
+
 # defining the training arguments
 args = TrainingArguments(
     output_dir = "output_trainer", 
@@ -81,7 +97,8 @@ args = TrainingArguments(
     per_device_train_batch_size = 2,
     per_device_eval_batch_size = 2,
     num_train_epochs = 1,
-    weight_decay = 0.01
+    weight_decay = 0.01,
+    remove_unused_columns=False
 )
 
 # define parameters for trainer
@@ -105,7 +122,7 @@ tokenizer.save_pretrained("output_trainer")
 test_preds, test_labels, _ = trainer.predict(tokenized_test_dataset)
 
 # predict max logit and convert to strings
-_, test_predictions = pred2label((test_preds, test_labels))
+_, test_predictions = pred2label((test_preds, test_labels), id2label)
 
 # write output file for predictions on test data
 write_iob2_file(test_data, predictions = test_predictions, path = "test_predictions.iob2")
