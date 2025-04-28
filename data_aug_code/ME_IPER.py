@@ -13,10 +13,10 @@ def extract_last_names(name_path):
         names.append(name)
     return names
 
-def get_combined_names(txt_path, tsv_path, column_name="Roman", skiprows=82, sep='\t'):
+def get_last_names(txt_path, tsv_path, column_name="Roman", skiprows=82, sep='\t'):
     text_names = extract_last_names(txt_path)
     df = pd.read_csv(tsv_path, sep=sep, skiprows=skiprows)
     csv_names = df[column_name].dropna().astype(str).tolist()
-    
+
     combined = list(set(text_names + csv_names))
     return combined
