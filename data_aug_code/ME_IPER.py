@@ -1,8 +1,5 @@
 import pandas as pd
 
-#df = pd.read_csv('data_aug_sources/KDBGIVE.tsv', sep='\t', skiprows = 82 )
-#I_PER = df["Roman"].tolist()
-
 def extract_last_names(name_path):
     with open(name_path, "r", encoding="utf-8") as f:
         last_names = f.read()
@@ -16,4 +13,10 @@ def extract_last_names(name_path):
         names.append(name)
     return names
 
-#UNFINISHED!!
+def get_combined_names(txt_path, tsv_path, column_name="Roman", skiprows=82, sep='\t'):
+    text_names = extract_last_names(txt_path)
+    df = pd.read_csv(tsv_path, sep=sep, skiprows=skiprows)
+    csv_names = df[column_name].dropna().astype(str).tolist()
+    
+    combined = list(set(text_names + csv_names))
+    return combined
