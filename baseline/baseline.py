@@ -1,13 +1,16 @@
-from scripts.load_data import mapping, read_tsv_file, tokenize_and_align_labels, pred2label, write_iob2_file
+# imports
+from scripts.load_data import mapping, read_tsv_file, write_iob2_file
+from scripts.train_and_pred import tokenize_and_align_labels, pred2label
+
 from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, AutoConfig, AutoTokenizer, DataCollatorForTokenClassification
 from datasets import Dataset
 import torch
 from evaluate import load 
 
 # path to the data files
-path_train = "new_data/new_da_news_train.tsv"
-path_dev = "new_data/new_da_news_dev.tsv"
-path_test = "new_data/new_da_news_test.tsv"
+path_train = "data/da_news_new/new_da_news_train.tsv"
+path_dev = "data/da_news_new/new_da_news_dev.tsv"
+path_test = "data/da_news_new/new_da_news_test.tsv"
 
 # saving model name
 model_name = "vesteinn/DanskBERT"
@@ -28,25 +31,28 @@ train_dataset = Dataset.from_list(train_data)
 dev_dataset = Dataset.from_list(dev_data)
 test_dataset = Dataset.from_list(test_data)
 
+# tokenize train dataset and align labels with subword tokens
 tokenized_train_dataset = train_dataset.map(
     tokenize_and_align_labels,
     batched = True,
     remove_columns=train_dataset.column_names
 )
 
+# tokenize and align dev dataset
 tokenized_dev_dataset = dev_dataset.map(
     tokenize_and_align_labels,
     batched=True,
     remove_columns=dev_dataset.column_names
 )
 
+# tokenize and align test dataset
 tokenized_test_dataset = test_dataset.map(
     tokenize_and_align_labels,
     batched=True,
     remove_columns=test_dataset.column_names
 )
 
-# defining the model and config
+# load model configuration
 config = AutoConfig.from_pretrained(
     model_name, 
     num_labels = num_labels, 
@@ -54,27 +60,36 @@ config = AutoConfig.from_pretrained(
     label2id = label2id
 )
 
+# load pretrained model
 model = AutoModelForTokenClassification.from_pretrained(
     model_name, 
     torch_dtype = 'auto', 
     config = config
 )
 
+# load tokenizer
 tokenizer = AutoTokenizer.from_pretrained("vesteinn/DanskBERT")
 
+# define data collator
 data_collator = DataCollatorForTokenClassification(tokenizer)
 
+# set the device (GPU if available, else CPU)
 device = "cuda" if torch.cuda.is_available() else "cpu"
-model.to(device)
+model.to(device) # move model to device
 
-metric = load("seqeval")  # load the seqeval metric 
+# load the seqeval metric 
+metric = load("seqeval") 
 
+# function to compute metrics
 def compute_metrics(predictions):
     '''
-    This function computes precision, recall, f1 and accuracy.
+    This function computes evaluation metrics.
 
     Parameters: 
     - predictions
+
+    Returns:
+    - a dictionary with precision, recall, f1 and accuracy
     '''
     true_labels, pred_labels = pred2label(predictions, id2label)
 
@@ -87,7 +102,7 @@ def compute_metrics(predictions):
         "Accuracy": results["overall_accuracy"]
     }
 
-# defining the training arguments
+# define the training arguments
 args = TrainingArguments(
     output_dir = "output_trainer", 
     eval_strategy = 'epoch', 
@@ -124,4 +139,4 @@ test_preds, test_labels, _ = trainer.predict(tokenized_test_dataset)
 _, test_predictions = pred2label((test_preds, test_labels), id2label)
 
 # write output file for predictions on test data
-write_iob2_file(test_data, predictions = test_predictions, path = "outputs/test_predictions.iob2")
+write_iob2_file(test_data, predictions = test_predictions, path = "outputs/test_pred.iob2")
