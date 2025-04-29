@@ -1,4 +1,3 @@
-# imports
 from scripts.load_data import mapping, read_tsv_file, tokenize_and_align_labels, pred2label, write_iob2_file
 from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, AutoConfig, AutoTokenizer, DataCollatorForTokenClassification
 from datasets import Dataset
@@ -115,8 +114,8 @@ trainer = Trainer(
 trainer.train()
 
 # save the model
-model.save_pretrained("output_trainer")
-tokenizer.save_pretrained("output_trainer")
+model.save_pretrained("outputs/output_trainer")
+tokenizer.save_pretrained("outputs/output_trainer")
 
 # predicting
 test_preds, test_labels, _ = trainer.predict(tokenized_test_dataset)
@@ -125,4 +124,4 @@ test_preds, test_labels, _ = trainer.predict(tokenized_test_dataset)
 _, test_predictions = pred2label((test_preds, test_labels), id2label)
 
 # write output file for predictions on test data
-write_iob2_file(test_data, predictions = test_predictions, path = "test_predictions.iob2")
+write_iob2_file(test_data, predictions = test_predictions, path = "outputs/test_predictions.iob2")
