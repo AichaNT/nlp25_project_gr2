@@ -1,6 +1,5 @@
 import random
 import pandas as pd
-from me_named_entities import extract_first_names, extract_last_names, get_last_names, add_location, load_location, add_organisation, load_organisation
 
 def entities_by_label(data, target_label):
     """
@@ -39,16 +38,6 @@ def entities_by_label(data, target_label):
 
     return grouped_strings
 
-ME_BPER = extract_first_names("../data_aug_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf")
-ME_IPER = get_last_names("../data_aug_sources/middle_eastern_last_names.txt", "../data_aug_sources/KDBGIVE.tsv")
-ME_LOC = load_location("../data_aug_sources/the-middle-east-cities.csv")
-ME_ORG = load_organisation("../data_aug_sources/middle_eastern_organisations.csv")
-
-ME_LOC_tokens = entities_by_label(ME_LOC, target_label = "B-LOC")
-ME_ORG_tokens = entities_by_label(ME_ORG, target_label = "B-ORG")
-ME_BPER_tokens = set(ME_BPER)
-ME_IPER_tokens = set(ME_IPER)
-
 
 def get_all_entities(data, exclude_label="O"):
     """
@@ -86,9 +75,15 @@ def get_all_entities(data, exclude_label="O"):
 
     return grouped_strings
 
+ME_LOC_tokens = entities_by_label(ME_LOC, target_label = "B-LOC")
+ME_ORG_tokens = entities_by_label(ME_ORG, target_label = "B-ORG")
+ME_BPER_tokens = set(ME_BPER)
+ME_IPER_tokens = set(ME_IPER)
+
 train_tokens = get_all_entities(train_data)
 dev_tokens = get_all_entities(dev_data)
 test_tokens = get_all_entities(test_data)
+
 
 
 updated_ME_BPER = list(ME_BPER_tokens - (train_tokens & ME_BPER_tokens) - (dev_tokens & ME_BPER_tokens) - (test_tokens & ME_BPER_tokens))
