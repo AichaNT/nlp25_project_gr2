@@ -11,7 +11,7 @@ from evaluate import load
 path_train = "data/no_overlap_da_news/da_news_train.tsv"
 path_dev = "data/no_overlap_da_news/da_news_dev.tsv"
 path_test = "data/no_overlap_da_news/da_news_test.tsv"
-path_me_test = "/data/me_data/middle_eastern_test.tsv" 
+path_me_test = "data/me_data/middle_eastern_test.tsv" 
 
 # saving model name
 model_name = "vesteinn/DanskBERT"
