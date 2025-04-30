@@ -8,9 +8,9 @@ import torch
 from evaluate import load 
 
 # path to the data files
-path_train = "data/da_news_new/new_da_news_train.tsv"
-path_dev = "data/da_news_new/new_da_news_dev.tsv"
-path_test = "data/da_news_new/new_da_news_test.tsv"
+path_train = "data/no_overlap_da_news/da_news_train.tsv"
+path_dev = "data/no_overlap_da_news/da_news_dev.tsv"
+path_test = "data/no_overlap_da_news/da_news_test.tsv"
 path_me_test = "/data/me_data/middle_eastern_test.tsv" 
 
 # saving model name
