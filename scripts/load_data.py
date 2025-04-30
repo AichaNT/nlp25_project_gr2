@@ -181,6 +181,16 @@ def extract_labeled_tokens(dataset, exclude_label = "O", include_label_pair=Fals
     return labeled_tokens
 
 
+def write_tsv_file(data, path):
+    with open(path, 'w', encoding='utf-8') as f:
+        for sentence in data:
+            tokens = sentence['tokens']
+            ner_tags = sentence['ner_tags']
+            for token, tag in zip(tokens, ner_tags):
+                f.write(f"{token}\t{tag}\n")
+            f.write("\n") 
+
+
 def read_iob2_file(path, label2id):
     '''
     This function reads iob2 files

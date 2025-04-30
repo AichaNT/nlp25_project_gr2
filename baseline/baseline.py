@@ -11,6 +11,7 @@ from evaluate import load
 path_train = "data/da_news_new/new_da_news_train.tsv"
 path_dev = "data/da_news_new/new_da_news_dev.tsv"
 path_test = "data/da_news_new/new_da_news_test.tsv"
+path_me_test = _
 
 # saving model name
 model_name = "vesteinn/DanskBERT"
@@ -25,11 +26,13 @@ num_labels = len(label2id)
 train_data = read_tsv_file(path_train, label2id=label2id)
 dev_data = read_tsv_file(path_dev, label2id=label2id)
 test_data = read_tsv_file(path_test, label2id=label2id)
+me_test_data = read_tsv_file(_, label2id=label2id)
 
 # convert to huggingface format
 train_dataset = Dataset.from_list(train_data)
 dev_dataset = Dataset.from_list(dev_data)
 test_dataset = Dataset.from_list(test_data)
+me_test_dataset = Dataset.from_list(me_test_data)
 
 # tokenize train dataset and align labels with subword tokens
 tokenized_train_dataset = train_dataset.map(
@@ -50,6 +53,13 @@ tokenized_test_dataset = test_dataset.map(
     tokenize_and_align_labels,
     batched=True,
     remove_columns=test_dataset.column_names
+)
+
+# tokenize and align ME test dataset
+tokenized_me_test_dataset = me_test_dataset.map(
+    tokenize_and_align_labels,
+    batched=True,
+    remove_columns=me_test_dataset.column_names
 )
 
 # load model configuration
@@ -132,11 +142,18 @@ trainer.train()
 model.save_pretrained("output_trainer")
 tokenizer.save_pretrained("output_trainer")
 
-# predicting
+# predicting on non-augmented test set
 test_preds, test_labels, _ = trainer.predict(tokenized_test_dataset)
 
 # predict max logit and convert to strings
 _, test_predictions = pred2label((test_preds, test_labels), id2label)
 
-# write output file for predictions on test data
+# predicting on augmented test set
+me_test_preds, me_test_labels, _ = trainer.predict(tokenized_me_test_dataset)
+
+# predict max logit and convert to strings
+_, me_test_predictions = pred2label((me_test_preds, me_test_labels), id2label)
+
+# write output file for predictions on test sets
 write_iob2_file(test_data, predictions = test_predictions, path = "test_pred.iob2")
+write_iob2_file(me_test_data, predictions = me_test_predictions, path = "me_test_pred.iob2")
