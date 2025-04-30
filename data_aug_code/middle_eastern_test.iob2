@@ -19,7 +19,7 @@
 6	have	O	-	-
 7	navneforandring	O	-	-
 8	til	O	-	-
-9	Nazim	B-PER	-	-
+9	Jamal	B-PER	-	-
 10	,	O	-	-
 11	men	O	-	-
 12	det	O	-	-
@@ -320,10 +320,10 @@
 3	mange	O	-	-
 4	fag	O	-	-
 
-1	Farhan	B-PER	-	-
-2	Altamimi	I-PER	-	-
+1	Wafa	B-PER	-	-
+2	Alaijayzi	I-PER	-	-
 3	er	O	-	-
-4	Habib	B-PER	-	-
+4	Nabila	B-PER	-	-
 5	politiske	O	-	-
 6	idol	O	-	-
 7	.	O	-	-
@@ -533,7 +533,7 @@
 4	,	O	-	-
 5	det	O	-	-
 6	er	O	-	-
-7	Aftab	B-PER	-	-
+7	Adeel	B-PER	-	-
 8	...	O	-	-
 9	hvad	O	-	-
 10	siger	O	-	-
@@ -645,7 +645,7 @@
 6	tjenesten	O	-	-
 7	,	O	-	-
 8	svarede	O	-	-
-9	Jafar	B-PER	-	-
+9	Usman	B-PER	-	-
 10	.	O	-	-
 
 1	"	O	-	-
@@ -874,8 +874,8 @@
 1	Nilesat	B-ORG	-	-
 2	daværende	O	-	-
 3	landstræner	O	-	-
-4	Marjan	B-PER	-	-
-5	Chacko	I-PER	-	-
+4	Hasiba	B-PER	-	-
+5	Didan	I-PER	-	-
 6	kunne	O	-	-
 7	ikke	O	-	-
 8	længere	O	-	-
@@ -1083,7 +1083,7 @@
 3	havde	O	-	-
 4	hørt	O	-	-
 5	socialdemokraten	O	-	-
-6	Jinan	B-PER	-	-
+6	Mariam	B-PER	-	-
 7	udråbe	O	-	-
 8	den	O	-	-
 9	demokratiske	O	-	-
@@ -1100,7 +1100,7 @@
 4	meget	O	-	-
 5	at	O	-	-
 6	takke	O	-	-
-7	Yasser	B-PER	-	-
+7	Harun	B-PER	-	-
 8	og	O	-	-
 9	Xenel	B-ORG	-	-
 10	for	O	-	-
@@ -1109,7 +1109,7 @@
 1	Han	O	-	-
 2	kiggede	O	-	-
 3	på	O	-	-
-4	Latifa	B-PER	-	-
+4	Salima	B-PER	-	-
 5	,	O	-	-
 6	der	O	-	-
 7	havde	O	-	-
@@ -1355,7 +1355,7 @@
 9	også	O	-	-
 10	at	O	-	-
 11	støtte	O	-	-
-12	Shirin	B-PER	-	-
+12	Isra	B-PER	-	-
 13	.	O	-	-
 
 1	Suverænitetsafgivelse	O	-	-
@@ -1603,7 +1603,7 @@
 22	af	O	-	-
 23	udvalg	O	-	-
 24	af	O	-	-
-25	Hanaa	B-PER	-	-
+25	Akbar	B-PER	-	-
 26	.	O	-	-
 
 1	Skipper	O	-	-
@@ -1631,12 +1631,12 @@
 6	op	O	-	-
 7	sammen	O	-	-
 8	med	O	-	-
-9	Duaa	B-PER	-	-
+9	Yousif	B-PER	-	-
 10	erklærede	O	-	-
 11	yndling	O	-	-
 12	,	O	-	-
 13	væbneren	O	-	-
-14	Fadi	B-PER	-	-
+14	Junes	B-PER	-	-
 15	af	O	-	-
 16	Irbid	B-LOC	-	-
 17	.	O	-	-
@@ -1645,7 +1645,7 @@
 2	før	O	-	-
 3	sammenstødet	O	-	-
 4	var	O	-	-
-5	Radia	B-PER	-	-
+5	Imane	B-PER	-	-
 6	blevet	O	-	-
 7	overhalet	O	-	-
 8	af	O	-	-
@@ -1686,12 +1686,12 @@
 3	Jamahir	I-ORG	-	-
 4	formand	O	-	-
 5	,	O	-	-
-6	Redha	B-PER	-	-
-7	Abdel abas	I-PER	-	-
+6	Ala	B-PER	-	-
+7	Raouf	I-PER	-	-
 8	,	O	-	-
 9	til	O	-	-
-10	Jasim	B-PER	-	-
-11	Alaijaybi	I-PER	-	-
+10	Sajid	B-PER	-	-
+11	Altiwayshi	I-PER	-	-
 12	.	O	-	-
 
 1	"	O	-	-
@@ -1856,7 +1856,7 @@
 3	mig	O	-	-
 4	vel	O	-	-
 5	,	O	-	-
-6	Zamzam	B-PER	-	-
+6	Alisa	B-PER	-	-
 7	,	O	-	-
 8	ja	O	-	-
 9	der	O	-	-
@@ -1867,7 +1867,7 @@
 14	.	O	-	-
 
 1	Kære	O	-	-
-2	Samia	B-PER	-	-
+2	Abdulrahman	B-PER	-	-
 3	!	O	-	-
 
 1	I	O	-	-
@@ -2108,8 +2108,8 @@
 15	filippinske	O	-	-
 16	præsidentfrue	O	-	-
 17	,	O	-	-
-18	Waseem	B-PER	-	-
-19	Yas	I-PER	-	-
+18	Azad	B-PER	-	-
+19	Desai	I-PER	-	-
 20	1.500	O	-	-
 21	par	O	-	-
 22	sko	O	-	-
@@ -2188,8 +2188,8 @@
 12	"	O	-	-
 13	,	O	-	-
 14	siger	O	-	-
-15	Hiba	B-PER	-	-
-16	Ismail	I-PER	-	-
+15	Majida	B-PER	-	-
+16	Gupta	I-PER	-	-
 17	.	O	-	-
 
 1	"	O	-	-
@@ -2223,8 +2223,8 @@
 29	,	O	-	-
 30	"	O	-	-
 31	faldt	O	-	-
-32	Shaima	B-PER	-	-
-33	Sehmoudine	I-PER	-	-
+32	Aiman	B-PER	-	-
+33	Ana	I-PER	-	-
 34	ind	O	-	-
 35	i	O	-	-
 36	samtalen	O	-	-
@@ -2273,15 +2273,15 @@
 2	lykke	O	-	-
 3	til	O	-	-
 4	guldsmed	O	-	-
-5	Najiba	B-PER	-	-
-6	Sehouan	I-PER	-	-
-7	Turki	I-PER	-	-
+5	Susan	B-PER	-	-
+6	Alahmadi	I-PER	-	-
+7	Shahid	I-PER	-	-
 8	og	O	-	-
 9	til	O	-	-
 10	korpussølvsmed	O	-	-
-11	Faisa	B-PER	-	-
-12	Farhan	I-PER	-	-
-13	Bataineh	I-PER	-	-
+11	Javed	B-PER	-	-
+12	Rai	I-PER	-	-
+13	Binaabdlah	I-PER	-	-
 14	.	O	-	-
 
 1	Det	O	-	-
@@ -2302,8 +2302,8 @@
 16	1986	O	-	-
 17	af	O	-	-
 18	undervisningsminister	O	-	-
-19	Saeed	B-PER	-	-
-20	Bakr	I-PER	-	-
+19	Hilal	B-PER	-	-
+20	Siuaraa	I-PER	-	-
 21	.	O	-	-
 
 1	Faktisk	O	-	-
@@ -2347,7 +2347,7 @@
 22	bofællesskabet	O	-	-
 23	.	O	-	-
 
-1	Khan	B-PER	-	-
+1	Samia	B-PER	-	-
 2	sad	O	-	-
 3	tavs	O	-	-
 4	i	O	-	-
@@ -2518,12 +2518,12 @@
 12	mere	O	-	-
 13	stabilt	O	-	-
 14	efter	O	-	-
-15	Nahid	B-PER	-	-
+15	Malek	B-PER	-	-
 16	entre	O	-	-
 17	"	O	-	-
 18	.	O	-	-
 
-1	Amra	B-PER	-	-
+1	Yasmin	B-PER	-	-
 2	viser	O	-	-
 3	den	O	-	-
 4	medicin	O	-	-
@@ -2542,7 +2542,7 @@
 2	kilde	O	-	-
 3	fra	O	-	-
 4	mujahedinlederen	O	-	-
-5	May	B-PER	-	-
+5	Samina	B-PER	-	-
 6	stab	O	-	-
 7	sagde	O	-	-
 8	,	O	-	-
@@ -2705,7 +2705,7 @@
 14	kedelige	O	-	-
 15	.	O	-	-
 
-1	Kadir	B-PER	-	-
+1	Zahraa	B-PER	-	-
 2	havde	O	-	-
 3	tilsyneladende	O	-	-
 4	kontrol	O	-	-
@@ -2821,8 +2821,8 @@
 4	i	O	-	-
 5	semifinalen	O	-	-
 6	polakken	O	-	-
-7	Idris	B-PER	-	-
-8	Rafiq	I-PER	-	-
+7	Seyed	B-PER	-	-
+8	Albouhloul	I-PER	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	er	O	-	-
@@ -2998,8 +2998,8 @@
 34	.	O	-	-
 
 1	Dommeren	O	-	-
-2	Tarik	B-PER	-	-
-3	Salim	B-PER	-	-
+2	Atif	B-PER	-	-
+3	Nazif	B-PER	-	-
 4	lagde	O	-	-
 5	stor	O	-	-
 6	vægt	O	-	-
@@ -3099,8 +3099,8 @@
 33	"	O	-	-
 34	.	O	-	-
 
-1	Sundus	B-PER	-	-
-2	Al harasis	I-PER	-	-
+1	Amin	B-PER	-	-
+2	Adhyby	I-PER	-	-
 3	spiller	O	-	-
 4	den	O	-	-
 5	ensomme	O	-	-
@@ -3330,10 +3330,10 @@
 12	,	O	-	-
 13	"	O	-	-
 14	siger	O	-	-
-15	Jamila	B-PER	-	-
+15	Nail	B-PER	-	-
 16	.	O	-	-
 
-1	Muhammed	B-PER	-	-
+1	Shahzad	B-PER	-	-
 2	var	O	-	-
 3	maniodepressiv	O	-	-
 
@@ -3428,8 +3428,8 @@
 7	går	O	-	-
 8	til	O	-	-
 9	civilingeniør	O	-	-
-10	Omer	B-PER	-	-
-11	Shams	I-PER	-	-
+10	Bashir	B-PER	-	-
+11	Alaidaybi	I-PER	-	-
 12	,	O	-	-
 13	der	O	-	-
 14	i	O	-	-
@@ -3440,8 +3440,8 @@
 19	års	O	-	-
 20	fængsel	O	-	-
 21	og	O	-	-
-22	Nadim	B-PER	-	-
-23	Suhair	I-PER	-	-
+22	Jinan	B-PER	-	-
+23	Aleama	I-PER	-	-
 24	,	O	-	-
 25	borgmester	O	-	-
 26	og	O	-	-
@@ -3478,9 +3478,9 @@
 1	De	O	-	-
 2	kunne	O	-	-
 3	være	O	-	-
-4	Malek	B-PER	-	-
+4	Sahar	B-PER	-	-
 5	og	O	-	-
-6	Hena	B-PER	-	-
+6	Najwa	B-PER	-	-
 7	,	O	-	-
 8	som	O	-	-
 9	altid	O	-	-
@@ -3577,7 +3577,7 @@
 10	kapitler	O	-	-
 11	.	O	-	-
 
-1	Isam	B-PER	-	-
+1	Leyla	B-PER	-	-
 2	øjne	O	-	-
 3	så	O	-	-
 4	ud	O	-	-
@@ -3643,7 +3643,7 @@
 5	tilladt	O	-	-
 6	,	O	-	-
 7	men	O	-	-
-8	Musa	B-PER	-	-
+8	Waqas	B-PER	-	-
 9	var	O	-	-
 10	vist	O	-	-
 11	et	O	-	-
@@ -3676,7 +3676,7 @@
 38	sagtens	O	-	-
 39	kunne	O	-	-
 40	have	O	-	-
-41	Leyla	B-PER	-	-
+41	Farhad	B-PER	-	-
 42	liggende	O	-	-
 43	på	O	-	-
 44	tværs	O	-	-
@@ -3940,18 +3940,18 @@
 5	sine	O	-	-
 6	sønner	O	-	-
 7	,	O	-	-
-8	Hani	B-PER	-	-
+8	Azhar	B-PER	-	-
 9	,	O	-	-
 10	10	O	-	-
 11	år	O	-	-
 12	,	O	-	-
-13	Zakariya	B-PER	-	-
+13	Saad	B-PER	-	-
 14	,	O	-	-
 15	17	O	-	-
 16	år	O	-	-
 17	,	O	-	-
 18	og	O	-	-
-19	Abdi	B-PER	-	-
+19	Furkan	B-PER	-	-
 20	,	O	-	-
 21	19	O	-	-
 22	år	O	-	-
@@ -4025,7 +4025,7 @@
 10	bombardementet	O	-	-
 11	,	O	-	-
 12	sagde	O	-	-
-13	Faisal	B-PER	-	-
+13	Mehmed	B-PER	-	-
 14	,	O	-	-
 15	men	O	-	-
 16	tallene	O	-	-
@@ -4060,7 +4060,7 @@
 8	om	O	-	-
 9	,	O	-	-
 10	at	O	-	-
-11	Recep	B-PER	-	-
+11	Raad	B-PER	-	-
 12	og	O	-	-
 13	hendes	O	-	-
 14	mand	O	-	-
@@ -4178,8 +4178,8 @@
 13	for	O	-	-
 14	politiet	O	-	-
 15	,	O	-	-
-16	Muhamad	B-PER	-	-
-17	Baqir	I-PER	-	-
+16	Shadi	B-PER	-	-
+17	Hamed	I-PER	-	-
 18	.	O	-	-
 
 1	Vinder	O	-	-
@@ -4252,8 +4252,8 @@
 15	pusten	O	-	-
 16	.	O	-	-
 
-1	Fatih	B-PER	-	-
-2	El nayady	I-PER	-	-
+1	Yassine	B-PER	-	-
+2	Jamil	I-PER	-	-
 3	,	O	-	-
 4	berømt	O	-	-
 5	billedkunstner	O	-	-
@@ -4370,7 +4370,7 @@
 3	det	O	-	-
 4	opstablet	O	-	-
 5	foran	O	-	-
-6	Sami	B-PER	-	-
+6	Abdel	B-PER	-	-
 7	hus	O	-	-
 8	.	O	-	-
 
@@ -4565,7 +4565,7 @@
 22	deres	O	-	-
 23	hænder	O	-	-
 24	som	O	-	-
-25	Sharif	B-PER	-	-
+25	Mushtaq	B-PER	-	-
 26	.	O	-	-
 
 1	Blød	O	-	-
@@ -4697,16 +4697,16 @@
 4	vise	O	-	-
 5	pistolen	O	-	-
 6	for	O	-	-
-7	Kvindenavne	B-PER	-	-
-8	Momani	I-PER	-	-
+7	Hisham	B-PER	-	-
+8	Al khaili	I-PER	-	-
 9	fætter	O	-	-
 10	og	O	-	-
 11	svigersøn	O	-	-
 12	,	O	-	-
-13	Salma	B-PER	-	-
-14	Adheebah	I-PER	-	-
-15	Anas	I-PER	-	-
-16	Suhran	I-PER	-	-
+13	Ghassan	B-PER	-	-
+14	Gani	I-PER	-	-
+15	Adab	I-PER	-	-
+16	Mia	I-PER	-	-
 17	,	O	-	-
 18	der	O	-	-
 19	dengang	O	-	-
@@ -4794,8 +4794,8 @@
 24	,	O	-	-
 25	"	O	-	-
 26	siger	O	-	-
-27	Osama	B-PER	-	-
-28	Ghadban	I-PER	-	-
+27	Tai	B-PER	-	-
+28	Rashed	I-PER	-	-
 29	.	O	-	-
 
 1	Lokale	O	-	-
@@ -4937,7 +4937,7 @@
 26	ældre	O	-	-
 27	bror	O	-	-
 28	,	O	-	-
-29	Asia	B-PER	-	-
+29	Nadia	B-PER	-	-
 30	,	O	-	-
 31	havde	O	-	-
 32	han	O	-	-
@@ -5216,7 +5216,7 @@
 19	om	O	-	-
 20	at	O	-	-
 21	støtte	O	-	-
-22	Mahnaz	B-PER	-	-
+22	Maria	B-PER	-	-
 23	.	O	-	-
 
 1	OPLÆG	O	-	-
@@ -5435,7 +5435,7 @@
 16	at	O	-	-
 17	være	O	-	-
 18	,	O	-	-
-19	Adela	B-PER	-	-
+19	Mahamed	B-PER	-	-
 20	!	O	-	-
 21	"	O	-	-
 
@@ -5519,7 +5519,7 @@
 
 1	Foto	O	-	-
 2	:	O	-	-
-3	Nadia	B-PER	-	-
+3	Fathi	B-PER	-	-
 
 1	Børnenes	O	-	-
 2	forskellige	O	-	-
@@ -5602,7 +5602,7 @@
 21	,	O	-	-
 22	(	O	-	-
 23	som	O	-	-
-24	Reza	B-PER	-	-
+24	Ghazi	B-PER	-	-
 25	f.eks.	O	-	-
 26	gør	O	-	-
 27	)	O	-	-
@@ -5871,7 +5871,7 @@
 6	se	O	-	-
 7	,	O	-	-
 8	at	O	-	-
-9	Salih	B-PER	-	-
+9	Yakub	B-PER	-	-
 10	overhovedet	O	-	-
 11	har	O	-	-
 12	nogen	O	-	-
@@ -6096,7 +6096,7 @@
 8	de	O	-	-
 9	læse	O	-	-
 10	-	O	-	-
-11	Nadiya	B-PER	-	-
+11	Kamil	B-PER	-	-
 12	kunne	O	-	-
 13	-	O	-	-
 14	at	O	-	-
@@ -6132,8 +6132,8 @@
 17	,	O	-	-
 18	"	O	-	-
 19	siger	O	-	-
-20	Ihab	B-PER	-	-
-21	Nouri	I-PER	-	-
+20	Muhamed	B-PER	-	-
+21	El shatti	I-PER	-	-
 22	.	O	-	-
 
 1	I	O	-	-
@@ -6160,7 +6160,7 @@
 
 1	DET	O	-	-
 2	HAR	O	-	-
-3	Rayan	B-PER	-	-
+3	Nur	B-PER	-	-
 4	IKKE	O	-	-
 
 1	Men	O	-	-
@@ -6233,7 +6233,7 @@
 8	.	O	-	-
 
 1	LILLE	O	-	-
-2	Sumaya	B-PER	-	-
+2	Hajar	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
 5	,	O	-	-
@@ -6255,8 +6255,8 @@
 21	kollegaen	O	-	-
 22	,	O	-	-
 23	bakkesangerinde	O	-	-
-24	Asma	B-PER	-	-
-25	Uddin	I-PER	-	-
+24	Murtaza	B-PER	-	-
+25	Qasimu Alfadil	I-PER	-	-
 26	,	O	-	-
 27	da	O	-	-
 28	hun	O	-	-
@@ -6277,7 +6277,7 @@
 2	så	O	-	-
 3	fald	O	-	-
 4	bliver	O	-	-
-5	Abdullah	B-PER	-	-
+5	Sundus	B-PER	-	-
 6	min	O	-	-
 7	nye	O	-	-
 8	mor	O	-	-
@@ -6471,7 +6471,7 @@
 6	virkelighed	O	-	-
 7	.	O	-	-
 
-1	Malik	B-PER	-	-
+1	Samad	B-PER	-	-
 2	øjne	O	-	-
 3	lyser	O	-	-
 4	ved	O	-	-
@@ -6516,7 +6516,7 @@
 5	var	O	-	-
 6	dermed	O	-	-
 7	lagt	O	-	-
-8	Rania	B-PER	-	-
+8	Mohamad	B-PER	-	-
 9	i	O	-	-
 10	munden	O	-	-
 11	.	O	-	-
@@ -6657,7 +6657,7 @@
 2	14	O	-	-
 3	dage	O	-	-
 4	med	O	-	-
-5	Bushra	B-PER	-	-
+5	Younes	B-PER	-	-
 6	mærkede	O	-	-
 7	jeg	O	-	-
 8	en	O	-	-
@@ -6714,8 +6714,8 @@
 19	frem	O	-	-
 20	.	O	-	-
 
-1	Nazir	B-PER	-	-
-2	Sabar	I-PER	-	-
+1	Hamed	B-PER	-	-
+2	Rahlah	I-PER	-	-
 3	selv	O	-	-
 4	fremhæver	O	-	-
 5	også	O	-	-
@@ -6757,7 +6757,7 @@
 8	vamp	O	-	-
 9	.	O	-	-
 
-1	Ayub	B-PER	-	-
+1	Saman	B-PER	-	-
 2	øjne	O	-	-
 3	kunne	O	-	-
 4	ikke	O	-	-
@@ -6868,7 +6868,7 @@
 8	på	O	-	-
 9	!	O	-	-
 
-1	Zahid	B-PER	-	-
+1	Mikail	B-PER	-	-
 2	beskrev	O	-	-
 3	den	O	-	-
 4	tidlig	O	-	-
@@ -7137,7 +7137,7 @@
 11	sagen	O	-	-
 12	?	O	-	-
 
-1	Kerim	B-PER	-	-
+1	Shahrzad	B-PER	-	-
 2	styker	O	-	-
 3	stormede	O	-	-
 4	en	O	-	-
@@ -7157,8 +7157,8 @@
 18	raketter	O	-	-
 19	.	O	-	-
 
-1	Dalila	B-PER	-	-
-2	Albanon	I-PER	-	-
+1	Ziba	B-PER	-	-
+2	Kesmou Elkerim	I-PER	-	-
 3	har	O	-	-
 4	taget	O	-	-
 5	sin	O	-	-
@@ -7201,8 +7201,8 @@
 10	,	O	-	-
 11	"	O	-	-
 12	siger	O	-	-
-13	Shahnaz	B-PER	-	-
-14	Mukhtar	I-PER	-	-
+13	Amar	B-PER	-	-
+14	Aezra	I-PER	-	-
 15	.	O	-	-
 
 1	Læsetræning	O	-	-
@@ -7417,8 +7417,8 @@
 6	(	O	-	-
 7	det	O	-	-
 8	var	O	-	-
-9	Jamshid	B-PER	-	-
-10	Elbenderi	I-PER	-	-
+9	Fatuma	B-PER	-	-
+10	Abdul karim	I-PER	-	-
 11	)	O	-	-
 12	,	O	-	-
 13	har	O	-	-
@@ -7600,8 +7600,8 @@
 8	,	O	-	-
 9	"	O	-	-
 10	bad	O	-	-
-11	Razia	B-PER	-	-
-12	Alairayhi	I-PER	-	-
+11	Ola	B-PER	-	-
+12	Khalifa	I-PER	-	-
 13	,	O	-	-
 14	en	O	-	-
 15	af	O	-	-
@@ -7752,7 +7752,7 @@
 4	år	O	-	-
 5	siden	O	-	-
 6	"	O	-	-
-7	Karam	B-PER	-	-
+7	Zaid	B-PER	-	-
 8	"	O	-	-
 9	har	O	-	-
 10	han	O	-	-
@@ -7811,7 +7811,7 @@
 17	hende	O	-	-
 18	.	O	-	-
 
-1	Alaa	B-PER	-	-
+1	Naveed	B-PER	-	-
 2	er	O	-	-
 3	sprunget	O	-	-
 4	fra	O	-	-
@@ -8064,8 +8064,8 @@
 13	han	O	-	-
 14	og	O	-	-
 15	kæresten	O	-	-
-16	Idriz	B-PER	-	-
-17	Edhla	I-PER	-	-
+16	Hamdi	B-PER	-	-
+17	Qasimulfadil	I-PER	-	-
 18	til	O	-	-
 19	marts	O	-	-
 20	bliver	O	-	-
@@ -8320,7 +8320,7 @@
 16	væk	O	-	-
 17	.	O	-	-
 
-1	Abdel	B-PER	-	-
+1	Umair	B-PER	-	-
 2	satsede	O	-	-
 3	aggressivt	O	-	-
 4	på	O	-	-
@@ -8350,7 +8350,7 @@
 13	,	O	-	-
 14	(	O	-	-
 15	som	O	-	-
-16	Rajaa	B-PER	-	-
+16	Jihan	B-PER	-	-
 17	er	O	-	-
 18	besjælet	O	-	-
 19	af	O	-	-
@@ -8406,7 +8406,7 @@
 
 1	TVANGSAKKORD	O	-	-
 
-1	Yakup	B-PER	-	-
+1	Asmaa	B-PER	-	-
 2	,	O	-	-
 3	lige	O	-	-
 4	et	O	-	-
@@ -8505,7 +8505,7 @@
 23	han	O	-	-
 24	.	O	-	-
 
-1	Hoda	B-PER	-	-
+1	Waseem	B-PER	-	-
 2	sagde	O	-	-
 3	,	O	-	-
 4	at	O	-	-
@@ -8536,7 +8536,7 @@
 29	konflikten	O	-	-
 30	.	O	-	-
 
-1	Imad	B-PER	-	-
+1	Asra	B-PER	-	-
 2	satte	O	-	-
 3	efter	O	-	-
 4	sammenstøddet	O	-	-
@@ -8653,7 +8653,7 @@
 7	.	O	-	-
 
 1	-	O	-	-
-2	Mervan	B-PER	-	-
+2	Sadia	B-PER	-	-
 3	mødte	O	-	-
 4	jeg	O	-	-
 5	tilfældigt	O	-	-
@@ -8671,8 +8671,8 @@
 7	,	O	-	-
 8	"	O	-	-
 9	sagde	O	-	-
-10	Amin	B-PER	-	-
-11	Albandi	I-PER	-	-
+10	Hadi	B-PER	-	-
+11	Alaitaybiah	I-PER	-	-
 12	.	O	-	-
 
 1	Skrald	O	-	-
@@ -8724,7 +8724,7 @@
 3	er	O	-	-
 4	det	O	-	-
 5	jo	O	-	-
-6	Yakub	B-PER	-	-
+6	Yassin	B-PER	-	-
 7	år	O	-	-
 8	i	O	-	-
 9	år	O	-	-
@@ -8747,7 +8747,7 @@
 15	forvirret	O	-	-
 16	.	O	-	-
 
-1	Mostapha	B-PER	-	-
+1	Mounir	B-PER	-	-
 2	grå	O	-	-
 3	øjne	O	-	-
 4	lyste	O	-	-
@@ -8799,7 +8799,7 @@
 50	det	O	-	-
 51	med	O	-	-
 52	Kong	O	-	-
-53	Zeina	B-PER	-	-
+53	Mahdi	B-PER	-	-
 54	,	O	-	-
 55	og	O	-	-
 56	derfor	O	-	-
@@ -8829,7 +8829,7 @@
 3	af	O	-	-
 4	smerte	O	-	-
 
-1	Hamdi	B-PER	-	-
+1	Sajida	B-PER	-	-
 2	bekræfter	O	-	-
 3	,	O	-	-
 4	at	O	-	-
@@ -8845,8 +8845,8 @@
 14	en	O	-	-
 15	italiener	O	-	-
 16	,	O	-	-
-17	Saleh	B-PER	-	-
-18	Albastaji	I-PER	-	-
+17	Abdulahi	B-PER	-	-
+18	Ba Baryja	I-PER	-	-
 19	,	O	-	-
 20	og	O	-	-
 21	en	O	-	-
@@ -8919,15 +8919,15 @@
 6	som	O	-	-
 7	oil	O	-	-
 8	wealthy	O	-	-
-9	Zarina	B-PER	-	-
-10	El sayed	I-PER	-	-
+9	Anika	B-PER	-	-
+10	Moumadi	I-PER	-	-
 11	,	O	-	-
 12	som	O	-	-
 13	Texan	O	-	-
 14	society	O	-	-
 15	princess	O	-	-
-16	Malaika	B-PER	-	-
-17	Raouf	I-PER	-	-
+16	Daria	B-PER	-	-
+17	Albandari	I-PER	-	-
 18	.	O	-	-
 
 1	Den	O	-	-
@@ -9025,7 +9025,7 @@
 
 1	Det	O	-	-
 2	kan	O	-	-
-3	Tasnim	B-PER	-	-
+3	Faten	B-PER	-	-
 4	skriver	O	-	-
 5	under	O	-	-
 6	på	O	-	-
@@ -9087,8 +9087,8 @@
 8	kosten	O	-	-
 9	.	O	-	-
 
-1	Saim	B-PER	-	-
-2	El din	I-PER	-	-
+1	Samed	B-PER	-	-
+2	Zaki	I-PER	-	-
 3	blev	O	-	-
 4	anholdt	O	-	-
 5	og	O	-	-
@@ -9098,7 +9098,7 @@
 9	senere	O	-	-
 10	.	O	-	-
 
-1	Samed	B-PER	-	-
+1	Arif	B-PER	-	-
 2	er	O	-	-
 3	utrolig	O	-	-
 4	til	O	-	-
@@ -9119,7 +9119,7 @@
 7	sig	O	-	-
 8	,	O	-	-
 9	men	O	-	-
-10	Nizar	B-PER	-	-
+10	Khadra	B-PER	-	-
 11	og	O	-	-
 12	de	O	-	-
 13	af	O	-	-
@@ -9191,7 +9191,7 @@
 
 1	Han	O	-	-
 2	omtaler	O	-	-
-3	Saida	B-PER	-	-
+3	Musa	B-PER	-	-
 4	som	O	-	-
 5	en	O	-	-
 6	af	O	-	-
@@ -9241,8 +9241,8 @@
 11	bekrive	O	-	-
 12	afdøde	O	-	-
 13	præsident	O	-	-
-14	Hisham	B-PER	-	-
-15	El azza	I-PER	-	-
+14	Muhammad	B-PER	-	-
+15	Masri	I-PER	-	-
 16	og	O	-	-
 17	hans	O	-	-
 18	hustrus	O	-	-
@@ -9407,7 +9407,7 @@
 5	for	O	-	-
 6	Etisalat	B-ORG	-	-
 7	scorede	O	-	-
-8	Nader	B-PER	-	-
+8	Ramin	B-PER	-	-
 9	15	O	-	-
 10	mål	O	-	-
 11	.	O	-	-
@@ -9418,7 +9418,7 @@
 4	fra	O	-	-
 5	hjemmet	O	-	-
 6	blev	O	-	-
-7	Hafsa	B-PER	-	-
+7	Nahid	B-PER	-	-
 8	ramt	O	-	-
 9	bagfra	O	-	-
 10	af	O	-	-
@@ -9609,7 +9609,7 @@
 12	enslydende	O	-	-
 13	fortalte	O	-	-
 14	om	O	-	-
-15	Waqas	B-PER	-	-
+15	Safia	B-PER	-	-
 16	særlige	O	-	-
 17	ansættelsesvilkår	O	-	-
 18	.	O	-	-
@@ -9631,11 +9631,11 @@
 8	bevægelser	O	-	-
 9	.	O	-	-
 
-1	Tamer	B-PER	-	-
-2	Abu Alrab	I-PER	-	-
+1	Ridha	B-PER	-	-
+2	Siwaar	I-PER	-	-
 3	12-årige	O	-	-
 4	søn	O	-	-
-5	Nidal	B-PER	-	-
+5	Batoul	B-PER	-	-
 6	blev	O	-	-
 7	også	O	-	-
 8	dræbt	O	-	-
@@ -9675,7 +9675,7 @@
 24	en	O	-	-
 25	trend-katalysator	O	-	-
 26	som	O	-	-
-27	Cemal	B-PER	-	-
+27	Hawraa	B-PER	-	-
 28	kunne	O	-	-
 29	give	O	-	-
 30	tendensen	O	-	-
@@ -9805,8 +9805,8 @@
 5	af	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	Saman	B-PER	-	-
-9	Al badour	I-PER	-	-
+8	Bibi	B-PER	-	-
+9	Alaishaymi	I-PER	-	-
 10	allerede	O	-	-
 11	to	O	-	-
 12	timer	O	-	-
@@ -9913,8 +9913,8 @@
 24	,	O	-	-
 25	"	O	-	-
 26	siger	O	-	-
-27	Zaineb	B-PER	-	-
-28	Elaiouaiouid	I-PER	-	-
+27	Adil	B-PER	-	-
+28	Al zawaydah	I-PER	-	-
 29	.	O	-	-
 
 1	Han	O	-	-
@@ -9941,7 +9941,7 @@
 22	bilen	O	-	-
 23	.	O	-	-
 
-1	Saeeda	B-PER	-	-
+1	Jihad	B-PER	-	-
 2	på	O	-	-
 3	35	O	-	-
 4	bor	O	-	-
@@ -9956,9 +9956,9 @@
 13	familiemedlemmer	O	-	-
 14	.	O	-	-
 
-1	Arshad	B-PER	-	-
-2	Souhoul	I-PER	-	-
-3	Adhba	I-PER	-	-
+1	Fouad	B-PER	-	-
+2	Pandey	I-PER	-	-
+3	Sodaa	I-PER	-	-
 4	i	O	-	-
 5	afslappet	O	-	-
 6	påklædning	O	-	-
@@ -10108,8 +10108,8 @@
 1	Ingen	O	-	-
 2	redninger	O	-	-
 
-1	Mostafa	B-PER	-	-
-2	Altiwaytin	I-PER	-	-
+1	Abbas	B-PER	-	-
+2	Alsayed	I-PER	-	-
 3	-	O	-	-
 4	glad	O	-	-
 5	for	O	-	-
@@ -10432,8 +10432,8 @@
 4	kredse	O	-	-
 5	,	O	-	-
 6	hvor	O	-	-
-7	Hala	B-PER	-	-
-8	Suaadi	I-PER	-	-
+7	Fadia	B-PER	-	-
+8	Azzam	I-PER	-	-
 9	færdes	O	-	-
 10	,	O	-	-
 11	gælder	O	-	-
@@ -10603,7 +10603,7 @@
 21	for	O	-	-
 22	at	O	-	-
 23	forarge	O	-	-
-24	Sabri	B-PER	-	-
+24	Abir	B-PER	-	-
 25	.	O	-	-
 
 1	Han	O	-	-
@@ -10642,9 +10642,9 @@
 34	stil	O	-	-
 35	.	O	-	-
 
-1	Nazli	B-PER	-	-
-2	Elaiouaimiri	I-PER	-	-
-3	Bashir	I-PER	-	-
+1	Ramzi	B-PER	-	-
+2	Shamli	I-PER	-	-
+3	Mumadi	I-PER	-	-
 4	,	O	-	-
 5	af	O	-	-
 6	mange	O	-	-
@@ -10830,9 +10830,9 @@
 3	også	O	-	-
 4	hos	O	-	-
 5	bakkerestauratør	O	-	-
-6	Malika	B-PER	-	-
-7	Thani	I-PER	-	-
-8	Alaishayshi	I-PER	-	-
+6	Halim	B-PER	-	-
+7	Altiwayqi	I-PER	-	-
+8	Ashour	I-PER	-	-
 9	,	O	-	-
 10	og	O	-	-
 11	de	O	-	-
@@ -10894,9 +10894,9 @@
 7	respekt	O	-	-
 8	,	O	-	-
 9	men	O	-	-
-10	Yasin	B-PER	-	-
-11	Alairayri	I-PER	-	-
-12	Marza	I-PER	-	-
+10	Aishah	B-PER	-	-
+11	Alaizayki	I-PER	-	-
+12	Makki	I-PER	-	-
 13	så	O	-	-
 14	sig	O	-	-
 15	tirsdag	O	-	-
@@ -10964,8 +10964,8 @@
 28	påbyder	O	-	-
 29	.	O	-	-
 
-1	Layla	B-PER	-	-
-2	Abou Ereb	I-PER	-	-
+1	Wahida	B-PER	-	-
+2	Bitar	I-PER	-	-
 3	,	O	-	-
 4	1978	O	-	-
 
@@ -10990,7 +10990,7 @@
 11	.	O	-	-
 
 1	Hilsen	O	-	-
-2	Sharifa	B-PER	-	-
+2	Yonas	B-PER	-	-
 3	.	O	-	-
 
 1	Din	O	-	-
@@ -11059,7 +11059,7 @@
 3	hvis	O	-	-
 4	nu	O	-	-
 5	også	O	-	-
-6	Zaina	B-PER	-	-
+6	Bader	B-PER	-	-
 7	er	O	-	-
 8	forrykt	O	-	-
 9	nok	O	-	-
@@ -11312,7 +11312,7 @@
 1	Sådan	O	-	-
 2	noget	O	-	-
 3	kan	O	-	-
-4	Ibrahim	B-PER	-	-
+4	Hashem	B-PER	-	-
 5	skrive	O	-	-
 6	,	O	-	-
 7	så	O	-	-
@@ -11404,7 +11404,7 @@
 5	,	O	-	-
 6	de	O	-	-
 7	tog	O	-	-
-8	Mazen	B-PER	-	-
+8	Ikram	B-PER	-	-
 9	i	O	-	-
 10	hovedet	O	-	-
 11	og	O	-	-
@@ -11533,7 +11533,7 @@
 4	nej	O	-	-
 5	,	O	-	-
 6	men	O	-	-
-7	Hakim	B-PER	-	-
+7	Dalila	B-PER	-	-
 8	blev	O	-	-
 9	ved	O	-	-
 10	med	O	-	-
@@ -11603,7 +11603,7 @@
 5	en	O	-	-
 6	pause	O	-	-
 7	hvor	O	-	-
-8	Gul	B-PER	-	-
+8	Jamil	B-PER	-	-
 9	rejser	O	-	-
 10	ud	O	-	-
 11	i	O	-	-
@@ -11691,8 +11691,8 @@
 12	her	O	-	-
 13	bad	O	-	-
 14	lektor	O	-	-
-15	Mounir	B-PER	-	-
-16	Nazir	I-PER	-	-
+15	Jamilla	B-PER	-	-
+16	Sawaida	I-PER	-	-
 17	om	O	-	-
 18	et	O	-	-
 19	minuts	O	-	-
@@ -11856,8 +11856,8 @@
 27	være	O	-	-
 28	.	O	-	-
 
-1	Hanifa	B-PER	-	-
-2	Desai	I-PER	-	-
+1	Faris	B-PER	-	-
+2	Al khaily	I-PER	-	-
 3	nikkede	O	-	-
 4	.	O	-	-
 
@@ -11959,7 +11959,7 @@
 8	,	O	-	-
 9	det	O	-	-
 10	var	O	-	-
-11	Wasim	B-PER	-	-
+11	Shahnaz	B-PER	-	-
 12	,	O	-	-
 13	han	O	-	-
 14	havde	O	-	-
@@ -12158,8 +12158,8 @@
 
 1	Opbakningen	O	-	-
 2	om	O	-	-
-3	Isa	B-PER	-	-
-4	Hammadi	I-PER	-	-
+3	Radia	B-PER	-	-
+4	Hakami	I-PER	-	-
 5	er	O	-	-
 6	overraskende	O	-	-
 7	og	O	-	-
@@ -12262,8 +12262,8 @@
 12	om	O	-	-
 13	,	O	-	-
 14	at	O	-	-
-15	Ayoub	B-PER	-	-
-16	Sahlaly	I-PER	-	-
+15	Cemal	B-PER	-	-
+16	George	I-PER	-	-
 17	får	O	-	-
 18	dem	O	-	-
 19	tilbage	O	-	-
@@ -12326,7 +12326,7 @@
 7	dag	O	-	-
 8	.	O	-	-
 
-1	Nazih’	B-PER	-	-
+1	Talat	B-PER	-	-
 2	...	O	-	-
 3	ja	O	-	-
 4	...	O	-	-
@@ -12436,19 +12436,19 @@
 8	fra	O	-	-
 9	80'ernes	O	-	-
 10	bøfdrenge	O	-	-
-11	Najia	B-PER	-	-
+11	Isam	B-PER	-	-
 12	"	O	-	-
-13	Shahzad	B-PER	-	-
+13	Rahima	B-PER	-	-
 14	"	O	-	-
-15	Safaa	B-PER	-	-
+15	Waqar	B-PER	-	-
 16	og	O	-	-
-17	Aishah	B-PER	-	-
-18	Abdul jabbar	I-PER	-	-
+17	Ilias	B-PER	-	-
+18	Jawad	I-PER	-	-
 19	.	O	-	-
 
 1	For	O	-	-
-2	Adham	B-PER	-	-
-3	Melhem	I-PER	-	-
+2	Saeeda	B-PER	-	-
+3	Alnawaflh	I-PER	-	-
 4	,	O	-	-
 5	16	O	-	-
 6	år	O	-	-
@@ -12525,13 +12525,13 @@
 6	evolutionen	O	-	-
 7	?	O	-	-
 
-1	Raad	B-PER	-	-
+1	Hana	B-PER	-	-
 2	om	O	-	-
 3	racerkøreren	O	-	-
-4	Nayef’	B-PER	-	-
+4	Safaa	B-PER	-	-
 5	:	O	-	-
 6	-	O	-	-
-7	Kamil	B-PER	-	-
+7	Tahir	B-PER	-	-
 8	er	O	-	-
 9	en	O	-	-
 10	meget	O	-	-
@@ -12562,9 +12562,9 @@
 6	Viranşehir	B-LOC	-	-
 7	.	O	-	-
 
-1	Tai	B-PER	-	-
-2	Aljayarat	I-PER	-	-
-3	Sodaa	I-PER	-	-
+1	Reza	B-PER	-	-
+2	Younes	I-PER	-	-
+3	Anjum	I-PER	-	-
 4	hævder	O	-	-
 5	,	O	-	-
 6	at	O	-	-
@@ -12732,7 +12732,7 @@
 9	højderyg	O	-	-
 10	,	O	-	-
 11	som	O	-	-
-12	Bin	B-PER	-	-
+12	Sulayman	B-PER	-	-
 13	kontrollerede	O	-	-
 14	.	O	-	-
 
@@ -12740,7 +12740,7 @@
 2	strammer	O	-	-
 3	til	O	-	-
 4	om	O	-	-
-5	Muhammad	B-PER	-	-
+5	Hala	B-PER	-	-
 6	hals	O	-	-
 7	.	O	-	-
 
@@ -12768,7 +12768,7 @@
 6	jeg	O	-	-
 7	...	O	-	-
 8	vil	O	-	-
-9	Kamran	B-PER	-	-
+9	Jamila	B-PER	-	-
 10	og	O	-	-
 11	jeg	O	-	-
 12	...	O	-	-
@@ -12812,7 +12812,7 @@
 17	:	O	-	-
 18	"	O	-	-
 19	Nej	O	-	-
-20	Shahrzad	B-PER	-	-
+20	Hicham	B-PER	-	-
 21	,	O	-	-
 22	jeg	O	-	-
 23	tror	O	-	-
@@ -12834,7 +12834,7 @@
 3	indoktrinerer	O	-	-
 4	,	O	-	-
 5	hævdede	O	-	-
-6	Mushtaq	B-PER	-	-
+6	Khalida	B-PER	-	-
 7	frimodigt	O	-	-
 8	.	O	-	-
 
@@ -12883,8 +12883,8 @@
 1	Den	O	-	-
 2	vare	O	-	-
 3	leverer	O	-	-
-4	Mariam	B-PER	-	-
-5	Sehm	I-PER	-	-
+4	Marwa	B-PER	-	-
+5	Allawi	I-PER	-	-
 6	ca.	O	-	-
 7	en	O	-	-
 8	gang	O	-	-
@@ -12909,8 +12909,8 @@
 15	kroner	O	-	-
 16	fra	O	-	-
 17	modstanderen	O	-	-
-18	Ilias	B-PER	-	-
-19	Raj	I-PER	-	-
+18	Yasmine	B-PER	-	-
+19	Al zuben	I-PER	-	-
 20	.	O	-	-
 
 1	-	O	-	-
@@ -12929,10 +12929,10 @@
 14	om	O	-	-
 15	dig	O	-	-
 16	,	O	-	-
-17	Nour	B-PER	-	-
+17	Sidra	B-PER	-	-
 18	!	O	-	-
 19	sagde	O	-	-
-20	Abid	B-PER	-	-
+20	Taj	B-PER	-	-
 21	en	O	-	-
 22	dag	O	-	-
 23	,	O	-	-
@@ -12981,7 +12981,7 @@
 35	åndedræt	O	-	-
 36	larmede	O	-	-
 37	i	O	-	-
-38	Bashir	B-PER	-	-
+38	Fatema	B-PER	-	-
 39	ører	O	-	-
 40	.	O	-	-
 
@@ -13028,8 +13028,8 @@
 4	Dukhan	B-ORG	-	-
 5	Bank	I-ORG	-	-
 6	,	O	-	-
-7	Alissa	B-PER	-	-
-8	Alshareef	I-PER	-	-
+7	Alia	B-PER	-	-
+8	Thabet	I-PER	-	-
 9	:	O	-	-
 
 1	Ikke	O	-	-
@@ -13039,7 +13039,7 @@
 1	Den	O	-	-
 2	klub	O	-	-
 3	mente	O	-	-
-4	Umar	B-PER	-	-
+4	Najla	B-PER	-	-
 5	far	O	-	-
 6	var	O	-	-
 7	sagen	O	-	-
@@ -13214,8 +13214,8 @@
 5	,	O	-	-
 6	"	O	-	-
 7	siger	O	-	-
-8	Faten	B-PER	-	-
-9	El massaif	I-PER	-	-
+8	Bassem	B-PER	-	-
+9	Alaidaysi	I-PER	-	-
 10	.	O	-	-
 
 1	Dyrt	O	-	-
@@ -13263,7 +13263,7 @@
 5	kæmpe	O	-	-
 6	år	O	-	-
 7	for	O	-	-
-8	Abdalla	B-PER	-	-
+8	Aftab	B-PER	-	-
 9	her	O	-	-
 10	udkom	O	-	-
 11	der	O	-	-
@@ -13377,8 +13377,8 @@
 11	.	O	-	-
 
 1	Af	O	-	-
-2	Mukhtar	B-PER	-	-
-3	Rai	I-PER	-	-
+2	Wael	B-PER	-	-
+3	Albanuny	I-PER	-	-
 
 1	Derfor	O	-	-
 2	skal	O	-	-
@@ -13423,8 +13423,8 @@
 4	år	O	-	-
 5	,	O	-	-
 6	at	O	-	-
-7	Maha	B-PER	-	-
-8	Sahban	I-PER	-	-
+7	Salem	B-PER	-	-
+8	Rahman	I-PER	-	-
 9	kom	O	-	-
 10	til	O	-	-
 11	byen	O	-	-
@@ -13445,8 +13445,8 @@
 2	denne	O	-	-
 3	gang	O	-	-
 4	kan	O	-	-
-5	Leila	B-PER	-	-
-6	Aldhiwayai	I-PER	-	-
+5	Mahnaz	B-PER	-	-
+6	Ba Buayr	I-PER	-	-
 7	ikke	O	-	-
 8	sige	O	-	-
 9	sig	O	-	-
@@ -13626,8 +13626,8 @@
 24	kvæstet	O	-	-
 25	litauer	O	-	-
 26	,	O	-	-
-27	Jawad	B-PER	-	-
-28	Alaitayri	I-PER	-	-
+27	Nasser	B-PER	-	-
+28	Altihayshi	I-PER	-	-
 29	.	O	-	-
 
 1	Klokken	O	-	-
@@ -13958,10 +13958,10 @@
 17	Saudia	B-ORG	-	-
 18	"	O	-	-
 19	med	O	-	-
-20	Hakima	B-PER	-	-
+20	Hatun	B-PER	-	-
 21	.	O	-	-
 
-1	Sultan	B-PER	-	-
+1	Zaina	B-PER	-	-
 2	havde	O	-	-
 3	punktering	O	-	-
 4	efter	O	-	-
@@ -13969,8 +13969,8 @@
 6	kilometer	O	-	-
 7	,	O	-	-
 8	og	O	-	-
-9	Abbas	B-PER	-	-
-10	Al sharafat	I-PER	-	-
+9	Nejla	B-PER	-	-
+10	Jarrar	I-PER	-	-
 11	punkterede	O	-	-
 12	efter	O	-	-
 13	kun	O	-	-
@@ -14053,14 +14053,14 @@
 2	skal	O	-	-
 3	de	O	-	-
 4	spille	O	-	-
-5	Ghulam	B-PER	-	-
+5	Hawra	B-PER	-	-
 6	og	O	-	-
-7	Abdelkader	I-PER	-	-
+7	Dah	I-PER	-	-
 8	i	O	-	-
 9	dramatiseringen	O	-	-
 10	af	O	-	-
-11	Arif	B-PER	-	-
-12	Dabbas	I-PER	-	-
+11	Sinan	B-PER	-	-
+12	Hajar	I-PER	-	-
 13	eventyr	O	-	-
 14	"	O	-	-
 15	Brødrene	B-MISC	-	-
@@ -14105,7 +14105,7 @@
 1	NYE	O	-	-
 2	AFSLØRINGER	O	-	-
 
-1	Zahraa	B-PER	-	-
+1	Yusef	B-PER	-	-
 2	:	O	-	-
 3	"	O	-	-
 4	Hvorfor	O	-	-
@@ -14118,7 +14118,7 @@
 2	i	O	-	-
 3	købet	O	-	-
 4	har	O	-	-
-5	Mahad	B-PER	-	-
+5	Shaima	B-PER	-	-
 6	det	O	-	-
 7	problem	O	-	-
 8	,	O	-	-
@@ -14151,8 +14151,8 @@
 1	Ligesom	O	-	-
 2	Jidda	B-LOC	-	-
 3	politichef	O	-	-
-4	Qasim	B-PER	-	-
-5	Sahbane	I-PER	-	-
+4	Nura	B-PER	-	-
+5	Sahban	I-PER	-	-
 6	måtte	O	-	-
 7	statens	O	-	-
 8	overhoved	O	-	-
@@ -14236,7 +14236,7 @@
 1	Hjælp	O	-	-
 2	udefra	O	-	-
 
-1	Wisam	B-PER	-	-
+1	Ziad	B-PER	-	-
 2	fik	O	-	-
 3	lønforhøjelse	O	-	-
 4	,	O	-	-
@@ -14322,8 +14322,8 @@
 13	kerne	O	-	-
 14	.	O	-	-
 
-1	Mahamed	B-PER	-	-
-2	Hamad	I-PER	-	-
+1	Damir	B-PER	-	-
+2	Radwan	I-PER	-	-
 3	har	O	-	-
 4	et	O	-	-
 5	svar	O	-	-
@@ -14596,7 +14596,7 @@
 14	lød	O	-	-
 15	det	O	-	-
 16	fra	O	-	-
-17	Kashif	B-PER	-	-
+17	Saleh	B-PER	-	-
 18	.	O	-	-
 
 1	Lærer	O	-	-
