@@ -11,7 +11,7 @@ from evaluate import load
 path_train = "data/da_news_new/new_da_news_train.tsv"
 path_dev = "data/da_news_new/new_da_news_dev.tsv"
 path_test = "data/da_news_new/new_da_news_test.tsv"
-path_me_test = _
+path_me_test = "/data/me_data/middle_eastern_test.tsv" 
 
 # saving model name
 model_name = "vesteinn/DanskBERT"
@@ -26,7 +26,7 @@ num_labels = len(label2id)
 train_data = read_tsv_file(path_train, label2id=label2id)
 dev_data = read_tsv_file(path_dev, label2id=label2id)
 test_data = read_tsv_file(path_test, label2id=label2id)
-me_test_data = read_tsv_file(_, label2id=label2id)
+me_test_data = read_tsv_file(path_me_test, label2id=label2id)
 
 # convert to huggingface format
 train_dataset = Dataset.from_list(train_data)
