@@ -187,8 +187,8 @@ hel	O
 Men	O
 privat	O
 er	O
-Maliha	B-PER
-Soahaa	I-PER
+Saman	B-PER
+Aldhibayti	I-PER
 absolut	O
 ingen	O
 duksedreng	O
@@ -225,10 +225,10 @@ mig	O
 ,	O
 der	O
 hedder	O
-Bin	B-PER
+Amna	B-PER
 ,	O
 sagde	O
-Ali	B-PER
+Saida	B-PER
 og	O
 hoppede	O
 og	O
@@ -237,7 +237,7 @@ på	O
 fødderne	O
 .	O
 
-Nusrat	B-PER
+Rizwan	B-PER
 kører	O
 derud	O
 i	O
@@ -315,8 +315,8 @@ håb	O
 ,	O
 "	O
 siger	O
-Dani	B-PER
-Elgitaini	I-PER
+Junaid	B-PER
+Mahdi	I-PER
 .	O
 
 "	O
@@ -330,7 +330,7 @@ ned	O
 ,	O
 "	O
 forklarede	O
-Mazen	B-PER
+Ahmed	B-PER
 .	O
 
 Man	O
@@ -559,7 +559,7 @@ gaden	O
 
 Faraos	O
 skytsgud	O
-Ashraf	B-PER
+Maysa	B-PER
 -	O
 konge	O
 over	O
@@ -989,12 +989,12 @@ ifølge	O
 hummerfiskeren	O
 skulle	O
 være	O
-Majida	B-PER
+Hilal	B-PER
 eget	O
 værk	O
 .	O
 
-Jinan	B-PER
+Mostapha	B-PER
 sad	O
 stadig	O
 på	O
@@ -1047,8 +1047,8 @@ til	O
 ,	O
 "	O
 siger	O
-Süleyman	B-PER
-Sioarayn	I-PER
+Mehmet	B-PER
+Deeb	I-PER
 .	O
 
 Også	O
@@ -1224,8 +1224,8 @@ og	O
 smile	O
 ,	O
 som	O
-Nuran	B-PER
-Al shehhi	I-PER
+Ayman	B-PER
+Al sarhan	I-PER
 gør	O
 det	O
 så	O
@@ -1259,7 +1259,7 @@ sig	O
 .	O
 
 "	O
-Matin	B-PER
+Ziad	B-PER
 "	O
 SULTER	O
 
@@ -1273,7 +1273,7 @@ anden	O
 mand	O
 ,	O
 konstaterede	O
-Kerim	B-PER
+Zakariya	B-PER
 sagligt	O
 .	O
 
@@ -1565,8 +1565,8 @@ hun	O
 Bayane	B-ORG
 al-Yaoume	I-ORG
 formand	O
-Afrah	B-PER
-Sahul	I-PER
+Intisar	B-PER
+Hammadi	I-PER
 fastholdt	O
 dog	O
 ,	O
@@ -2334,7 +2334,7 @@ Denne	O
 gang	O
 tog	O
 det	O
-Rasha	B-PER
+Sulaiman	B-PER
 omkring	O
 en	O
 måneds	O
@@ -2397,7 +2397,7 @@ dengang	O
 afvist	O
 af	O
 indenrigsminister	O
-Rami	B-PER
+Haidar	B-PER
 som	O
 for	O
 dyrt	O
@@ -2728,8 +2728,8 @@ pladens	O
 numre	O
 ,	O
 hvor	O
-Talat	B-PER
-Maryam	I-PER
+Khan	B-PER
+Bitar	I-PER
 overtager	O
 trommerne	O
 .	O
@@ -2794,7 +2794,7 @@ i	O
 jagten	O
 på	O
 "	O
-Rim	B-PER
+Mostafa	B-PER
 "	O
 ,	O
 fordi	O
@@ -3219,8 +3219,8 @@ miljø	O
 
 Hun	O
 afløser	O
-Ramiz	B-PER
-Suadaa	I-PER
+Nuri	B-PER
+Sawaheel	I-PER
 fra	O
 Ashmun	B-LOC
 ,	O
@@ -3248,8 +3248,8 @@ har	O
 sammen	O
 med	O
 socialrådgiver	O
-Akram	B-PER
-Man	I-PER
+Burhan	B-PER
+Al issa	I-PER
 ,	O
 stået	O
 for	O
@@ -3554,7 +3554,7 @@ er	O
 fjong	O
 ,	O
 grinede	O
-Ahlam	B-PER
+Samad	B-PER
 ,	O
 -	O
 men	O
@@ -3895,7 +3895,7 @@ for	O
 helvede	O
 ,	O
 grinede	O
-Nabil	B-PER
+Soraya	B-PER
 ,	O
 -	O
 men	O
@@ -3911,7 +3911,7 @@ mærk	O
 Eskisehir	B-LOC
 
 Sørøveren	O
-Ismail	B-PER
+Assia	B-PER
 
 -	O
 Hun	O
@@ -3920,7 +3920,7 @@ antagelig	O
 sine	O
 grunde	O
 ,	O
-Cemal	B-PER
+Waqar	B-PER
 .	O
 
 En	O
@@ -3996,7 +3996,7 @@ samme	O
 ,	O
 "	O
 fastslog	O
-Bahram	B-PER
+Basil	B-PER
 efter	O
 stævnet	O
 ,	O
@@ -4017,14 +4017,14 @@ så	O
 nær	O
 ved	O
 mod	O
-Osama	B-PER
+Musa	B-PER
 og	O
 bagefter	O
 også	O
 tog	O
 sæt	O
 fra	O
-Feras	B-PER
+Rashid	B-PER
 og	O
 viste	O
 noget	O
@@ -4048,8 +4048,8 @@ som	O
 helst	O
 .	O
 
-Ferhat	B-PER
-Shara	I-PER
+Yasmin	B-PER
+Elbenderi	I-PER
 og	O
 FN-folk	O
 søgte	O
@@ -4061,7 +4061,7 @@ en	O
 aftale	O
 .	O
 
-Sanaa	B-PER
+Abdulaziz	B-PER
 !	O
 
 PERSONALET	O
@@ -4107,7 +4107,7 @@ af	O
 salget	O
 .	O
 
-Abdallah	B-PER
+Dawood	B-PER
 luende	O
 blik	O
 måtte	O
@@ -4121,7 +4121,7 @@ lød	O
 bare	O
 ikke	O
 som	O
-Sawsan	B-PER
+Wael	B-PER
 .	O
 
 r-nato	O
@@ -4229,7 +4229,7 @@ er	O
 nissen	O
 ,	O
 sagde	O
-Dima	B-PER
+Sajjad	B-PER
 .	O
 
 Nu	O
@@ -4589,7 +4589,7 @@ ikke	O
 forstår	O
 .	O
 
-Yasser	B-PER
+Khaled	B-PER
 
 Hvidløg	O
 ,	O
@@ -4639,7 +4639,7 @@ og	O
 de	O
 vil	O
 have	O
-Safa	B-PER
+Atef	B-PER
 med	O
 som	O
 led	O
@@ -4651,7 +4651,7 @@ hvis	O
 indhold	O
 den	O
 arme	O
-Lana	B-PER
+Sofia	B-PER
 aldrig	O
 får	O
 noget	O
@@ -4705,8 +4705,8 @@ to	O
 ,	O
 "	O
 mener	O
-Sundus	B-PER
-Ghamdi	I-PER
+Sayed	B-PER
+Alaysuli	I-PER
 .	O
 
 Pisk	O
@@ -4790,7 +4790,7 @@ sandkassen	O
 med	O
 den	O
 lille	O
-Abbas	B-PER
+Yakub	B-PER
 lige	O
 før	O
 ,	O
@@ -4828,7 +4828,7 @@ teknik	O
 og	O
 naturvidenskab	O
 
-Tahira	B-PER
+Zakia	B-PER
 synes	O
 ikke	O
 altid	O
@@ -4860,8 +4860,8 @@ i	O
 BTCC-serien	B-MISC
 ,	O
 som	O
-Iman	B-PER
-Alairayki	I-PER
+Shabnam	B-PER
+Salama	I-PER
 nu	O
 har	O
 lagt	O
@@ -5067,7 +5067,7 @@ gives	O
 ikke	O
 .	O
 
-Mohammad	B-PER
+Nur	B-PER
 lykke	O
 var	O
 for	O
@@ -5186,7 +5186,7 @@ ejer	O
 der	O
 angiveligt	O
 stirrer	O
-Najia	B-PER
+Dahir	B-PER
 lige	O
 ind	O
 i	O
@@ -5247,14 +5247,14 @@ køber	O
 
 Foto	O
 :	O
-Samia	B-PER
+Malaika	B-PER
 
 En	O
 dreng	O
 ,	O
 der	O
 hedder	O
-Alissa	B-PER
+Mohamad	B-PER
 ...	O
 og	O
 en	O
@@ -5263,7 +5263,7 @@ pige	O
 ,	O
 der	O
 hedder	O
-Farhan	B-PER
+Salam	B-PER
 ?	O
 
 Men	O
@@ -5271,7 +5271,7 @@ han	O
 møder	O
 også	O
 pigen	O
-Daud	B-PER
+Hayat	B-PER
 ,	O
 som	O
 bliver	O
@@ -5379,7 +5379,7 @@ erstatte	O
 P-piller	B-MISC
 .	O
 
-Abdul	B-PER
+Jalil	B-PER
 hørte	O
 sit	O
 hjertes	O
@@ -5434,7 +5434,7 @@ Hvem	O
 mig	O
 ?	O
 spurgte	O
-Warda	B-PER
+Fatima	B-PER
 undrende	O
 .	O
 
@@ -5783,8 +5783,8 @@ i	O
 TV-kampe	O
 .	O
 
-Shahida	B-PER
-Khader	I-PER
+Nazim	B-PER
+Ramadan	I-PER
 ,	O
 26-årig	O
 lærer	O
@@ -5828,7 +5828,7 @@ efter	O
 kommer	O
 far	O
 og	O
-Aicha	B-PER
+Rana	B-PER
 op	O
 på	O
 hemsen	O
@@ -5875,8 +5875,8 @@ sclerosepatienter	O
 
 Faktisk	O
 er	O
-Sadika	B-PER
-Malkawi	I-PER
+Layla	B-PER
+Alairaysiah	I-PER
 ikke	O
 helt	O
 ukendt	O
@@ -5920,7 +5920,7 @@ kom	O
 hertil	O
 .	O
 
-Rabab	B-PER
+Ilyas	B-PER
 stod	O
 ikke	O
 ved	O
@@ -5970,11 +5970,11 @@ missionshuset	O
 ,	O
 "	O
 fortalte	O
-May	B-PER
-Hilal	I-PER
+Suleiman	B-PER
+Ajil	I-PER
 .	O
 
-Navid	B-PER
+Adam	B-PER
 har	O
 netop	O
 af	O
@@ -6083,7 +6083,7 @@ nogle	O
 skrammer	O
 .	O
 
-Saida	B-PER
+Kvindenavne	B-PER
 folk	O
 ,	O
 samlet	O
@@ -6099,8 +6099,8 @@ pct.	O
 mens	O
 tidligere	O
 ministerpræsident	O
-Aziza	B-PER
-Jabbar	I-PER
+Anas	B-PER
+Al naimi	I-PER
 socialdemokrati	O
 SOMED	B-ORG
 tilskrives	O
@@ -6167,8 +6167,8 @@ Guvernøren	O
 for	O
 Amol	B-LOC
 ,	O
-Abdullah	B-PER
-Abdul latif	I-PER
+Nazmi	B-PER
+El natour	I-PER
 ,	O
 oplyste	O
 ,	O
@@ -6333,7 +6333,7 @@ med	O
 tiplad	O
 .	O
 
-Elias	B-PER
+Hanadi	B-PER
 rystede	O
 på	O
 hovedet	O
@@ -6411,7 +6411,7 @@ tilfredse	O
 
 Astma-Bodil	O
 og	O
-Fatiha	B-PER
+Lubna	B-PER
 var	O
 færdige	O
 med	O
@@ -6529,7 +6529,7 @@ stød	O
 .	O
 
 Ægypteren	O
-Habiba	B-PER
+Fuad	B-PER
 den	O
 ensomme	O
 læge	O
@@ -6574,7 +6574,7 @@ Jeg	O
 tager	O
 ud	O
 til	O
-Kazem	B-PER
+Mir	B-PER
 igen	O
 lige	O
 over	O
@@ -6604,8 +6604,8 @@ denne	O
 gang	O
 .	O
 
-Nariman	B-PER
-Altihayfi	I-PER
+Sidra	B-PER
+Amira	I-PER
 er	O
 ugens	O
 glade	O
@@ -6887,7 +6887,7 @@ republikanerne	O
 valget	O
 ,	O
 vil	O
-Hashem	B-PER
+Akram	B-PER
 være	O
 i	O
 en	O
@@ -6987,7 +6987,7 @@ Jeg	O
 har	O
 leget	O
 med	O
-Hussain	B-PER
+Jasmine	B-PER
 hele	O
 eftermiddagen	O
 .	O
@@ -7139,7 +7139,7 @@ i	O
 baggrunden	O
 .	O
 
-Asad	B-PER
+Jamal	B-PER
 er	O
 dybt	O
 forarget	O
@@ -7249,9 +7249,9 @@ blev	O
 indviet	O
 .	O
 
-Nida	B-PER
+Ayuub	B-PER
 og	O
-Zainab	B-PER
+Younes	B-PER
 ,	O
 der	O
 var	O
@@ -7279,7 +7279,7 @@ glade	O
 øjne	O
 .	O
 
-Yakub	B-PER
+Hakima	B-PER
 tegnede	O
 et	O
 dystert	O
@@ -7408,7 +7408,7 @@ over	O
 for	O
 hendes	O
 stod	O
-Sajid	B-PER
+Faris	B-PER
 ,	O
 og	O
 ved	O
@@ -7559,8 +7559,8 @@ sovjetiske	O
 udenrigsministeriums	O
 talsmand	O
 ,	O
-Faten	B-PER
-Altamimi	I-PER
+Salem	B-PER
+Obeidat	I-PER
 ,	O
 sagde	O
 også	O
@@ -7629,14 +7629,14 @@ mit	O
 problem	O
 ,	O
 og	O
-Mahnaz	B-PER
+Seyed	B-PER
 er	O
 en	O
 anden	O
 variant	O
 ,	O
 og	O
-Zahir	B-PER
+Kadir	B-PER
 en	O
 tredje	O
 ,	O
@@ -7746,8 +7746,8 @@ overlevende	O
 polske	O
 matros	O
 ,	O
-Hanifa	B-PER
-Sioar	I-PER
+Mushtaq	B-PER
+Sahi	I-PER
 ,	O
 30	O
 ,	O
@@ -7969,7 +7969,7 @@ Med	O
 ild	O
 ?	O
 spørger	O
-Mushtaq	B-PER
+Jamil	B-PER
 .	O
 
 Bevægelser	O
@@ -8094,7 +8094,7 @@ dør	O
 hvilket	O
 blot	O
 gør	O
-Kassem	B-PER
+Rayan	B-PER
 problem	O
 med	O
 ham	O
@@ -8227,7 +8227,7 @@ dem	O
 De	O
 fleste	O
 af	O
-Tahir	B-PER
+Ehsan	B-PER
 modstandere	O
 måtte	O
 i	O
@@ -8447,7 +8447,7 @@ være	O
 min	O
 fyr	O
 ,	O
-Salah	B-PER
+Adnan	B-PER
 ,	O
 hvis	O
 jeg	O
@@ -8542,7 +8542,7 @@ mig	O
 .	O
 
 -	O
-Marwa	B-PER
+Aziz	B-PER
 må	O
 af	O
 sted	O
@@ -8793,7 +8793,7 @@ var	O
 væk	O
 .	O
 
-Layla	B-PER
+Asad	B-PER
 slår	O
 far	O
 godt	O
@@ -8911,8 +8911,8 @@ men	O
 samtidig	O
 har	O
 præsident	O
-Khaled	B-PER
-Baby	I-PER
+Zeinab	B-PER
+Odeh	I-PER
 lidt	O
 et	O
 nyt	O
@@ -9087,7 +9087,7 @@ med	O
 det	O
 passende	O
 navn	O
-Irfan	B-PER
+Ramzi	B-PER
 .	O
 
 Milde	O
@@ -9145,7 +9145,7 @@ Peaks	I-MISC
 
 Efter	O
 at	O
-Anis	B-PER
+Ghulam	B-PER
 havde	O
 påvist	O
 neutronen	O
@@ -9184,10 +9184,10 @@ mig	O
 ,	O
 der	O
 hedder	O
-Khadija	B-PER
+Randa	B-PER
 ,	O
 skyndte	O
-Yusra	B-PER
+Ashraf	B-PER
 sig	O
 at	O
 sige	O
@@ -9221,7 +9221,7 @@ i	O
 -	O
 Det	O
 er	O
-Hanadi	B-PER
+Shahnaz	B-PER
 ,	O
 der	O
 kalder	O
@@ -9233,8 +9233,8 @@ Hør	O
 bare	O
 ,	O
 hvordan	O
-Jenan	B-PER
-Albayda	I-PER
+Noor	B-PER
+Alaijaybi	I-PER
 ,	O
 instruktør	O
 af	O
@@ -9341,7 +9341,7 @@ dét	O
 ,	O
 "	O
 fortæller	O
-Dunia	B-PER
+Jalal	B-PER
 .	O
 
 Kommende	O
@@ -9456,7 +9456,7 @@ før	O
 -	O
 Ja	O
 ,	O
-Samra	B-PER
+Nadia	B-PER
 må	O
 af	O
 sted	O
@@ -9520,7 +9520,7 @@ Beirut	B-LOC
 håber	O
 ,	O
 at	O
-Majid	B-PER
+Gul	B-PER
 udtørrede	O
 målstrøm	O
 begynder	O
@@ -9875,7 +9875,7 @@ sige	O
 !	O
 "	O
 og	O
-Yaser	B-PER
+Faiza	B-PER
 kastede	O
 sig	O
 over	O
@@ -9976,8 +9976,8 @@ ganske	O
 ufarlige	O
 .	O
 
-Nidal	B-PER
-Abu Alrab	I-PER
+Abid	B-PER
+Mubarak	I-PER
 ,	O
 41-årig	O
 japaner	O
@@ -10031,7 +10031,7 @@ en	O
 smatso	O
 ,	O
 sagde	O
-Hazem	B-PER
+Adil	B-PER
 og	O
 spyttede	O
 ,	O
@@ -10254,8 +10254,8 @@ to	O
 sidste	O
 års	O
 Pondus-vinder	O
-Hadil	B-PER
-Lal	I-PER
+Lana	B-PER
+Rafiq	I-PER
 en	O
 stopper	O
 for	O
@@ -10275,14 +10275,14 @@ runder	O
 og	O
 vandt	O
 over	O
-Talha	B-PER
+Shakila	B-PER
 med	O
 21-15	O
 ,	O
 21-10	O
 .	O
 
-Idriz	B-PER
+Metin	B-PER
 sagde	O
 det	O
 .	O
@@ -10298,10 +10298,10 @@ med	O
 sin	O
 belgiske	O
 hustru	O
-Nasim	B-PER
+Karam	B-PER
 .	O
 
-Mehdi	B-PER
+Aniqa	B-PER
 rev	O
 hende	O
 i	O
@@ -10336,7 +10336,7 @@ i	O
 fadet	O
 .	O
 
-Fatih	B-PER
+Aminah	B-PER
 bed	O
 ham	O
 hurtigt	O
@@ -10361,8 +10361,8 @@ souschef	O
 i	O
 Fællessekretariatet	O
 ,	O
-Najma	B-PER
-Raghavan	I-PER
+Nusrat	B-PER
+Alnawaflh	I-PER
 .	O
 
 Hans	O
@@ -10402,16 +10402,16 @@ med	O
 det	O
 .	O
 
-Faisal	B-PER
-Ameerh	I-PER
+Abdel	B-PER
+El azazma	I-PER
 ,	O
 hustru	O
 til	O
 den	O
 nuværende	O
 præsident	O
-Yassine	B-PER
-Sihamoudin	I-PER
+Hazem	B-PER
+Kesmoulkerim	I-PER
 ,	O
 sagde	O
 forleden	O
@@ -10457,8 +10457,8 @@ den	O
 desperate	O
 mor	O
 ,	O
-Lulu	B-PER
-Fuqaha	I-PER
+Arzu	B-PER
+Razak	I-PER
 ,	O
 mens	O
 hun	O
@@ -10469,7 +10469,7 @@ sig	O
 forbi	O
 vagterne	O
 foran	O
-Bassam	B-PER
+Ramazan	B-PER
 ,	O
 som	O
 brutalt	O
@@ -10870,8 +10870,8 @@ par	O
 danske	O
 rokoko-kommoder	O
 i	O
-Mirza	B-PER
-Aytbaraahim	I-PER
+Saliha	B-PER
+Elaiouaikil	I-PER
 stil	O
 .	O
 
@@ -10900,8 +10900,8 @@ parken	O
 den	O
 19-årige	O
 producer	O
-Zeina	B-PER
-Ramachandran	I-PER
+Nabila	B-PER
+Ammar	I-PER
 fik	O
 øje	O
 på	O
@@ -11835,8 +11835,8 @@ godt	O
 skjult	O
 .	O
 
-Nafisa	B-PER
-Atoum	I-PER
+Ola	B-PER
+Altiwayliah	I-PER
 
 Vi	O
 har	O
@@ -11888,8 +11888,8 @@ for	O
 et	O
 arbejde	O
 af	O
-Habib	B-PER
-Adhyb	I-PER
+Bassam	B-PER
+Abdul jalil	I-PER
 .	O
 
 Spørgelysten	O
@@ -11921,7 +11921,7 @@ bør	O
 privatiseres	O
 .	O
 
-Najla	B-PER
+Ramla	B-PER
 har	O
 to	O
 store	O
@@ -12035,7 +12035,7 @@ til	O
 stedet	O
 ,	O
 hvor	O
-Ammar	B-PER
+Najat	B-PER
 blev	O
 forsøgt	O
 kvalt	O
@@ -12134,8 +12134,8 @@ man	O
 blive	O
 forført	O
 i	O
-Hafar	B-LOC
-Al-Batin	I-LOC
+Ar	B-LOC
+Rayyan	I-LOC
 i	O
 35	O
 graders	O
@@ -12420,7 +12420,7 @@ uge	I-MISC
 "	O
 .	O
 
-Hasib	B-PER
+Farah	B-PER
 og	O
 de	O
 andre	O
@@ -12520,8 +12520,8 @@ turistattraktion	O
 ,	O
 nemlig	O
 "	O
-Gonbad-e	B-LOC
-Kavus	I-LOC
+Shahr-e	B-LOC
+Kord	I-LOC
 "	O
 .	O
 
@@ -12711,8 +12711,8 @@ modnes	O
 
 Det	O
 hed	O
-Ar	B-LOC
-Rass	I-LOC
+Dar	B-LOC
+Kulayb	I-LOC
 ,	O
 og	O
 det	O
@@ -12907,8 +12907,8 @@ soldater	O
 .	O
 
 At	O
-Walid	B-PER
-Sarhan	I-PER
+Najla	B-PER
+Sabry	I-PER
 går	O
 hen	O
 og	O
@@ -13008,7 +13008,7 @@ altid	O
 den	O
 forhåndenværende	O
 hund	O
-Afaf	B-PER
+Sumaya	B-PER
 ,	O
 når	O
 vi	O
@@ -13097,8 +13097,8 @@ uheld	O
 
 Her	O
 gled	O
-Asima	B-PER
-Altinayhi	I-PER
+Junes	B-PER
+Sa	I-PER
 baghjul	O
 ,	O
 så	O
@@ -13107,10 +13107,10 @@ styrtede	O
 og	O
 rev	O
 både	O
-Issam	B-PER
-Swaqia	I-PER
+Samir	B-PER
+Abdel rahman	I-PER
 og	O
-Talal	B-PER
+Bashir	B-PER
 med	O
 .	O
 
@@ -13204,8 +13204,8 @@ QNB	B-ORG
 ALAHLI	I-ORG
 .	O
 
-Imane	B-PER
-Yousef	I-PER
+Jaafar	B-PER
+Albastji	I-PER
 er	O
 83	O
 og	O
@@ -13231,7 +13231,7 @@ over	O
 .	O
 
 At	O
-Nasima	B-PER
+Moussa	B-PER
 overlevede	O
 krigen	O
 ,	O
@@ -13274,7 +13274,7 @@ to	O
 tiltalte	O
 ,	O
 at	O
-Ibtisam	B-PER
+Sharifa	B-PER
 blot	O
 ringede	O
 for	O
@@ -13316,7 +13316,7 @@ Dhamar	B-LOC
 "	O
 
 "	O
-Yasin	B-PER
+Nazir	B-PER
 "	O
 :	O
 "	O
@@ -13341,7 +13341,7 @@ Qom	B-LOC
 "	O
 
 Inden	O
-Metin	B-PER
+Yonas	B-PER
 kørte	O
 mod	O
 Holland	O
@@ -13354,7 +13354,7 @@ en	O
 samtale	O
 fra	O
 "	O
-Rifat	B-PER
+Cemal	B-PER
 "	O
 til	O
 én	O
@@ -13460,8 +13460,8 @@ ny	O
 TV-serie	O
 ,	O
 som	O
-Kausar	B-PER
-Sahai	I-PER
+Rahim	B-PER
+Sahraby	I-PER
 har	O
 skabt	O
 .	O
@@ -13502,8 +13502,8 @@ desto	O
 mindre	O
 havde	O
 general	O
-Milad	B-PER
-Abdel hadi	I-PER
+Mirza	B-PER
+Noman	I-PER
 for	O
 få	O
 år	O
@@ -13668,7 +13668,7 @@ mange	O
 autograf-skriverier	O
 .	O
 
-Abdirahman	B-PER
+Hilmi	B-PER
 trak	O
 den	O
 øverste	O
@@ -13735,8 +13735,8 @@ private	O
 ,	O
 "	O
 mener	O
-Sadik	B-PER
-Siuaraa	I-PER
+Hussam	B-PER
+Barakat	I-PER
 .	O
 
 Han	O
@@ -13755,7 +13755,7 @@ forcere	O
 terrænet	O
 .	O
 
-Othman	B-PER
+Salwa	B-PER
 betragtede	O
 ham	O
 smilende	O
@@ -13767,12 +13767,12 @@ yngste	O
 page	O
 ,	O
 og	O
-Najwa	B-PER
+Rabih	B-PER
 erklærede	O
 yndling	O
 .	O
 
-Abdi	B-PER
+Süleyman	B-PER
 ,	O
 de	O
 er	O
@@ -13832,7 +13832,7 @@ tusind	O
 gange	O
 ,	O
 sagde	O
-Kadir	B-PER
+Manna	B-PER
 .	O
 
 I	O
