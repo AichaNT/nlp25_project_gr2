@@ -9,8 +9,37 @@ from scripts.load_data import (
     read_iob2_file
 )
 
-# set local seed for this script
-rnd = random.Random(20)
+# set seed
+random.seed(20)
+
+# main function for fixing overlap
+def fix_overlap(train_data, dev_data, test_data):
+    '''
+    
+    '''
+    # concatenate data
+    total_data = concatenate_data(train_data, dev_data, test_data)
+
+    # extract all unique non-"O" entities
+    total_entities = extract_labeled_tokens(total_data)
+
+    # create entity sentence mapping
+    entity_to_sents, sent_to_entities = enitity_sentence_mapping(total_data, total_entities)
+
+    # group sentences by shared entities
+    sentence_groups = group_sentences(entity_to_sents, sent_to_entities)    
+
+    # shuffle and split groups by total sentence count
+    train_group, dev_group, test_group = split_sentence_groups(sentence_groups) 
+
+    # get final slipts (with all "O" sentences)
+    train_data, dev_data, test_data = finalize_split_with_o_sentences(total_data, train_group, dev_group, test_group)
+
+    return train_data, dev_data, test_data
+
+
+
+#--------- Helper functions -------------
 
 def concatenate_data(train_data, dev_data, test_data):
     '''
@@ -70,7 +99,7 @@ def group_sentences(entity_to_sents, sent_to_entities):
 
         sentence_groups.append(group)
 
-        return sentence_groups
+    return sentence_groups
     
 
 # shuffle and split groups by total sentence count
@@ -78,7 +107,7 @@ def split_sentence_groups(sentence_groups):
     '''
     
     '''
-    rnd.shuffle(sentence_groups)
+    random.shuffle(sentence_groups)
 
     train_group, dev_group, test_group, count = [], [], [], 0
     total = sum(len(g) for g in sentence_groups)
@@ -106,7 +135,7 @@ def finalize_split_with_o_sentences(data, train_group, dev_group, test_group):
             o_tagged.append(idx)
 
 
-    rnd.shuffle(o_tagged)
+    random.shuffle(o_tagged)
     cut1, cut2 = int(len(o_tagged) * 0.8), int(len(o_tagged) * 0.9)
     train_group += o_tagged[:cut1]
     dev_group += o_tagged[cut1:cut2]
