@@ -38,29 +38,6 @@
 25	anstødeligt	O	-	-
 26	.	O	-	-
 
-1	Foruden	O	-	-
-2	at	O	-	-
-3	være	O	-	-
-4	et	O	-	-
-5	tilløbsstykke	O	-	-
-6	for	O	-	-
-7	"	O	-	-
-8	klorofyl-turister	O	-	-
-9	"	O	-	-
-10	er	O	-	-
-11	Robinson	B-MISC	-	-
-12	Crusoe	I-MISC	-	-
-13	et	O	-	-
-14	paradis	O	-	-
-15	for	O	-	-
-16	dem	O	-	-
-17	,	O	-	-
-18	der	O	-	-
-19	kan	O	-	-
-20	lide	O	-	-
-21	hummer	O	-	-
-22	.	O	-	-
-
 1	Uden	O	-	-
 2	ble	O	-	-
 3	løber	O	-	-
@@ -100,19 +77,6 @@
 26	.	O	-	-
 27	"	O	-	-
 
-1	Stakken	O	-	-
-2	blev	O	-	-
-3	tæt	O	-	-
-4	på	O	-	-
-5	2	O	-	-
-6	meter	O	-	-
-7	høj	O	-	-
-8	og	O	-	-
-9	vejede	O	-	-
-10	43,5	O	-	-
-11	kg.	O	-	-
-12	.	O	-	-
-
 1	"	O	-	-
 2	Jeg	O	-	-
 3	tænkte	O	-	-
@@ -126,74 +90,9 @@
 11	ikke	O	-	-
 12	.	O	-	-
 
-1	Kun	O	-	-
-2	den	O	-	-
-3	orangegule	O	-	-
-4	norske	O	-	-
-5	Fanta	B-MISC	-	-
-6	,	O	-	-
-7	Solus	B-MISC	-	-
-8	,	O	-	-
-9	kan	O	-	-
-10	holde	O	-	-
-11	øjne	O	-	-
-12	og	O	-	-
-13	mund	O	-	-
-14	åbne	O	-	-
-15	.	O	-	-
-
 1	Nye	O	-	-
 2	i	O	-	-
 3	BTCC	B-ORG	-	-
-
-1	Ikke	O	-	-
-2	alene	O	-	-
-3	synger	O	-	-
-4	hun	O	-	-
-5	i	O	-	-
-6	Bakkens	B-MISC	-	-
-7	Hvile	I-MISC	-	-
-8	.	O	-	-
-
-1	De	O	-	-
-2	,	O	-	-
-3	der	O	-	-
-4	udførte	O	-	-
-5	bagholdsangrebet	O	-	-
-6	,	O	-	-
-7	er	O	-	-
-8	i	O	-	-
-9	øvrigt	O	-	-
-10	uden	O	-	-
-11	for	O	-	-
-12	vor	O	-	-
-13	direkte	O	-	-
-14	kontrol	O	-	-
-15	,	O	-	-
-16	"	O	-	-
-17	sagde	O	-	-
-18	han	O	-	-
-19	til	O	-	-
-20	den	O	-	-
-21	britiske	O	-	-
-22	tv-station	O	-	-
-23	Sky	B-ORG	-	-
-24	.	O	-	-
-
-1	Jeg	O	-	-
-2	fik	O	-	-
-3	blot	O	-	-
-4	besked	O	-	-
-5	om	O	-	-
-6	,	O	-	-
-7	at	O	-	-
-8	der	O	-	-
-9	overhovedet	O	-	-
-10	ikke	O	-	-
-11	var	O	-	-
-12	nogen	O	-	-
-13	problemer	O	-	-
-14	.	O	-	-
 
 1	Blandt	O	-	-
 2	fodboldspillerne	O	-	-
@@ -315,11 +214,6 @@
 18	synsvinkel	O	-	-
 19	.	O	-	-
 
-1	Muligheder	O	-	-
-2	i	O	-	-
-3	mange	O	-	-
-4	fag	O	-	-
-
 1	Adolf	B-PER	-	-
 2	Hitler	I-PER	-	-
 3	er	O	-	-
@@ -378,33 +272,6 @@
 6	hånden	O	-	-
 7	.	O	-	-
 
-1	Hvis	O	-	-
-2	hun	O	-	-
-3	siger	O	-	-
-4	ja	O	-	-
-5	til	O	-	-
-6	at	O	-	-
-7	gifte	O	-	-
-8	sig	O	-	-
-9	med	O	-	-
-10	en	O	-	-
-11	aldrende	O	-	-
-12	mand	O	-	-
-13	blot	O	-	-
-14	for	O	-	-
-15	at	O	-	-
-16	kunne	O	-	-
-17	forlade	O	-	-
-18	Sandbygaard	B-LOC	-	-
-19	på	O	-	-
-20	en	O	-	-
-21	måde	O	-	-
-22	,	O	-	-
-23	som	O	-	-
-24	loven	O	-	-
-25	tillader	O	-	-
-26	?	O	-	-
-
 1	Dansetruppen	O	-	-
 2	har	O	-	-
 3	banandansen	O	-	-
@@ -447,25 +314,6 @@
 40	fuldmåne	O	-	-
 41	.	O	-	-
 
-1	Der	O	-	-
-2	findes	O	-	-
-3	2	O	-	-
-4	typer	O	-	-
-5	:	O	-	-
-6	Som	O	-	-
-7	kasselås	O	-	-
-8	til	O	-	-
-9	påskruning	O	-	-
-10	på	O	-	-
-11	dørens	O	-	-
-12	indvendige	O	-	-
-13	side	O	-	-
-14	eller	O	-	-
-15	som	O	-	-
-16	indstukken	O	-	-
-17	lås	O	-	-
-18	.	O	-	-
-
 1	Et	O	-	-
 2	monopol	O	-	-
 3	,	O	-	-
@@ -481,64 +329,6 @@
 13	filmkunsten	O	-	-
 14	livet	O	-	-
 15	.	O	-	-
-
-1	Og	O	-	-
-2	da	O	-	-
-3	begge	O	-	-
-4	klubber	O	-	-
-5	har	O	-	-
-6	problemer	O	-	-
-7	med	O	-	-
-8	at	O	-	-
-9	skaffe	O	-	-
-10	trænere	O	-	-
-11	og	O	-	-
-12	spillere	O	-	-
-13	,	O	-	-
-14	vil	O	-	-
-15	et	O	-	-
-16	samarbejde	O	-	-
-17	mellem	O	-	-
-18	de	O	-	-
-19	to	O	-	-
-20	klubber	O	-	-
-21	være	O	-	-
-22	oplagt	O	-	-
-23	.	O	-	-
-
-1	Firs	O	-	-
-2	aserbajdsjanere	O	-	-
-3	er	O	-	-
-4	blevet	O	-	-
-5	tilbageholdt	O	-	-
-6	af	O	-	-
-7	en	O	-	-
-8	militær	O	-	-
-9	garnison	O	-	-
-10	,	O	-	-
-11	og	O	-	-
-12	der	O	-	-
-13	er	O	-	-
-14	blevet	O	-	-
-15	iværksat	O	-	-
-16	en	O	-	-
-17	undersøgelse	O	-	-
-18	af	O	-	-
-19	episoderne	O	-	-
-20	.	O	-	-
-
-1	-	O	-	-
-2	...	O	-	-
-3	ja	O	-	-
-4	,	O	-	-
-5	det	O	-	-
-6	er	O	-	-
-7	Svane	B-PER	-	-
-8	...	O	-	-
-9	hvad	O	-	-
-10	siger	O	-	-
-11	du	O	-	-
-12	?	O	-	-
 
 1	I	O	-	-
 2	sandhedens	O	-	-
@@ -755,39 +545,6 @@
 7	.	O	-	-
 8	"	O	-	-
 
-1	Intens	O	-	-
-2	skydning	O	-	-
-3	ovre	O	-	-
-4	fra	O	-	-
-5	den	O	-	-
-6	bosniske	O	-	-
-7	side	O	-	-
-8	af	O	-	-
-9	floden	O	-	-
-10	fortæller	O	-	-
-11	sammen	O	-	-
-12	med	O	-	-
-13	ligene	O	-	-
-14	,	O	-	-
-15	der	O	-	-
-16	flyder	O	-	-
-17	ned	O	-	-
-18	ad	O	-	-
-19	Una	B-LOC	-	-
-20	,	O	-	-
-21	om	O	-	-
-22	hårde	O	-	-
-23	kampe	O	-	-
-24	,	O	-	-
-25	men	O	-	-
-26	sikker	O	-	-
-27	viden	O	-	-
-28	er	O	-	-
-29	en	O	-	-
-30	mangelvare	O	-	-
-31	hernede	O	-	-
-32	.	O	-	-
-
 1	Hun	O	-	-
 2	har	O	-	-
 3	elsket	O	-	-
@@ -820,31 +577,6 @@
 30	fri	O	-	-
 31	.	O	-	-
 
-1	Dette	O	-	-
-2	og	O	-	-
-3	mange	O	-	-
-4	andre	O	-	-
-5	spørgsmål	O	-	-
-6	besvarer	O	-	-
-7	Illustreret	B-MISC	-	-
-8	Videnskabs	I-MISC	-	-
-9	eksperter	O	-	-
-
-1	Når	O	-	-
-2	jeg	O	-	-
-3	steg	O	-	-
-4	ind	O	-	-
-5	i	O	-	-
-6	den	O	-	-
-7	,	O	-	-
-8	var	O	-	-
-9	jeg	O	-	-
-10	stadig	O	-	-
-11	den	O	-	-
-12	pæne	O	-	-
-13	pige	O	-	-
-14	.	O	-	-
-
 1	Astma-Bodil	O	-	-
 2	var	O	-	-
 3	bleg	O	-	-
@@ -865,66 +597,6 @@
 4	i	O	-	-
 5	fjernsynet	O	-	-
 6	.	O	-	-
-
-1	Intet	O	-	-
-2	gennembrud	O	-	-
-3	for	O	-	-
-4	Nutrio	B-ORG	-	-
-
-1	Frankrigs	B-ORG	-	-
-2	daværende	O	-	-
-3	landstræner	O	-	-
-4	Henri	B-PER	-	-
-5	Michel	I-PER	-	-
-6	kunne	O	-	-
-7	ikke	O	-	-
-8	længere	O	-	-
-9	komme	O	-	-
-10	uden	O	-	-
-11	om	O	-	-
-12	ham	O	-	-
-13	.	O	-	-
-
-1	11	O	-	-
-2	kratere	O	-	-
-3	i	O	-	-
-4	Argentina	B-LOC	-	-
-5	tyder	O	-	-
-6	på	O	-	-
-7	,	O	-	-
-8	at	O	-	-
-9	en	O	-	-
-10	stor	O	-	-
-11	meteor	O	-	-
-12	for	O	-	-
-13	10.000	O	-	-
-14	år	O	-	-
-15	siden	O	-	-
-16	hoppede	O	-	-
-17	hen	O	-	-
-18	over	O	-	-
-19	Jorden	B-LOC	-	-
-
-1	Derfor	O	-	-
-2	er	O	-	-
-3	der	O	-	-
-4	så	O	-	-
-5	meget	O	-	-
-6	mere	O	-	-
-7	rabalder	O	-	-
-8	på	O	-	-
-9	det	O	-	-
-10	permanente	O	-	-
-11	4-hjulstræk	O	-	-
-12	med	O	-	-
-13	en	O	-	-
-14	kraftfordeling	O	-	-
-15	på	O	-	-
-16	34:66	O	-	-
-17	for	O	-	-
-18	og	O	-	-
-19	bag	O	-	-
-20	.	O	-	-
 
 1	Det	O	-	-
 2	der	O	-	-
@@ -965,18 +637,6 @@
 37	travlt	O	-	-
 38	med	O	-	-
 39	.	O	-	-
-
-1	Der	O	-	-
-2	er	O	-	-
-3	såmænd	O	-	-
-4	bare	O	-	-
-5	tale	O	-	-
-6	om	O	-	-
-7	en	O	-	-
-8	ganske	O	-	-
-9	almindelig	O	-	-
-10	hverdagshistorie	O	-	-
-11	.	O	-	-
 
 1	"	O	-	-
 2	Jeg	O	-	-
@@ -1071,28 +731,6 @@
 18	uforudsigelig	O	-	-
 19	måde	O	-	-
 20	.	O	-	-
-
-1	Han	O	-	-
-2	blev	O	-	-
-3	synligt	O	-	-
-4	oplivet	O	-	-
-5	.	O	-	-
-
-1	Hans	O	-	-
-2	far	O	-	-
-3	havde	O	-	-
-4	hørt	O	-	-
-5	socialdemokraten	O	-	-
-6	Scheidemann	B-PER	-	-
-7	udråbe	O	-	-
-8	den	O	-	-
-9	demokratiske	O	-	-
-10	republik	O	-	-
-11	fra	O	-	-
-12	balkonen	O	-	-
-13	i	O	-	-
-14	rigsdagsbygningen	O	-	-
-15	.	O	-	-
 
 1	Vi	O	-	-
 2	har	O	-	-
@@ -1311,20 +949,6 @@
 9	Fjellstue	I-ORG	-	-
 10	.	O	-	-
 
-1	Fielfraz	B-ORG	-	-
-2	har	O	-	-
-3	en	O	-	-
-4	særlig	O	-	-
-5	måde	O	-	-
-6	at	O	-	-
-7	stå	O	-	-
-8	på	O	-	-
-9	,	O	-	-
-10	når	O	-	-
-11	de	O	-	-
-12	fotograferes	O	-	-
-13	.	O	-	-
-
 1	Jeg	O	-	-
 2	skriver	O	-	-
 3	for	O	-	-
@@ -1357,54 +981,6 @@
 11	støtte	O	-	-
 12	Masood	B-PER	-	-
 13	.	O	-	-
-
-1	Suverænitetsafgivelse	O	-	-
-2	kan	O	-	-
-3	der	O	-	-
-4	heller	O	-	-
-5	ikke	O	-	-
-6	blive	O	-	-
-7	tale	O	-	-
-8	om	O	-	-
-9	.	O	-	-
-
-1	Ikke	O	-	-
-2	blot	O	-	-
-3	i	O	-	-
-4	juletiden	O	-	-
-5	,	O	-	-
-6	men	O	-	-
-7	hele	O	-	-
-8	året	O	-	-
-9	med	O	-	-
-10	kaffe	O	-	-
-11	,	O	-	-
-12	te	O	-	-
-13	og	O	-	-
-14	småkager	O	-	-
-15	,	O	-	-
-16	mens	O	-	-
-17	folk	O	-	-
-18	enten	O	-	-
-19	venter	O	-	-
-20	på	O	-	-
-21	at	O	-	-
-22	komme	O	-	-
-23	til	O	-	-
-24	eller	O	-	-
-25	skal	O	-	-
-26	sidde	O	-	-
-27	en	O	-	-
-28	times	O	-	-
-29	tid	O	-	-
-30	med	O	-	-
-31	curlere	O	-	-
-32	i	O	-	-
-33	håret	O	-	-
-34	eller	O	-	-
-35	i	O	-	-
-36	tørrehjelm	O	-	-
-37	.	O	-	-
 
 1	Flyet	O	-	-
 2	er	O	-	-
@@ -1471,21 +1047,6 @@
 16	vej	O	-	-
 17	ud	O	-	-
 18	.	O	-	-
-
-1	Jeg	O	-	-
-2	blev	O	-	-
-3	forvirret	O	-	-
-4	,	O	-	-
-5	da	O	-	-
-6	alle	O	-	-
-7	mulighederne	O	-	-
-8	på	O	-	-
-9	skolen	O	-	-
-10	åbnede	O	-	-
-11	sig	O	-	-
-12	for	O	-	-
-13	mig	O	-	-
-14	.	O	-	-
 
 1	Og	O	-	-
 2	det	O	-	-
@@ -1554,16 +1115,6 @@
 20	på	O	-	-
 21	Ibrox	B-LOC	-	-
 22	.	O	-	-
-
-1	De	O	-	-
-2	har	O	-	-
-3	desuden	O	-	-
-4	unddraget	O	-	-
-5	skattevæsenet	O	-	-
-6	3,5	O	-	-
-7	millioner	O	-	-
-8	kroner	O	-	-
-9	.	O	-	-
 
 1	60	O	-	-
 2	studerende	O	-	-
@@ -1739,27 +1290,6 @@
 19	60.000	O	-	-
 20	.	O	-	-
 
-1	Fremtids-folkenes	O	-	-
-2	succes	O	-	-
-3	blokerer	O	-	-
-4	for	O	-	-
-5	en	O	-	-
-6	oplagt	O	-	-
-7	mulighed	O	-	-
-8	til	O	-	-
-9	at	O	-	-
-10	gå	O	-	-
-11	nye	O	-	-
-12	veje	O	-	-
-13	og	O	-	-
-14	prøve	O	-	-
-15	nye	O	-	-
-16	spillere	O	-	-
-17	før	O	-	-
-18	efterårets	O	-	-
-19	VM-kampe	O	-	-
-20	.	O	-	-
-
 1	UDSENDES	O	-	-
 2	KL	O	-	-
 3	=	O	-	-
@@ -1767,30 +1297,6 @@
 5	OPLÆSER	O	-	-
 6	=	O	-	-
 7	CEG	B-ORG	-	-
-
-1	Tynde	O	-	-
-2	gummisko	O	-	-
-3	er	O	-	-
-4	altså	O	-	-
-5	ikke	O	-	-
-6	velegnede	O	-	-
-7	til	O	-	-
-8	formålet	O	-	-
-9	.	O	-	-
-
-1	Spørgsmålet	O	-	-
-2	er	O	-	-
-3	,	O	-	-
-4	hvor	O	-	-
-5	meget	O	-	-
-6	Pio-episoden	O	-	-
-7	1871-77	O	-	-
-8	fortjener	O	-	-
-9	opmærksomhed	O	-	-
-10	i	O	-	-
-11	dansk	O	-	-
-12	arbejderhistorie	O	-	-
-13	.	O	-	-
 
 1	Nu	O	-	-
 2	ler	O	-	-
@@ -1814,36 +1320,6 @@
 4	med	O	-	-
 5	servo	O	-	-
 6	.	O	-	-
-
-1	Der	O	-	-
-2	er	O	-	-
-3	stor	O	-	-
-4	hemmelighed	O	-	-
-5	omkring	O	-	-
-6	de	O	-	-
-7	turnerende	O	-	-
-8	gruppers	O	-	-
-9	økonomi	O	-	-
-10	,	O	-	-
-11	og	O	-	-
-12	selv	O	-	-
-13	koncertarrangøren	O	-	-
-14	ved	O	-	-
-15	ikke	O	-	-
-16	,	O	-	-
-17	hvad	O	-	-
-18	en	O	-	-
-19	gruppe	O	-	-
-20	har	O	-	-
-21	i	O	-	-
-22	overskud	O	-	-
-23	,	O	-	-
-24	når	O	-	-
-25	udgifterne	O	-	-
-26	er	O	-	-
-27	trukket	O	-	-
-28	fra	O	-	-
-29	.	O	-	-
 
 1	-	O	-	-
 2	Måske	O	-	-
@@ -1909,20 +1385,6 @@
 6	gjort	O	-	-
 7	.	O	-	-
 
-1	Det	O	-	-
-2	må	O	-	-
-3	I	O	-	-
-4	sø'mer	O	-	-
-5	undskylde	O	-	-
-6	,	O	-	-
-7	men	O	-	-
-8	jeg	O	-	-
-9	har	O	-	-
-10	fuldkommen	O	-	-
-11	glemt	O	-	-
-12	aftalen	O	-	-
-13	.	O	-	-
-
 1	Her	O	-	-
 2	vil	O	-	-
 3	han	O	-	-
@@ -1933,61 +1395,6 @@
 
 1	STADIG	O	-	-
 2	STØRST	O	-	-
-
-1	Politiets	O	-	-
-2	teknikere	O	-	-
-3	har	O	-	-
-4	ikke	O	-	-
-5	fundet	O	-	-
-6	rester	O	-	-
-7	af	O	-	-
-8	bomben	O	-	-
-9	endnu	O	-	-
-10	,	O	-	-
-11	men	O	-	-
-12	kilovis	O	-	-
-13	af	O	-	-
-14	materiale	O	-	-
-15	,	O	-	-
-16	der	O	-	-
-17	er	O	-	-
-18	samlet	O	-	-
-19	på	O	-	-
-20	stedet	O	-	-
-21	,	O	-	-
-22	skal	O	-	-
-23	nu	O	-	-
-24	fin-sorteres	O	-	-
-25	og	O	-	-
-26	undersøges	O	-	-
-27	.	O	-	-
-
-1	Den	O	-	-
-2	skulle	O	-	-
-3	udstyres	O	-	-
-4	med	O	-	-
-5	et	O	-	-
-6	internationalt	O	-	-
-7	spillecasino	O	-	-
-8	og	O	-	-
-9	erklæres	O	-	-
-10	for	O	-	-
-11	skattefrit	O	-	-
-12	område	O	-	-
-13	,	O	-	-
-14	så	O	-	-
-15	den	O	-	-
-16	kunne	O	-	-
-17	tage	O	-	-
-18	konkurrencen	O	-	-
-19	op	O	-	-
-20	med	O	-	-
-21	Cayman	B-LOC	-	-
-22	Islands	I-LOC	-	-
-23	og	O	-	-
-24	andre	O	-	-
-25	skattely	O	-	-
-26	.	O	-	-
 
 1	Den	O	-	-
 2	chokerede	O	-	-
@@ -2014,47 +1421,6 @@
 23	område	O	-	-
 24	.	O	-	-
 
-1	Man	O	-	-
-2	vil	O	-	-
-3	kunne	O	-	-
-4	købe	O	-	-
-5	to	O	-	-
-6	billetter	O	-	-
-7	til	O	-	-
-8	én	O	-	-
-9	billets	O	-	-
-10	pris	O	-	-
-11	,	O	-	-
-12	og	O	-	-
-13	i	O	-	-
-14	en	O	-	-
-15	række	O	-	-
-16	Bilka-	B-ORG	-	-
-17	og	O	-	-
-18	OBS-butikker	O	-	-
-19	,	O	-	-
-20	hvor	O	-	-
-21	der	O	-	-
-22	i	O	-	-
-23	disse	O	-	-
-24	dage	O	-	-
-25	vises	O	-	-
-26	danske	O	-	-
-27	filmtrailere	O	-	-
-28	på	O	-	-
-29	video-storskærme	O	-	-
-30	,	O	-	-
-31	arrangeres	O	-	-
-32	filmquiz	O	-	-
-33	med	O	-	-
-34	fribilletter	O	-	-
-35	til	O	-	-
-36	danske	O	-	-
-37	film	O	-	-
-38	som	O	-	-
-39	præmier	O	-	-
-40	.	O	-	-
-
 1	Slutningen	O	-	-
 2	lyder	O	-	-
 3	næsten	O	-	-
@@ -2066,16 +1432,6 @@
 9	åen	I-MISC	-	-
 10	"	O	-	-
 11	.	O	-	-
-
-1	De	O	-	-
-2	bakker	O	-	-
-3	mig	O	-	-
-4	altid	O	-	-
-5	op	O	-	-
-6	og	O	-	-
-7	hjælper	O	-	-
-8	mig	O	-	-
-9	.	O	-	-
 
 1	Derfor	O	-	-
 2	valgte	O	-	-
@@ -2259,16 +1615,6 @@
 27	nedskæringer	O	-	-
 28	.	O	-	-
 
-1	For	O	-	-
-2	det	O	-	-
-3	andet	O	-	-
-4	:	O	-	-
-5	Mennesker	O	-	-
-6	oplever	O	-	-
-7	verden	O	-	-
-8	forskelligt	O	-	-
-9	.	O	-	-
-
 1	Til	O	-	-
 2	lykke	O	-	-
 3	til	O	-	-
@@ -2323,79 +1669,8 @@
 
 1	-	O	-	-
 
-1	Efter	O	-	-
-2	flere	O	-	-
-3	års	O	-	-
-4	forberedelse	O	-	-
-5	og	O	-	-
-6	flere	O	-	-
-7	store	O	-	-
-8	møder	O	-	-
-9	har	O	-	-
-10	15	O	-	-
-11	familier	O	-	-
-12	skrevet	O	-	-
-13	under	O	-	-
-14	på	O	-	-
-15	,	O	-	-
-16	at	O	-	-
-17	de	O	-	-
-18	vil	O	-	-
-19	være	O	-	-
-20	med	O	-	-
-21	i	O	-	-
-22	bofællesskabet	O	-	-
-23	.	O	-	-
-
-1	Bernie	B-PER	-	-
-2	sad	O	-	-
-3	tavs	O	-	-
-4	i	O	-	-
-5	lang	O	-	-
-6	tid	O	-	-
-7	,	O	-	-
-8	så	O	-	-
-9	bøjede	O	-	-
-10	han	O	-	-
-11	sig	O	-	-
-12	frem	O	-	-
-13	mod	O	-	-
-14	den	O	-	-
-15	anden	O	-	-
-16	og	O	-	-
-17	så	O	-	-
-18	indtrængende	O	-	-
-19	på	O	-	-
-20	hende	O	-	-
-21	.	O	-	-
-
 1	Dansk	O	-	-
 2	skib	O	-	-
-
-1	Men	O	-	-
-2	inden	O	-	-
-3	det	O	-	-
-4	lykkedes	O	-	-
-5	,	O	-	-
-6	var	O	-	-
-7	han	O	-	-
-8	så	O	-	-
-9	langt	O	-	-
-10	ude	O	-	-
-11	,	O	-	-
-12	at	O	-	-
-13	han	O	-	-
-14	nogle	O	-	-
-15	morgener	O	-	-
-16	vågnede	O	-	-
-17	og	O	-	-
-18	intet	O	-	-
-19	ku'	O	-	-
-20	huske	O	-	-
-21	fra	O	-	-
-22	nattens	O	-	-
-23	strabadser	O	-	-
-24	.	O	-	-
 
 1	Alle	O	-	-
 2	de	O	-	-
@@ -2429,9 +1704,6 @@
 4	lægge	O	-	-
 5	hende	O	-	-
 6	?	O	-	-
-
-1	50	O	-	-
-2	Markedschef	O	-	-
 
 1	Der	O	-	-
 2	findes	O	-	-
@@ -2484,44 +1756,6 @@
 32	certifikat	O	-	-
 33	)	O	-	-
 34	.	O	-	-
-
-1	Og	O	-	-
-2	det	O	-	-
-3	viste	O	-	-
-4	sig	O	-	-
-5	endda	O	-	-
-6	at	O	-	-
-7	et	O	-	-
-8	voldsomt	O	-	-
-9	snefald	O	-	-
-10	natten	O	-	-
-11	før	O	-	-
-12	havde	O	-	-
-13	gjort	O	-	-
-14	veje	O	-	-
-15	og	O	-	-
-16	togskinner	O	-	-
-17	ufremkommelige	O	-	-
-18	.	O	-	-
-
-1	Det	O	-	-
-2	er	O	-	-
-3	værd	O	-	-
-4	at	O	-	-
-5	bemærke	O	-	-
-6	,	O	-	-
-7	at	O	-	-
-8	Liverpools	B-ORG	-	-
-9	forsvar	O	-	-
-10	er	O	-	-
-11	blevet	O	-	-
-12	mere	O	-	-
-13	stabilt	O	-	-
-14	efter	O	-	-
-15	Piechniks	B-PER	-	-
-16	entre	O	-	-
-17	"	O	-	-
-18	.	O	-	-
 
 1	Bassam	B-PER	-	-
 2	viser	O	-	-
@@ -2585,11 +1819,6 @@
 5	OPLÆSER	O	-	-
 6	=	O	-	-
 7	sdt	O	-	-
-
-1	-	O	-	-
-2	75	O	-	-
-3	øre	O	-	-
-4	.	O	-	-
 
 1	Han	O	-	-
 2	vandt	O	-	-
@@ -2735,25 +1964,6 @@
 14	gæstemad	O	-	-
 15	.	O	-	-
 
-1	Fast	O	-	-
-2	job	O	-	-
-
-1	Man	O	-	-
-2	kan	O	-	-
-3	ikke	O	-	-
-4	bruge	O	-	-
-5	de	O	-	-
-6	tynde	O	-	-
-7	skiver	O	-	-
-8	,	O	-	-
-9	som	O	-	-
-10	ligger	O	-	-
-11	færdigpakkede	O	-	-
-12	i	O	-	-
-13	en	O	-	-
-14	køledisk	O	-	-
-15	.	O	-	-
-
 1	Et	O	-	-
 2	af	O	-	-
 3	de	O	-	-
@@ -2805,16 +2015,6 @@
 21	selvmord	O	-	-
 22	.	O	-	-
 
-1	"	O	-	-
-2	Jeg	O	-	-
-3	tror	O	-	-
-4	tv-annonce-kampagner	O	-	-
-5	skader	O	-	-
-6	dansk	O	-	-
-7	rock	O	-	-
-8	meget	O	-	-
-9	.	O	-	-
-
 1	Her	O	-	-
 2	møder	O	-	-
 3	han	O	-	-
@@ -2836,19 +2036,6 @@
 19	136	O	-	-
 20	kampe	O	-	-
 21	.	O	-	-
-
-1	De	O	-	-
-2	kan	O	-	-
-3	imidlertid	O	-	-
-4	hurtigt	O	-	-
-5	blive	O	-	-
-6	,	O	-	-
-7	hvad	O	-	-
-8	de	O	-	-
-9	endnu	O	-	-
-10	ikke	O	-	-
-11	er	O	-	-
-12	.	O	-	-
 
 1	Regenten	O	-	-
 2	deltager	O	-	-
@@ -2927,41 +2114,6 @@
 8	forsvundet	O	-	-
 9	.	O	-	-
 
-1	Hvorefter	O	-	-
-2	grupperne	O	-	-
-3	nu	O	-	-
-4	i	O	-	-
-5	et	O	-	-
-6	frigjort	O	-	-
-7	,	O	-	-
-8	satanisk	O	-	-
-9	had	O	-	-
-10	,	O	-	-
-11	med	O	-	-
-12	mord	O	-	-
-13	,	O	-	-
-14	bombesprængninger	O	-	-
-15	,	O	-	-
-16	snigskytter	O	-	-
-17	og	O	-	-
-18	brande	O	-	-
-19	gennemfører	O	-	-
-20	deres	O	-	-
-21	egen	O	-	-
-22	gensidige	O	-	-
-23	etniske	O	-	-
-24	renselse	O	-	-
-25	.	O	-	-
-
-1	Internt	O	-	-
-2	er	O	-	-
-3	bryllups-reportagen	O	-	-
-4	blevet	O	-	-
-5	en	O	-	-
-6	varm	O	-	-
-7	kartoffel	O	-	-
-8	.	O	-	-
-
 1	Nu	O	-	-
 2	må	O	-	-
 3	vi	O	-	-
@@ -2996,45 +2148,6 @@
 32	har	O	-	-
 33	gjort	O	-	-
 34	.	O	-	-
-
-1	Dommeren	O	-	-
-2	Leonid	B-PER	-	-
-3	Akubzhanov	B-PER	-	-
-4	lagde	O	-	-
-5	stor	O	-	-
-6	vægt	O	-	-
-7	på	O	-	-
-8	,	O	-	-
-9	at	O	-	-
-10	massemorderen	O	-	-
-11	omhyggeligt	O	-	-
-12	og	O	-	-
-13	kynisk	O	-	-
-14	havde	O	-	-
-15	planlagt	O	-	-
-16	og	O	-	-
-17	udført	O	-	-
-18	sine	O	-	-
-19	grusomme	O	-	-
-20	forbrydelser	O	-	-
-21	-	O	-	-
-22	og	O	-	-
-23	bagefter	O	-	-
-24	udryddet	O	-	-
-25	afslørende	O	-	-
-26	bevis-materiale	O	-	-
-27	.	O	-	-
-
-1	Det	O	-	-
-2	er	O	-	-
-3	kvalitet	O	-	-
-4	,	O	-	-
-5	der	O	-	-
-6	gør	O	-	-
-7	dansk	O	-	-
-8	industri	O	-	-
-9	konkurrencedygtig	O	-	-
-10	.	O	-	-
 
 1	Men	O	-	-
 2	det	O	-	-
@@ -3134,30 +2247,6 @@
 33	.	O	-	-
 
 1	"	O	-	-
-2	Jeg	O	-	-
-3	kunne	O	-	-
-4	anlægge	O	-	-
-5	retssager	O	-	-
-6	,	O	-	-
-7	men	O	-	-
-8	så	O	-	-
-9	ville	O	-	-
-10	jeg	O	-	-
-11	samtidig	O	-	-
-12	ødelægge	O	-	-
-13	mit	O	-	-
-14	liv	O	-	-
-15	,	O	-	-
-16	og	O	-	-
-17	det	O	-	-
-18	ønsker	O	-	-
-19	jeg	O	-	-
-20	ikke	O	-	-
-21	at	O	-	-
-22	gøre	O	-	-
-23	.	O	-	-
-
-1	"	O	-	-
 2	Vi	O	-	-
 3	imødekommer	O	-	-
 4	regeringens	O	-	-
@@ -3235,27 +2324,6 @@
 14	"	O	-	-
 15	.	O	-	-
 
-1	En	O	-	-
-2	indvandrerfamilie	O	-	-
-3	i	O	-	-
-4	deres	O	-	-
-5	gamle	O	-	-
-6	bil	O	-	-
-7	har	O	-	-
-8	sat	O	-	-
-9	vindusviskerne	O	-	-
-10	til	O	-	-
-11	-	O	-	-
-12	der	O	-	-
-13	er	O	-	-
-14	bundet	O	-	-
-15	et	O	-	-
-16	dannebrogsflag	B-MISC	-	-
-17	på	O	-	-
-18	hver	O	-	-
-19	visker	O	-	-
-20	.	O	-	-
-
 1	Men	O	-	-
 2	senere	O	-	-
 3	opdagede	O	-	-
@@ -3277,44 +2345,6 @@
 19	til	O	-	-
 20	promotion	O	-	-
 21	.	O	-	-
-
-1	De	O	-	-
-2	siger	O	-	-
-3	,	O	-	-
-4	at	O	-	-
-5	man	O	-	-
-6	ved	O	-	-
-7	at	O	-	-
-8	spise	O	-	-
-9	et	O	-	-
-10	par	O	-	-
-11	fed	O	-	-
-12	frisk	O	-	-
-13	hvidløg	O	-	-
-14	eller	O	-	-
-15	to	O	-	-
-16	hvidløgstabletter	O	-	-
-17	hver	O	-	-
-18	dag	O	-	-
-19	støtter	O	-	-
-20	de	O	-	-
-21	hvide	O	-	-
-22	blodlegemer	O	-	-
-23	og	O	-	-
-24	alle	O	-	-
-25	de	O	-	-
-26	andre	O	-	-
-27	soldater	O	-	-
-28	i	O	-	-
-29	immunsystemet	O	-	-
-30	,	O	-	-
-31	der	O	-	-
-32	skal	O	-	-
-33	holde	O	-	-
-34	kroppens	O	-	-
-35	fjender	O	-	-
-36	væk	O	-	-
-37	.	O	-	-
 
 1	"	O	-	-
 2	Hvis	O	-	-
@@ -3450,31 +2480,6 @@
 29	Timisoara	B-LOC	-	-
 30	.	O	-	-
 
-1	Det	O	-	-
-2	er	O	-	-
-3	jo	O	-	-
-4	ikke	O	-	-
-5	sådan	O	-	-
-6	,	O	-	-
-7	at	O	-	-
-8	vi	O	-	-
-9	lægger	O	-	-
-10	op	O	-	-
-11	til	O	-	-
-12	konflikt	O	-	-
-13	,	O	-	-
-14	men	O	-	-
-15	i	O	-	-
-16	forvejen	O	-	-
-17	er	O	-	-
-18	udluftningen	O	-	-
-19	i	O	-	-
-20	ministeriet	O	-	-
-21	ikke	O	-	-
-22	for	O	-	-
-23	god	O	-	-
-24	.	O	-	-
-
 1	De	O	-	-
 2	kunne	O	-	-
 3	være	O	-	-
@@ -3492,90 +2497,6 @@
 15	hustru	I-MISC	-	-
 16	"	O	-	-
 17	.	O	-	-
-
-1	KTAS'	B-ORG	-	-
-2	ledelse	O	-	-
-3	har	O	-	-
-4	tilsyneladende	O	-	-
-5	heller	O	-	-
-6	ikke	O	-	-
-7	lært	O	-	-
-8	den	O	-	-
-9	gamle	O	-	-
-10	regel	O	-	-
-11	om	O	-	-
-12	,	O	-	-
-13	"	O	-	-
-14	..	O	-	-
-15	at	O	-	-
-16	man	O	-	-
-17	kan	O	-	-
-18	narre	O	-	-
-19	nogle	O	-	-
-20	få	O	-	-
-21	altid	O	-	-
-22	og	O	-	-
-23	de	O	-	-
-24	fleste	O	-	-
-25	i	O	-	-
-26	en	O	-	-
-27	kortere	O	-	-
-28	tid	O	-	-
-29	,	O	-	-
-30	men	O	-	-
-31	man	O	-	-
-32	kan	O	-	-
-33	ikke	O	-	-
-34	narre	O	-	-
-35	alle	O	-	-
-36	altid	O	-	-
-37	.	O	-	-
-38	"	O	-	-
-
-1	Senere	O	-	-
-2	bliver	O	-	-
-3	jeg	O	-	-
-4	sat	O	-	-
-5	diskret	O	-	-
-6	på	O	-	-
-7	plads	O	-	-
-8	,	O	-	-
-9	da	O	-	-
-10	hun	O	-	-
-11	fremholder	O	-	-
-12	et	O	-	-
-13	stjernerillet	O	-	-
-14	låg	O	-	-
-15	-	O	-	-
-16	hvidt	O	-	-
-17	-	O	-	-
-18	og	O	-	-
-19	lidt	O	-	-
-20	nedladende	O	-	-
-21	beretter	O	-	-
-22	,	O	-	-
-23	at	O	-	-
-24	"	O	-	-
-25	mænd	O	-	-
-26	ofte	O	-	-
-27	bruger	O	-	-
-28	låget	O	-	-
-29	som	O	-	-
-30	tallerken	O	-	-
-31	"	O	-	-
-32	.	O	-	-
-
-1	Udsendelsen	O	-	-
-2	gav	O	-	-
-3	gode	O	-	-
-4	billeder	O	-	-
-5	fra	O	-	-
-6	vores	O	-	-
-7	fælles	O	-	-
-8	historiebogs	O	-	-
-9	senere	O	-	-
-10	kapitler	O	-	-
-11	.	O	-	-
 
 1	Svanes	B-PER	-	-
 2	øjne	O	-	-
@@ -3758,18 +2679,6 @@
 11	muskler	O	-	-
 12	.	O	-	-
 
-1	Den	O	-	-
-2	ene	O	-	-
-3	knækkede	O	-	-
-4	og	O	-	-
-5	den	O	-	-
-6	anden	O	-	-
-7	er	O	-	-
-8	skæv	O	-	-
-9	i	O	-	-
-10	biddet	O	-	-
-11	.	O	-	-
-
 1	Samtidig	O	-	-
 2	ligger	O	-	-
 3	hans	O	-	-
@@ -3785,28 +2694,6 @@
 5	så	O	-	-
 6	.	O	-	-
 
-1	Det	O	-	-
-2	snehvide	O	-	-
-3	propagandapalads	O	-	-
-4	i	O	-	-
-5	Wilhelmstrasse	B-LOC	-	-
-6	beskæftigede	O	-	-
-7	flere	O	-	-
-8	psykologer	O	-	-
-9	end	O	-	-
-10	journalister	O	-	-
-11	.	O	-	-
-
-1	Der	O	-	-
-2	var	O	-	-
-3	altid	O	-	-
-4	noget	O	-	-
-5	at	O	-	-
-6	rive	O	-	-
-7	i	O	-	-
-8	.	O	-	-
-9	"	O	-	-
-
 1	Fadet	O	-	-
 2	med	O	-	-
 3	grønsager	O	-	-
@@ -3821,34 +2708,6 @@
 
 1	BANDETS	O	-	-
 2	LÆRETID	O	-	-
-
-1	Vigtigt	O	-	-
-2	at	O	-	-
-3	vide	O	-	-
-4	,	O	-	-
-5	hvis	O	-	-
-6	man	O	-	-
-7	vakler	O	-	-
-8	mellem	O	-	-
-9	en	O	-	-
-10	benzin-	O	-	-
-11	og	O	-	-
-12	en	O	-	-
-13	dieseldrevet	O	-	-
-14	bil	O	-	-
-15	.	O	-	-
-
-1	"	O	-	-
-2	De	O	-	-
-3	striv'de	O	-	-
-4	"	O	-	-
-5	fik	O	-	-
-6	rø'e	O	-	-
-7	tæsk	O	-	-
-8	og	O	-	-
-9	rø'e	O	-	-
-10	kort	O	-	-
-11	.	O	-	-
 
 1	I	O	-	-
 2	dag	O	-	-
@@ -3866,96 +2725,6 @@
 14	andre	O	-	-
 15	alkoholikere	O	-	-
 16	.	O	-	-
-
-1	Miljøbevidste	O	-	-
-2	postfolk	O	-	-
-3	på	O	-	-
-4	nogle	O	-	-
-5	af	O	-	-
-6	Colorados	B-LOC	-	-
-7	postkontorer	O	-	-
-8	fik	O	-	-
-9	den	O	-	-
-10	idé	O	-	-
-11	at	O	-	-
-12	opstille	O	-	-
-13	poser	O	-	-
-14	til	O	-	-
-15	genbrugspapir	O	-	-
-16	ved	O	-	-
-17	siden	O	-	-
-18	af	O	-	-
-19	folks	O	-	-
-20	postkasser	O	-	-
-21	.	O	-	-
-
-1	"	O	-	-
-2	Du	O	-	-
-3	kender	O	-	-
-4	ikke	O	-	-
-5	muslimerne	O	-	-
-6	.	O	-	-
-7	Det	O	-	-
-8	er	O	-	-
-9	fantastisk	O	-	-
-10	.	O	-	-
-11	De	O	-	-
-12	lyver	O	-	-
-13	én	O	-	-
-14	lige	O	-	-
-15	op	O	-	-
-16	i	O	-	-
-17	ansigtet	O	-	-
-18	,	O	-	-
-19	selv	O	-	-
-20	om	O	-	-
-21	det	O	-	-
-22	er	O	-	-
-23	indlysende	O	-	-
-24	,	O	-	-
-25	at	O	-	-
-26	de	O	-	-
-27	gør	O	-	-
-28	det	O	-	-
-29	.	O	-	-
-30	Det	O	-	-
-31	er	O	-	-
-32	,	O	-	-
-33	som	O	-	-
-34	om	O	-	-
-35	det	O	-	-
-36	er	O	-	-
-37	en	O	-	-
-38	del	O	-	-
-39	af	O	-	-
-40	deres	O	-	-
-41	kultur	O	-	-
-42	.	O	-	-
-43	"	O	-	-
-
-1	Her	O	-	-
-2	med	O	-	-
-3	sine	O	-	-
-4	med	O	-	-
-5	sine	O	-	-
-6	sønner	O	-	-
-7	,	O	-	-
-8	PILOU	B-PER	-	-
-9	,	O	-	-
-10	10	O	-	-
-11	år	O	-	-
-12	,	O	-	-
-13	MARTIN	B-PER	-	-
-14	,	O	-	-
-15	17	O	-	-
-16	år	O	-	-
-17	,	O	-	-
-18	og	O	-	-
-19	THOMAS	B-PER	-	-
-20	,	O	-	-
-21	19	O	-	-
-22	år	O	-	-
-23	.	O	-	-
 
 1	I	O	-	-
 2	Nordsjælland	B-LOC	-	-
@@ -4002,17 +2771,6 @@
 43	jagt	O	-	-
 44	.	O	-	-
 
-1	Men	O	-	-
-2	hvordan	O	-	-
-3	kan	O	-	-
-4	man	O	-	-
-5	påvirke	O	-	-
-6	et	O	-	-
-7	østlands	B-LOC	-	-
-8	lukkede	O	-	-
-9	system	O	-	-
-10	?	O	-	-
-
 1	Omkring	O	-	-
 2	20	O	-	-
 3	soldater	O	-	-
@@ -4036,39 +2794,10 @@
 21	bekræftet	O	-	-
 22	.	O	-	-
 
-1	Dag	O	-	-
-2	og	O	-	-
-3	nat	O	-	-
-4	er	O	-	-
-5	blevet	O	-	-
-6	ophævet	O	-	-
-7	her	O	-	-
-8	.	O	-	-
-
 1	Kernefysik	O	-	-
 2	efter	O	-	-
 3	neutronens	O	-	-
 4	opdagelse	O	-	-
-
-1	Det	O	-	-
-2	var	O	-	-
-3	det	O	-	-
-4	første	O	-	-
-5	,	O	-	-
-6	vi	O	-	-
-7	hørte	O	-	-
-8	om	O	-	-
-9	,	O	-	-
-10	at	O	-	-
-11	Lis	B-PER	-	-
-12	og	O	-	-
-13	hendes	O	-	-
-14	mand	O	-	-
-15	skulle	O	-	-
-16	have	O	-	-
-17	et	O	-	-
-18	barn	O	-	-
-19	.	O	-	-
 
 1	Box	O	-	-
 2	64	O	-	-
@@ -4163,25 +2892,6 @@
 17	ligegyldigt	O	-	-
 18	.	O	-	-
 
-1	Jeg	O	-	-
-2	frygter	O	-	-
-3	,	O	-	-
-4	der	O	-	-
-5	er	O	-	-
-6	mange	O	-	-
-7	dræbte	O	-	-
-8	,	O	-	-
-9	"	O	-	-
-10	sagde	O	-	-
-11	en	O	-	-
-12	talsmand	O	-	-
-13	for	O	-	-
-14	politiet	O	-	-
-15	,	O	-	-
-16	Klaaf	B-PER	-	-
-17	Wilting	I-PER	-	-
-18	.	O	-	-
-
 1	Vinder	O	-	-
 2	samfundet	O	-	-
 3	kun	O	-	-
@@ -4199,18 +2909,6 @@
 15	meget	O	-	-
 16	mere	O	-	-
 17	.	O	-	-
-
-1	Kikker	O	-	-
-2	ud	O	-	-
-3	ad	O	-	-
-4	vinduet	O	-	-
-5	mod	O	-	-
-6	de	O	-	-
-7	snedækkede	O	-	-
-8	Hindu	B-LOC	-	-
-9	Kush	I-LOC	-	-
-10	bjerge	O	-	-
-11	.	O	-	-
 
 1	Det	O	-	-
 2	kan	O	-	-
@@ -4266,35 +2964,6 @@
 12	Smykkekæden	B-ORG	-	-
 13	.	O	-	-
 
-1	Samtidig	O	-	-
-2	er	O	-	-
-3	han	O	-	-
-4	meget	O	-	-
-5	fair	O	-	-
-6	på	O	-	-
-7	banen	O	-	-
-8	,	O	-	-
-9	og	O	-	-
-10	jeg	O	-	-
-11	kan	O	-	-
-12	ikke	O	-	-
-13	mindes	O	-	-
-14	,	O	-	-
-15	jeg	O	-	-
-16	har	O	-	-
-17	haft	O	-	-
-18	"	O	-	-
-19	problemer	O	-	-
-20	"	O	-	-
-21	med	O	-	-
-22	ham	O	-	-
-23	under	O	-	-
-24	træning	O	-	-
-25	eller	O	-	-
-26	i	O	-	-
-27	løb	O	-	-
-28	.	O	-	-
-
 1	Fiats	B-ORG	-	-
 2	topmodel	O	-	-
 3	,	O	-	-
@@ -4327,18 +2996,6 @@
 30	bedre	O	-	-
 31	egenskaber	O	-	-
 32	.	O	-	-
-
-1	Den	O	-	-
-2	tidligere	O	-	-
-3	så	O	-	-
-4	omfangsrige	O	-	-
-5	Kosan-gruppe	O	-	-
-6	er	O	-	-
-7	spredt	O	-	-
-8	for	O	-	-
-9	alle	O	-	-
-10	vinde	O	-	-
-11	.	O	-	-
 
 1	Der	O	-	-
 2	blev	O	-	-
@@ -4373,27 +3030,6 @@
 6	Nanas	B-PER	-	-
 7	hus	O	-	-
 8	.	O	-	-
-
-1	Fugle	O	-	-
-2	har	O	-	-
-3	en	O	-	-
-4	imponerende	O	-	-
-5	evne	O	-	-
-6	til	O	-	-
-7	at	O	-	-
-8	finde	O	-	-
-9	hjem	O	-	-
-10	,	O	-	-
-11	også	O	-	-
-12	over	O	-	-
-13	strækninger	O	-	-
-14	,	O	-	-
-15	de	O	-	-
-16	aldrig	O	-	-
-17	har	O	-	-
-18	set	O	-	-
-19	før	O	-	-
-20	.	O	-	-
 
 1	"	O	-	-
 2	Imod	O	-	-
@@ -4491,55 +3127,6 @@
 23	i	O	-	-
 24	Forsvarsstaben	B-ORG	-	-
 25	.	O	-	-
-
-1	Sæsonsvingninger	O	-	-
-2	skyldes	O	-	-
-3	enten	O	-	-
-4	klimamæssige	O	-	-
-5	forhold	O	-	-
-6	:	O	-	-
-7	høst	O	-	-
-8	,	O	-	-
-9	såning	O	-	-
-10	m.v.	O	-	-
-11	for	O	-	-
-12	maskinstationer	O	-	-
-13	m.fl.	O	-	-
-14	,	O	-	-
-15	planteskolevirksomhed	O	-	-
-16	)	O	-	-
-17	,	O	-	-
-18	eller	O	-	-
-19	kundernes	O	-	-
-20	præferencer	O	-	-
-21	:	O	-	-
-22	juletræer	O	-	-
-23	,	O	-	-
-24	pyntegrønt	O	-	-
-25	i	O	-	-
-26	skovbruget	O	-	-
-27	,	O	-	-
-28	blomsterdyrkning	O	-	-
-29	til	O	-	-
-30	jul	O	-	-
-31	,	O	-	-
-32	mors	O	-	-
-33	dag	O	-	-
-34	m.v.	O	-	-
-35	.	O	-	-
-
-1	Specielt	O	-	-
-2	i	O	-	-
-3	1.	O	-	-
-4	sæt	O	-	-
-5	varierede	O	-	-
-6	jeg	O	-	-
-7	mit	O	-	-
-8	spil	O	-	-
-9	og	O	-	-
-10	godt	O	-	-
-11	.	O	-	-
-12	"	O	-	-
 
 1	Og	O	-	-
 2	håb	O	-	-
@@ -4675,11 +3262,6 @@
 17	mål	O	-	-
 18	.	O	-	-
 
-1	-	O	-	-
-2	Naturligvis	O	-	-
-3	ikke	O	-	-
-4	.	O	-	-
-
 1	Og	O	-	-
 2	det	O	-	-
 3	har	O	-	-
@@ -4719,29 +3301,6 @@
 2	koges	O	-	-
 3	mør	O	-	-
 4	.	O	-	-
-
-1	Der	O	-	-
-2	er	O	-	-
-3	ti	O	-	-
-4	besætningsmedlemmer	O	-	-
-5	på	O	-	-
-6	skibet	O	-	-
-7	,	O	-	-
-8	hvoraf	O	-	-
-9	de	O	-	-
-10	seks	O	-	-
-11	er	O	-	-
-12	danske	O	-	-
-13	.	O	-	-
-
-1	Jeg	O	-	-
-2	tænkte	O	-	-
-3	,	O	-	-
-4	"	O	-	-
-5	hvorfor	O	-	-
-6	ikke	O	-	-
-7	?	O	-	-
-8	"	O	-	-
 
 1	GATTs	B-ORG	-	-
 2	tal	O	-	-
@@ -4975,121 +3534,6 @@
 64	Tol-Bjergene	O	-	-
 65	.	O	-	-
 
-1	Desuden	O	-	-
-2	er	O	-	-
-3	elevgruppen	O	-	-
-4	på	O	-	-
-5	Ny	B-ORG	-	-
-6	Holte	I-ORG	-	-
-7	skole	O	-	-
-8	meget	O	-	-
-9	kreativt	O	-	-
-10	orienteret	O	-	-
-11	,	O	-	-
-12	og	O	-	-
-13	lærerne	O	-	-
-14	skriver	O	-	-
-15	i	O	-	-
-16	brevet	O	-	-
-17	:	O	-	-
-
-1	Polakkerne	O	-	-
-2	fik	O	-	-
-3	ingen	O	-	-
-4	mål	O	-	-
-5	,	O	-	-
-6	men	O	-	-
-7	de	O	-	-
-8	spillede	O	-	-
-9	så	O	-	-
-10	hurtigt	O	-	-
-11	,	O	-	-
-12	opfindsomt	O	-	-
-13	individuelt	O	-	-
-14	og	O	-	-
-15	kollektivt	O	-	-
-16	,	O	-	-
-17	at	O	-	-
-18	det	O	-	-
-19	ikke	O	-	-
-20	kan	O	-	-
-21	udelukkes	O	-	-
-22	,	O	-	-
-23	at	O	-	-
-24	et	O	-	-
-25	dansk	O	-	-
-26	hold	O	-	-
-27	i	O	-	-
-28	samme	O	-	-
-29	opstilling	O	-	-
-30	kan	O	-	-
-31	få	O	-	-
-32	problemer	O	-	-
-33	i	O	-	-
-34	returkampen	O	-	-
-35	.	O	-	-
-
-1	Fielfraz	B-ORG	-	-
-2	er	O	-	-
-3	skæv	O	-	-
-4	i	O	-	-
-5	sin	O	-	-
-6	rockmusikalske	O	-	-
-7	skridtgang	O	-	-
-8	,	O	-	-
-9	såvel	O	-	-
-10	som	O	-	-
-11	i	O	-	-
-12	sin	O	-	-
-13	trodsige	O	-	-
-14	,	O	-	-
-15	drengede	O	-	-
-16	attitude	O	-	-
-17	.	O	-	-
-
-1	Jeg	O	-	-
-2	tør	O	-	-
-3	nok	O	-	-
-4	sige	O	-	-
-5	,	O	-	-
-6	at	O	-	-
-7	skiftet	O	-	-
-8	fra	O	-	-
-9	Altans	B-ORG	-	-
-10	lidt	O	-	-
-11	indadrettede	O	-	-
-12	musik	O	-	-
-13	til	O	-	-
-14	skotske	O	-	-
-15	Wolffstones	B-ORG	-	-
-16	var	O	-	-
-17	til	O	-	-
-18	at	O	-	-
-19	ta'	O	-	-
-20	og	O	-	-
-21	føle	O	-	-
-22	på	O	-	-
-23	:	O	-	-
-24	Måske	O	-	-
-25	som	O	-	-
-26	at	O	-	-
-27	komme	O	-	-
-28	fra	O	-	-
-29	en	O	-	-
-30	græsmark	O	-	-
-31	i	O	-	-
-32	diset	O	-	-
-33	vejr	O	-	-
-34	og	O	-	-
-35	direkte	O	-	-
-36	ud	O	-	-
-37	på	O	-	-
-38	en	O	-	-
-39	motorvej	O	-	-
-40	i	O	-	-
-41	brandstorm	O	-	-
-42	.	O	-	-
-
 1	Texaco	B-ORG	-	-
 2	,	O	-	-
 3	der	O	-	-
@@ -5190,37 +3634,6 @@
 
 1	Årsmøde	O	-	-
 
-1	Dybt	O	-	-
-2	og	O	-	-
-3	intenst	O	-	-
-4	.	O	-	-
-
-1	Men	O	-	-
-2	i	O	-	-
-3	anden	O	-	-
-4	runde	O	-	-
-5	af	O	-	-
-6	præsidentvalget	O	-	-
-7	får	O	-	-
-8	han	O	-	-
-9	en	O	-	-
-10	vigtig	O	-	-
-11	rolle	O	-	-
-12	,	O	-	-
-13	fordi	O	-	-
-14	han	O	-	-
-15	vil	O	-	-
-16	bede	O	-	-
-17	sine	O	-	-
-18	vælgere	O	-	-
-19	om	O	-	-
-20	at	O	-	-
-21	støtte	O	-	-
-22	Iliescu	B-PER	-	-
-23	.	O	-	-
-
-1	OPLÆG	O	-	-
-
 1	§	O	-	-
 2	100	O	-	-
 
@@ -5250,19 +3663,6 @@
 24	en	O	-	-
 25	boksekamp	O	-	-
 26	.	O	-	-
-
-1	Der	O	-	-
-2	er	O	-	-
-3	tre	O	-	-
-4	ting	O	-	-
-5	,	O	-	-
-6	der	O	-	-
-7	synes	O	-	-
-8	at	O	-	-
-9	kunne	O	-	-
-10	dække	O	-	-
-11	motivet	O	-	-
-12	.	O	-	-
 
 1	Denne	O	-	-
 2	kendsgerning	O	-	-
@@ -5358,65 +3758,6 @@
 5	kg.	O	-	-
 6	.	O	-	-
 
-1	Det	O	-	-
-2	er	O	-	-
-3	fantastisk	O	-	-
-4	,	O	-	-
-5	så	O	-	-
-6	meget	O	-	-
-7	han	O	-	-
-8	har	O	-	-
-9	overkommet	O	-	-
-10	i	O	-	-
-11	år	O	-	-
-12	:	O	-	-
-13	Først	O	-	-
-14	trekvart	O	-	-
-15	DTM-sæson	B-MISC	-	-
-16	hos	O	-	-
-17	det	O	-	-
-18	private	O	-	-
-19	Unitron-team	B-ORG	-	-
-20	,	O	-	-
-21	hvor	O	-	-
-22	han	O	-	-
-23	foruden	O	-	-
-24	at	O	-	-
-25	være	O	-	-
-26	kører	O	-	-
-27	også	O	-	-
-28	skulle	O	-	-
-29	"	O	-	-
-30	organisere	O	-	-
-31	"	O	-	-
-32	en	O	-	-
-33	masse	O	-	-
-34	ting	O	-	-
-35	.	O	-	-
-
-1	Efter	O	-	-
-2	en	O	-	-
-3	dags	O	-	-
-4	tid	O	-	-
-5	ville	O	-	-
-6	det	O	-	-
-7	meste	O	-	-
-8	af	O	-	-
-9	olien	O	-	-
-10	være	O	-	-
-11	væk	O	-	-
-12	.	O	-	-
-
-1	-	O	-	-
-2	Ja	O	-	-
-3	,	O	-	-
-4	og	O	-	-
-5	opvarmet	O	-	-
-6	pøl	O	-	-
-7	og	O	-	-
-8	Volvo	B-ORG	-	-
-9	.	O	-	-
-
 1	Så	O	-	-
 2	dum	O	-	-
 3	som	O	-	-
@@ -5438,15 +3779,6 @@
 19	Einar	B-PER	-	-
 20	!	O	-	-
 21	"	O	-	-
-
-1	Udstyrsmæssigt	O	-	-
-2	placerer	O	-	-
-3	Toledo	B-ORG	-	-
-4	sig	O	-	-
-5	fint	O	-	-
-6	i	O	-	-
-7	klassen	O	-	-
-8	.	O	-	-
 
 1	Hele	O	-	-
 2	gevinsten	O	-	-
@@ -5471,17 +3803,6 @@
 10	igennem	O	-	-
 11	det	O	-	-
 12	.	O	-	-
-
-1	Rotterne	O	-	-
-2	forlader	O	-	-
-3	det	O	-	-
-4	synkende	O	-	-
-5	skib	O	-	-
-6	og	O	-	-
-7	det	O	-	-
-8	brændende	O	-	-
-9	hus	O	-	-
-10	.	O	-	-
 
 1	60	O	-	-
 2	børn	O	-	-
@@ -5516,22 +3837,6 @@
 31	normale	O	-	-
 32	ungdomsinstitutioner	O	-	-
 33	.	O	-	-
-
-1	Foto	O	-	-
-2	:	O	-	-
-3	WINNIFRED	B-PER	-	-
-
-1	Børnenes	O	-	-
-2	forskellige	O	-	-
-3	evner	O	-	-
-4	tilgodeses	O	-	-
-5	ganske	O	-	-
-6	glimrende	O	-	-
-7	i	O	-	-
-8	den	B-ORG	-	-
-9	danske	I-ORG	-	-
-10	enhedsskole	I-ORG	-	-
-11	.	O	-	-
 
 1	"	O	-	-
 2	Men	O	-	-
@@ -5578,115 +3883,6 @@
 43	tilføjer	O	-	-
 44	hun	O	-	-
 45	.	O	-	-
-
-1	Det	O	-	-
-2	er	O	-	-
-3	let	O	-	-
-4	at	O	-	-
-5	mobilisere	O	-	-
-6	"	O	-	-
-7	hellig	O	-	-
-8	forargelse	O	-	-
-9	"	O	-	-
-10	over	O	-	-
-11	det	O	-	-
-12	,	O	-	-
-13	man	O	-	-
-14	selv	O	-	-
-15	anser	O	-	-
-16	for	O	-	-
-17	"	O	-	-
-18	himmelråbende	O	-	-
-19	uvidenhed	O	-	-
-20	"	O	-	-
-21	,	O	-	-
-22	(	O	-	-
-23	som	O	-	-
-24	Beinov	B-PER	-	-
-25	f.eks.	O	-	-
-26	gør	O	-	-
-27	)	O	-	-
-28	,	O	-	-
-29	men	O	-	-
-30	spørgsmålet	O	-	-
-31	er	O	-	-
-32	efterhånden	O	-	-
-33	,	O	-	-
-34	om	O	-	-
-35	begrebet	O	-	-
-36	almen	O	-	-
-37	dannelse	O	-	-
-38	findes	O	-	-
-39	som	O	-	-
-40	en	O	-	-
-41	størrelse	O	-	-
-42	,	O	-	-
-43	et	O	-	-
-44	større	O	-	-
-45	antal	O	-	-
-46	danskere	O	-	-
-47	kan	O	-	-
-48	blive	O	-	-
-49	blot	O	-	-
-50	nogenlunde	O	-	-
-51	enige	O	-	-
-52	om	O	-	-
-53	?	O	-	-
-
-1	Om	O	-	-
-2	et	O	-	-
-3	øjeblik	O	-	-
-4	slippes	O	-	-
-5	de	O	-	-
-6	ind	O	-	-
-7	.	O	-	-
-
-1	Det	O	-	-
-2	er	O	-	-
-3	dem	O	-	-
-4	,	O	-	-
-5	der	O	-	-
-6	ikke	O	-	-
-7	kan	O	-	-
-8	løse	O	-	-
-9	den	O	-	-
-10	ellers	O	-	-
-11	meget	O	-	-
-12	simple	O	-	-
-13	opgave	O	-	-
-14	kropsligt	O	-	-
-15	,	O	-	-
-16	men	O	-	-
-17	lige	O	-	-
-18	skal	O	-	-
-19	en	O	-	-
-20	tur	O	-	-
-21	over	O	-	-
-22	den	O	-	-
-23	logiske	O	-	-
-24	del	O	-	-
-25	af	O	-	-
-26	hjernen	O	-	-
-27	for	O	-	-
-28	at	O	-	-
-29	regne	O	-	-
-30	ud	O	-	-
-31	,	O	-	-
-32	hvad	O	-	-
-33	der	O	-	-
-34	er	O	-	-
-35	arm	O	-	-
-36	,	O	-	-
-37	hvad	O	-	-
-38	der	O	-	-
-39	er	O	-	-
-40	højre	O	-	-
-41	og	O	-	-
-42	hvad	O	-	-
-43	der	O	-	-
-44	er	O	-	-
-45	op	O	-	-
-46	.	O	-	-
 
 1	"	O	-	-
 2	Det	O	-	-
@@ -5745,86 +3941,10 @@
 14	DM	B-MISC	-	-
 15	.	O	-	-
 
-1	Hash	B-MISC	-	-
-2	fortjener	O	-	-
-3	en	O	-	-
-4	lige	O	-	-
-5	så	O	-	-
-6	grundig	O	-	-
-7	politiindsats	O	-	-
-8	,	O	-	-
-9	som	O	-	-
-10	de	O	-	-
-11	hårde	O	-	-
-12	stoffer	O	-	-
-13	udsættes	O	-	-
-14	for	O	-	-
-15	andre	O	-	-
-16	steder	O	-	-
-17	i	O	-	-
-18	byen	O	-	-
-19	.	O	-	-
-20	"	O	-	-
-
-1	I	O	-	-
-2	et	O	-	-
-3	tidsskrift	O	-	-
-4	som	O	-	-
-5	Nature	B-MISC	-	-
-6	eller	O	-	-
-7	Science	B-MISC	-	-
-8	optages	O	-	-
-9	kun	O	-	-
-10	artikler	O	-	-
-11	med	O	-	-
-12	vigtigt	O	-	-
-13	nyt	O	-	-
-14	om	O	-	-
-15	vigtige	O	-	-
-16	emner	O	-	-
-17	.	O	-	-
-
-1	Men	O	-	-
-2	den	O	-	-
-3	fælles	O	-	-
-4	Billedanalysegruppe	O	-	-
-5	fra	O	-	-
-6	DTH	B-ORG	-	-
-7	og	O	-	-
-8	DIA	B-ORG	-	-
-9	har	O	-	-
-10	konstrueret	O	-	-
-11	en	O	-	-
-12	sensor	O	-	-
-13	,	O	-	-
-14	der	O	-	-
-15	efter	O	-	-
-16	et	O	-	-
-17	kik	O	-	-
-18	på	O	-	-
-19	stjernerne	O	-	-
-20	sørger	O	-	-
-21	for	O	-	-
-22	,	O	-	-
-23	at	O	-	-
-24	antennen	O	-	-
-25	peger	O	-	-
-26	ud	O	-	-
-27	mod	O	-	-
-28	rummet	O	-	-
-29	.	O	-	-
-
 1	HAR	O	-	-
 2	IKKE	O	-	-
 3	SET	O	-	-
 4	NOGET	O	-	-
-
-1	"	O	-	-
-2	Hash	B-MISC	-	-
-3	er	O	-	-
-4	også	O	-	-
-5	narkotika	O	-	-
-6	.	O	-	-
 
 1	O	O	-	-
 2	=	O	-	-
@@ -6030,9 +4150,6 @@
 16	pladsen	O	-	-
 17	.	O	-	-
 
-1	I	O	-	-
-2	hundene	O	-	-
-
 1	Fransk	O	-	-
 2	cocktail	O	-	-
 
@@ -6163,66 +4280,6 @@
 3	ARNE	B-PER	-	-
 4	IKKE	O	-	-
 
-1	Men	O	-	-
-2	det	O	-	-
-3	vil	O	-	-
-4	være	O	-	-
-5	ren	O	-	-
-6	pedanteri	O	-	-
-7	,	O	-	-
-8	at	O	-	-
-9	komme	O	-	-
-10	ind	O	-	-
-11	på	O	-	-
-12	.	O	-	-
-
-1	En	O	-	-
-2	væsentlig	O	-	-
-3	grund	O	-	-
-4	hertil	O	-	-
-5	var	O	-	-
-6	,	O	-	-
-7	at	O	-	-
-8	vi	O	-	-
-9	alle	O	-	-
-10	havde	O	-	-
-11	en	O	-	-
-12	intuitiv	O	-	-
-13	fornemmelse	O	-	-
-14	af	O	-	-
-15	,	O	-	-
-16	at	O	-	-
-17	regeringens	O	-	-
-18	overlevelse	O	-	-
-19	ville	O	-	-
-20	bero	O	-	-
-21	på	O	-	-
-22	,	O	-	-
-23	om	O	-	-
-24	vi	O	-	-
-25	havde	O	-	-
-26	mod	O	-	-
-27	til	O	-	-
-28	at	O	-	-
-29	spille	O	-	-
-30	ud	O	-	-
-31	med	O	-	-
-32	meget	O	-	-
-33	radikale	O	-	-
-34	forslag	O	-	-
-35	,	O	-	-
-36	der	O	-	-
-37	afgørende	O	-	-
-38	ville	O	-	-
-39	ændre	O	-	-
-40	forventningerne	O	-	-
-41	i	O	-	-
-42	befolkningen	O	-	-
-43	og	O	-	-
-44	i	O	-	-
-45	erhvervslivet	O	-	-
-46	.	O	-	-
-
 1	De	O	-	-
 2	to	O	-	-
 3	har	O	-	-
@@ -6231,47 +4288,6 @@
 6	siden	O	-	-
 7	1950	O	-	-
 8	.	O	-	-
-
-1	LILLE	O	-	-
-2	PALLE	B-PER	-	-
-3	,	O	-	-
-4	t.h.	O	-	-
-5	,	O	-	-
-6	som	O	-	-
-7	har	O	-	-
-8	succes	O	-	-
-9	på	O	-	-
-10	Bakkens	B-ORG	-	-
-11	friluftsscene	O	-	-
-12	,	O	-	-
-13	kom	O	-	-
-14	med	O	-	-
-15	kindkys	O	-	-
-16	og	O	-	-
-17	en	O	-	-
-18	rød	O	-	-
-19	rose	O	-	-
-20	til	O	-	-
-21	kollegaen	O	-	-
-22	,	O	-	-
-23	bakkesangerinde	O	-	-
-24	TOVE	B-PER	-	-
-25	PEDERSEN	I-PER	-	-
-26	,	O	-	-
-27	da	O	-	-
-28	hun	O	-	-
-29	blev	O	-	-
-30	hædret	O	-	-
-31	med	O	-	-
-32	Bakkens	B-ORG	-	-
-33	Oscar	I-MISC	-	-
-34	,	O	-	-
-35	et	O	-	-
-36	stort	O	-	-
-37	og	O	-	-
-38	fornemt	O	-	-
-39	Bjørn-Wiinblad-fad	O	-	-
-40	.	O	-	-
 
 1	I	O	-	-
 2	så	O	-	-
@@ -6363,22 +4379,6 @@
 19	bedre	O	-	-
 20	.	O	-	-
 
-1	-	O	-	-
-2	På	O	-	-
-3	Fønix	B-ORG	-	-
-4	var	O	-	-
-5	man	O	-	-
-6	selvfølgelig	O	-	-
-7	dengang	O	-	-
-8	uhyre	O	-	-
-9	taknemmelig	O	-	-
-10	for	O	-	-
-11	hvad	O	-	-
-12	min	O	-	-
-13	mand	O	-	-
-14	gjorde	O	-	-
-15	.	O	-	-
-
 1	Man	O	-	-
 2	er	O	-	-
 3	nu	O	-	-
@@ -6402,8 +4402,6 @@
 21	i	O	-	-
 22	biffen	O	-	-
 23	.	O	-	-
-
-1	Milliontab	O	-	-
 
 1	En	O	-	-
 2	historie	O	-	-
@@ -6478,10 +4476,6 @@
 5	tanken	O	-	-
 6	.	O	-	-
 
-1	-	O	-	-
-2	Selvfølgelig	O	-	-
-3	.	O	-	-
-
 1	Den	O	-	-
 2	ene	O	-	-
 3	,	O	-	-
@@ -6550,109 +4544,6 @@
 12	domsafsigelsen	O	-	-
 13	.	O	-	-
 
-1	Men	O	-	-
-2	problemet	O	-	-
-3	er	O	-	-
-4	teoretisk	O	-	-
-5	.	O	-	-
-
-1	Og	O	-	-
-2	prismæssigt	O	-	-
-3	ligger	O	-	-
-4	Seat	B-MISC	-	-
-5	Toledo	I-MISC	-	-
-6	også	O	-	-
-7	pænt	O	-	-
-8	i	O	-	-
-9	forhold	O	-	-
-10	til	O	-	-
-11	konkurrenterne	O	-	-
-12	.	O	-	-
-
-1	Han	O	-	-
-2	havde	O	-	-
-3	en	O	-	-
-4	uheldig	O	-	-
-5	debutkamp	O	-	-
-6	,	O	-	-
-7	2-4	O	-	-
-8	mod	O	-	-
-9	Aston	B-ORG	-	-
-10	Villa	I-ORG	-	-
-11	,	O	-	-
-12	men	O	-	-
-13	siden	O	-	-
-14	har	O	-	-
-15	han	O	-	-
-16	udmærket	O	-	-
-17	sig	O	-	-
-18	med	O	-	-
-19	solidt	O	-	-
-20	spil	O	-	-
-21	.	O	-	-
-
-1	1	O	-	-
-2	)	O	-	-
-3	Først	O	-	-
-4	tager	O	-	-
-5	man	O	-	-
-6	hele	O	-	-
-7	familiesamværet	O	-	-
-8	mellem	O	-	-
-9	forældre	O	-	-
-10	og	O	-	-
-11	børn	O	-	-
-12	og	O	-	-
-13	trækker	O	-	-
-14	noget	O	-	-
-15	ud	O	-	-
-16	af	O	-	-
-17	det	O	-	-
-18	,	O	-	-
-19	som	O	-	-
-20	man	O	-	-
-21	kalder	O	-	-
-22	"	O	-	-
-23	opdragelse	O	-	-
-24	"	O	-	-
-25	-	O	-	-
-26	et	O	-	-
-27	ganske	O	-	-
-28	tilfældigt	O	-	-
-29	afgrænset	O	-	-
-30	fænomen	O	-	-
-31	.	O	-	-
-
-1	Hele	O	-	-
-2	holdet	O	-	-
-3	i	O	-	-
-4	designede	O	-	-
-5	Carola-jakker	B-MISC	-	-
-6	,	O	-	-
-7	cocktail-parties	O	-	-
-8	,	O	-	-
-9	der	O	-	-
-10	væltede	O	-	-
-11	alt	O	-	-
-12	,	O	-	-
-13	og	O	-	-
-14	en	O	-	-
-15	producer	O	-	-
-16	,	O	-	-
-17	som	O	-	-
-18	havde	O	-	-
-19	hele	O	-	-
-20	kamera-gangen	O	-	-
-21	klar	O	-	-
-22	i	O	-	-
-23	mindste	O	-	-
-24	detalje	O	-	-
-25	til	O	-	-
-26	det	O	-	-
-27	italienske	O	-	-
-28	TV	O	-	-
-29	.	O	-	-
-
 1	Efter	O	-	-
 2	14	O	-	-
 3	dage	O	-	-
@@ -6693,27 +4584,6 @@
 5	fuld	O	-	-
 6	.	O	-	-
 
-1	REGERINGSCHEFEN	O	-	-
-2	bærer	O	-	-
-3	sin	O	-	-
-4	store	O	-	-
-5	del	O	-	-
-6	af	O	-	-
-7	æren	O	-	-
-8	herfor	O	-	-
-9	,	O	-	-
-10	men	O	-	-
-11	et	O	-	-
-12	par	O	-	-
-13	andre	O	-	-
-14	momenter	O	-	-
-15	bør	O	-	-
-16	dog	O	-	-
-17	også	O	-	-
-18	drages	O	-	-
-19	frem	O	-	-
-20	.	O	-	-
-
 1	Lasse	B-PER	-	-
 2	Hessel	I-PER	-	-
 3	selv	O	-	-
@@ -6724,15 +4594,6 @@
 8	overraskende	O	-	-
 9	iagttagelser	O	-	-
 10	.	O	-	-
-
-1	Vi	O	-	-
-2	sørgede	O	-	-
-3	for	O	-	-
-4	at	O	-	-
-5	være	O	-	-
-6	der	O	-	-
-7	præcis	O	-	-
-8	.	O	-	-
 
 1	Hvad	O	-	-
 2	lavede	O	-	-
@@ -6756,43 +4617,6 @@
 7	til	O	-	-
 8	vamp	O	-	-
 9	.	O	-	-
-
-1	Andrés	B-PER	-	-
-2	øjne	O	-	-
-3	kunne	O	-	-
-4	ikke	O	-	-
-5	fange	O	-	-
-6	de	O	-	-
-7	sorte	O	-	-
-8	figurer	O	-	-
-9	på	O	-	-
-10	det	O	-	-
-11	hvide	O	-	-
-12	papir	O	-	-
-13	,	O	-	-
-14	og	O	-	-
-15	når	O	-	-
-16	han	O	-	-
-17	langt	O	-	-
-18	om	O	-	-
-19	længe	O	-	-
-20	havde	O	-	-
-21	fået	O	-	-
-22	sig	O	-	-
-23	slæbt	O	-	-
-24	igennem	O	-	-
-25	en	O	-	-
-26	linje	O	-	-
-27	,	O	-	-
-28	kunne	O	-	-
-29	han	O	-	-
-30	dårligt	O	-	-
-31	huske	O	-	-
-32	,	O	-	-
-33	hvordan	O	-	-
-34	den	O	-	-
-35	begyndte	O	-	-
-36	.	O	-	-
 
 1	-	O	-	-
 2	Ja	O	-	-
@@ -6830,13 +4654,6 @@
 18	og	O	-	-
 19	broderskab	O	-	-
 20	.	O	-	-
-
-1	Og	O	-	-
-2	det	O	-	-
-3	blev	O	-	-
-4	lavet	O	-	-
-5	om	O	-	-
-6	.	O	-	-
 
 1	De	O	-	-
 2	forlanger	O	-	-
@@ -7017,27 +4834,6 @@
 21	vegne	O	-	-
 22	.	O	-	-
 
-1	For	O	-	-
-2	andre	O	-	-
-3	tager	O	-	-
-4	det	O	-	-
-5	bare	O	-	-
-6	lidt	O	-	-
-7	længere	O	-	-
-8	tid	O	-	-
-9	at	O	-	-
-10	nå	O	-	-
-11	den	O	-	-
-12	form	O	-	-
-13	for	O	-	-
-14	ungdom	O	-	-
-15	,	O	-	-
-16	hvor	O	-	-
-17	man	O	-	-
-18	får	O	-	-
-19	vovet	O	-	-
-20	.	O	-	-
-
 1	Derfor	O	-	-
 2	er	O	-	-
 3	det	O	-	-
@@ -7063,21 +4859,6 @@
 23	40.000	O	-	-
 24	tilskuerpladser	O	-	-
 25	?	O	-	-
-
-1	Under	O	-	-
-2	de	O	-	-
-3	seks-syv	O	-	-
-4	villaindbrud	O	-	-
-5	blev	O	-	-
-6	der	O	-	-
-7	tilsammen	O	-	-
-8	stjålet	O	-	-
-9	for	O	-	-
-10	et	O	-	-
-11	stort	O	-	-
-12	sekscifret	O	-	-
-13	beløb	O	-	-
-14	.	O	-	-
 
 1	Sørg	O	-	-
 2	ikke	O	-	-
@@ -7123,19 +4904,6 @@
 4	,	O	-	-
 5	8-13	O	-	-
 6	m/sek	O	-	-
-
-1	Men	O	-	-
-2	trods	O	-	-
-3	betalingen	O	-	-
-4	har	O	-	-
-5	kreditorerne	O	-	-
-6	jo	O	-	-
-7	stadig	O	-	-
-8	haft	O	-	-
-9	milliontab	O	-	-
-10	på	O	-	-
-11	sagen	O	-	-
-12	?	O	-	-
 
 1	Hekmatyars	B-PER	-	-
 2	styker	O	-	-
@@ -7189,25 +4957,6 @@
 18	organisation	O	-	-
 19	.	O	-	-
 
-1	"	O	-	-
-2	Vi	O	-	-
-3	vil	O	-	-
-4	afvente	O	-	-
-5	dommen	O	-	-
-6	mod	O	-	-
-7	den	O	-	-
-8	sigtede	O	-	-
-9	haitianer	O	-	-
-10	,	O	-	-
-11	"	O	-	-
-12	siger	O	-	-
-13	Elisabeth	B-PER	-	-
-14	Arnold	I-PER	-	-
-15	.	O	-	-
-
-1	Læsetræning	O	-	-
-2	.	O	-	-
-
 1	For	O	-	-
 2	hvem	O	-	-
 3	forstår	O	-	-
@@ -7233,30 +4982,6 @@
 8	med	O	-	-
 9	hende	O	-	-
 10	.	O	-	-
-
-1	I	O	-	-
-2	Tåstrup	B-LOC	-	-
-3	kunne	O	-	-
-4	toget	O	-	-
-5	ikke	O	-	-
-6	køre	O	-	-
-7	videre	O	-	-
-8	på	O	-	-
-9	grund	O	-	-
-10	af	O	-	-
-11	frosne	O	-	-
-12	skiftespor	O	-	-
-13	,	O	-	-
-14	så	O	-	-
-15	vi	O	-	-
-16	måtte	O	-	-
-17	af	O	-	-
-18	og	O	-	-
-19	gå	O	-	-
-20	et	O	-	-
-21	stykke	O	-	-
-22	vej	O	-	-
-23	.	O	-	-
 
 1	NETTO	B-ORG	-	-
 2	=	O	-	-
@@ -7293,25 +5018,6 @@
 11	.	O	-	-
 
 1	Men	O	-	-
-2	det	O	-	-
-3	er	O	-	-
-4	også	O	-	-
-5	min	O	-	-
-6	helt	O	-	-
-7	personlige	O	-	-
-8	mening	O	-	-
-9	,	O	-	-
-10	at	O	-	-
-11	tv-spots	O	-	-
-12	er	O	-	-
-13	skadelige	O	-	-
-14	,	O	-	-
-15	"	O	-	-
-16	siger	O	-	-
-17	han	O	-	-
-18	.	O	-	-
-
-1	Men	O	-	-
 2	han	O	-	-
 3	evner	O	-	-
 4	ikke	O	-	-
@@ -7323,57 +5029,6 @@
 10	forbitrede	O	-	-
 11	kvinde	O	-	-
 12	.	O	-	-
-
-1	Passer	O	-	-
-2	man	O	-	-
-3	ikke	O	-	-
-4	på	O	-	-
-5	,	O	-	-
-6	så	O	-	-
-7	får	O	-	-
-8	man	O	-	-
-9	med	O	-	-
-10	garanti	O	-	-
-11	det	O	-	-
-12	der	O	-	-
-13	kaldes	O	-	-
-14	for	O	-	-
-15	Cairo-step	B-MISC	-	-
-16	.	O	-	-
-
-1	I	O	-	-
-2	din	O	-	-
-3	alder	O	-	-
-4	.	O	-	-
-
-1	Sådan	O	-	-
-2	!	O	-	-
-
-1	Hermed	O	-	-
-2	var	O	-	-
-3	neutronens	O	-	-
-4	eksistens	O	-	-
-5	påvist	O	-	-
-6	!	O	-	-
-
-1	Kuppet	O	-	-
-2	i	O	-	-
-3	politidirektørens	O	-	-
-4	villa	O	-	-
-5	,	O	-	-
-6	Søterrassen	O	-	-
-7	7	O	-	-
-8	i	O	-	-
-9	Holte	B-LOC	-	-
-10	,	O	-	-
-11	gav	O	-	-
-12	alene	O	-	-
-13	et	O	-	-
-14	udbytte	O	-	-
-15	på	O	-	-
-16	155.000	O	-	-
-17	kr.	O	-	-
-18	.	O	-	-
 
 1	Idag	O	-	-
 2	ville	O	-	-
@@ -7462,28 +5117,6 @@
 9	kampene	O	-	-
 10	.	O	-	-
 
-1	Tirsdag	O	-	-
-2	3.	O	-	-
-3	marts	O	-	-
-4	om	O	-	-
-5	aftenen	O	-	-
-6	plyndrede	O	-	-
-7	en	O	-	-
-8	formentlig	O	-	-
-9	professionel	O	-	-
-10	jugoslavisk	O	-	-
-11	bande	O	-	-
-12	en	O	-	-
-13	række	O	-	-
-14	mondæne	O	-	-
-15	ejendomme	O	-	-
-16	,	O	-	-
-17	mens	O	-	-
-18	beboerne	O	-	-
-19	var	O	-	-
-20	ude	O	-	-
-21	.	O	-	-
-
 1	Hun	O	-	-
 2	har	O	-	-
 3	ikke	O	-	-
@@ -7499,27 +5132,6 @@
 3	ikke	O	-	-
 4	problemløst	O	-	-
 5	.	O	-	-
-
-1	Men	O	-	-
-2	det	O	-	-
-3	var	O	-	-
-4	nu	O	-	-
-5	for	O	-	-
-6	at	O	-	-
-7	lave	O	-	-
-8	en	O	-	-
-9	aftale	O	-	-
-10	med	O	-	-
-11	en	O	-	-
-12	veninde	O	-	-
-13	om	O	-	-
-14	,	O	-	-
-15	at	O	-	-
-16	de	O	-	-
-17	skulle	O	-	-
-18	på	O	-	-
-19	diskotek	O	-	-
-20	.	O	-	-
 
 1	Model	O	-	-
 2	for	O	-	-
@@ -7566,75 +5178,9 @@
 33	igen	O	-	-
 34	.	O	-	-
 
-1	Vi	O	-	-
-2	gik	O	-	-
-3	ind	O	-	-
-4	i	O	-	-
-5	Coctail	B-ORG	-	-
-6	,	O	-	-
-7	Odenses	B-LOC	-	-
-8	smarteste	O	-	-
-9	modeforretning	O	-	-
-10	.	O	-	-
-
 1	ILD	O	-	-
 2	I	O	-	-
 3	TRABANTER	O	-	-
-
-1	Det	O	-	-
-2	er	O	-	-
-3	hans	O	-	-
-4	første	O	-	-
-5	arbejde	O	-	-
-6	i	O	-	-
-7	sølv	O	-	-
-8	.	O	-	-
-
-1	"	O	-	-
-2	Spar	O	-	-
-3	os	O	-	-
-4	for	O	-	-
-5	mere	O	-	-
-6	nytteløs	O	-	-
-7	snak	O	-	-
-8	,	O	-	-
-9	"	O	-	-
-10	bad	O	-	-
-11	Enzo	B-PER	-	-
-12	Biagi	I-PER	-	-
-13	,	O	-	-
-14	en	O	-	-
-15	af	O	-	-
-16	Italiens	B-LOC	-	-
-17	mest	O	-	-
-18	respekterede	O	-	-
-19	journalister	O	-	-
-20	,	O	-	-
-21	i	O	-	-
-22	en	O	-	-
-23	kommentar	O	-	-
-24	i	O	-	-
-25	avisen	O	-	-
-26	Corriere	B-ORG	-	-
-27	Della	I-ORG	-	-
-28	Sera	I-ORG	-	-
-29	mandag	O	-	-
-30	.	O	-	-
-
-1	Hun	O	-	-
-2	havde	O	-	-
-3	mærket	O	-	-
-4	et	O	-	-
-5	lille	O	-	-
-6	liv	O	-	-
-7	sparke	O	-	-
-8	i	O	-	-
-9	maven	O	-	-
-10	og	O	-	-
-11	kunne	O	-	-
-12	ikke	O	-	-
-13	andet	O	-	-
-14	.	O	-	-
 
 1	Nu	O	-	-
 2	kan	O	-	-
@@ -7652,18 +5198,6 @@
 6	rør	O	-	-
 7	rundt	O	-	-
 8	.	O	-	-
-
-1	Køerne	O	-	-
-2	er	O	-	-
-3	så	O	-	-
-4	lange	O	-	-
-5	,	O	-	-
-6	at	O	-	-
-7	mange	O	-	-
-8	er	O	-	-
-9	gået	O	-	-
-10	igen	O	-	-
-11	.	O	-	-
 
 1	Nogenlunde	O	-	-
 2	samtidig	O	-	-
@@ -7704,48 +5238,6 @@
 8	triumf	O	-	-
 9	.	O	-	-
 
-1	ABBA	B-ORG	-	-
-2	"	O	-	-
-3	Gold	O	-	-
-4	"	O	-	-
-5	har	O	-	-
-6	været	O	-	-
-7	massivt	O	-	-
-8	annonceret	O	-	-
-9	på	O	-	-
-10	tv	O	-	-
-11	,	O	-	-
-12	ligesom	O	-	-
-13	AC/DC	B-ORG	-	-
-14	og	O	-	-
-15	andre	O	-	-
-16	"	O	-	-
-17	greatest	O	-	-
-18	hits	O	-	-
-19	"	O	-	-
-20	bliver	O	-	-
-21	det	O	-	-
-22	.	O	-	-
-
-1	Det	O	-	-
-2	sker	O	-	-
-3	gennem	O	-	-
-4	såkaldte	O	-	-
-5	Trust	B-ORG	-	-
-6	Funds	I-ORG	-	-
-7	,	O	-	-
-8	hvorigennem	O	-	-
-9	bankerne	O	-	-
-10	kan	O	-	-
-11	trække	O	-	-
-12	på	O	-	-
-13	danske	O	-	-
-14	eksperter	O	-	-
-15	til	O	-	-
-16	deres	O	-	-
-17	forberedelsesmissioner	O	-	-
-18	.	O	-	-
-
 1	I	O	-	-
 2	de	O	-	-
 3	femten	O	-	-
@@ -7775,23 +5267,6 @@
 12	tømrerfirma	O	-	-
 13	.	O	-	-
 
-1	Et	O	-	-
-2	bioteknologisk	O	-	-
-3	selskab	O	-	-
-4	i	O	-	-
-5	Californien	B-LOC	-	-
-6	eksperimenterer	O	-	-
-7	med	O	-	-
-8	jordbær-gener	O	-	-
-9	,	O	-	-
-10	der	O	-	-
-11	gør	O	-	-
-12	planterne	O	-	-
-13	usårlige	O	-	-
-14	overfor	O	-	-
-15	frost	O	-	-
-16	.	O	-	-
-
 1	Det	O	-	-
 2	fremvises	O	-	-
 3	med	O	-	-
@@ -7811,24 +5286,6 @@
 17	hende	O	-	-
 18	.	O	-	-
 
-1	F.P.Jac	B-PER	-	-
-2	er	O	-	-
-3	sprunget	O	-	-
-4	fra	O	-	-
-5	lyrikken	O	-	-
-6	til	O	-	-
-7	dramaet	O	-	-
-8	og	O	-	-
-9	prøver	O	-	-
-10	også	O	-	-
-11	kræfter	O	-	-
-12	med	O	-	-
-13	Radioteatret	O	-	-
-14	for	O	-	-
-15	første	O	-	-
-16	gang	O	-	-
-17	.	O	-	-
-
 1	MEDARB	O	-	-
 2	=	O	-	-
 3	psp	O	-	-
@@ -7842,39 +5299,6 @@
 4	.	O	-	-
 
 1	Båltale	O	-	-
-
-1	For	O	-	-
-2	nogle	O	-	-
-3	er	O	-	-
-4	"	O	-	-
-5	det	O	-	-
-6	nye	O	-	-
-7	"	O	-	-
-8	kommet	O	-	-
-9	ganske	O	-	-
-10	uventet	O	-	-
-11	,	O	-	-
-12	for	O	-	-
-13	andre	O	-	-
-14	som	O	-	-
-15	en	O	-	-
-16	logisk	O	-	-
-17	konsekvens	O	-	-
-18	af	O	-	-
-19	en	O	-	-
-20	af	O	-	-
-21	vor	O	-	-
-22	tids	O	-	-
-23	største	O	-	-
-24	brølere	O	-	-
-25	,	O	-	-
-26	når	O	-	-
-27	det	O	-	-
-28	drejer	O	-	-
-29	sig	O	-	-
-30	om	O	-	-
-31	yngelpleje	O	-	-
-32	.	O	-	-
 
 1	PÅ	O	-	-
 2	de	O	-	-
@@ -7890,41 +5314,6 @@
 12	start	O	-	-
 13	.	O	-	-
 
-1	Inden	O	-	-
-2	hun	O	-	-
-3	gik	O	-	-
-4	ud	O	-	-
-5	,	O	-	-
-6	sagde	O	-	-
-7	hun	O	-	-
-8	:	O	-	-
-9	-	O	-	-
-10	Jeg	O	-	-
-11	kommer	O	-	-
-12	tilbage	O	-	-
-13	om	O	-	-
-14	et	O	-	-
-15	øjeblik	O	-	-
-16	,	O	-	-
-17	men	O	-	-
-18	det	O	-	-
-19	bliver	O	-	-
-20	ikke	O	-	-
-21	alene	O	-	-
-22	.	O	-	-
-
-1	Fakta	O	-	-
-2	om	O	-	-
-3	Seat	B-MISC	-	-
-4	Toledo	I-MISC	-	-
-5	2,0	O	-	-
-6	GLX	O	-	-
-7	OPBYGNING	O	-	-
-8	:	O	-	-
-9	4/5-personers	O	-	-
-10	sedan	O	-	-
-11	.	O	-	-
-
 1	"	O	-	-
 2	I	O	-	-
 3	er	O	-	-
@@ -7939,30 +5328,6 @@
 12	kulturel	O	-	-
 13	enhed	O	-	-
 14	.	O	-	-
-
-1	"	O	-	-
-2	Det	O	-	-
-3	tog	O	-	-
-4	mig	O	-	-
-5	syv	O	-	-
-6	år	O	-	-
-7	at	O	-	-
-8	få	O	-	-
-9	tingene	O	-	-
-10	på	O	-	-
-11	ret	O	-	-
-12	køl	O	-	-
-13	,	O	-	-
-14	efter	O	-	-
-15	jeg	O	-	-
-16	forlod	O	-	-
-17	Deep	B-ORG	-	-
-18	Purple	I-ORG	-	-
-19	første	O	-	-
-20	gang	O	-	-
-21	i	O	-	-
-22	1973	O	-	-
-23	.	O	-	-
 
 1	Dybdearbejdning	O	-	-
 2	i	O	-	-
@@ -7994,13 +5359,6 @@
 18	.	O	-	-
 
 1	"	O	-	-
-2	Folk	O	-	-
-3	har	O	-	-
-4	været	O	-	-
-5	søde	O	-	-
-6	.	O	-	-
-
-1	"	O	-	-
 2	Men	O	-	-
 3	du	O	-	-
 4	kan	O	-	-
@@ -8024,31 +5382,6 @@
 22	.	O	-	-
 23	"	O	-	-
 
-1	Havde	O	-	-
-2	hun	O	-	-
-3	været	O	-	-
-4	en	O	-	-
-5	lille	O	-	-
-6	,	O	-	-
-7	naiv	O	-	-
-8	drømmer	O	-	-
-9	,	O	-	-
-10	som	O	-	-
-11	det	O	-	-
-12	for	O	-	-
-13	én	O	-	-
-14	,	O	-	-
-15	der	O	-	-
-16	var	O	-	-
-17	klogere	O	-	-
-18	,	O	-	-
-19	havde	O	-	-
-20	været	O	-	-
-21	let	O	-	-
-22	at	O	-	-
-23	narre	O	-	-
-24	?	O	-	-
-
 1	Og	O	-	-
 2	han	O	-	-
 3	har	O	-	-
@@ -8071,17 +5404,6 @@
 20	bliver	O	-	-
 21	forældre	O	-	-
 22	.	O	-	-
-
-1	Den	O	-	-
-2	fantastiske	O	-	-
-3	stemning	O	-	-
-4	var	O	-	-
-5	med	O	-	-
-6	til	O	-	-
-7	at	O	-	-
-8	motivere	O	-	-
-9	os	O	-	-
-10	.	O	-	-
 
 1	Grænsen	O	-	-
 2	ligger	O	-	-
@@ -8169,24 +5491,6 @@
 12	Jagtvej	B-LOC	-	-
 13	.	O	-	-
 
-1	Der	O	-	-
-2	skete	O	-	-
-3	altid	O	-	-
-4	noget	O	-	-
-5	,	O	-	-
-6	og	O	-	-
-7	så	O	-	-
-8	var	O	-	-
-9	de	O	-	-
-10	sammen	O	-	-
-11	igen	O	-	-
-12	,	O	-	-
-13	men	O	-	-
-14	ikke	O	-	-
-15	denne	O	-	-
-16	gang	O	-	-
-17	.	O	-	-
-
 1	For	O	-	-
 2	en	O	-	-
 3	ung	O	-	-
@@ -8198,49 +5502,6 @@
 9	kreditten	O	-	-
 10	kort	O	-	-
 11	.	O	-	-
-
-1	"	O	-	-
-2	Moderne	O	-	-
-3	dans	O	-	-
-4	er	O	-	-
-5	efterhånden	O	-	-
-6	et	O	-	-
-7	ret	O	-	-
-8	begrænset	O	-	-
-9	udtryk	O	-	-
-10	,	O	-	-
-11	som	O	-	-
-12	hele	O	-	-
-13	tiden	O	-	-
-14	truer	O	-	-
-15	med	O	-	-
-16	at	O	-	-
-17	lukke	O	-	-
-18	sig	O	-	-
-19	om	O	-	-
-20	sin	O	-	-
-21	egen	O	-	-
-22	æstetik	O	-	-
-23	,	O	-	-
-24	og	O	-	-
-25	derfor	O	-	-
-26	prøver	O	-	-
-27	jeg	O	-	-
-28	at	O	-	-
-29	finde	O	-	-
-30	noget	O	-	-
-31	,	O	-	-
-32	der	O	-	-
-33	kan	O	-	-
-34	fusionere	O	-	-
-35	med	O	-	-
-36	dansen	O	-	-
-37	og	O	-	-
-38	tilføre	O	-	-
-39	den	O	-	-
-40	noget	O	-	-
-41	liv	O	-	-
-42	.	O	-	-
 
 1	Så	O	-	-
 2	en	O	-	-
@@ -8320,90 +5581,6 @@
 16	væk	O	-	-
 17	.	O	-	-
 
-1	Nord	B-PER	-	-
-2	satsede	O	-	-
-3	aggressivt	O	-	-
-4	på	O	-	-
-5	udgang	O	-	-
-6	og	O	-	-
-7	viste	O	-	-
-8	med	O	-	-
-9	3	O	-	-
-10	sp	O	-	-
-11	sit	O	-	-
-12	gode	O	-	-
-13	hold	O	-	-
-14	.	O	-	-
-
-1	Menneskenes	O	-	-
-2	børn	O	-	-
-3	er	O	-	-
-4	nu	O	-	-
-5	engang	O	-	-
-6	såre	O	-	-
-7	forskellige	O	-	-
-8	,	O	-	-
-9	og	O	-	-
-10	den	O	-	-
-11	boglige	O	-	-
-12	trang	O	-	-
-13	,	O	-	-
-14	(	O	-	-
-15	som	O	-	-
-16	Beinov	B-PER	-	-
-17	er	O	-	-
-18	besjælet	O	-	-
-19	af	O	-	-
-20	)	O	-	-
-21	,	O	-	-
-22	er	O	-	-
-23	i	O	-	-
-24	dag	O	-	-
-25	ikke	O	-	-
-26	så	O	-	-
-27	almindelig	O	-	-
-28	,	O	-	-
-29	som	O	-	-
-30	f.eks.	O	-	-
-31	for	O	-	-
-32	20	O	-	-
-33	år	O	-	-
-34	siden	O	-	-
-35	.	O	-	-
-
-1	-	O	-	-
-2	Og	O	-	-
-3	i	O	-	-
-4	midten	O	-	-
-5	af	O	-	-
-6	juli	O	-	-
-7	åbnede	O	-	-
-8	jeg	O	-	-
-9	forretningen	O	-	-
-10	på	O	-	-
-11	campingpladsen	O	-	-
-12	ved	O	-	-
-13	Havnsø	B-LOC	-	-
-14	Strand	I-LOC	-	-
-15	.	O	-	-
-
-1	Dvs.	O	-	-
-2	der	O	-	-
-3	i	O	-	-
-4	1980'erne	O	-	-
-5	bevidst	O	-	-
-6	er	O	-	-
-7	overført	O	-	-
-8	opsparing	O	-	-
-9	fra	O	-	-
-10	tidligere	O	-	-
-11	tiders	O	-	-
-12	investeringer	O	-	-
-13	til	O	-	-
-14	nye	O	-	-
-15	pensionsopsparere	O	-	-
-16	.	O	-	-
-
 1	TVANGSAKKORD	O	-	-
 
 1	Marco	B-PER	-	-
@@ -8417,43 +5594,8 @@
 9	journalist	O	-	-
 10	?	O	-	-
 
-1	Hvordan	O	-	-
-2	mon	O	-	-
-3	hun	O	-	-
-4	havde	O	-	-
-5	det	O	-	-
-6	nu	O	-	-
-7	?	O	-	-
-
 1	§	O	-	-
 2	101	O	-	-
-
-1	NATO-landenes	O	-	-
-2	forsvarsministre	O	-	-
-3	beslutter	O	-	-
-4	i	O	-	-
-5	dag	O	-	-
-6	og	O	-	-
-7	i	O	-	-
-8	morgen	O	-	-
-9	at	O	-	-
-10	fjerne	O	-	-
-11	tre	O	-	-
-12	fjerdedel	O	-	-
-13	af	O	-	-
-14	de	O	-	-
-15	taktiske	O	-	-
-16	og	O	-	-
-17	kortrækkende	O	-	-
-18	kernevåben	O	-	-
-19	,	O	-	-
-20	som	O	-	-
-21	alliancen	O	-	-
-22	råder	O	-	-
-23	over	O	-	-
-24	i	O	-	-
-25	dag	O	-	-
-26	.	O	-	-
 
 1	Men	O	-	-
 2	for	O	-	-
@@ -8478,31 +5620,6 @@
 21	tredje	O	-	-
 22	og	O	-	-
 23	sidste	O	-	-
-24	.	O	-	-
-
-1	"	O	-	-
-2	Børns	B-ORG	-	-
-3	vilkår	I-ORG	-	-
-4	har	O	-	-
-5	ændret	O	-	-
-6	sig	O	-	-
-7	så	O	-	-
-8	meget	O	-	-
-9	de	O	-	-
-10	seneste	O	-	-
-11	år	O	-	-
-12	,	O	-	-
-13	at	O	-	-
-14	vi	O	-	-
-15	faktisk	O	-	-
-16	ikke	O	-	-
-17	har	O	-	-
-18	noget	O	-	-
-19	sammenligningsgrundlag	O	-	-
-20	,	O	-	-
-21	"	O	-	-
-22	siger	O	-	-
-23	han	O	-	-
 24	.	O	-	-
 
 1	Karadzic	B-PER	-	-
@@ -8583,9 +5700,6 @@
 23	nylon	O	-	-
 24	.	O	-	-
 
-1	Ingen	O	-	-
-2	sammenhæng	O	-	-
-
 1	På	O	-	-
 2	lørdag	O	-	-
 3	skal	O	-	-
@@ -8644,14 +5758,6 @@
 11	tradition	O	-	-
 12	.	O	-	-
 
-1	Alle	O	-	-
-2	er	O	-	-
-3	klædt	O	-	-
-4	om	O	-	-
-5	til	O	-	-
-6	middagen	O	-	-
-7	.	O	-	-
-
 1	-	O	-	-
 2	Kurt	B-PER	-	-
 3	mødte	O	-	-
@@ -8661,23 +5767,6 @@
 7	en	O	-	-
 8	café	O	-	-
 9	.	O	-	-
-
-1	Så	O	-	-
-2	ville	O	-	-
-3	jeg	O	-	-
-4	personligt	O	-	-
-5	aflive	O	-	-
-6	ham	O	-	-
-7	,	O	-	-
-8	"	O	-	-
-9	sagde	O	-	-
-10	Nina	B-PER	-	-
-11	Belovetskaya	I-PER	-	-
-12	.	O	-	-
-
-1	Skrald	O	-	-
-2	og	O	-	-
-3	post	O	-	-
 
 1	-	O	-	-
 2	Selvfølgelig	O	-	-
@@ -8696,28 +5785,6 @@
 1	BEGYNDTE	O	-	-
 2	MED	O	-	-
 3	BEATLES	B-ORG	-	-
-
-1	Markedsføring	O	-	-
-2	:	O	-	-
-3	forsyning	O	-	-
-4	af	O	-	-
-5	eller	O	-	-
-6	stillen	O	-	-
-7	til	O	-	-
-8	rådighed	O	-	-
-9	for	O	-	-
-10	tredjemand	O	-	-
-11	med	O	-	-
-12	henblik	O	-	-
-13	på	O	-	-
-14	salg	O	-	-
-15	eller	O	-	-
-16	distribution	O	-	-
-17	med	O	-	-
-18	salg	O	-	-
-19	for	O	-	-
-20	øje	O	-	-
-21	.	O	-	-
 
 1	Og	O	-	-
 2	så	O	-	-
@@ -8828,44 +5895,6 @@
 2	spor	O	-	-
 3	af	O	-	-
 4	smerte	O	-	-
-
-1	Nana	B-PER	-	-
-2	bekræfter	O	-	-
-3	,	O	-	-
-4	at	O	-	-
-5	han	O	-	-
-6	sidste	O	-	-
-7	år	O	-	-
-8	i	O	-	-
-9	september	O	-	-
-10	indgik	O	-	-
-11	en	O	-	-
-12	aftale	O	-	-
-13	med	O	-	-
-14	en	O	-	-
-15	italiener	O	-	-
-16	,	O	-	-
-17	Giancarlo	B-PER	-	-
-18	Raffaelli	I-PER	-	-
-19	,	O	-	-
-20	og	O	-	-
-21	en	O	-	-
-22	nigeriansk	O	-	-
-23	forretningsmand	O	-	-
-24	om	O	-	-
-25	at	O	-	-
-26	oplagre	O	-	-
-27	gifttønderne	O	-	-
-28	for	O	-	-
-29	500	O	-	-
-30	naira	O	-	-
-31	(	O	-	-
-32	650	O	-	-
-33	kr.	O	-	-
-34	)	O	-	-
-35	om	O	-	-
-36	måneden	O	-	-
-37	.	O	-	-
 
 1	Produkt	O	-	-
 2	:	O	-	-
@@ -8980,26 +6009,6 @@
 17	klima	O	-	-
 18	.	O	-	-
 
-1	Penge	O	-	-
-2	,	O	-	-
-3	som	O	-	-
-4	er	O	-	-
-5	investeret	O	-	-
-6	,	O	-	-
-7	og	O	-	-
-8	som	O	-	-
-9	den	O	-	-
-10	uheldige	O	-	-
-11	spiller	O	-	-
-12	ikke	O	-	-
-13	håber	O	-	-
-14	at	O	-	-
-15	røre	O	-	-
-16	de	O	-	-
-17	kommende	O	-	-
-18	år	O	-	-
-19	.	O	-	-
-
 1	Han	O	-	-
 2	har	O	-	-
 3	i	O	-	-
@@ -9020,9 +6029,6 @@
 18	mor	O	-	-
 19	.	O	-	-
 
-1	7	O	-	-
-2	.	O	-	-
-
 1	Det	O	-	-
 2	kan	O	-	-
 3	Søsser	B-PER	-	-
@@ -9030,52 +6036,9 @@
 5	under	O	-	-
 6	på	O	-	-
 
-1	Eller	O	-	-
-2	var	O	-	-
-3	det	O	-	-
-4	bare	O	-	-
-5	nysgerrighed	O	-	-
-6	efter	O	-	-
-7	at	O	-	-
-8	betragte	O	-	-
-9	,	O	-	-
-10	beglo	O	-	-
-11	?	O	-	-
-
-1	Men	O	-	-
-2	du	O	-	-
-3	har	O	-	-
-4	altså	O	-	-
-5	aldrig	O	-	-
-6	været	O	-	-
-7	rigtig	O	-	-
-8	,	O	-	-
-9	for	O	-	-
-10	alvor	O	-	-
-11	,	O	-	-
-12	forelsket	O	-	-
-13	?	O	-	-
-
-1	Hun	O	-	-
-2	boede	O	-	-
-3	i	O	-	-
-4	den	O	-	-
-5	anden	O	-	-
-6	ende	O	-	-
-7	af	O	-	-
-8	landsbyden	O	-	-
-9	.	O	-	-
-
 1	Ugens	O	-	-
 2	bedste	O	-	-
 3	idé	O	-	-
-
-1	På	O	-	-
-2	vagt	O	-	-
-3	foran	O	-	-
-4	Cheops	B-LOC	-	-
-5	pyramiden	I-LOC	-	-
-6	.	O	-	-
 
 1	De	O	-	-
 2	skal	O	-	-
@@ -9086,62 +6049,6 @@
 7	i	O	-	-
 8	kosten	O	-	-
 9	.	O	-	-
-
-1	Claudia	B-PER	-	-
-2	Hamann-Vogt	I-PER	-	-
-3	blev	O	-	-
-4	anholdt	O	-	-
-5	og	O	-	-
-6	forhørt	O	-	-
-7	14	O	-	-
-8	timer	O	-	-
-9	senere	O	-	-
-10	.	O	-	-
-
-1	vivaldi	B-PER	-	-
-2	er	O	-	-
-3	utrolig	O	-	-
-4	til	O	-	-
-5	at	O	-	-
-6	udtrykke	O	-	-
-7	sig	O	-	-
-8	med	O	-	-
-9	sin	O	-	-
-10	musik	O	-	-
-11	.	O	-	-
-
-1	En	O	-	-
-2	ubehagelig	O	-	-
-3	kemisk	O	-	-
-4	lugt	O	-	-
-5	har	O	-	-
-6	bredt	O	-	-
-7	sig	O	-	-
-8	,	O	-	-
-9	men	O	-	-
-10	Nana	B-PER	-	-
-11	og	O	-	-
-12	de	O	-	-
-13	af	O	-	-
-14	hans	O	-	-
-15	24	O	-	-
-16	børn	O	-	-
-17	,	O	-	-
-18	som	O	-	-
-19	stadig	O	-	-
-20	bor	O	-	-
-21	hjemme	O	-	-
-22	,	O	-	-
-23	siger	O	-	-
-24	,	O	-	-
-25	at	O	-	-
-26	de	O	-	-
-27	har	O	-	-
-28	vænnet	O	-	-
-29	sig	O	-	-
-30	til	O	-	-
-31	det	O	-	-
-32	.	O	-	-
 
 1	-	O	-	-
 2	Godaften	O	-	-
@@ -9155,25 +6062,6 @@
 10	knirkende	O	-	-
 11	stemme	O	-	-
 12	.	O	-	-
-
-1	Lav	O	-	-
-2	dernæst	O	-	-
-3	en	O	-	-
-4	forsøgsrække	O	-	-
-5	,	O	-	-
-6	der	O	-	-
-7	kan	O	-	-
-8	afsløre	O	-	-
-9	hvilke	O	-	-
-10	ting	O	-	-
-11	,	O	-	-
-12	der	O	-	-
-13	har	O	-	-
-14	indflydelse	O	-	-
-15	på	O	-	-
-16	magnetfelters	O	-	-
-17	styrke	O	-	-
-18	.	O	-	-
 
 1	Af	O	-	-
 2	samme	O	-	-
@@ -9211,22 +6099,6 @@
 20	stadig	O	-	-
 21	væk	O	-	-
 22	.	O	-	-
-
-1	Netop	O	-	-
-2	som	O	-	-
-3	han	O	-	-
-4	kom	O	-	-
-5	ud	O	-	-
-6	i	O	-	-
-7	det	O	-	-
-8	fri	O	-	-
-9	ramtes	O	-	-
-10	han	O	-	-
-11	af	O	-	-
-12	noget	O	-	-
-13	fra	O	-	-
-14	oven	O	-	-
-15	.	O	-	-
 
 1	Museet	O	-	-
 2	i	O	-	-
@@ -9368,29 +6240,6 @@
 42	1992	O	-	-
 43	.	O	-	-
 
-1	Enhver	O	-	-
-2	,	O	-	-
-3	der	O	-	-
-4	har	O	-	-
-5	forsøgt	O	-	-
-6	at	O	-	-
-7	gennemføre	O	-	-
-8	en	O	-	-
-9	samtale	O	-	-
-10	i	O	-	-
-11	lastrummet	O	-	-
-12	på	O	-	-
-13	sådan	O	-	-
-14	en	O	-	-
-15	tyksak	O	-	-
-16	af	O	-	-
-17	et	O	-	-
-18	fly	O	-	-
-19	,	O	-	-
-20	kender	O	-	-
-21	betingelserne	O	-	-
-22	.	O	-	-
-
 1	Der	O	-	-
 2	findes	O	-	-
 3	to	O	-	-
@@ -9399,18 +6248,6 @@
 6	på	O	-	-
 7	markedet	O	-	-
 8	.	O	-	-
-
-1	I	O	-	-
-2	sin	O	-	-
-3	første	O	-	-
-4	sæson	O	-	-
-5	for	O	-	-
-6	Valenciennes	B-ORG	-	-
-7	scorede	O	-	-
-8	Papin	B-PER	-	-
-9	15	O	-	-
-10	mål	O	-	-
-11	.	O	-	-
 
 1	Fem	O	-	-
 2	hundrede	O	-	-
@@ -9431,59 +6268,6 @@
 17	kvindelig	O	-	-
 18	bilist	O	-	-
 19	.	O	-	-
-
-1	Han	O	-	-
-2	elsker	O	-	-
-3	julen	O	-	-
-4	og	O	-	-
-5	fejrer	O	-	-
-6	den	O	-	-
-7	i	O	-	-
-8	sit	O	-	-
-9	hjem	O	-	-
-10	lige	O	-	-
-11	til	O	-	-
-12	Hellig	B-MISC	-	-
-13	Tre	I-MISC	-	-
-14	Konger	I-MISC	-	-
-15	,	O	-	-
-16	hvor	O	-	-
-17	han	O	-	-
-18	slutter	O	-	-
-19	højtiden	O	-	-
-20	med	O	-	-
-21	at	O	-	-
-22	tænde	O	-	-
-23	tre	O	-	-
-24	lys	O	-	-
-25	og	O	-	-
-26	en	O	-	-
-27	sidste	O	-	-
-28	gang	O	-	-
-29	glæder	O	-	-
-30	sig	O	-	-
-31	over	O	-	-
-32	de	O	-	-
-33	nisseskarer	O	-	-
-34	,	O	-	-
-35	som	O	-	-
-36	pynter	O	-	-
-37	i	O	-	-
-38	sofaer	O	-	-
-39	og	O	-	-
-40	stole	O	-	-
-41	,	O	-	-
-42	på	O	-	-
-43	borde	O	-	-
-44	,	O	-	-
-45	reoler	O	-	-
-46	,	O	-	-
-47	i	O	-	-
-48	vindueskarme	O	-	-
-49	og	O	-	-
-50	på	O	-	-
-51	gulvet	O	-	-
-52	.	O	-	-
 
 1	Bunden	O	-	-
 2	lægges	O	-	-
@@ -9618,9 +6402,6 @@
 2	at	O	-	-
 3	demonstrere	O	-	-
 
-1	Mod	O	-	-
-2	impotens	O	-	-
-
 1	Funar	B-ORG	-	-
 2	afvises	O	-	-
 3	af	O	-	-
@@ -9630,20 +6411,6 @@
 7	politiske	O	-	-
 8	bevægelser	O	-	-
 9	.	O	-	-
-
-1	Nina	B-PER	-	-
-2	Belovetskayas	I-PER	-	-
-3	12-årige	O	-	-
-4	søn	O	-	-
-5	Vanya	B-PER	-	-
-6	blev	O	-	-
-7	også	O	-	-
-8	dræbt	O	-	-
-9	af	O	-	-
-10	den	O	-	-
-11	sadistiske	O	-	-
-12	skolelærer	O	-	-
-13	.	O	-	-
 
 1	Hoteldøren	O	-	-
 2	åbnes	O	-	-
@@ -9686,74 +6453,6 @@
 35	underhold	O	-	-
 36	.	O	-	-
 
-1	For	O	-	-
-2	begærer	O	-	-
-3	man	O	-	-
-4	kendskab	O	-	-
-5	til	O	-	-
-6	menneskesindets	O	-	-
-7	udtryksmangfoldighed	O	-	-
-8	,	O	-	-
-9	dets	O	-	-
-10	ydre	O	-	-
-11	tilkendegivelsers	O	-	-
-12	muligheder	O	-	-
-13	og	O	-	-
-14	ytringers	O	-	-
-15	facettering	O	-	-
-16	,	O	-	-
-17	og	O	-	-
-18	ønsker	O	-	-
-19	man	O	-	-
-20	indsigt	O	-	-
-21	i	O	-	-
-22	den	O	-	-
-23	menneskelige	O	-	-
-24	oplevelsesverdens	O	-	-
-25	rigdom	O	-	-
-26	,	O	-	-
-27	stemningernes	O	-	-
-28	udsving	O	-	-
-29	og	O	-	-
-30	følelsernes	O	-	-
-31	inderlighed	O	-	-
-32	,	O	-	-
-33	fantasilivets	O	-	-
-34	grænseløshed	O	-	-
-35	og	O	-	-
-36	sanseillusionernes	O	-	-
-37	mangfoldighed	O	-	-
-38	-	O	-	-
-39	da	O	-	-
-40	er	O	-	-
-41	det	O	-	-
-42	blandt	O	-	-
-43	dem	O	-	-
-44	,	O	-	-
-45	der	O	-	-
-46	bærer	O	-	-
-47	afsindets	O	-	-
-48	mærke	O	-	-
-49	,	O	-	-
-50	man	O	-	-
-51	skal	O	-	-
-52	lede	O	-	-
-53	for	O	-	-
-54	at	O	-	-
-55	finde	O	-	-
-56	,	O	-	-
-57	hvad	O	-	-
-58	man	O	-	-
-59	søger	O	-	-
-60	;	O	-	-
-61	såre	O	-	-
-62	langt	O	-	-
-63	fra	O	-	-
-64	de	O	-	-
-65	besindiges	O	-	-
-66	kreds	O	-	-
-67	.	O	-	-
-
 1	Ministererklæringen	O	-	-
 2	,	O	-	-
 3	som	O	-	-
@@ -9778,51 +6477,6 @@
 22	bistandsorganisationer	O	-	-
 23	.	O	-	-
 
-1	Han	O	-	-
-2	har	O	-	-
-3	ved	O	-	-
-4	flere	O	-	-
-5	lejligheder	O	-	-
-6	understreget	O	-	-
-7	,	O	-	-
-8	at	O	-	-
-9	selskabet	O	-	-
-10	er	O	-	-
-11	økonomisk	O	-	-
-12	sundt	O	-	-
-13	,	O	-	-
-14	og	O	-	-
-15	at	O	-	-
-16	han	O	-	-
-17	er	O	-	-
-18	formuende	O	-	-
-19	.	O	-	-
-
-1	Et	O	-	-
-2	nyhedsmagasin	O	-	-
-3	fandt	O	-	-
-4	ud	O	-	-
-5	af	O	-	-
-6	,	O	-	-
-7	at	O	-	-
-8	Claudia	B-PER	-	-
-9	Hamann-Vogt	I-PER	-	-
-10	allerede	O	-	-
-11	to	O	-	-
-12	timer	O	-	-
-13	efter	O	-	-
-14	den	O	-	-
-15	påståede	O	-	-
-16	risiko-fødsel	O	-	-
-17	på	O	-	-
-18	parkeringspladsen	O	-	-
-19	befandt	O	-	-
-20	sig	O	-	-
-21	i	O	-	-
-22	sin	O	-	-
-23	lejlighed	O	-	-
-24	.	O	-	-
-
 1	Det	O	-	-
 2	første	O	-	-
 3	skridt	O	-	-
@@ -9836,86 +6490,6 @@
 11	før	O	-	-
 12	pinse	O	-	-
 13	.	O	-	-
-
-1	Hver	O	-	-
-2	scene	O	-	-
-3	er	O	-	-
-4	bygget	O	-	-
-5	op	O	-	-
-6	i	O	-	-
-7	et	O	-	-
-8	atelier	O	-	-
-9	for	O	-	-
-10	at	O	-	-
-11	få	O	-	-
-12	den	O	-	-
-13	helt	O	-	-
-14	præcis	O	-	-
-15	,	O	-	-
-16	"	O	-	-
-17	fortæller	O	-	-
-18	instruktøren	O	-	-
-19	,	O	-	-
-20	der	O	-	-
-21	er	O	-	-
-22	perfektionist	O	-	-
-23	,	O	-	-
-24	hvad	O	-	-
-25	angår	O	-	-
-26	komposition	O	-	-
-27	og	O	-	-
-28	udsagnskraft	O	-	-
-29	i	O	-	-
-30	hvert	O	-	-
-31	billede	O	-	-
-32	.	O	-	-
-
-1	Forholdene	O	-	-
-2	var	O	-	-
-3	grufulde	O	-	-
-4	i	O	-	-
-5	DDRs	B-ORG	-	-
-6	eneste	O	-	-
-7	lukkede	O	-	-
-8	børnefængsel	O	-	-
-9	,	O	-	-
-10	som	O	-	-
-11	lå	O	-	-
-12	i	O	-	-
-13	Torgau	B-LOC	-	-
-14	ved	O	-	-
-15	Elben	B-LOC	-	-
-16	.	O	-	-
-
-1	Men	O	-	-
-2	min	O	-	-
-3	holdning	O	-	-
-4	er	O	-	-
-5	,	O	-	-
-6	at	O	-	-
-7	det	O	-	-
-8	vil	O	-	-
-9	være	O	-	-
-10	langt	O	-	-
-11	mere	O	-	-
-12	effektivt	O	-	-
-13	,	O	-	-
-14	hvis	O	-	-
-15	lægerne	O	-	-
-16	offentligt	O	-	-
-17	erklærer	O	-	-
-18	,	O	-	-
-19	at	O	-	-
-20	de	O	-	-
-21	vil	O	-	-
-22	bryde	O	-	-
-23	tavshedspligten	O	-	-
-24	,	O	-	-
-25	"	O	-	-
-26	siger	O	-	-
-27	Elisabeth	B-PER	-	-
-28	Arnold	I-PER	-	-
-29	.	O	-	-
 
 1	Han	O	-	-
 2	fik	O	-	-
@@ -10115,99 +6689,6 @@
 5	for	O	-	-
 6	sko	O	-	-
 
-1	Hun	O	-	-
-2	undrer	O	-	-
-3	sig	O	-	-
-4	over	O	-	-
-5	,	O	-	-
-6	hvor	O	-	-
-7	den	O	-	-
-8	kraft	O	-	-
-9	kommer	O	-	-
-10	fra	O	-	-
-11	,	O	-	-
-12	der	O	-	-
-13	gør	O	-	-
-14	hende	O	-	-
-15	i	O	-	-
-16	stand	O	-	-
-17	til	O	-	-
-18	at	O	-	-
-19	vælte	O	-	-
-20	ham	O	-	-
-21	om	O	-	-
-22	på	O	-	-
-23	gulvet	O	-	-
-24	og	O	-	-
-25	slå	O	-	-
-26	løs	O	-	-
-27	på	O	-	-
-28	ham	O	-	-
-29	med	O	-	-
-30	knyttede	O	-	-
-31	hænder	O	-	-
-32	.	O	-	-
-
-1	"	O	-	-
-2	Åh	O	-	-
-3	snak	O	-	-
-4	,	O	-	-
-5	"	O	-	-
-6	sagde	O	-	-
-7	hun	O	-	-
-8	,	O	-	-
-9	"	O	-	-
-10	vi	O	-	-
-11	har	O	-	-
-12	da	O	-	-
-13	haft	O	-	-
-14	patienter	O	-	-
-15	på	O	-	-
-16	90	O	-	-
-17	der	O	-	-
-18	uden	O	-	-
-19	besvær	O	-	-
-20	selv	O	-	-
-21	har	O	-	-
-22	kunnet	O	-	-
-23	tage	O	-	-
-24	den	O	-	-
-25	i	O	-	-
-26	øret	O	-	-
-27	.	O	-	-
-28	"	O	-	-
-
-1	"	O	-	-
-2	Alle	O	-	-
-3	,	O	-	-
-4	der	O	-	-
-5	har	O	-	-
-6	været	O	-	-
-7	så	O	-	-
-8	tæt	O	-	-
-9	på	O	-	-
-10	branden	O	-	-
-11	,	O	-	-
-12	at	O	-	-
-13	de	O	-	-
-14	har	O	-	-
-15	kunnet	O	-	-
-16	fornemme	O	-	-
-17	lugten	O	-	-
-18	,	O	-	-
-19	risikerer	O	-	-
-20	inden	O	-	-
-21	for	O	-	-
-22	24	O	-	-
-23	timer	O	-	-
-24	at	O	-	-
-25	pådrage	O	-	-
-26	sig	O	-	-
-27	væske	O	-	-
-28	i	O	-	-
-29	lungerne	O	-	-
-30	.	O	-	-
-
 1	Den	O	-	-
 2	er	O	-	-
 3	indstiftet	O	-	-
@@ -10357,36 +6838,6 @@
 26	terræn	O	-	-
 27	.	O	-	-
 
-1	Og	O	-	-
-2	i	O	-	-
-3	hvert	O	-	-
-4	fald	O	-	-
-5	kan	O	-	-
-6	vi	O	-	-
-7	ikke	O	-	-
-8	måle	O	-	-
-9	kvaliteten	O	-	-
-10	af	O	-	-
-11	vore	O	-	-
-12	dages	O	-	-
-13	barndom	O	-	-
-14	ud	O	-	-
-15	fra	O	-	-
-16	de	O	-	-
-17	normer	O	-	-
-18	,	O	-	-
-19	der	O	-	-
-20	gjaldt	O	-	-
-21	dengang	O	-	-
-22	,	O	-	-
-23	vi	O	-	-
-24	selv	O	-	-
-25	var	O	-	-
-26	børn	O	-	-
-27	.	O	-	-
-
-1	Karavane	O	-	-
-
 1	Skal	O	-	-
 2	man	O	-	-
 3	tro	O	-	-
@@ -10401,9 +6852,6 @@
 12	yngre	O	-	-
 13	ud	O	-	-
 14	.	O	-	-
-
-1	1	O	-	-
-2	.	O	-	-
 
 1	"	O	-	-
 2	Jeg	O	-	-
@@ -10423,8 +6871,6 @@
 16	i	O	-	-
 17	vandet	O	-	-
 18	.	O	-	-
-
-1	Levestandarden	O	-	-
 
 1	Og	O	-	-
 2	i	O	-	-
@@ -10446,17 +6892,6 @@
 18	se	O	-	-
 19	ud	O	-	-
 20	.	O	-	-
-
-1	Overgangssummen	O	-	-
-2	på	O	-	-
-3	1,3	O	-	-
-4	mill.	O	-	-
-5	franc	O	-	-
-6	reddede	O	-	-
-7	Valenciennes	B-ORG	-	-
-8	fra	O	-	-
-9	konkurs	O	-	-
-10	.	O	-	-
 
 1	Man	O	-	-
 2	ejer	O	-	-
@@ -10482,38 +6917,6 @@
 22	til	O	-	-
 23	.	O	-	-
 
-1	For	O	-	-
-2	fuldstændighedens	O	-	-
-3	skyld	O	-	-
-4	skal	O	-	-
-5	lige	O	-	-
-6	nævnes	O	-	-
-7	,	O	-	-
-8	at	O	-	-
-9	omtalte	O	-	-
-10	gade	O	-	-
-11	er	O	-	-
-12	en	O	-	-
-13	gågade	O	-	-
-14	,	O	-	-
-15	der	O	-	-
-16	hovedsagelig	O	-	-
-17	besøges	O	-	-
-18	af	O	-	-
-19	personer	O	-	-
-20	der	O	-	-
-21	har	O	-	-
-22	interesse	O	-	-
-23	i	O	-	-
-24	antikviteter	O	-	-
-25	,	O	-	-
-26	altså	O	-	-
-27	et	O	-	-
-28	meget	O	-	-
-29	begrænset	O	-	-
-30	klientel	O	-	-
-31	.	O	-	-
-
 1	Emballagesektoren	O	-	-
 2	volder	O	-	-
 3	Danisco	B-ORG	-	-
@@ -10535,17 +6938,6 @@
 12	at	O	-	-
 13	læges	O	-	-
 14	.	O	-	-
-
-1	Sygdomme	O	-	-
-2	som	O	-	-
-3	fåresyge	B-MISC	-	-
-4	eller	O	-	-
-5	gonorré	B-MISC	-	-
-6	giver	O	-	-
-7	smerter	O	-	-
-8	i	O	-	-
-9	stenene	O	-	-
-10	.	O	-	-
 
 1	Det	O	-	-
 2	aktuelle	O	-	-
@@ -10664,10 +7056,6 @@
 20	venter	O	-	-
 21	.	O	-	-
 
-1	Familieudbrud	O	-	-
-2	mest	O	-	-
-3	almindelige	O	-	-
-
 1	Med	O	-	-
 2	andre	O	-	-
 3	ord	O	-	-
@@ -10764,16 +7152,6 @@
 23	uddanner	O	-	-
 24	sig	O	-	-
 25	.	O	-	-
-
-1	Hvordan	O	-	-
-2	er	O	-	-
-3	det	O	-	-
-4	så	O	-	-
-5	egentlig	O	-	-
-6	med	O	-	-
-7	os	O	-	-
-8	selv	O	-	-
-9	.	O	-	-
 
 1	Kun	O	-	-
 2	30	O	-	-
@@ -10885,32 +7263,6 @@
 24	befolkningen	O	-	-
 25	.	O	-	-
 
-1	Italiens	B-LOC	-	-
-2	nyvalgte	O	-	-
-3	præsident	O	-	-
-4	nyder	O	-	-
-5	normalt	O	-	-
-6	stor	O	-	-
-7	respekt	O	-	-
-8	,	O	-	-
-9	men	O	-	-
-10	Oscar	B-PER	-	-
-11	Luigi	I-PER	-	-
-12	Scalfaro	I-PER	-	-
-13	så	O	-	-
-14	sig	O	-	-
-15	tirsdag	O	-	-
-16	omringet	O	-	-
-17	af	O	-	-
-18	de	O	-	-
-19	myrdede	O	-	-
-20	livvagters	O	-	-
-21	vrede	O	-	-
-22	og	O	-	-
-23	afmægtige	O	-	-
-24	kolleger	O	-	-
-25	.	O	-	-
-
 1	For	O	-	-
 2	indvandrere	O	-	-
 3	drejer	O	-	-
@@ -10969,14 +7321,6 @@
 3	,	O	-	-
 4	1978	O	-	-
 
-1	-	O	-	-
-2	Vi	O	-	-
-3	må	O	-	-
-4	mødes	O	-	-
-5	i	O	-	-
-6	aften	O	-	-
-7	.	O	-	-
-
 1	Men	O	-	-
 2	vi	O	-	-
 3	er	O	-	-
@@ -11007,52 +7351,6 @@
 12	til	O	-	-
 13	golfbanen	O	-	-
 14	?	O	-	-
-
-1	Et	O	-	-
-2	par	O	-	-
-3	kraftige	O	-	-
-4	vandresko	O	-	-
-5	eller	O	-	-
-6	støvler	O	-	-
-7	bør	O	-	-
-8	man	O	-	-
-9	derfor	O	-	-
-10	have	O	-	-
-11	.	O	-	-
-
-1	Forbruget	O	-	-
-2	af	O	-	-
-3	lægemidler	O	-	-
-4	som	O	-	-
-5	Kodimagnyl	B-MISC	-	-
-6	,	O	-	-
-7	Treo	B-MISC	-	-
-8	,	O	-	-
-9	Panodil	B-MISC	-	-
-10	og	O	-	-
-11	Pamol	B-MISC	-	-
-12	er	O	-	-
-13	nu	O	-	-
-14	så	O	-	-
-15	stort	O	-	-
-16	,	O	-	-
-17	at	O	-	-
-18	det	O	-	-
-19	svarer	O	-	-
-20	til	O	-	-
-21	,	O	-	-
-22	at	O	-	-
-23	hver	O	-	-
-24	dansker	O	-	-
-25	årligt	O	-	-
-26	i	O	-	-
-27	hele	O	-	-
-28	sin	O	-	-
-29	levetid	O	-	-
-30	indtager	O	-	-
-31	160	O	-	-
-32	piller	O	-	-
-33	.	O	-	-
 
 1	-	O	-	-
 2	Og	O	-	-
@@ -11089,73 +7387,6 @@
 22	flyinstruktør	O	-	-
 23	.	O	-	-
 
-1	Det	O	-	-
-2	perspektiv	O	-	-
-3	kommer	O	-	-
-4	forståeligt	O	-	-
-5	nok	O	-	-
-6	endnu	O	-	-
-7	i	O	-	-
-8	anden	O	-	-
-9	række	O	-	-
-10	for	O	-	-
-11	de	O	-	-
-12	partisaner	O	-	-
-13	,	O	-	-
-14	der	O	-	-
-15	ser	O	-	-
-16	forbundshæren	O	-	-
-17	som	O	-	-
-18	et	O	-	-
-19	utåleligt	O	-	-
-20	levn	O	-	-
-21	efter	O	-	-
-22	det	O	-	-
-23	regime	O	-	-
-24	,	O	-	-
-25	der	O	-	-
-26	i	O	-	-
-27	generationer	O	-	-
-28	har	O	-	-
-29	stået	O	-	-
-30	for	O	-	-
-31	serbisk	O	-	-
-32	undertrykkelse	O	-	-
-33	af	O	-	-
-34	de	O	-	-
-35	andre	O	-	-
-36	jugoslaviske	O	-	-
-37	folkegruppers	O	-	-
-38	nationale	O	-	-
-39	selvstændighed	O	-	-
-40	.	O	-	-
-
-1	Landet	O	-	-
-2	som	O	-	-
-3	helhed	O	-	-
-4	satser	O	-	-
-5	hverken	O	-	-
-6	på	O	-	-
-7	uddannelse	O	-	-
-8	eller	O	-	-
-9	industrifremme	O	-	-
-10	af	O	-	-
-11	rumfartsteknologi	O	-	-
-12	og	O	-	-
-13	derfor	O	-	-
-14	har	O	-	-
-15	danske	O	-	-
-16	virksomheder	O	-	-
-17	svært	O	-	-
-18	ved	O	-	-
-19	at	O	-	-
-20	trænge	O	-	-
-21	ind	O	-	-
-22	i	O	-	-
-23	denne	O	-	-
-24	branche	O	-	-
-25	.	O	-	-
-
 1	Men	O	-	-
 2	den	O	-	-
 3	form	O	-	-
@@ -11164,35 +7395,6 @@
 6	kræver	O	-	-
 7	kræfter	O	-	-
 8	.	O	-	-
-
-1	I	O	-	-
-2	løbet	O	-	-
-3	af	O	-	-
-4	firserne	O	-	-
-5	fik	O	-	-
-6	naturvidenskaben	O	-	-
-7	sig	O	-	-
-8	et	O	-	-
-9	andet	O	-	-
-10	og	O	-	-
-11	mere	O	-	-
-12	positivt	O	-	-
-13	image	O	-	-
-14	,	O	-	-
-15	nemlig	O	-	-
-16	som	O	-	-
-17	leverandør	O	-	-
-18	af	O	-	-
-19	svar	O	-	-
-20	på	O	-	-
-21	de	O	-	-
-22	store	O	-	-
-23	spørgsmål	O	-	-
-24	:	O	-	-
-25	Hvornår	O	-	-
-26	begyndte	O	-	-
-27	universet	O	-	-
-28	?	O	-	-
 
 1	Hver	O	-	-
 2	fredag	O	-	-
@@ -11234,80 +7436,6 @@
 14	halvkg	O	-	-
 15	krabat	O	-	-
 16	.	O	-	-
-
-1	t-boret20	O	-	-
-
-1	Ved	O	-	-
-2	VM	O	-	-
-3	i	O	-	-
-4	Mexico	B-LOC	-	-
-5	scorede	O	-	-
-6	han	O	-	-
-7	to	O	-	-
-8	mål	O	-	-
-9	,	O	-	-
-10	det	O	-	-
-11	ene	O	-	-
-12	i	O	-	-
-13	bronzekampen	O	-	-
-14	mod	O	-	-
-15	Belgien	B-ORG	-	-
-16	.	O	-	-
-
-1	Ifølge	O	-	-
-2	en	O	-	-
-3	officiel	O	-	-
-4	rapport	O	-	-
-5	fra	O	-	-
-6	bystyret	O	-	-
-7	var	O	-	-
-8	tilstandene	O	-	-
-9	i	O	-	-
-10	fængslet	O	-	-
-11	betydeligt	O	-	-
-12	værre	O	-	-
-13	end	O	-	-
-14	i	O	-	-
-15	normale	O	-	-
-16	DDR-fængsler	O	-	-
-17	for	O	-	-
-18	voksne	O	-	-
-19	.	O	-	-
-
-1	Deltager	O	-	-
-2	De	O	-	-
-3	også	O	-	-
-4	i	O	-	-
-5	"	O	-	-
-6	Ugens	O	-	-
-7	Overraskelse	O	-	-
-8	"	O	-	-
-9	på	O	-	-
-10	side	O	-	-
-11	47	O	-	-
-12	,	O	-	-
-13	så	O	-	-
-14	kommer	O	-	-
-15	De	O	-	-
-16	blot	O	-	-
-17	kuponen	O	-	-
-18	i	O	-	-
-19	én	O	-	-
-20	kuvert	O	-	-
-21	mærket	O	-	-
-22	"	O	-	-
-23	Ugens	O	-	-
-24	Overraskelse	O	-	-
-25	-	O	-	-
-26	uge	O	-	-
-27	47	O	-	-
-28	"	O	-	-
-29	og	O	-	-
-30	"	O	-	-
-31	DUPLO	B-MISC	-	-
-32	legetøj	O	-	-
-33	"	O	-	-
-34	.	O	-	-
 
 1	Sådan	O	-	-
 2	noget	O	-	-
@@ -11386,10 +7514,6 @@
 4	kg.	O	-	-
 5	.	O	-	-
 
-1	Varmt	O	-	-
-2	indenfor	O	-	-
-3	.	O	-	-
-
 1	Bilerne	O	-	-
 2	dækkes	O	-	-
 3	med	O	-	-
@@ -11437,10 +7561,6 @@
 
 1	Fig.	O	-	-
 2	9.10	O	-	-
-
-1	-	O	-	-
-2	Selvfølgelig	O	-	-
-3	.	O	-	-
 
 1	Der	O	-	-
 2	var	O	-	-
@@ -11596,39 +7716,6 @@
 14	svar	O	-	-
 15	.	O	-	-
 
-1	Derefter	O	-	-
-2	er	O	-	-
-3	der	O	-	-
-4	igen	O	-	-
-5	en	O	-	-
-6	pause	O	-	-
-7	hvor	O	-	-
-8	vivaldi	B-PER	-	-
-9	rejser	O	-	-
-10	ud	O	-	-
-11	i	O	-	-
-12	verden	O	-	-
-13	.	O	-	-
-
-1	Bagefter	O	-	-
-2	måtte	O	-	-
-3	hun	O	-	-
-4	trøste	O	-	-
-5	hende	O	-	-
-6	længe	O	-	-
-7	,	O	-	-
-8	og	O	-	-
-9	hun	O	-	-
-10	var	O	-	-
-11	ved	O	-	-
-12	at	O	-	-
-13	komme	O	-	-
-14	for	O	-	-
-15	sent	O	-	-
-16	i	O	-	-
-17	skole	O	-	-
-18	.	O	-	-
-
 1	Nogle	O	-	-
 2	kan	O	-	-
 3	få	O	-	-
@@ -11639,30 +7726,6 @@
 8	stærk	O	-	-
 9	sexuel	O	-	-
 10	ophidselse	O	-	-
-11	.	O	-	-
-
-1	En	O	-	-
-2	anden	O	-	-
-3	gang	O	-	-
-4	vil	O	-	-
-5	jeg	O	-	-
-6	stole	O	-	-
-7	mere	O	-	-
-8	på	O	-	-
-9	lægernes	O	-	-
-10	råd	O	-	-
-11	.	O	-	-
-
-1	Når	O	-	-
-2	kvinden	O	-	-
-3	sidder	O	-	-
-4	"	O	-	-
-5	omvendt	O	-	-
-6	"	O	-	-
-7	på	O	-	-
-8	manden	O	-	-
-9	,	O	-	-
-10	bl.a.	O	-	-
 11	.	O	-	-
 
 1	Det	O	-	-
@@ -11722,100 +7785,12 @@
 13	løsning	O	-	-
 14	.	O	-	-
 
-1	På	O	-	-
-2	det	O	-	-
-3	tidspunkt	O	-	-
-4	havde	O	-	-
-5	vi	O	-	-
-6	drukket	O	-	-
-7	gin'en	O	-	-
-8	,	O	-	-
-9	og	O	-	-
-10	vi	O	-	-
-11	var	O	-	-
-12	faktisk	O	-	-
-13	halvfulde	O	-	-
-14	,	O	-	-
-15	da	O	-	-
-16	taxaen	O	-	-
-17	kom	O	-	-
-18	.	O	-	-
-
-1	Og	O	-	-
-2	så	O	-	-
-3	skal	O	-	-
-4	de	O	-	-
-5	ellers	O	-	-
-6	inden	O	-	-
-7	3.	O	-	-
-8	maj	O	-	-
-9	have	O	-	-
-10	udarbejdet	O	-	-
-11	en	O	-	-
-12	ny	O	-	-
-13	standardkontrakt	O	-	-
-14	og	O	-	-
-15	et	O	-	-
-16	andet	O	-	-
-17	transfersystem	O	-	-
-18	til	O	-	-
-19	afløsning	O	-	-
-20	for	O	-	-
-21	det	O	-	-
-22	,	O	-	-
-23	der	O	-	-
-24	blev	O	-	-
-25	vedtaget	O	-	-
-26	på	O	-	-
-27	DBUs	B-ORG	-	-
-28	repræsentantskabsmøde	O	-	-
-29	,	O	-	-
-30	og	O	-	-
-31	som	O	-	-
-32	spillerne	O	-	-
-33	mener	O	-	-
-34	giver	O	-	-
-35	dem	O	-	-
-36	urimelige	O	-	-
-37	vilkår	O	-	-
-38	.	O	-	-
-
 1	Han	O	-	-
 2	kiggede	O	-	-
 3	nysgerrigt	O	-	-
 4	på	O	-	-
 5	mig	O	-	-
 6	.	O	-	-
-
-1	Det	O	-	-
-2	er	O	-	-
-3	absolut	O	-	-
-4	nødvendigt	O	-	-
-5	med	O	-	-
-6	en	O	-	-
-7	diskussion	O	-	-
-8	om	O	-	-
-9	hovedstadsregionens	O	-	-
-10	styre	O	-	-
-11	,	O	-	-
-12	men	O	-	-
-13	foreløbig	O	-	-
-14	har	O	-	-
-15	bidragene	O	-	-
-16	næsten	O	-	-
-17	til	O	-	-
-18	det	O	-	-
-19	ulidelige	O	-	-
-20	været	O	-	-
-21	domineret	O	-	-
-22	af	O	-	-
-23	uopfindsomhed	O	-	-
-24	og	O	-	-
-25	manglende	O	-	-
-26	vilje	O	-	-
-27	til	O	-	-
-28	fornyelse	O	-	-
-29	.	O	-	-
 
 1	Hun	O	-	-
 2	må	O	-	-
@@ -11856,11 +7831,6 @@
 27	være	O	-	-
 28	.	O	-	-
 
-1	Folmer	B-PER	-	-
-2	Svane	I-PER	-	-
-3	nikkede	O	-	-
-4	.	O	-	-
-
 1	Jeg	O	-	-
 2	burde	O	-	-
 3	se	O	-	-
@@ -11894,27 +7864,6 @@
 31	til	O	-	-
 32	Botswana	B-LOC	-	-
 33	.	O	-	-
-
-1	Storkøkkenerne	O	-	-
-2	er	O	-	-
-3	underkastet	O	-	-
-4	levnedsmiddelkontrollens	O	-	-
-5	tilsyn	O	-	-
-6	,	O	-	-
-7	og	O	-	-
-8	der	O	-	-
-9	er	O	-	-
-10	krav	O	-	-
-11	om	O	-	-
-12	køkkenernes	O	-	-
-13	indretning	O	-	-
-14	og	O	-	-
-15	udrustning	O	-	-
-16	og	O	-	-
-17	til	O	-	-
-18	personalets	O	-	-
-19	uddannelse	O	-	-
-20	.	O	-	-
 
 1	"	O	-	-
 2	I	O	-	-
@@ -12049,30 +7998,6 @@
 33	tilbud	O	-	-
 34	.	O	-	-
 
-1	Var	O	-	-
-2	vi	O	-	-
-3	blevet	O	-	-
-4	nummer	O	-	-
-5	fem-seks	O	-	-
-6	stykker	O	-	-
-7	,	O	-	-
-8	så	O	-	-
-9	lad	O	-	-
-10	gå	O	-	-
-11	-	O	-	-
-12	osse	O	-	-
-13	selv	O	-	-
-14	om	O	-	-
-15	vi	O	-	-
-16	jo	O	-	-
-17	næsten	O	-	-
-18	troede	O	-	-
-19	,	O	-	-
-20	vi	O	-	-
-21	skulle	O	-	-
-22	vinde	O	-	-
-23	.	O	-	-
-
 1	En	O	-	-
 2	del	O	-	-
 3	mennesker	O	-	-
@@ -12111,25 +8036,6 @@
 12	medlemmer	O	-	-
 13	.	O	-	-
 
-1	Den	O	-	-
-2	anden	O	-	-
-3	bane	O	-	-
-4	,	O	-	-
-5	Ørestadsbanen	B-MISC	-	-
-6	,	O	-	-
-7	skal	O	-	-
-8	gå	O	-	-
-9	langs	O	-	-
-10	Islands	B-LOC	-	-
-11	Brygge	I-LOC	-	-
-12	og	O	-	-
-13	vest	O	-	-
-14	om	O	-	-
-15	universitet	O	-	-
-16	til	O	-	-
-17	Tårnby	B-LOC	-	-
-18	.	O	-	-
-
 1	Hvem	O	-	-
 2	der	O	-	-
 3	skal	O	-	-
@@ -12144,17 +8050,6 @@
 12	en	O	-	-
 13	overraskelse	O	-	-
 14	.	O	-	-
-
-1	Så	O	-	-
-2	nu	O	-	-
-3	sidder	O	-	-
-4	jeg	O	-	-
-5	dèr	O	-	-
-6	og	O	-	-
-7	føler	O	-	-
-8	mig	O	-	-
-9	bedraget	O	-	-
-10	.	O	-	-
 
 1	Opbakningen	O	-	-
 2	om	O	-	-
@@ -12204,49 +8099,6 @@
 18	og	O	-	-
 19	muligheder	O	-	-
 20	.	O	-	-
-
-1	Drivkraften	O	-	-
-2	i	O	-	-
-3	dansk	O	-	-
-4	økonomi	O	-	-
-5	er	O	-	-
-6	eksporten	O	-	-
-7	,	O	-	-
-8	og	O	-	-
-9	et	O	-	-
-10	tilbageslag	O	-	-
-11	for	O	-	-
-12	eksporten	O	-	-
-13	har	O	-	-
-14	derfor	O	-	-
-15	store	O	-	-
-16	konsekvenser	O	-	-
-17	for	O	-	-
-18	den	O	-	-
-19	samlede	O	-	-
-20	samfundsøkonomi	O	-	-
-21	,	O	-	-
-22	herunder	O	-	-
-23	ikke	O	-	-
-24	mindst	O	-	-
-25	beskæftigelsen	O	-	-
-26	.	O	-	-
-
-1	Afhængig	O	-	-
-2	af	O	-	-
-3	energi	O	-	-
-4	kan	O	-	-
-5	man	O	-	-
-6	vælge	O	-	-
-7	enten	O	-	-
-8	en	O	-	-
-9	kultivator	O	-	-
-10	med	O	-	-
-11	fem	O	-	-
-12	kløer	O	-	-
-13	eller	O	-	-
-14	tre	O	-	-
-15	.	O	-	-
 
 1	Skoene	O	-	-
 2	er	O	-	-
@@ -12317,15 +8169,6 @@
 17	igen	O	-	-
 18	.	O	-	-
 
-1	Rom	B-LOC	-	-
-2	blev	O	-	-
-3	ikke	O	-	-
-4	bygget	O	-	-
-5	på	O	-	-
-6	én	O	-	-
-7	dag	O	-	-
-8	.	O	-	-
-
 1	Varelius	B-PER	-	-
 2	...	O	-	-
 3	ja	O	-	-
@@ -12345,16 +8188,6 @@
 17	du	O	-	-
 18	...	O	-	-
 19	?	O	-	-
-
-1	Eller	O	-	-
-2	prøv	O	-	-
-3	en	O	-	-
-4	sværdfiskbøf	O	-	-
-5	til	O	-	-
-6	20	O	-	-
-7	kr.	O	-	-
-8	stk.	O	-	-
-9	.	O	-	-
 
 1	Men	O	-	-
 2	man	O	-	-
@@ -12389,25 +8222,6 @@
 31	alle	O	-	-
 32	.	O	-	-
 
-1	Apropos	O	-	-
-2	udyr	O	-	-
-3	,	O	-	-
-4	så	O	-	-
-5	har	O	-	-
-6	den	O	-	-
-7	engelske	O	-	-
-8	skuespiller	O	-	-
-9	jo	O	-	-
-10	også	O	-	-
-11	fået	O	-	-
-12	bugt	O	-	-
-13	med	O	-	-
-14	sit	O	-	-
-15	eget	O	-	-
-16	,	O	-	-
-17	alkoholen	O	-	-
-18	.	O	-	-
-
 1	De	O	-	-
 2	manglende	O	-	-
 3	indre	O	-	-
@@ -12418,48 +8232,6 @@
 8	danskernes	O	-	-
 9	adelsmærke	O	-	-
 10	.	O	-	-
-
-1	Mærk	O	-	-
-2	kuverten	O	-	-
-3	"	O	-	-
-4	DUPLO	B-ORG	-	-
-5	legetøj	O	-	-
-6	"	O	-	-
-
-1	Deres	O	-	-
-2	kroppe	O	-	-
-3	ligger	O	-	-
-4	i	O	-	-
-5	hvert	O	-	-
-6	fald	O	-	-
-7	langt	O	-	-
-8	fra	O	-	-
-9	80'ernes	O	-	-
-10	bøfdrenge	O	-	-
-11	Sylvester	B-PER	-	-
-12	"	O	-	-
-13	Rambo	B-PER	-	-
-14	"	O	-	-
-15	Stallone	B-PER	-	-
-16	og	O	-	-
-17	Arnold	B-PER	-	-
-18	Schwarzenegger	I-PER	-	-
-19	.	O	-	-
-
-1	For	O	-	-
-2	Søs	B-PER	-	-
-3	Krusell	I-PER	-	-
-4	,	O	-	-
-5	16	O	-	-
-6	år	O	-	-
-7	,	O	-	-
-8	har	O	-	-
-9	projektet	O	-	-
-10	betydet	O	-	-
-11	noget	O	-	-
-12	helt	O	-	-
-13	specielt	O	-	-
-14	.	O	-	-
 
 1	Hvor	O	-	-
 2	mange	O	-	-
@@ -12516,14 +8288,6 @@
 6	sidste	O	-	-
 7	øjeblik	O	-	-
 8	.	O	-	-
-
-1	Hvad	O	-	-
-2	er	O	-	-
-3	menneskets	O	-	-
-4	plads	O	-	-
-5	i	O	-	-
-6	evolutionen	O	-	-
-7	?	O	-	-
 
 1	Kurt	B-PER	-	-
 2	om	O	-	-
@@ -12600,23 +8364,6 @@
 36	.	O	-	-
 
 1	"	O	-	-
-2	Situationen	O	-	-
-3	for	O	-	-
-4	besætningen	O	-	-
-5	skal	O	-	-
-6	tages	O	-	-
-7	meget	O	-	-
-8	alvorligt	O	-	-
-9	.	O	-	-
-
-1	Alle	O	-	-
-2	veje	O	-	-
-3	fører	O	-	-
-4	til	O	-	-
-5	Rom	B-LOC	-	-
-6	.	O	-	-
-
-1	"	O	-	-
 2	Jeg	O	-	-
 3	så	O	-	-
 4	flyet	O	-	-
@@ -12639,46 +8386,6 @@
 21	bygning	O	-	-
 22	.	O	-	-
 
-1	"	O	-	-
-2	På	O	-	-
-3	baggrund	O	-	-
-4	af	O	-	-
-5	pigens	O	-	-
-6	langvarige	O	-	-
-7	ophold	O	-	-
-8	i	O	-	-
-9	hjemmet	O	-	-
-10	finder	O	-	-
-11	forvaltningen	O	-	-
-12	ikke	O	-	-
-13	,	O	-	-
-14	at	O	-	-
-15	der	O	-	-
-16	bør	O	-	-
-17	foretages	O	-	-
-18	videre	O	-	-
-19	i	O	-	-
-20	sagen	O	-	-
-21	,	O	-	-
-22	og	O	-	-
-23	forvaltningen	O	-	-
-24	finder	O	-	-
-25	heller	O	-	-
-26	ikke	O	-	-
-27	,	O	-	-
-28	at	O	-	-
-29	der	O	-	-
-30	er	O	-	-
-31	grundlag	O	-	-
-32	for	O	-	-
-33	en	O	-	-
-34	ophævelse	O	-	-
-35	af	O	-	-
-36	plejeforholdet	O	-	-
-37	nu	O	-	-
-38	.	O	-	-
-39	"	O	-	-
-
 1	Men	O	-	-
 2	rastløsheden	O	-	-
 3	skyldes	O	-	-
@@ -12690,21 +8397,6 @@
 9	for	O	-	-
 10	hotellet	O	-	-
 11	.	O	-	-
-
-1	Nu	O	-	-
-2	skal	O	-	-
-3	han	O	-	-
-4	se	O	-	-
-5	sporty	O	-	-
-6	ud	O	-	-
-7	,	O	-	-
-8	uden	O	-	-
-9	at	O	-	-
-10	vælte	O	-	-
-11	rundt	O	-	-
-12	med	O	-	-
-13	muskler	O	-	-
-14	.	O	-	-
 
 1	Tænk	O	-	-
 2	,	O	-	-
@@ -12788,10 +8480,6 @@
 26	til	O	-	-
 27	barnevognen	O	-	-
 28	.	O	-	-
-
-1	Især	O	-	-
-2	ældre	O	-	-
-3	rammes	O	-	-
 
 1	Med	O	-	-
 2	en	O	-	-
@@ -12913,106 +8601,6 @@
 19	Juhl-Jørgensen	I-PER	-	-
 20	.	O	-	-
 
-1	-	O	-	-
-2	Det	O	-	-
-3	er	O	-	-
-4	noget	O	-	-
-5	pjat	O	-	-
-6	,	O	-	-
-7	at	O	-	-
-8	du	O	-	-
-9	tror	O	-	-
-10	,	O	-	-
-11	ingen	O	-	-
-12	bryder	O	-	-
-13	sig	O	-	-
-14	om	O	-	-
-15	dig	O	-	-
-16	,	O	-	-
-17	Janne	B-PER	-	-
-18	!	O	-	-
-19	sagde	O	-	-
-20	Lis	B-PER	-	-
-21	en	O	-	-
-22	dag	O	-	-
-23	,	O	-	-
-24	da	O	-	-
-25	hun	O	-	-
-26	var	O	-	-
-27	hjemme	O	-	-
-28	på	O	-	-
-29	besøg	O	-	-
-30	.	O	-	-
-
-1	I	O	-	-
-2	lang	O	-	-
-3	tid	O	-	-
-4	var	O	-	-
-5	de	O	-	-
-6	atter	O	-	-
-7	tavse	O	-	-
-8	,	O	-	-
-9	og	O	-	-
-10	den	O	-	-
-11	fjerne	O	-	-
-12	summen	O	-	-
-13	af	O	-	-
-14	biler	O	-	-
-15	fra	O	-	-
-16	hovedvejen	O	-	-
-17	ved	O	-	-
-18	de	O	-	-
-19	hvides	O	-	-
-20	kvarter	O	-	-
-21	,	O	-	-
-22	to	O	-	-
-23	fluers	O	-	-
-24	indædte	O	-	-
-25	kamp	O	-	-
-26	om	O	-	-
-27	majsgrødresterne	O	-	-
-28	på	O	-	-
-29	en	O	-	-
-30	uslikket	O	-	-
-31	ske	O	-	-
-32	og	O	-	-
-33	fars	O	-	-
-34	hivende	O	-	-
-35	åndedræt	O	-	-
-36	larmede	O	-	-
-37	i	O	-	-
-38	Mewas	B-PER	-	-
-39	ører	O	-	-
-40	.	O	-	-
-
-1	Født	O	-	-
-2	af	O	-	-
-3	de	O	-	-
-4	samme	O	-	-
-5	forældre	O	-	-
-6	er	O	-	-
-7	de	O	-	-
-8	bundet	O	-	-
-9	via	O	-	-
-10	deres	O	-	-
-11	fælles	O	-	-
-12	køn	O	-	-
-13	,	O	-	-
-14	fælles	O	-	-
-15	erfaringer	O	-	-
-16	,	O	-	-
-17	intimt	O	-	-
-18	kendskab	O	-	-
-19	til	O	-	-
-20	de	O	-	-
-21	samme	O	-	-
-22	mennesker	O	-	-
-23	og	O	-	-
-24	de	O	-	-
-25	samme	O	-	-
-26	steder	O	-	-
-27	.	O	-	-
-
 1	Endelig	O	-	-
 2	er	O	-	-
 3	også	O	-	-
@@ -13036,37 +8624,6 @@
 2	kun	O	-	-
 3	hverdagsbiler	O	-	-
 
-1	Den	O	-	-
-2	klub	O	-	-
-3	mente	O	-	-
-4	Lars'	B-PER	-	-
-5	far	O	-	-
-6	var	O	-	-
-7	sagen	O	-	-
-8	.	O	-	-
-
-1	Det	O	-	-
-2	lyder	O	-	-
-3	af	O	-	-
-4	meget	O	-	-
-5	,	O	-	-
-6	men	O	-	-
-7	sammenslutningen	O	-	-
-8	af	O	-	-
-9	amerikanske	O	-	-
-10	borgmestre	O	-	-
-11	mener	O	-	-
-12	,	O	-	-
-13	at	O	-	-
-14	der	O	-	-
-15	er	O	-	-
-16	brug	O	-	-
-17	for	O	-	-
-18	35	O	-	-
-19	mia.	O	-	-
-20	dollar	B-MISC	-	-
-21	.	O	-	-
-
 1	-	O	-	-
 2	Får	O	-	-
 3	du	O	-	-
@@ -13076,28 +8633,6 @@
 7	programmet	O	-	-
 8	senere	O	-	-
 9	?	O	-	-
-
-1	Begge	O	-	-
-2	er	O	-	-
-3	tiltalt	O	-	-
-4	for	O	-	-
-5	at	O	-	-
-6	have	O	-	-
-7	påført	O	-	-
-8	banken	O	-	-
-9	et	O	-	-
-10	tab	O	-	-
-11	på	O	-	-
-12	omkring	O	-	-
-13	60	O	-	-
-14	millioner	O	-	-
-15	kroner	O	-	-
-16	ved	O	-	-
-17	uforsvarlig	O	-	-
-18	og	O	-	-
-19	ulovlig	O	-	-
-20	långivning	O	-	-
-21	.	O	-	-
 
 1	Så	O	-	-
 2	bor	O	-	-
@@ -13117,10 +8652,6 @@
 16	fald	O	-	-
 17	kreativt	O	-	-
 18	.	O	-	-
-
-1	Værelset	O	-	-
-2	skrumpede	O	-	-
-3	.	O	-	-
 
 1	Det	O	-	-
 2	normale	O	-	-
@@ -13151,21 +8682,6 @@
 27	varer	O	-	-
 28	længere	O	-	-
 29	.	O	-	-
-
-1	Et	O	-	-
-2	kraftigt	O	-	-
-3	slag	O	-	-
-4	eller	O	-	-
-5	spark	O	-	-
-6	kan	O	-	-
-7	være	O	-	-
-8	så	O	-	-
-9	smertefuldt	O	-	-
-10	,	O	-	-
-11	at	O	-	-
-12	man	O	-	-
-13	besvimer	O	-	-
-14	.	O	-	-
 
 1	Nogle	O	-	-
 2	af	O	-	-
@@ -13256,22 +8772,6 @@
 7	polakken	O	-	-
 8	.	O	-	-
 
-1	Året	O	-	-
-2	1716-1717	O	-	-
-3	var	O	-	-
-4	et	O	-	-
-5	kæmpe	O	-	-
-6	år	O	-	-
-7	for	O	-	-
-8	vivaldi	B-PER	-	-
-9	her	O	-	-
-10	udkom	O	-	-
-11	der	O	-	-
-12	hele	O	-	-
-13	3	O	-	-
-14	opuser	O	-	-
-15	.	O	-	-
-
 1	Og	O	-	-
 2	det	O	-	-
 3	er	O	-	-
@@ -13314,19 +8814,6 @@
 11	tænker	O	-	-
 12	han	O	-	-
 13	.	O	-	-
-
-1	De	O	-	-
-2	hævder	O	-	-
-3	,	O	-	-
-4	at	O	-	-
-5	Ruslands	B-LOC	-	-
-6	vej	O	-	-
-7	til	O	-	-
-8	demokrati	O	-	-
-9	går	O	-	-
-10	gennem	O	-	-
-11	diktatur	O	-	-
-12	.	O	-	-
 
 1	Og	O	-	-
 2	de	O	-	-
@@ -13394,74 +8881,6 @@
 12	ansvar	O	-	-
 13	.	O	-	-
 
-1	For	O	-	-
-2	første	O	-	-
-3	gang	O	-	-
-4	i	O	-	-
-5	100	O	-	-
-6	år	O	-	-
-7	tabte	O	-	-
-8	Indre	B-ORG	-	-
-9	Mission	I-ORG	-	-
-10	menighedsrådsvalget	O	-	-
-11	i	O	-	-
-12	Skjern	B-LOC	-	-
-13	.	O	-	-
-
-1	I	O	-	-
-2	1972	O	-	-
-3	fik	O	-	-
-4	Skjern	B-LOC	-	-
-5	sit	O	-	-
-6	første	O	-	-
-7	værtshus	O	-	-
-8	.	O	-	-
-
-1	Det	O	-	-
-2	var	O	-	-
-3	samme	O	-	-
-4	år	O	-	-
-5	,	O	-	-
-6	at	O	-	-
-7	Poul-Erik	B-PER	-	-
-8	Billeskov	I-PER	-	-
-9	kom	O	-	-
-10	til	O	-	-
-11	byen	O	-	-
-12	.	O	-	-
-
-1	20	O	-	-
-2	år	O	-	-
-3	senere	O	-	-
-4	tabte	O	-	-
-5	Indre	B-ORG	-	-
-6	Mission	I-ORG	-	-
-7	menighedsrådsvalget	O	-	-
-8	i	O	-	-
-9	Skjern	B-LOC	-	-
-10	.	O	-	-
-
-1	Og	O	-	-
-2	denne	O	-	-
-3	gang	O	-	-
-4	kan	O	-	-
-5	Poul-Erik	B-PER	-	-
-6	Billeskov	I-PER	-	-
-7	ikke	O	-	-
-8	sige	O	-	-
-9	sig	O	-	-
-10	fri	O	-	-
-11	for	O	-	-
-12	at	O	-	-
-13	have	O	-	-
-14	haft	O	-	-
-15	en	O	-	-
-16	finger	O	-	-
-17	med	O	-	-
-18	i	O	-	-
-19	spillet	O	-	-
-20	.	O	-	-
-
 1	Han	O	-	-
 2	var	O	-	-
 3	nemlig	O	-	-
@@ -13491,20 +8910,6 @@
 4	syv-seks	O	-	-
 5	.	O	-	-
 
-1	3	O	-	-
-2	)	O	-	-
-3	Har	O	-	-
-4	ministeren	O	-	-
-5	løjet	O	-	-
-6	om	O	-	-
-7	sit	O	-	-
-8	og	O	-	-
-9	regeringens	O	-	-
-10	kendskab	O	-	-
-11	til	O	-	-
-12	virksomheden	O	-	-
-13	?	O	-	-
-
 1	men	O	-	-
 2	hos	O	-	-
 3	mange	O	-	-
@@ -13528,28 +8933,6 @@
 21	.	O	-	-
 22	"	O	-	-
 
-1	De	O	-	-
-2	nye	O	-	-
-3	super-butikker	O	-	-
-4	har	O	-	-
-5	også	O	-	-
-6	en	O	-	-
-7	anden	O	-	-
-8	kedelig	O	-	-
-9	følge	O	-	-
-10	,	O	-	-
-11	set	O	-	-
-12	med	O	-	-
-13	brancheøjne	O	-	-
-14	.	O	-	-
-
-1	Også	O	-	-
-2	i	O	-	-
-3	FDB's	B-ORG	-	-
-4	egne	O	-	-
-5	rækker	O	-	-
-6	.	O	-	-
-
 1	Desuden	O	-	-
 2	forudser	O	-	-
 3	FDB	B-ORG	-	-
@@ -13566,25 +8949,6 @@
 14	nye	O	-	-
 15	Super-Brugser	O	-	-
 16	.	O	-	-
-
-1	"	O	-	-
-2	Jeg	O	-	-
-3	satser	O	-	-
-4	på	O	-	-
-5	at	O	-	-
-6	bruge	O	-	-
-7	forhandlingerne	O	-	-
-8	om	O	-	-
-9	finansloven	O	-	-
-10	som	O	-	-
-11	murbrækker	O	-	-
-12	for	O	-	-
-13	resultater	O	-	-
-14	på	O	-	-
-15	de	O	-	-
-16	andre	O	-	-
-17	områder	O	-	-
-18	.	O	-	-
 
 1	Kampvognene	O	-	-
 2	kørte	O	-	-
@@ -13744,34 +9108,6 @@
 13	.	O	-	-
 14	"	O	-	-
 
-1	"	O	-	-
-2	Alligevel	O	-	-
-3	blev	O	-	-
-4	oplysningen	O	-	-
-5	aldrig	O	-	-
-6	skrevet	O	-	-
-7	ned	O	-	-
-8	,	O	-	-
-9	"	O	-	-
-10	fastslog	O	-	-
-11	DR-Dokumentar	O	-	-
-12	gruppen	O	-	-
-13	i	O	-	-
-14	sin	O	-	-
-15	sønderlemmende	O	-	-
-16	kritik	O	-	-
-17	af	O	-	-
-18	Frederikshavns	B-ORG	-	-
-19	politis	I-ORG	-	-
-20	efterforskningsarbejde	O	-	-
-21	i	O	-	-
-22	Pedal-Ove-sagen	O	-	-
-23	.	O	-	-
-
-1	MED	O	-	-
-2	FØRT	O	-	-
-3	HÅND	O	-	-
-
 1	Nedslidte	O	-	-
 2	Levi's	B-ORG	-	-
 3	jeans	O	-	-
@@ -13809,17 +9145,6 @@
 2	EN	O	-	-
 3	GRIS	O	-	-
 
-1	Men	O	-	-
-2	de	O	-	-
-3	er	O	-	-
-4	jo	O	-	-
-5	smukke	O	-	-
-6	-	O	-	-
-7	ikke	O	-	-
-8	grimme	O	-	-
-9	.	O	-	-
-10	"	O	-	-
-
 1	Dansk	O	-	-
 2	kultur	O	-	-
 3	skal	O	-	-
@@ -13835,25 +9160,6 @@
 13	danskere	O	-	-
 14	.	O	-	-
 
-1	Det	O	-	-
-2	er	O	-	-
-3	ikke	O	-	-
-4	god	O	-	-
-5	tone	O	-	-
-6	blandt	O	-	-
-7	os	O	-	-
-8	kulturformidlere	O	-	-
-9	at	O	-	-
-10	sige	O	-	-
-11	,	O	-	-
-12	at	O	-	-
-13	publikum	O	-	-
-14	også	O	-	-
-15	har	O	-	-
-16	et	O	-	-
-17	ansvar	O	-	-
-18	.	O	-	-
-
 1	"	O	-	-
 2	MAN	O	-	-
 3	må	O	-	-
@@ -13867,44 +9173,6 @@
 11	branchen	O	-	-
 12	.	O	-	-
 
-1	Jeg	O	-	-
-2	håber	O	-	-
-3	,	O	-	-
-4	politiet	O	-	-
-5	fanger	O	-	-
-6	dig	O	-	-
-7	hurtigt	O	-	-
-8	,	O	-	-
-9	så	O	-	-
-10	du	O	-	-
-11	ikke	O	-	-
-12	når	O	-	-
-13	at	O	-	-
-14	krænke	O	-	-
-15	andre	O	-	-
-16	piger	O	-	-
-17	,	O	-	-
-18	som	O	-	-
-19	måske	O	-	-
-20	ikke	O	-	-
-21	får	O	-	-
-22	samme	O	-	-
-23	familiemæssige	O	-	-
-24	støtte	O	-	-
-25	som	O	-	-
-26	min	O	-	-
-27	pige	O	-	-
-28	,	O	-	-
-29	og	O	-	-
-30	derfor	O	-	-
-31	risikerer	O	-	-
-32	at	O	-	-
-33	knække	O	-	-
-34	helt	O	-	-
-35	sammen	O	-	-
-36	psykisk	O	-	-
-37	.	O	-	-
-
 1	De	O	-	-
 2	har	O	-	-
 3	forskellig	O	-	-
@@ -13917,27 +9185,6 @@
 10	samme	O	-	-
 11	kedel	O	-	-
 12	.	O	-	-
-
-1	Senere	O	-	-
-2	på	O	-	-
-3	dagen	O	-	-
-4	var	O	-	-
-5	der	O	-	-
-6	hold-tidskørsel	O	-	-
-7	,	O	-	-
-8	og	O	-	-
-9	her	O	-	-
-10	triumferede	O	-	-
-11	Ariostea	B-ORG	-	-
-12	med	O	-	-
-13	sejr	O	-	-
-14	i	O	-	-
-15	41,23	O	-	-
-16	minut	O	-	-
-17	for	O	-	-
-18	36,5	O	-	-
-19	km.	O	-	-
-20	.	O	-	-
 
 1	Så	O	-	-
 2	fulgte	O	-	-
@@ -14102,9 +9349,6 @@
 32	.	O	-	-
 33	"	O	-	-
 
-1	NYE	O	-	-
-2	AFSLØRINGER	O	-	-
-
 1	Computermanden	B-PER	-	-
 2	:	O	-	-
 3	"	O	-	-
@@ -14147,36 +9391,6 @@
 6	længe	O	-	-
 7	siden	O	-	-
 8	.	O	-	-
-
-1	Ligesom	O	-	-
-2	Italiens	B-LOC	-	-
-3	politichef	O	-	-
-4	Vincenzo	B-PER	-	-
-5	Parisi	I-PER	-	-
-6	måtte	O	-	-
-7	statens	O	-	-
-8	overhoved	O	-	-
-9	finde	O	-	-
-10	sig	O	-	-
-11	i	O	-	-
-12	vrede	O	-	-
-13	tilråb	O	-	-
-14	,	O	-	-
-15	og	O	-	-
-16	dukke	O	-	-
-17	sig	O	-	-
-18	for	O	-	-
-19	folk	O	-	-
-20	,	O	-	-
-21	der	O	-	-
-22	slog	O	-	-
-23	ud	O	-	-
-24	efter	O	-	-
-25	og	O	-	-
-26	sparkede	O	-	-
-27	efter	O	-	-
-28	ham	O	-	-
-29	.	O	-	-
 
 1	Varme	O	-	-
 2	vafler	O	-	-
@@ -14233,44 +9447,6 @@
 20	stk.	O	-	-
 21	1	O	-	-
 
-1	Hjælp	O	-	-
-2	udefra	O	-	-
-
-1	Papin	B-PER	-	-
-2	fik	O	-	-
-3	lønforhøjelse	O	-	-
-4	,	O	-	-
-5	og	O	-	-
-6	succes'en	O	-	-
-7	ventede	O	-	-
-8	lige	O	-	-
-9	rundt	O	-	-
-10	om	O	-	-
-11	hjørnet	O	-	-
-12	.	O	-	-
-
-1	"	O	-	-
-2	Vi	O	-	-
-3	ses	O	-	-
-4	i	O	-	-
-5	Helvede	B-LOC	-	-
-6	!	O	-	-
-7	"	O	-	-
-8	svarede	O	-	-
-9	han	O	-	-
-10	hende	O	-	-
-11	og	O	-	-
-12	tog	O	-	-
-13	op	O	-	-
-14	på	O	-	-
-15	skolen	O	-	-
-16	for	O	-	-
-17	at	O	-	-
-18	tale	O	-	-
-19	med	O	-	-
-20	hende	O	-	-
-21	.	O	-	-
-
 1	Det	O	-	-
 2	var	O	-	-
 3	også	O	-	-
@@ -14307,21 +9483,6 @@
 34	muskler	O	-	-
 35	.	O	-	-
 
-1	Måske	O	-	-
-2	skyldes	O	-	-
-3	det	O	-	-
-4	ændringer	O	-	-
-5	i	O	-	-
-6	de	O	-	-
-7	elektriske	O	-	-
-8	strømme	O	-	-
-9	i	O	-	-
-10	Jordens	B-LOC	-	-
-11	flydende	O	-	-
-12	ydre	O	-	-
-13	kerne	O	-	-
-14	.	O	-	-
-
 1	Oluf	B-PER	-	-
 2	Terp	I-PER	-	-
 3	har	O	-	-
@@ -14341,26 +9502,6 @@
 17	tider	O	-	-
 18	.	O	-	-
 
-1	Ved	O	-	-
-2	anvendelse	O	-	-
-3	af	O	-	-
-4	mavesårsmidlerne	O	-	-
-5	blev	O	-	-
-6	den	O	-	-
-7	samlede	O	-	-
-8	behandlingsudgift	O	-	-
-9	reduceret	O	-	-
-10	til	O	-	-
-11	220	O	-	-
-12	dollar	B-MISC	-	-
-13	,	O	-	-
-14	et	O	-	-
-15	fald	O	-	-
-16	på	O	-	-
-17	500	O	-	-
-18	dollar	B-MISC	-	-
-19	.	O	-	-
-
 1	Det	O	-	-
 2	gælder	O	-	-
 3	sågu'	O	-	-
@@ -14374,35 +9515,6 @@
 11	klubbens	O	-	-
 12	sejr	O	-	-
 13	.	O	-	-
-
-1	Det	O	-	-
-2	er	O	-	-
-3	den	O	-	-
-4	største	O	-	-
-5	kernevåbennedrustning	O	-	-
-6	i	O	-	-
-7	alliancens	O	-	-
-8	historie	O	-	-
-9	.	O	-	-
-
-1	"	O	-	-
-2	Bordpladen	O	-	-
-3	på	O	-	-
-4	skrivebordet	O	-	-
-5	er	O	-	-
-6	pulveriseret	O	-	-
-7	,	O	-	-
-8	og	O	-	-
-9	bomben	O	-	-
-10	har	O	-	-
-11	lavet	O	-	-
-12	et	O	-	-
-13	dybt	O	-	-
-14	krater	O	-	-
-15	i	O	-	-
-16	gulvet	O	-	-
-17	nedunder	O	-	-
-18	.	O	-	-
 
 1	Den	O	-	-
 2	danske	O	-	-
@@ -14727,26 +9839,6 @@
 14	"	O	-	-
 15	.	O	-	-
 
-1	Han	O	-	-
-2	vil	O	-	-
-3	kun	O	-	-
-4	arbejde	O	-	-
-5	og	O	-	-
-6	have	O	-	-
-7	flere	O	-	-
-8	og	O	-	-
-9	flere	O	-	-
-10	ting	O	-	-
-11	.	O	-	-
-
-1	Den	O	-	-
-2	forudsigelse	O	-	-
-3	har	O	-	-
-4	foreløbig	O	-	-
-5	holdt	O	-	-
-6	stik	O	-	-
-7	.	O	-	-
-
 1	Resten	O	-	-
 2	kunne	O	-	-
 3	klares	O	-	-
@@ -14755,46 +9847,6 @@
 6	ekstra	O	-	-
 7	sprøjtning	O	-	-
 8	.	O	-	-
-
-1	Derefter	O	-	-
-2	slog	O	-	-
-3	han	O	-	-
-4	alarm	O	-	-
-5	over	O	-	-
-6	sin	O	-	-
-7	radio	O	-	-
-8	til	O	-	-
-9	hovedkvarteret	O	-	-
-10	i	O	-	-
-11	Tietgensgade	B-LOC	-	-
-12	,	O	-	-
-13	hvor	O	-	-
-14	man	O	-	-
-15	slog	O	-	-
-16	alarm	O	-	-
-17	til	O	-	-
-18	politiet	O	-	-
-19	klokken	O	-	-
-20	17.48	O	-	-
-21	.	O	-	-
-
-1	Den	O	-	-
-2	42-årige	O	-	-
-3	borgmester	O	-	-
-4	fra	O	-	-
-5	provinsbyen	O	-	-
-6	Cluj	B-LOC	-	-
-7	er	O	-	-
-8	en	O	-	-
-9	af	O	-	-
-10	grundlæggerne	O	-	-
-11	af	O	-	-
-12	den	O	-	-
-13	ultra-nationalistiske	O	-	-
-14	bevægelse	O	-	-
-15	Vatra	B-ORG	-	-
-16	Romanesca	I-ORG	-	-
-17	.	O	-	-
 
 1	Der	O	-	-
 2	kræves	O	-	-

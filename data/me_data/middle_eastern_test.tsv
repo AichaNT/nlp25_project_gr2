@@ -19,7 +19,7 @@ mand	O
 have	O
 navneforandring	O
 til	O
-Salima	B-PER
+Lana	B-PER
 ,	O
 men	O
 det	O
@@ -36,29 +36,6 @@ som	O
 upassende	O
 og	O
 anstødeligt	O
-.	O
-
-Foruden	O
-at	O
-være	O
-et	O
-tilløbsstykke	O
-for	O
-"	O
-klorofyl-turister	O
-"	O
-er	O
-Robinson	B-MISC
-Crusoe	I-MISC
-et	O
-paradis	O
-for	O
-dem	O
-,	O
-der	O
-kan	O
-lide	O
-hummer	O
 .	O
 
 Uden	O
@@ -100,19 +77,6 @@ rappe	O
 .	O
 "	O
 
-Stakken	O
-blev	O
-tæt	O
-på	O
-2	O
-meter	O
-høj	O
-og	O
-vejede	O
-43,5	O
-kg.	O
-.	O
-
 "	O
 Jeg	O
 tænkte	O
@@ -126,74 +90,9 @@ bare	O
 ikke	O
 .	O
 
-Kun	O
-den	O
-orangegule	O
-norske	O
-Fanta	B-MISC
-,	O
-Solus	B-MISC
-,	O
-kan	O
-holde	O
-øjne	O
-og	O
-mund	O
-åbne	O
-.	O
-
 Nye	O
 i	O
-RASCO	B-ORG
-
-Ikke	O
-alene	O
-synger	O
-hun	O
-i	O
-Bakkens	B-MISC
-Hvile	I-MISC
-.	O
-
-De	O
-,	O
-der	O
-udførte	O
-bagholdsangrebet	O
-,	O
-er	O
-i	O
-øvrigt	O
-uden	O
-for	O
-vor	O
-direkte	O
-kontrol	O
-,	O
-"	O
-sagde	O
-han	O
-til	O
-den	O
-britiske	O
-tv-station	O
-ANB	B-ORG
-.	O
-
-Jeg	O
-fik	O
-blot	O
-besked	O
-om	O
-,	O
-at	O
-der	O
-overhovedet	O
-ikke	O
-var	O
-nogen	O
-problemer	O
-.	O
+Laraki	B-ORG
 
 Blandt	O
 fodboldspillerne	O
@@ -234,10 +133,10 @@ verden	O
 ,	O
 EARN-nettet	O
 (	O
-Jordan	B-ORG
-Phosphate	I-ORG
-Mines	I-ORG
-Company	I-ORG
+El	B-ORG
+Hiwar	I-ORG
+El	I-ORG
+Tounousi	I-ORG
 )	O
 .	O
 
@@ -315,15 +214,10 @@ en	O
 synsvinkel	O
 .	O
 
-Muligheder	O
-i	O
-mange	O
-fag	O
-
-Wafaa	B-PER
-Dabbas	I-PER
+Nisa	B-PER
+Alaidhaymi	I-PER
 er	O
-Aliya	B-PER
+Jasmin	B-PER
 politiske	O
 idol	O
 .	O
@@ -378,33 +272,6 @@ med	O
 hånden	O
 .	O
 
-Hvis	O
-hun	O
-siger	O
-ja	O
-til	O
-at	O
-gifte	O
-sig	O
-med	O
-en	O
-aldrende	O
-mand	O
-blot	O
-for	O
-at	O
-kunne	O
-forlade	O
-Khorramabad	B-LOC
-på	O
-en	O
-måde	O
-,	O
-som	O
-loven	O
-tillader	O
-?	O
-
 Dansetruppen	O
 har	O
 banandansen	O
@@ -427,7 +294,7 @@ optrinnet	O
 over	O
 traditionen	O
 i	O
-Qarchak	B-LOC
+Sakakah	B-LOC
 ,	O
 hvor	O
 folk	O
@@ -447,25 +314,6 @@ er	O
 fuldmåne	O
 .	O
 
-Der	O
-findes	O
-2	O
-typer	O
-:	O
-Som	O
-kasselås	O
-til	O
-påskruning	O
-på	O
-dørens	O
-indvendige	O
-side	O
-eller	O
-som	O
-indstukken	O
-lås	O
-.	O
-
 Et	O
 monopol	O
 ,	O
@@ -481,64 +329,6 @@ og	O
 filmkunsten	O
 livet	O
 .	O
-
-Og	O
-da	O
-begge	O
-klubber	O
-har	O
-problemer	O
-med	O
-at	O
-skaffe	O
-trænere	O
-og	O
-spillere	O
-,	O
-vil	O
-et	O
-samarbejde	O
-mellem	O
-de	O
-to	O
-klubber	O
-være	O
-oplagt	O
-.	O
-
-Firs	O
-aserbajdsjanere	O
-er	O
-blevet	O
-tilbageholdt	O
-af	O
-en	O
-militær	O
-garnison	O
-,	O
-og	O
-der	O
-er	O
-blevet	O
-iværksat	O
-en	O
-undersøgelse	O
-af	O
-episoderne	O
-.	O
-
--	O
-...	O
-ja	O
-,	O
-det	O
-er	O
-Jasmin	B-PER
-...	O
-hvad	O
-siger	O
-du	O
-?	O
 
 I	O
 sandhedens	O
@@ -621,7 +411,7 @@ fra	O
 hanen	O
 .	O
 
-Yanbu	B-LOC
+Kastamonu	B-LOC
 har	O
 fejl	O
 og	O
@@ -645,7 +435,7 @@ til	O
 tjenesten	O
 ,	O
 svarede	O
-Raad	B-PER
+Noor	B-PER
 .	O
 
 "	O
@@ -677,8 +467,8 @@ statens	B-MISC
 kunstfond	I-MISC
 "	O
 ,	O
-al-Jarida	B-ORG
-al-Maghribia	I-ORG
+Al	B-ORG
+Rai	I-ORG
 ,	O
 der	O
 gav	O
@@ -755,39 +545,6 @@ vidt	O
 .	O
 "	O
 
-Intens	O
-skydning	O
-ovre	O
-fra	O
-den	O
-bosniske	O
-side	O
-af	O
-floden	O
-fortæller	O
-sammen	O
-med	O
-ligene	O
-,	O
-der	O
-flyder	O
-ned	O
-ad	O
-A'zaz	B-LOC
-,	O
-om	O
-hårde	O
-kampe	O
-,	O
-men	O
-sikker	O
-viden	O
-er	O
-en	O
-mangelvare	O
-hernede	O
-.	O
-
 Hun	O
 har	O
 elsket	O
@@ -820,31 +577,6 @@ ham	O
 fri	O
 .	O
 
-Dette	O
-og	O
-mange	O
-andre	O
-spørgsmål	O
-besvarer	O
-Illustreret	B-MISC
-Videnskabs	I-MISC
-eksperter	O
-
-Når	O
-jeg	O
-steg	O
-ind	O
-i	O
-den	O
-,	O
-var	O
-jeg	O
-stadig	O
-den	O
-pæne	O
-pige	O
-.	O
-
 Astma-Bodil	O
 var	O
 bleg	O
@@ -864,66 +596,6 @@ på	O
 nyhedsoplæserne	O
 i	O
 fjernsynet	O
-.	O
-
-Intet	O
-gennembrud	O
-for	O
-Aumet	B-ORG
-
-DenizBank	B-ORG
-daværende	O
-landstræner	O
-Husam	B-PER
-Alaitayli	I-PER
-kunne	O
-ikke	O
-længere	O
-komme	O
-uden	O
-om	O
-ham	O
-.	O
-
-11	O
-kratere	O
-i	O
-Silopi	B-LOC
-tyder	O
-på	O
-,	O
-at	O
-en	O
-stor	O
-meteor	O
-for	O
-10.000	O
-år	O
-siden	O
-hoppede	O
-hen	O
-over	O
-Kastamonu	B-LOC
-
-Derfor	O
-er	O
-der	O
-så	O
-meget	O
-mere	O
-rabalder	O
-på	O
-det	O
-permanente	O
-4-hjulstræk	O
-med	O
-en	O
-kraftfordeling	O
-på	O
-34:66	O
-for	O
-og	O
-bag	O
 .	O
 
 Det	O
@@ -964,18 +636,6 @@ havde	O
 haft	O
 travlt	O
 med	O
-.	O
-
-Der	O
-er	O
-såmænd	O
-bare	O
-tale	O
-om	O
-en	O
-ganske	O
-almindelig	O
-hverdagshistorie	O
 .	O
 
 "	O
@@ -1028,7 +688,7 @@ højere	O
 læreranstalter	O
 .	O
 
-Al-Muhaidib	B-ORG
+Syriatel	B-ORG
 forsøger	O
 nu	O
 at	O
@@ -1053,7 +713,7 @@ plan	O
 
 Når	O
 "	O
-Al-Nahar	B-ORG
+Spinneys	B-ORG
 "	O
 slynges	O
 ud	O
@@ -1072,35 +732,13 @@ uforudsigelig	O
 måde	O
 .	O
 
-Han	O
-blev	O
-synligt	O
-oplivet	O
-.	O
-
-Hans	O
-far	O
-havde	O
-hørt	O
-socialdemokraten	O
-Isam	B-PER
-udråbe	O
-den	O
-demokratiske	O
-republik	O
-fra	O
-balkonen	O
-i	O
-rigsdagsbygningen	O
-.	O
-
 Vi	O
 har	O
 derfor	O
 meget	O
 at	O
 takke	O
-Hisham	B-PER
+Abed	B-PER
 og	O
 Epilert	B-ORG
 for	O
@@ -1109,7 +747,7 @@ for	O
 Han	O
 kiggede	O
 på	O
-Lulu	B-PER
+Harun	B-PER
 ,	O
 der	O
 havde	O
@@ -1243,7 +881,7 @@ fuldpension	O
 i	O
 juleugen	O
 på	O
-Gaza	B-LOC
+Şişli	B-LOC
 koster	O
 4.415	O
 kr.	O
@@ -1301,28 +939,14 @@ undvære	O
 .	O
 
 Til	O
-al-Fajr	B-ORG
-al-Jadid	I-ORG
+Emirates	B-ORG
+Islamic	I-ORG
 og	O
 til	O
-Daraty	B-ORG
+Alwasat	B-ORG
 og	O
-El	B-ORG
-Mehwar	I-ORG
-.	O
-
-ONTV	B-ORG
-har	O
-en	O
-særlig	O
-måde	O
-at	O
-stå	O
-på	O
-,	O
-når	O
-de	O
-fotograferes	O
+alrajhi	B-ORG
+bank	I-ORG
 .	O
 
 Jeg	O
@@ -1355,55 +979,7 @@ synes	O
 også	O
 at	O
 støtte	O
-Nazih’	B-PER
-.	O
-
-Suverænitetsafgivelse	O
-kan	O
-der	O
-heller	O
-ikke	O
-blive	O
-tale	O
-om	O
-.	O
-
-Ikke	O
-blot	O
-i	O
-juletiden	O
-,	O
-men	O
-hele	O
-året	O
-med	O
-kaffe	O
-,	O
-te	O
-og	O
-småkager	O
-,	O
-mens	O
-folk	O
-enten	O
-venter	O
-på	O
-at	O
-komme	O
-til	O
-eller	O
-skal	O
-sidde	O
-en	O
-times	O
-tid	O
-med	O
-curlere	O
-i	O
-håret	O
-eller	O
-i	O
-tørrehjelm	O
+Omer	B-PER
 .	O
 
 Flyet	O
@@ -1472,21 +1048,6 @@ vej	O
 ud	O
 .	O
 
-Jeg	O
-blev	O
-forvirret	O
-,	O
-da	O
-alle	O
-mulighederne	O
-på	O
-skolen	O
-åbnede	O
-sig	O
-for	O
-mig	O
-.	O
-
 Og	O
 det	O
 kan	O
@@ -1526,7 +1087,7 @@ april	O
 .	O
 
 Også	O
-Wasla	B-ORG
+Noon	B-ORG
 har	O
 udtalt	O
 sig	O
@@ -1548,21 +1109,11 @@ fra	O
 sammenstødet	O
 "	O
 med	O
-al-Zahf	B-ORG
-Al-Akhdar	I-ORG
+Ad	B-ORG
+Diyar	I-ORG
 skotter	O
 på	O
-Viranşehir	B-LOC
-.	O
-
-De	O
-har	O
-desuden	O
-unddraget	O
-skattevæsenet	O
-3,5	O
-millioner	O
-kroner	O
+Bishah	B-LOC
 .	O
 
 60	O
@@ -1603,7 +1154,7 @@ akkompagnement	O
 af	O
 udvalg	O
 af	O
-Irfan	B-PER
+Mohsen	B-PER
 .	O
 
 Skipper	O
@@ -1615,7 +1166,7 @@ mødtes	O
 i	O
 går	O
 i	O
-Bağcılar	B-LOC
+Bagdad	B-LOC
 med	O
 rederiets	O
 advokat	O
@@ -1631,27 +1182,27 @@ nu	O
 op	O
 sammen	O
 med	O
-Abed	B-PER
+Murad	B-PER
 erklærede	O
 yndling	O
 ,	O
 væbneren	O
-Saeed	B-PER
+Basil	B-PER
 af	O
-Toukh	B-LOC
+Zeytinburnu	B-LOC
 .	O
 
 Sekunder	O
 før	O
 sammenstødet	O
 var	O
-Mouna	B-PER
+Sahar	B-PER
 blevet	O
 overhalet	O
 af	O
 skoleinspektøren	O
 på	O
-Nagham	B-ORG
+Adwya	B-ORG
 ,	O
 som	O
 i	O
@@ -1682,16 +1233,16 @@ skolegården	O
 .	O
 
 Sagde	O
-ACWA	B-ORG
-Power	I-ORG
+Emaar	B-ORG
+Properties	I-ORG
 formand	O
 ,	O
 Muhamad	B-PER
-Alsayed	I-PER
+Morsy	I-PER
 ,	O
 til	O
-Samina	B-PER
-Khawaldeh	I-PER
+Ayuub	B-PER
+Alaishayri	I-PER
 .	O
 
 "	O
@@ -1739,58 +1290,13 @@ på	O
 60.000	O
 .	O
 
-Fremtids-folkenes	O
-succes	O
-blokerer	O
-for	O
-en	O
-oplagt	O
-mulighed	O
-til	O
-at	O
-gå	O
-nye	O
-veje	O
-og	O
-prøve	O
-nye	O
-spillere	O
-før	O
-efterårets	O
-VM-kampe	O
-.	O
-
 UDSENDES	O
 KL	O
 =	O
 1630	O
 OPLÆSER	O
 =	O
-Ad-Dustour	B-ORG
-
-Tynde	O
-gummisko	O
-er	O
-altså	O
-ikke	O
-velegnede	O
-til	O
-formålet	O
-.	O
-
-Spørgsmålet	O
-er	O
-,	O
-hvor	O
-meget	O
-Pio-episoden	O
-1871-77	O
-fortjener	O
-opmærksomhed	O
-i	O
-dansk	O
-arbejderhistorie	O
-.	O
+Al-Wehda	B-ORG
 
 Nu	O
 ler	O
@@ -1815,36 +1321,6 @@ med	O
 servo	O
 .	O
 
-Der	O
-er	O
-stor	O
-hemmelighed	O
-omkring	O
-de	O
-turnerende	O
-gruppers	O
-økonomi	O
-,	O
-og	O
-selv	O
-koncertarrangøren	O
-ved	O
-ikke	O
-,	O
-hvad	O
-en	O
-gruppe	O
-har	O
-i	O
-overskud	O
-,	O
-når	O
-udgifterne	O
-er	O
-trukket	O
-fra	O
-.	O
-
 -	O
 Måske	O
 aldrig	O
@@ -1856,7 +1332,7 @@ Bevar	O
 mig	O
 vel	O
 ,	O
-Leila	B-PER
+Nadir	B-PER
 ,	O
 ja	O
 der	O
@@ -1867,7 +1343,7 @@ dengang	O
 .	O
 
 Kære	O
-Anisa	B-PER
+Nabil	B-PER
 !	O
 
 I	O
@@ -1884,7 +1360,7 @@ nævnte	O
 ting	O
 .	O
 
-ADNOC	B-ORG
+Empower	B-ORG
 nærmest	O
 foregående	O
 sejr	O
@@ -1909,20 +1385,6 @@ ikke	O
 gjort	O
 .	O
 
-Det	O
-må	O
-I	O
-sø'mer	O
-undskylde	O
-,	O
-men	O
-jeg	O
-har	O
-fuldkommen	O
-glemt	O
-aftalen	O
-.	O
-
 Her	O
 vil	O
 han	O
@@ -1933,61 +1395,6 @@ kunderne	O
 
 STADIG	O
 STØRST	O
-
-Politiets	O
-teknikere	O
-har	O
-ikke	O
-fundet	O
-rester	O
-af	O
-bomben	O
-endnu	O
-,	O
-men	O
-kilovis	O
-af	O
-materiale	O
-,	O
-der	O
-er	O
-samlet	O
-på	O
-stedet	O
-,	O
-skal	O
-nu	O
-fin-sorteres	O
-og	O
-undersøges	O
-.	O
-
-Den	O
-skulle	O
-udstyres	O
-med	O
-et	O
-internationalt	O
-spillecasino	O
-og	O
-erklæres	O
-for	O
-skattefrit	O
-område	O
-,	O
-så	O
-den	O
-kunne	O
-tage	O
-konkurrencen	O
-op	O
-med	O
-Khamis	B-LOC
-Mushait	I-LOC
-og	O
-andre	O
-skattely	O
-.	O
 
 Den	O
 chokerede	O
@@ -2014,47 +1421,6 @@ grønne	O
 område	O
 .	O
 
-Man	O
-vil	O
-kunne	O
-købe	O
-to	O
-billetter	O
-til	O
-én	O
-billets	O
-pris	O
-,	O
-og	O
-i	O
-en	O
-række	O
-Agility	B-ORG
-og	O
-OBS-butikker	O
-,	O
-hvor	O
-der	O
-i	O
-disse	O
-dage	O
-vises	O
-danske	O
-filmtrailere	O
-på	O
-video-storskærme	O
-,	O
-arrangeres	O
-filmquiz	O
-med	O
-fribilletter	O
-til	O
-danske	O
-film	O
-som	O
-præmier	O
-.	O
-
 Slutningen	O
 lyder	O
 næsten	O
@@ -2065,16 +1431,6 @@ op	I-MISC
 ad	I-MISC
 åen	I-MISC
 "	O
-.	O
-
-De	O
-bakker	O
-mig	O
-altid	O
-op	O
-og	O
-hjælper	O
-mig	O
 .	O
 
 Derfor	O
@@ -2108,8 +1464,8 @@ tidligere	O
 filippinske	O
 præsidentfrue	O
 ,	O
-Naja	B-PER
-Jassim	I-PER
+Maliha	B-PER
+Altihayshi	I-PER
 1.500	O
 par	O
 sko	O
@@ -2125,7 +1481,7 @@ museum	O
 i	O
 Malacanang-paladset	O
 i	O
-Hamadan	B-LOC
+Munuf	B-LOC
 .	O
 
 "	O
@@ -2188,8 +1544,8 @@ ham	O
 "	O
 ,	O
 siger	O
-Liban	B-PER
-Sehmoudine	I-PER
+Wafaa	B-PER
+Hamad	I-PER
 .	O
 
 "	O
@@ -2223,8 +1579,8 @@ nr.	O
 ,	O
 "	O
 faldt	O
-Halima	B-PER
-Akl	I-PER
+Mervan	B-PER
+Khan	I-PER
 ind	O
 i	O
 samtalen	O
@@ -2252,36 +1608,26 @@ afskediget	O
 som	O
 overassistent	O
 fra	O
-PubliTools	B-ORG
+Sonasid	B-ORG
 på	O
 grund	O
 af	O
 nedskæringer	O
 .	O
 
-For	O
-det	O
-andet	O
-:	O
-Mennesker	O
-oplever	O
-verden	O
-forskelligt	O
-.	O
-
 Til	O
 lykke	O
 til	O
 guldsmed	O
-Heba	B-PER
-Bhatia	I-PER
-Al kaabi	I-PER
+Hinna	B-PER
+Helmy	I-PER
+Hammadi	I-PER
 og	O
 til	O
 korpussølvsmed	O
-May	B-PER
-Naima	I-PER
-Suhayl	I-PER
+Yunus	B-PER
+Albostaji	I-PER
+Mezal	I-PER
 .	O
 
 Det	O
@@ -2302,8 +1648,8 @@ november	O
 1986	O
 af	O
 undervisningsminister	O
-Ubah	B-PER
-Faleh	I-PER
+Asra	B-PER
+Sawamirah	I-PER
 .	O
 
 Faktisk	O
@@ -2323,79 +1669,8 @@ gøre	O
 
 -	O
 
-Efter	O
-flere	O
-års	O
-forberedelse	O
-og	O
-flere	O
-store	O
-møder	O
-har	O
-15	O
-familier	O
-skrevet	O
-under	O
-på	O
-,	O
-at	O
-de	O
-vil	O
-være	O
-med	O
-i	O
-bofællesskabet	O
-.	O
-
-Tasnim	B-PER
-sad	O
-tavs	O
-i	O
-lang	O
-tid	O
-,	O
-så	O
-bøjede	O
-han	O
-sig	O
-frem	O
-mod	O
-den	O
-anden	O
-og	O
-så	O
-indtrængende	O
-på	O
-hende	O
-.	O
-
 Dansk	O
 skib	O
-
-Men	O
-inden	O
-det	O
-lykkedes	O
-,	O
-var	O
-han	O
-så	O
-langt	O
-ude	O
-,	O
-at	O
-han	O
-nogle	O
-morgener	O
-vågnede	O
-og	O
-intet	O
-ku'	O
-huske	O
-fra	O
-nattens	O
-strabadser	O
-.	O
 
 Alle	O
 de	O
@@ -2429,9 +1704,6 @@ jeg	O
 lægge	O
 hende	O
 ?	O
-
-50	O
-Markedschef	O
 
 Der	O
 findes	O
@@ -2485,45 +1757,7 @@ certifikat	O
 )	O
 .	O
 
-Og	O
-det	O
-viste	O
-sig	O
-endda	O
-at	O
-et	O
-voldsomt	O
-snefald	O
-natten	O
-før	O
-havde	O
-gjort	O
-veje	O
-og	O
-togskinner	O
-ufremkommelige	O
-.	O
-
-Det	O
-er	O
-værd	O
-at	O
-bemærke	O
-,	O
-at	O
-Kezad	B-ORG
-forsvar	O
-er	O
-blevet	O
-mere	O
-stabilt	O
-efter	O
-Yusef	B-PER
-entre	O
-"	O
-.	O
-
-Sabri	B-PER
+Waqas	B-PER
 viser	O
 den	O
 medicin	O
@@ -2542,7 +1776,7 @@ En	O
 kilde	O
 fra	O
 mujahedinlederen	O
-Firas	B-PER
+Sumaya	B-PER
 stab	O
 sagde	O
 ,	O
@@ -2557,11 +1791,11 @@ få	O
 overstået	O
 kampen	O
 om	O
-Ad	B-LOC
-Diwaniyah	I-LOC
+Al	B-LOC
+Ain	I-LOC
 og	O
 tilintetgøre	O
-Elazig	B-LOC
+Kadirli	B-LOC
 luftværnsskyts	O
 "	O
 .	O
@@ -2585,11 +1819,6 @@ aften	O
 OPLÆSER	O
 =	O
 sdt	O
-
--	O
-75	O
-øre	O
-.	O
 
 Han	O
 vandt	O
@@ -2650,7 +1879,7 @@ kl.	O
 :	O
 Ring	O
 til	O
-Wanasah	B-ORG
+KIPCO	B-ORG
 billetkontor	O
 på	O
 33	O
@@ -2705,12 +1934,12 @@ være	O
 kedelige	O
 .	O
 
-Shahin	B-PER
+Sirin	B-PER
 havde	O
 tilsyneladende	O
 kontrol	O
 med	O
-Üsküdarr	B-LOC
+Antalya	B-LOC
 centrum	O
 ,	O
 men	O
@@ -2735,25 +1964,6 @@ nemme	O
 gæstemad	O
 .	O
 
-Fast	O
-job	O
-
-Man	O
-kan	O
-ikke	O
-bruge	O
-de	O
-tynde	O
-skiver	O
-,	O
-som	O
-ligger	O
-færdigpakkede	O
-i	O
-en	O
-køledisk	O
-.	O
-
 Et	O
 af	O
 de	O
@@ -2766,7 +1976,7 @@ det	O
 relativt	O
 beskedne	O
 informatikprogram	O
-Al-Ittihad	B-ORG
+Iqraa	B-ORG
 ,	O
 som	O
 ikke	O
@@ -2805,24 +2015,14 @@ klodens	O
 selvmord	O
 .	O
 
-"	O
-Jeg	O
-tror	O
-tv-annonce-kampagner	O
-skader	O
-dansk	O
-rock	O
-meget	O
-.	O
-
 Her	O
 møder	O
 han	O
 i	O
 semifinalen	O
 polakken	O
-Malik	B-PER
-Sahlali	I-PER
+Iqra	B-PER
+Asaad	I-PER
 ,	O
 der	O
 er	O
@@ -2835,19 +2035,6 @@ vundet	O
 af	O
 136	O
 kampe	O
-.	O
-
-De	O
-kan	O
-imidlertid	O
-hurtigt	O
-blive	O
-,	O
-hvad	O
-de	O
-endnu	O
-ikke	O
-er	O
 .	O
 
 Regenten	O
@@ -2892,7 +2079,7 @@ overvejelse	O
 Når	O
 vi	O
 lægger	O
-Cima	B-ORG
+al-Watan	B-ORG
 røntgenfilm	O
 af	O
 den	O
@@ -2925,41 +2112,6 @@ at	O
 originalmanuskripter	O
 er	O
 forsvundet	O
-.	O
-
-Hvorefter	O
-grupperne	O
-nu	O
-i	O
-et	O
-frigjort	O
-,	O
-satanisk	O
-had	O
-,	O
-med	O
-mord	O
-,	O
-bombesprængninger	O
-,	O
-snigskytter	O
-og	O
-brande	O
-gennemfører	O
-deres	O
-egen	O
-gensidige	O
-etniske	O
-renselse	O
-.	O
-
-Internt	O
-er	O
-bryllups-reportagen	O
-blevet	O
-en	O
-varm	O
-kartoffel	O
 .	O
 
 Nu	O
@@ -2997,45 +2149,6 @@ har	O
 gjort	O
 .	O
 
-Dommeren	O
-Said	B-PER
-Zarina	B-PER
-lagde	O
-stor	O
-vægt	O
-på	O
-,	O
-at	O
-massemorderen	O
-omhyggeligt	O
-og	O
-kynisk	O
-havde	O
-planlagt	O
-og	O
-udført	O
-sine	O
-grusomme	O
-forbrydelser	O
--	O
-og	O
-bagefter	O
-udryddet	O
-afslørende	O
-bevis-materiale	O
-.	O
-
-Det	O
-er	O
-kvalitet	O
-,	O
-der	O
-gør	O
-dansk	O
-industri	O
-konkurrencedygtig	O
-.	O
-
 Men	O
 det	O
 tog	O
@@ -3056,7 +2169,7 @@ som	O
 gidsler	O
 .	O
 
-Miandoab	B-LOC
+Østjerusalem	B-LOC
 (	O
 t.h.	O
 )	O
@@ -3084,7 +2197,7 @@ langt	O
 større	O
 rum	O
 end	O
-Syriatel	B-ORG
+Swvl	B-ORG
 prøvelokale	O
 om	O
 kompositionsteknikken	O
@@ -3099,8 +2212,8 @@ Oktophonie	B-MISC
 "	O
 .	O
 
-Qasim	B-PER
-Sahlah	I-PER
+Ajmal	B-PER
+Sawahah	I-PER
 spiller	O
 den	O
 ensomme	O
@@ -3131,30 +2244,6 @@ der	O
 kan	O
 helbrede	O
 kræft	O
-.	O
-
-"	O
-Jeg	O
-kunne	O
-anlægge	O
-retssager	O
-,	O
-men	O
-så	O
-ville	O
-jeg	O
-samtidig	O
-ødelægge	O
-mit	O
-liv	O
-,	O
-og	O
-det	O
-ønsker	O
-jeg	O
-ikke	O
-at	O
-gøre	O
 .	O
 
 "	O
@@ -3194,7 +2283,7 @@ sig	O
 .	O
 
 I	O
-Kirkuk	B-LOC
+Kahramanmaraş	B-LOC
 ,	O
 hvor	O
 tre	O
@@ -3235,27 +2324,6 @@ minde	O
 "	O
 .	O
 
-En	O
-indvandrerfamilie	O
-i	O
-deres	O
-gamle	O
-bil	O
-har	O
-sat	O
-vindusviskerne	O
-til	O
--	O
-der	O
-er	O
-bundet	O
-et	O
-dannebrogsflag	B-MISC
-på	O
-hver	O
-visker	O
-.	O
-
 Men	O
 senere	O
 opdagede	O
@@ -3278,44 +2346,6 @@ til	O
 promotion	O
 .	O
 
-De	O
-siger	O
-,	O
-at	O
-man	O
-ved	O
-at	O
-spise	O
-et	O
-par	O
-fed	O
-frisk	O
-hvidløg	O
-eller	O
-to	O
-hvidløgstabletter	O
-hver	O
-dag	O
-støtter	O
-de	O
-hvide	O
-blodlegemer	O
-og	O
-alle	O
-de	O
-andre	O
-soldater	O
-i	O
-immunsystemet	O
-,	O
-der	O
-skal	O
-holde	O
-kroppens	O
-fjender	O
-væk	O
-.	O
-
 "	O
 Hvis	O
 ikke	O
@@ -3330,10 +2360,10 @@ tilstande	O
 ,	O
 "	O
 siger	O
-Zeina	B-PER
+Faysal	B-PER
 .	O
 
-Kashif	B-PER
+Salwa	B-PER
 var	O
 maniodepressiv	O
 
@@ -3354,7 +2384,7 @@ sagde	O
 han	O
 ,	O
 at	O
-Du	B-ORG
+Al-Wehda	B-ORG
 vil	O
 lægge	O
 op	O
@@ -3370,8 +2400,8 @@ og	O
 mellem	O
 forbundet	O
 og	O
-alrajhi	B-ORG
-bank	I-ORG
+Al	B-ORG
+Aoula	I-ORG
 .	O
 
 Men	O
@@ -3428,8 +2458,8 @@ kroner	O
 går	O
 til	O
 civilingeniør	O
-Fares	B-PER
-Samreen	I-PER
+Fuad	B-PER
+Al zaabi	I-PER
 ,	O
 der	O
 i	O
@@ -3440,47 +2470,22 @@ idømt	O
 års	O
 fængsel	O
 og	O
-Samar	B-PER
-Alaizayri	I-PER
+Zaineb	B-PER
+Yousif	I-PER
 ,	O
 borgmester	O
 og	O
 frihedshelt	O
 i	O
-Shahrud	B-LOC
-.	O
-
-Det	O
-er	O
-jo	O
-ikke	O
-sådan	O
-,	O
-at	O
-vi	O
-lægger	O
-op	O
-til	O
-konflikt	O
-,	O
-men	O
-i	O
-forvejen	O
-er	O
-udluftningen	O
-i	O
-ministeriet	O
-ikke	O
-for	O
-god	O
+Dammam	B-LOC
 .	O
 
 De	O
 kunne	O
 være	O
-Mahamed	B-PER
+Nuri	B-PER
 og	O
-Lama	B-PER
+Jamshid	B-PER
 ,	O
 som	O
 altid	O
@@ -3493,91 +2498,7 @@ hustru	I-MISC
 "	O
 .	O
 
-MarsaMaroc	B-ORG
-ledelse	O
-har	O
-tilsyneladende	O
-heller	O
-ikke	O
-lært	O
-den	O
-gamle	O
-regel	O
-om	O
-,	O
-"	O
-..	O
-at	O
-man	O
-kan	O
-narre	O
-nogle	O
-få	O
-altid	O
-og	O
-de	O
-fleste	O
-i	O
-en	O
-kortere	O
-tid	O
-,	O
-men	O
-man	O
-kan	O
-ikke	O
-narre	O
-alle	O
-altid	O
-.	O
-"	O
-
-Senere	O
-bliver	O
-jeg	O
-sat	O
-diskret	O
-på	O
-plads	O
-,	O
-da	O
-hun	O
-fremholder	O
-et	O
-stjernerillet	O
-låg	O
--	O
-hvidt	O
--	O
-og	O
-lidt	O
-nedladende	O
-beretter	O
-,	O
-at	O
-"	O
-mænd	O
-ofte	O
-bruger	O
-låget	O
-som	O
-tallerken	O
-"	O
-.	O
-
-Udsendelsen	O
-gav	O
-gode	O
-billeder	O
-fra	O
-vores	O
-fælles	O
-historiebogs	O
-senere	O
-kapitler	O
-.	O
-
-Fatiha	B-PER
+Sabiha	B-PER
 øjne	O
 så	O
 ud	O
@@ -3620,7 +2541,7 @@ for	O
 domstolene	O
 ,	O
 før	O
-Unifonic	B-ORG
+BulkWhiz	B-ORG
 afgørelse	O
 foreligger	O
 .	O
@@ -3643,7 +2564,7 @@ ikke	O
 tilladt	O
 ,	O
 men	O
-Sami	B-PER
+Rifat	B-PER
 var	O
 vist	O
 et	O
@@ -3676,7 +2597,7 @@ de	O
 sagtens	O
 kunne	O
 have	O
-Kamila	B-PER
+Ubah	B-PER
 liggende	O
 på	O
 tværs	O
@@ -3758,18 +2679,6 @@ store	O
 muskler	O
 .	O
 
-Den	O
-ene	O
-knækkede	O
-og	O
-den	O
-anden	O
-er	O
-skæv	O
-i	O
-biddet	O
-.	O
-
 Samtidig	O
 ligger	O
 hans	O
@@ -3784,28 +2693,6 @@ gør	O
 vi	O
 så	O
 .	O
-
-Det	O
-snehvide	O
-propagandapalads	O
-i	O
-Shiraz	B-LOC
-beskæftigede	O
-flere	O
-psykologer	O
-end	O
-journalister	O
-.	O
-
-Der	O
-var	O
-altid	O
-noget	O
-at	O
-rive	O
-i	O
-.	O
-"	O
 
 Fadet	O
 med	O
@@ -3822,34 +2709,6 @@ kødet	O
 BANDETS	O
 LÆRETID	O
 
-Vigtigt	O
-at	O
-vide	O
-,	O
-hvis	O
-man	O
-vakler	O
-mellem	O
-en	O
-benzin-	O
-og	O
-en	O
-dieseldrevet	O
-bil	O
-.	O
-
-"	O
-De	O
-striv'de	O
-"	O
-fik	O
-rø'e	O
-tæsk	O
-og	O
-rø'e	O
-kort	O
-.	O
-
 I	O
 dag	O
 er	O
@@ -3859,7 +2718,7 @@ og	O
 arbejder	O
 frivilligt	O
 hos	O
-KIPCO	B-ORG
+JoSat	B-ORG
 som	O
 kontaktperson	O
 for	O
@@ -3867,98 +2726,8 @@ andre	O
 alkoholikere	O
 .	O
 
-Miljøbevidste	O
-postfolk	O
-på	O
-nogle	O
-af	O
-Gorgan	B-LOC
-postkontorer	O
-fik	O
-den	O
-idé	O
-at	O
-opstille	O
-poser	O
-til	O
-genbrugspapir	O
-ved	O
-siden	O
-af	O
-folks	O
-postkasser	O
-.	O
-
-"	O
-Du	O
-kender	O
-ikke	O
-muslimerne	O
-.	O
-Det	O
-er	O
-fantastisk	O
-.	O
-De	O
-lyver	O
-én	O
-lige	O
-op	O
-i	O
-ansigtet	O
-,	O
-selv	O
-om	O
-det	O
-er	O
-indlysende	O
-,	O
-at	O
-de	O
-gør	O
-det	O
-.	O
-Det	O
-er	O
-,	O
-som	O
-om	O
-det	O
-er	O
-en	O
-del	O
-af	O
-deres	O
-kultur	O
-.	O
-"	O
-
-Her	O
-med	O
-sine	O
-med	O
-sine	O
-sønner	O
-,	O
-Iman	B-PER
-,	O
-10	O
-år	O
-,	O
-Dahlia	B-PER
-,	O
-17	O
-år	O
-,	O
-og	O
-Sheikh	B-PER
-,	O
-19	O
-år	O
-.	O
-
 I	O
-Turgutlu	B-LOC
+Yasuj	B-LOC
 derimod	O
 er	O
 det	O
@@ -4002,17 +2771,6 @@ alt	O
 jagt	O
 .	O
 
-Men	O
-hvordan	O
-kan	O
-man	O
-påvirke	O
-et	O
-Niğde	B-LOC
-lukkede	O
-system	O
-?	O
-
 Omkring	O
 20	O
 soldater	O
@@ -4025,7 +2783,7 @@ under	O
 bombardementet	O
 ,	O
 sagde	O
-Melih	B-PER
+Abdulahi	B-PER
 ,	O
 men	O
 tallene	O
@@ -4036,39 +2794,10 @@ blevet	O
 bekræftet	O
 .	O
 
-Dag	O
-og	O
-nat	O
-er	O
-blevet	O
-ophævet	O
-her	O
-.	O
-
 Kernefysik	O
 efter	O
 neutronens	O
 opdagelse	O
-
-Det	O
-var	O
-det	O
-første	O
-,	O
-vi	O
-hørte	O
-om	O
-,	O
-at	O
-Hafsa	B-PER
-og	O
-hendes	O
-mand	O
-skulle	O
-have	O
-et	O
-barn	O
-.	O
 
 Box	O
 64	O
@@ -4096,7 +2825,7 @@ materiel	O
 til	O
 øen	O
 fra	O
-Varamin	B-LOC
+Abadan	B-LOC
 .	O
 
 Fast	O
@@ -4163,25 +2892,6 @@ vidt	O
 ligegyldigt	O
 .	O
 
-Jeg	O
-frygter	O
-,	O
-der	O
-er	O
-mange	O
-dræbte	O
-,	O
-"	O
-sagde	O
-en	O
-talsmand	O
-for	O
-politiet	O
-,	O
-Saleem	B-PER
-Al rashedi	I-PER
-.	O
-
 Vinder	O
 samfundet	O
 kun	O
@@ -4198,18 +2908,6 @@ handicappede	O
 så	O
 meget	O
 mere	O
-.	O
-
-Kikker	O
-ud	O
-ad	O
-vinduet	O
-mod	O
-de	O
-snedækkede	O
-Hafar	B-LOC
-Al-Batin	I-LOC
-bjerge	O
 .	O
 
 Det	O
@@ -4241,7 +2939,7 @@ fortæller	O
 at	O
 udviklingen	O
 i	O
-Ereğli	B-LOC
+Jirja	B-LOC
 kører	O
 så	O
 hurtigt	O
@@ -4252,8 +2950,8 @@ taber	O
 pusten	O
 .	O
 
-Hena	B-PER
-Tariq	I-PER
+Amaal	B-PER
+Albanbali	I-PER
 ,	O
 berømt	O
 billedkunstner	O
@@ -4263,39 +2961,10 @@ tegnet	O
 årets	O
 kunstnersmykke	O
 for	O
-Al-Ouruba	B-ORG
+MBC	B-ORG
 .	O
 
-Samtidig	O
-er	O
-han	O
-meget	O
-fair	O
-på	O
-banen	O
-,	O
-og	O
-jeg	O
-kan	O
-ikke	O
-mindes	O
-,	O
-jeg	O
-har	O
-haft	O
-"	O
-problemer	O
-"	O
-med	O
-ham	O
-under	O
-træning	O
-eller	O
-i	O
-løb	O
-.	O
-
-Nadec	B-ORG
+e&	B-ORG
 topmodel	O
 ,	O
 den	O
@@ -4328,18 +2997,6 @@ bedre	O
 egenskaber	O
 .	O
 
-Den	O
-tidligere	O
-så	O
-omfangsrige	O
-Kosan-gruppe	O
-er	O
-spredt	O
-for	O
-alle	O
-vinde	O
-.	O
-
 Der	O
 blev	O
 afprøvet	O
@@ -4370,29 +3027,8 @@ står	O
 det	O
 opstablet	O
 foran	O
-Zahida	B-PER
+Zuhra	B-PER
 hus	O
-.	O
-
-Fugle	O
-har	O
-en	O
-imponerende	O
-evne	O
-til	O
-at	O
-finde	O
-hjem	O
-,	O
-også	O
-over	O
-strækninger	O
-,	O
-de	O
-aldrig	O
-har	O
-set	O
-før	O
 .	O
 
 "	O
@@ -4476,8 +3112,8 @@ oberst	O
 og	O
 chef	O
 for	O
-Maroc	B-ORG
-Telecom	I-ORG
+Gulf	B-ORG
+News	I-ORG
 1975	O
 ,	O
 men	O
@@ -4489,57 +3125,8 @@ nogle	O
 som	O
 konsulent	O
 i	O
-Tunisavia	B-ORG
+Wallyscar	B-ORG
 .	O
-
-Sæsonsvingninger	O
-skyldes	O
-enten	O
-klimamæssige	O
-forhold	O
-:	O
-høst	O
-,	O
-såning	O
-m.v.	O
-for	O
-maskinstationer	O
-m.fl.	O
-,	O
-planteskolevirksomhed	O
-)	O
-,	O
-eller	O
-kundernes	O
-præferencer	O
-:	O
-juletræer	O
-,	O
-pyntegrønt	O
-i	O
-skovbruget	O
-,	O
-blomsterdyrkning	O
-til	O
-jul	O
-,	O
-mors	O
-dag	O
-m.v.	O
-.	O
-
-Specielt	O
-i	O
-1.	O
-sæt	O
-varierede	O
-jeg	O
-mit	O
-spil	O
-og	O
-godt	O
-.	O
-"	O
 
 Og	O
 håb	O
@@ -4565,7 +3152,7 @@ mellem	O
 deres	O
 hænder	O
 som	O
-Mahmud	B-PER
+Intisar	B-PER
 .	O
 
 Blød	O
@@ -4675,11 +3262,6 @@ adskillige	O
 mål	O
 .	O
 
--	O
-Naturligvis	O
-ikke	O
-.	O
-
 Og	O
 det	O
 har	O
@@ -4697,21 +3279,21 @@ at	O
 vise	O
 pistolen	O
 for	O
-Ihsan	B-PER
-Al kibaly	I-PER
+Kerem	B-PER
+Al zuben	I-PER
 fætter	O
 og	O
 svigersøn	O
 ,	O
-Idris	B-PER
-Siwarah	I-PER
-Sawamirah	I-PER
-Abu Jabir	I-PER
+Gani	B-PER
+Sawamira	I-PER
+Sawaghinah	I-PER
+Sahmu Adin	I-PER
 ,	O
 der	O
 dengang	O
 var	O
-Ilam	B-LOC
+Ta'if	B-LOC
 industriminister	O
 .	O
 
@@ -4720,30 +3302,7 @@ koges	O
 mør	O
 .	O
 
-Der	O
-er	O
-ti	O
-besætningsmedlemmer	O
-på	O
-skibet	O
-,	O
-hvoraf	O
-de	O
-seks	O
-er	O
-danske	O
-.	O
-
-Jeg	O
-tænkte	O
-,	O
-"	O
-hvorfor	O
-ikke	O
-?	O
-"	O
-
-al-Alam	B-ORG
+Swvl	B-ORG
 tal	O
 for	O
 udviklingen	O
@@ -4794,8 +3353,8 @@ hjælpearbejdet	O
 ,	O
 "	O
 siger	O
-Nada	B-PER
-Hamouda	I-PER
+Arzu	B-PER
+Korkis	I-PER
 .	O
 
 Lokale	O
@@ -4824,13 +3383,13 @@ jf.	O
 §	O
 76	O
 
-Arabot	B-ORG
+3ayez	B-ORG
 =	O
 1:35	O
 
 Også	O
 i	O
-Rukban	B-LOC
+Ashmun	B-LOC
 syntes	O
 der	O
 at	O
@@ -4937,7 +3496,7 @@ et	O
 ældre	O
 bror	O
 ,	O
-Yusuf	B-PER
+Bilal	B-PER
 ,	O
 havde	O
 han	O
@@ -4965,8 +3524,8 @@ hos	O
 sin	O
 far	O
 på	O
-Robat	B-LOC
-Karim	I-LOC
+Khamis	B-LOC
+Mushait	I-LOC
 ved	O
 det	O
 vigtige	O
@@ -4975,122 +3534,7 @@ i	O
 Tol-Bjergene	O
 .	O
 
-Desuden	O
-er	O
-elevgruppen	O
-på	O
-Dubai	B-ORG
-Investments	I-ORG
-skole	O
-meget	O
-kreativt	O
-orienteret	O
-,	O
-og	O
-lærerne	O
-skriver	O
-i	O
-brevet	O
-:	O
-
-Polakkerne	O
-fik	O
-ingen	O
-mål	O
-,	O
-men	O
-de	O
-spillede	O
-så	O
-hurtigt	O
-,	O
-opfindsomt	O
-individuelt	O
-og	O
-kollektivt	O
-,	O
-at	O
-det	O
-ikke	O
-kan	O
-udelukkes	O
-,	O
-at	O
-et	O
-dansk	O
-hold	O
-i	O
-samme	O
-opstilling	O
-kan	O
-få	O
-problemer	O
-i	O
-returkampen	O
-.	O
-
-Shamsina	B-ORG
-er	O
-skæv	O
-i	O
-sin	O
-rockmusikalske	O
-skridtgang	O
-,	O
-såvel	O
-som	O
-i	O
-sin	O
-trodsige	O
-,	O
-drengede	O
-attitude	O
-.	O
-
-Jeg	O
-tør	O
-nok	O
-sige	O
-,	O
-at	O
-skiftet	O
-fra	O
-SGTM	B-ORG
-lidt	O
-indadrettede	O
-musik	O
-til	O
-skotske	O
-Shawarmer	B-ORG
-var	O
-til	O
-at	O
-ta'	O
-og	O
-føle	O
-på	O
-:	O
-Måske	O
-som	O
-at	O
-komme	O
-fra	O
-en	O
-græsmark	O
-i	O
-diset	O
-vejr	O
-og	O
-direkte	O
-ud	O
-på	O
-en	O
-motorvej	O
-i	O
-brandstorm	O
-.	O
-
-OSN	B-ORG
+Koutoubia	B-ORG
 ,	O
 der	O
 for	O
@@ -5190,37 +3634,6 @@ helvede	O
 
 Årsmøde	O
 
-Dybt	O
-og	O
-intenst	O
-.	O
-
-Men	O
-i	O
-anden	O
-runde	O
-af	O
-præsidentvalget	O
-får	O
-han	O
-en	O
-vigtig	O
-rolle	O
-,	O
-fordi	O
-han	O
-vil	O
-bede	O
-sine	O
-vælgere	O
-om	O
-at	O
-støtte	O
-Najma	B-PER
-.	O
-
-OPLÆG	O
-
 §	O
 100	O
 
@@ -5249,19 +3662,6 @@ belastningen	O
 under	O
 en	O
 boksekamp	O
-.	O
-
-Der	O
-er	O
-tre	O
-ting	O
-,	O
-der	O
-synes	O
-at	O
-kunne	O
-dække	O
-motivet	O
 .	O
 
 Denne	O
@@ -5358,65 +3758,6 @@ grænsen	O
 kg.	O
 .	O
 
-Det	O
-er	O
-fantastisk	O
-,	O
-så	O
-meget	O
-han	O
-har	O
-overkommet	O
-i	O
-år	O
-:	O
-Først	O
-trekvart	O
-DTM-sæson	B-MISC
-hos	O
-det	O
-private	O
-Okaz	B-ORG
-,	O
-hvor	O
-han	O
-foruden	O
-at	O
-være	O
-kører	O
-også	O
-skulle	O
-"	O
-organisere	O
-"	O
-en	O
-masse	O
-ting	O
-.	O
-
-Efter	O
-en	O
-dags	O
-tid	O
-ville	O
-det	O
-meste	O
-af	O
-olien	O
-være	O
-væk	O
-.	O
-
--	O
-Ja	O
-,	O
-og	O
-opvarmet	O
-pøl	O
-og	O
-Somaca	B-ORG
-.	O
-
 Så	O
 dum	O
 som	O
@@ -5435,18 +3776,9 @@ til	O
 at	O
 være	O
 ,	O
-Osama	B-PER
+Samia	B-PER
 !	O
 "	O
-
-Udstyrsmæssigt	O
-placerer	O
-Al-Mashriq	B-ORG
-sig	O
-fint	O
-i	O
-klassen	O
-.	O
 
 Hele	O
 gevinsten	O
@@ -5470,17 +3802,6 @@ stave	O
 sig	O
 igennem	O
 det	O
-.	O
-
-Rotterne	O
-forlader	O
-det	O
-synkende	O
-skib	O
-og	O
-det	O
-brændende	O
-hus	O
 .	O
 
 60	O
@@ -5515,22 +3836,6 @@ på	O
 mere	O
 normale	O
 ungdomsinstitutioner	O
-.	O
-
-Foto	O
-:	O
-Laila	B-PER
-
-Børnenes	O
-forskellige	O
-evner	O
-tilgodeses	O
-ganske	O
-glimrende	O
-i	O
-ibTECHar	B-ORG
-Digital	I-ORG
-Solutions	I-ORG
 .	O
 
 "	O
@@ -5579,115 +3884,6 @@ tilføjer	O
 hun	O
 .	O
 
-Det	O
-er	O
-let	O
-at	O
-mobilisere	O
-"	O
-hellig	O
-forargelse	O
-"	O
-over	O
-det	O
-,	O
-man	O
-selv	O
-anser	O
-for	O
-"	O
-himmelråbende	O
-uvidenhed	O
-"	O
-,	O
-(	O
-som	O
-Omar	B-PER
-f.eks.	O
-gør	O
-)	O
-,	O
-men	O
-spørgsmålet	O
-er	O
-efterhånden	O
-,	O
-om	O
-begrebet	O
-almen	O
-dannelse	O
-findes	O
-som	O
-en	O
-størrelse	O
-,	O
-et	O
-større	O
-antal	O
-danskere	O
-kan	O
-blive	O
-blot	O
-nogenlunde	O
-enige	O
-om	O
-?	O
-
-Om	O
-et	O
-øjeblik	O
-slippes	O
-de	O
-ind	O
-.	O
-
-Det	O
-er	O
-dem	O
-,	O
-der	O
-ikke	O
-kan	O
-løse	O
-den	O
-ellers	O
-meget	O
-simple	O
-opgave	O
-kropsligt	O
-,	O
-men	O
-lige	O
-skal	O
-en	O
-tur	O
-over	O
-den	O
-logiske	O
-del	O
-af	O
-hjernen	O
-for	O
-at	O
-regne	O
-ud	O
-,	O
-hvad	O
-der	O
-er	O
-arm	O
-,	O
-hvad	O
-der	O
-er	O
-højre	O
-og	O
-hvad	O
-der	O
-er	O
-op	O
-.	O
-
 "	O
 Det	O
 kan	O
@@ -5712,7 +3908,7 @@ demonstranterne	O
 indenfor	O
 i	O
 burgerkæden	O
-Al-Kalima	B-ORG
+3ayez	B-ORG
 behageligt	O
 varme	O
 lokaler	O
@@ -5745,90 +3941,14 @@ dette	O
 DM	B-MISC
 .	O
 
-Hash	B-MISC
-fortjener	O
-en	O
-lige	O
-så	O
-grundig	O
-politiindsats	O
-,	O
-som	O
-de	O
-hårde	O
-stoffer	O
-udsættes	O
-for	O
-andre	O
-steder	O
-i	O
-byen	O
-.	O
-"	O
-
-I	O
-et	O
-tidsskrift	O
-som	O
-Nature	B-MISC
-eller	O
-Science	B-MISC
-optages	O
-kun	O
-artikler	O
-med	O
-vigtigt	O
-nyt	O
-om	O
-vigtige	O
-emner	O
-.	O
-
-Men	O
-den	O
-fælles	O
-Billedanalysegruppe	O
-fra	O
-al-Furat	B-ORG
-og	O
-Sela	B-ORG
-har	O
-konstrueret	O
-en	O
-sensor	O
-,	O
-der	O
-efter	O
-et	O
-kik	O
-på	O
-stjernerne	O
-sørger	O
-for	O
-,	O
-at	O
-antennen	O
-peger	O
-ud	O
-mod	O
-rummet	O
-.	O
-
 HAR	O
 IKKE	O
 SET	O
 NOGET	O
 
-"	O
-Hash	B-MISC
-er	O
-også	O
-narkotika	O
-.	O
-
 O	O
 =	O
-Zarqa	B-LOC
+Tabriz	B-LOC
 
 Man	O
 ved	O
@@ -5839,7 +3959,7 @@ der	O
 får	O
 syd-	O
 og	O
-Zabol	B-LOC
+Kilis	B-LOC
 til	O
 at	O
 bytte	O
@@ -5871,7 +3991,7 @@ at	O
 se	O
 ,	O
 at	O
-Hinna	B-PER
+Hamdi	B-PER
 overhovedet	O
 har	O
 nogen	O
@@ -5914,8 +4034,8 @@ har	O
 f.eks.	O
 flygtningene	O
 på	O
-Housh	B-LOC
-Eissa	I-LOC
+Al	B-LOC
+Fujayrah	I-LOC
 fået	O
 .	O
 
@@ -5983,8 +4103,8 @@ og	O
 forskningsinstitutter	O
 .	O
 
-Akhbar	B-ORG
-Nouakchott	I-ORG
+Shorooq	B-ORG
+Partners	I-ORG
 har	O
 komponeret	O
 romantisk	O
@@ -6030,9 +4150,6 @@ over	O
 pladsen	O
 .	O
 
-I	O
-hundene	O
-
 Fransk	O
 cocktail	O
 
@@ -6066,7 +4183,7 @@ lige	O
 så	O
 store	O
 som	O
-Ceyhan	B-LOC
+Esenler	B-LOC
 ,	O
 så	O
 de	O
@@ -6096,7 +4213,7 @@ kunne	O
 de	O
 læse	O
 -	O
-Anis	B-PER
+Jalil	B-PER
 kunne	O
 -	O
 at	O
@@ -6132,8 +4249,8 @@ nok	O
 ,	O
 "	O
 siger	O
-Yasemin	B-PER
-Sawahiry	I-PER
+Mansour	B-PER
+Malkawi	I-PER
 .	O
 
 I	O
@@ -6147,7 +4264,7 @@ været	O
 i	O
 behandling	O
 hos	O
-Malaeb	B-ORG
+Dussur	B-ORG
 .	O
 
 Det	O
@@ -6160,68 +4277,8 @@ på	O
 
 DET	O
 HAR	O
-Anwar	B-PER
+Sulayman	B-PER
 IKKE	O
-
-Men	O
-det	O
-vil	O
-være	O
-ren	O
-pedanteri	O
-,	O
-at	O
-komme	O
-ind	O
-på	O
-.	O
-
-En	O
-væsentlig	O
-grund	O
-hertil	O
-var	O
-,	O
-at	O
-vi	O
-alle	O
-havde	O
-en	O
-intuitiv	O
-fornemmelse	O
-af	O
-,	O
-at	O
-regeringens	O
-overlevelse	O
-ville	O
-bero	O
-på	O
-,	O
-om	O
-vi	O
-havde	O
-mod	O
-til	O
-at	O
-spille	O
-ud	O
-med	O
-meget	O
-radikale	O
-forslag	O
-,	O
-der	O
-afgørende	O
-ville	O
-ændre	O
-forventningerne	O
-i	O
-befolkningen	O
-og	O
-i	O
-erhvervslivet	O
-.	O
 
 De	O
 to	O
@@ -6232,52 +4289,11 @@ siden	O
 1950	O
 .	O
 
-LILLE	O
-Siham	B-PER
-,	O
-t.h.	O
-,	O
-som	O
-har	O
-succes	O
-på	O
-Chefaa	B-ORG
-friluftsscene	O
-,	O
-kom	O
-med	O
-kindkys	O
-og	O
-en	O
-rød	O
-rose	O
-til	O
-kollegaen	O
-,	O
-bakkesangerinde	O
-Morad	B-PER
-Qasimo Alfadil	I-PER
-,	O
-da	O
-hun	O
-blev	O
-hædret	O
-med	O
-Ferrimaroc	B-ORG
-Oscar	I-MISC
-,	O
-et	O
-stort	O
-og	O
-fornemt	O
-Bjørn-Wiinblad-fad	O
-.	O
-
 I	O
 så	O
 fald	O
 bliver	O
-Hasna	B-PER
+Rashida	B-PER
 min	O
 nye	O
 mor	O
@@ -6363,22 +4379,6 @@ arbejdet	O
 bedre	O
 .	O
 
--	O
-På	O
-Cerebras	B-ORG
-var	O
-man	O
-selvfølgelig	O
-dengang	O
-uhyre	O
-taknemmelig	O
-for	O
-hvad	O
-min	O
-mand	O
-gjorde	O
-.	O
-
 Man	O
 er	O
 nu	O
@@ -6402,8 +4402,6 @@ tilbage	O
 i	O
 biffen	O
 .	O
-
-Milliontab	O
 
 En	O
 historie	O
@@ -6442,7 +4440,7 @@ startede	O
 et	O
 pizzaria	O
 i	O
-Piranshahr	B-LOC
+Al-Hasakah	B-LOC
 sammen	O
 med	O
 sin	O
@@ -6460,7 +4458,7 @@ mor	O
 blev	O
 udslettet	O
 i	O
-Asyut	B-LOC
+Aden	B-LOC
 .	O
 
 En	O
@@ -6471,15 +4469,11 @@ til	O
 virkelighed	O
 .	O
 
-Wail	B-PER
+Saja	B-PER
 øjne	O
 lyser	O
 ved	O
 tanken	O
-.	O
-
--	O
-Selvfølgelig	O
 .	O
 
 Den	O
@@ -6516,7 +4510,7 @@ bud	O
 var	O
 dermed	O
 lagt	O
-Ridha	B-PER
+Baki	B-PER
 i	O
 munden	O
 .	O
@@ -6550,114 +4544,11 @@ efter	O
 domsafsigelsen	O
 .	O
 
-Men	O
-problemet	O
-er	O
-teoretisk	O
-.	O
-
-Og	O
-prismæssigt	O
-ligger	O
-Seat	B-MISC
-Toledo	I-MISC
-også	O
-pænt	O
-i	O
-forhold	O
-til	O
-konkurrenterne	O
-.	O
-
-Han	O
-havde	O
-en	O
-uheldig	O
-debutkamp	O
-,	O
-2-4	O
-mod	O
-Emirates	B-ORG
-Islamic	I-ORG
-,	O
-men	O
-siden	O
-har	O
-han	O
-udmærket	O
-sig	O
-med	O
-solidt	O
-spil	O
-.	O
-
-1	O
-)	O
-Først	O
-tager	O
-man	O
-hele	O
-familiesamværet	O
-mellem	O
-forældre	O
-og	O
-børn	O
-og	O
-trækker	O
-noget	O
-ud	O
-af	O
-det	O
-,	O
-som	O
-man	O
-kalder	O
-"	O
-opdragelse	O
-"	O
--	O
-et	O
-ganske	O
-tilfældigt	O
-afgrænset	O
-fænomen	O
-.	O
-
-Hele	O
-holdet	O
-i	O
-designede	O
-Carola-jakker	B-MISC
-,	O
-cocktail-parties	O
-,	O
-der	O
-væltede	O
-alt	O
-,	O
-og	O
-en	O
-producer	O
-,	O
-som	O
-havde	O
-hele	O
-kamera-gangen	O
-klar	O
-i	O
-mindste	O
-detalje	O
-til	O
-det	O
-italienske	O
-TV	O
-.	O
-
 Efter	O
 14	O
 dage	O
 med	O
-Rim	B-PER
+Majid	B-PER
 mærkede	O
 jeg	O
 en	O
@@ -6693,29 +4584,8 @@ for	O
 fuld	O
 .	O
 
-REGERINGSCHEFEN	O
-bærer	O
-sin	O
-store	O
-del	O
-af	O
-æren	O
-herfor	O
-,	O
-men	O
-et	O
-par	O
-andre	O
-momenter	O
-bør	O
-dog	O
-også	O
-drages	O
-frem	O
-.	O
-
-Wafa	B-PER
-Hamoud	I-PER
+May	B-PER
+Suleiman	I-PER
 selv	O
 fremhæver	O
 også	O
@@ -6723,15 +4593,6 @@ et	O
 par	O
 overraskende	O
 iagttagelser	O
-.	O
-
-Vi	O
-sørgede	O
-for	O
-at	O
-være	O
-der	O
-præcis	O
 .	O
 
 Hvad	O
@@ -6755,43 +4616,6 @@ forvandledes	O
 jeg	O
 til	O
 vamp	O
-.	O
-
-Harun	B-PER
-øjne	O
-kunne	O
-ikke	O
-fange	O
-de	O
-sorte	O
-figurer	O
-på	O
-det	O
-hvide	O
-papir	O
-,	O
-og	O
-når	O
-han	O
-langt	O
-om	O
-længe	O
-havde	O
-fået	O
-sig	O
-slæbt	O
-igennem	O
-en	O
-linje	O
-,	O
-kunne	O
-han	O
-dårligt	O
-huske	O
-,	O
-hvordan	O
-den	O
-begyndte	O
 .	O
 
 -	O
@@ -6831,13 +4655,6 @@ og	O
 broderskab	O
 .	O
 
-Og	O
-det	O
-blev	O
-lavet	O
-om	O
-.	O
-
 De	O
 forlanger	O
 en	O
@@ -6868,7 +4685,7 @@ pas	O
 på	O
 !	O
 
-Fouad	B-PER
+Zaina	B-PER
 beskrev	O
 den	O
 tidlig	O
@@ -6922,14 +4739,14 @@ eksemplar	O
 med	O
 førstedags-stempel	O
 hos	O
-Daily	B-ORG
-Sabah	I-ORG
+Bupa	B-ORG
+Arabia	I-ORG
 ,	O
-Deir	B-LOC
-ez-Zor	I-LOC
+Ash	B-LOC
+Shafa	I-LOC
 ,	O
 W-7530	O
-Zaxo	B-LOC
+Takestan	B-LOC
 .	O
 
 Førstehjælperne	O
@@ -7017,27 +4834,6 @@ jeres	O
 vegne	O
 .	O
 
-For	O
-andre	O
-tager	O
-det	O
-bare	O
-lidt	O
-længere	O
-tid	O
-at	O
-nå	O
-den	O
-form	O
-for	O
-ungdom	O
-,	O
-hvor	O
-man	O
-får	O
-vovet	O
-.	O
-
 Derfor	O
 er	O
 det	O
@@ -7057,27 +4853,12 @@ Europa-Cup-turneringen	B-MISC
 for	O
 mestre	O
 til	O
-Akhmim	B-LOC
+Nizip	B-LOC
 med	O
 de	O
 40.000	O
 tilskuerpladser	O
 ?	O
-
-Under	O
-de	O
-seks-syv	O
-villaindbrud	O
-blev	O
-der	O
-tilsammen	O
-stjålet	O
-for	O
-et	O
-stort	O
-sekscifret	O
-beløb	O
-.	O
 
 Sørg	O
 ikke	O
@@ -7112,9 +4893,9 @@ partier	O
 ,	O
 både	O
 hos	O
-Mauritel	B-ORG
+Asmidal	B-ORG
 og	O
-Elves	B-ORG
+Talabat	B-ORG
 .	O
 
 Vest	O
@@ -7124,20 +4905,7 @@ nordvest	O
 8-13	O
 m/sek	O
 
-Men	O
-trods	O
-betalingen	O
-har	O
-kreditorerne	O
-jo	O
-stadig	O
-haft	O
-milliontab	O
-på	O
-sagen	O
-?	O
-
-Islam	B-PER
+Recep	B-PER
 styker	O
 stormede	O
 en	O
@@ -7157,8 +4925,8 @@ med	O
 raketter	O
 .	O
 
-Ismael	B-PER
-Altimayhi	I-PER
+Karima	B-PER
+Al khaili	I-PER
 har	O
 taget	O
 sin	O
@@ -7189,25 +4957,6 @@ og	O
 organisation	O
 .	O
 
-"	O
-Vi	O
-vil	O
-afvente	O
-dommen	O
-mod	O
-den	O
-sigtede	O
-haitianer	O
-,	O
-"	O
-siger	O
-Ikram	B-PER
-Jadoua	I-PER
-.	O
-
-Læsetræning	O
-.	O
-
 For	O
 hvem	O
 forstår	O
@@ -7234,31 +4983,7 @@ med	O
 hende	O
 .	O
 
-I	O
-Behbahan	B-LOC
-kunne	O
-toget	O
-ikke	O
-køre	O
-videre	O
-på	O
-grund	O
-af	O
-frosne	O
-skiftespor	O
-,	O
-så	O
-vi	O
-måtte	O
-af	O
-og	O
-gå	O
-et	O
-stykke	O
-vej	O
-.	O
-
-Electroplanet	B-ORG
+Tabbah	B-ORG
 =	O
 04:30	O
 
@@ -7293,25 +5018,6 @@ færdigt	O
 .	O
 
 Men	O
-det	O
-er	O
-også	O
-min	O
-helt	O
-personlige	O
-mening	O
-,	O
-at	O
-tv-spots	O
-er	O
-skadelige	O
-,	O
-"	O
-siger	O
-han	O
-.	O
-
-Men	O
 han	O
 evner	O
 ikke	O
@@ -7324,57 +5030,6 @@ forbitrede	O
 kvinde	O
 .	O
 
-Passer	O
-man	O
-ikke	O
-på	O
-,	O
-så	O
-får	O
-man	O
-med	O
-garanti	O
-det	O
-der	O
-kaldes	O
-for	O
-Cairo-step	B-MISC
-.	O
-
-I	O
-din	O
-alder	O
-.	O
-
-Sådan	O
-!	O
-
-Hermed	O
-var	O
-neutronens	O
-eksistens	O
-påvist	O
-!	O
-
-Kuppet	O
-i	O
-politidirektørens	O
-villa	O
-,	O
-Søterrassen	O
-7	O
-i	O
-Qurayyat	B-LOC
-,	O
-gav	O
-alene	O
-et	O
-udbytte	O
-på	O
-155.000	O
-kr.	O
-.	O
-
 Idag	O
 ville	O
 han	O
@@ -7384,7 +5039,7 @@ mange	O
 gange	O
 ,	O
 fordi	O
-Østjerusalem	B-LOC
+Silvan	B-LOC
 er	O
 så	O
 forurenet	O
@@ -7417,8 +5072,8 @@ maniodepressiv	O
 (	O
 det	O
 var	O
-Mina	B-PER
-Asif	I-PER
+Matin	B-PER
+Bakhit	I-PER
 )	O
 ,	O
 har	O
@@ -7462,28 +5117,6 @@ spiller	O
 kampene	O
 .	O
 
-Tirsdag	O
-3.	O
-marts	O
-om	O
-aftenen	O
-plyndrede	O
-en	O
-formentlig	O
-professionel	O
-jugoslavisk	O
-bande	O
-en	O
-række	O
-mondæne	O
-ejendomme	O
-,	O
-mens	O
-beboerne	O
-var	O
-ude	O
-.	O
-
 Hun	O
 har	O
 ikke	O
@@ -7498,27 +5131,6 @@ Dette	O
 er	O
 ikke	O
 problemløst	O
-.	O
-
-Men	O
-det	O
-var	O
-nu	O
-for	O
-at	O
-lave	O
-en	O
-aftale	O
-med	O
-en	O
-veninde	O
-om	O
-,	O
-at	O
-de	O
-skulle	O
-på	O
-diskotek	O
 .	O
 
 Model	O
@@ -7566,75 +5178,9 @@ fine	O
 igen	O
 .	O
 
-Vi	O
-gik	O
-ind	O
-i	O
-Bimo	B-ORG
-,	O
-Bishah	B-LOC
-smarteste	O
-modeforretning	O
-.	O
-
 ILD	O
 I	O
 TRABANTER	O
-
-Det	O
-er	O
-hans	O
-første	O
-arbejde	O
-i	O
-sølv	O
-.	O
-
-"	O
-Spar	O
-os	O
-for	O
-mere	O
-nytteløs	O
-snak	O
-,	O
-"	O
-bad	O
-Nahid	B-PER
-Yadav	I-PER
-,	O
-en	O
-af	O
-Zonguldak	B-LOC
-mest	O
-respekterede	O
-journalister	O
-,	O
-i	O
-en	O
-kommentar	O
-i	O
-avisen	O
-Aster	B-ORG
-DM	I-ORG
-Healthcare	I-ORG
-mandag	O
-.	O
-
-Hun	O
-havde	O
-mærket	O
-et	O
-lille	O
-liv	O
-sparke	O
-i	O
-maven	O
-og	O
-kunne	O
-ikke	O
-andet	O
-.	O
 
 Nu	O
 kan	O
@@ -7651,18 +5197,6 @@ panden	O
 og	O
 rør	O
 rundt	O
-.	O
-
-Køerne	O
-er	O
-så	O
-lange	O
-,	O
-at	O
-mange	O
-er	O
-gået	O
-igen	O
 .	O
 
 Nogenlunde	O
@@ -7689,7 +5223,7 @@ at	O
 overgrebene	O
 inde	O
 i	O
-Kairo	B-LOC
+Damanhur	B-LOC
 var	O
 intensiveret	O
 .	O
@@ -7704,55 +5238,13 @@ deres	O
 triumf	O
 .	O
 
-Al-Mustaqbal	B-ORG
-"	O
-Gold	O
-"	O
-har	O
-været	O
-massivt	O
-annonceret	O
-på	O
-tv	O
-,	O
-ligesom	O
-al-Jamahiriyah	B-ORG
-og	O
-andre	O
-"	O
-greatest	O
-hits	O
-"	O
-bliver	O
-det	O
-.	O
-
-Det	O
-sker	O
-gennem	O
-såkaldte	O
-Zain	B-ORG
-KSA	I-ORG
-,	O
-hvorigennem	O
-bankerne	O
-kan	O
-trække	O
-på	O
-danske	O
-eksperter	O
-til	O
-deres	O
-forberedelsesmissioner	O
-.	O
-
 I	O
 de	O
 femten	O
 år	O
 siden	O
 "	O
-Habiba	B-PER
+Safiya	B-PER
 "	O
 har	O
 han	O
@@ -7775,23 +5267,6 @@ sønnens	O
 tømrerfirma	O
 .	O
 
-Et	O
-bioteknologisk	O
-selskab	O
-i	O
-Kazerun	B-LOC
-eksperimenterer	O
-med	O
-jordbær-gener	O
-,	O
-der	O
-gør	O
-planterne	O
-usårlige	O
-overfor	O
-frost	O
-.	O
-
 Det	O
 fremvises	O
 med	O
@@ -7811,24 +5286,6 @@ af	O
 hende	O
 .	O
 
-Usman	B-PER
-er	O
-sprunget	O
-fra	O
-lyrikken	O
-til	O
-dramaet	O
-og	O
-prøver	O
-også	O
-kræfter	O
-med	O
-Radioteatret	O
-for	O
-første	O
-gang	O
-.	O
-
 MEDARB	O
 =	O
 psp	O
@@ -7842,39 +5299,6 @@ snart	O
 .	O
 
 Båltale	O
-
-For	O
-nogle	O
-er	O
-"	O
-det	O
-nye	O
-"	O
-kommet	O
-ganske	O
-uventet	O
-,	O
-for	O
-andre	O
-som	O
-en	O
-logisk	O
-konsekvens	O
-af	O
-en	O
-af	O
-vor	O
-tids	O
-største	O
-brølere	O
-,	O
-når	O
-det	O
-drejer	O
-sig	O
-om	O
-yngelpleje	O
-.	O
 
 PÅ	O
 de	O
@@ -7890,41 +5314,6 @@ uddannelsens	O
 start	O
 .	O
 
-Inden	O
-hun	O
-gik	O
-ud	O
-,	O
-sagde	O
-hun	O
-:	O
--	O
-Jeg	O
-kommer	O
-tilbage	O
-om	O
-et	O
-øjeblik	O
-,	O
-men	O
-det	O
-bliver	O
-ikke	O
-alene	O
-.	O
-
-Fakta	O
-om	O
-Seat	B-MISC
-Toledo	I-MISC
-2,0	O
-GLX	O
-OPBYGNING	O
-:	O
-4/5-personers	O
-sedan	O
-.	O
-
 "	O
 I	O
 er	O
@@ -7938,30 +5327,6 @@ folkelig	O
 og	O
 kulturel	O
 enhed	O
-.	O
-
-"	O
-Det	O
-tog	O
-mig	O
-syv	O
-år	O
-at	O
-få	O
-tingene	O
-på	O
-ret	O
-køl	O
-,	O
-efter	O
-jeg	O
-forlod	O
-beIN	B-ORG
-SPORTS	I-ORG
-første	O
-gang	O
-i	O
-1973	O
 .	O
 
 Dybdearbejdning	O
@@ -7994,13 +5359,6 @@ på	O
 .	O
 
 "	O
-Folk	O
-har	O
-været	O
-søde	O
-.	O
-
-"	O
 Men	O
 du	O
 kan	O
@@ -8024,31 +5382,6 @@ dansk	O
 .	O
 "	O
 
-Havde	O
-hun	O
-været	O
-en	O
-lille	O
-,	O
-naiv	O
-drømmer	O
-,	O
-som	O
-det	O
-for	O
-én	O
-,	O
-der	O
-var	O
-klogere	O
-,	O
-havde	O
-været	O
-let	O
-at	O
-narre	O
-?	O
-
 Og	O
 han	O
 har	O
@@ -8064,23 +5397,12 @@ når	O
 han	O
 og	O
 kæresten	O
-Kassem	B-PER
-Abdel sada	I-PER
+Heba	B-PER
+Rahlah	I-PER
 til	O
 marts	O
 bliver	O
 forældre	O
-.	O
-
-Den	O
-fantastiske	O
-stemning	O
-var	O
-med	O
-til	O
-at	O
-motivere	O
-os	O
 .	O
 
 Grænsen	O
@@ -8163,28 +5485,10 @@ et	O
 tæt	O
 samarbejde	O
 med	O
-Americana	B-ORG
-Restaurants	I-ORG
+Al	B-ORG
+Eqtisadiah	I-ORG
 på	O
-Sinah	B-LOC
-.	O
-
-Der	O
-skete	O
-altid	O
-noget	O
-,	O
-og	O
-så	O
-var	O
-de	O
-sammen	O
-igen	O
-,	O
-men	O
-ikke	O
-denne	O
-gang	O
+Qalyub	B-LOC
 .	O
 
 For	O
@@ -8197,49 +5501,6 @@ købemani	O
 er	O
 kreditten	O
 kort	O
-.	O
-
-"	O
-Moderne	O
-dans	O
-er	O
-efterhånden	O
-et	O
-ret	O
-begrænset	O
-udtryk	O
-,	O
-som	O
-hele	O
-tiden	O
-truer	O
-med	O
-at	O
-lukke	O
-sig	O
-om	O
-sin	O
-egen	O
-æstetik	O
-,	O
-og	O
-derfor	O
-prøver	O
-jeg	O
-at	O
-finde	O
-noget	O
-,	O
-der	O
-kan	O
-fusionere	O
-med	O
-dansen	O
-og	O
-tilføre	O
-den	O
-noget	O
-liv	O
 .	O
 
 Så	O
@@ -8320,93 +5581,9 @@ kr.	O
 væk	O
 .	O
 
-Ala	B-PER
-satsede	O
-aggressivt	O
-på	O
-udgang	O
-og	O
-viste	O
-med	O
-3	O
-sp	O
-sit	O
-gode	O
-hold	O
-.	O
-
-Menneskenes	O
-børn	O
-er	O
-nu	O
-engang	O
-såre	O
-forskellige	O
-,	O
-og	O
-den	O
-boglige	O
-trang	O
-,	O
-(	O
-som	O
-Hasina	B-PER
-er	O
-besjælet	O
-af	O
-)	O
-,	O
-er	O
-i	O
-dag	O
-ikke	O
-så	O
-almindelig	O
-,	O
-som	O
-f.eks.	O
-for	O
-20	O
-år	O
-siden	O
-.	O
-
--	O
-Og	O
-i	O
-midten	O
-af	O
-juli	O
-åbnede	O
-jeg	O
-forretningen	O
-på	O
-campingpladsen	O
-ved	O
-Ash	B-LOC
-Shafa	I-LOC
-.	O
-
-Dvs.	O
-der	O
-i	O
-1980'erne	O
-bevidst	O
-er	O
-overført	O
-opsparing	O
-fra	O
-tidligere	O
-tiders	O
-investeringer	O
-til	O
-nye	O
-pensionsopsparere	O
-.	O
-
 TVANGSAKKORD	O
 
-Hasan	B-PER
+Salman	B-PER
 ,	O
 lige	O
 et	O
@@ -8417,43 +5594,8 @@ dansk	O
 journalist	O
 ?	O
 
-Hvordan	O
-mon	O
-hun	O
-havde	O
-det	O
-nu	O
-?	O
-
 §	O
 101	O
-
-NATO-landenes	O
-forsvarsministre	O
-beslutter	O
-i	O
-dag	O
-og	O
-i	O
-morgen	O
-at	O
-fjerne	O
-tre	O
-fjerdedel	O
-af	O
-de	O
-taktiske	O
-og	O
-kortrækkende	O
-kernevåben	O
-,	O
-som	O
-alliancen	O
-råder	O
-over	O
-i	O
-dag	O
-.	O
 
 Men	O
 for	O
@@ -8480,32 +5622,7 @@ og	O
 sidste	O
 .	O
 
-"	O
-Aldar	B-ORG
-Properties	I-ORG
-har	O
-ændret	O
-sig	O
-så	O
-meget	O
-de	O
-seneste	O
-år	O
-,	O
-at	O
-vi	O
-faktisk	O
-ikke	O
-har	O
-noget	O
-sammenligningsgrundlag	O
-,	O
-"	O
-siger	O
-han	O
-.	O
-
-Zuhra	B-PER
+Samir	B-PER
 sagde	O
 ,	O
 at	O
@@ -8536,7 +5653,7 @@ på	O
 konflikten	O
 .	O
 
-Fahad	B-PER
+Sabri	B-PER
 satte	O
 efter	O
 sammenstøddet	O
@@ -8561,7 +5678,7 @@ TOOLO	B-MISC
 Det	O
 amerikanske	O
 firma	O
-Al-Intiqad	B-ORG
+Wanasah	B-ORG
 eksperimenterer	O
 med	O
 solsikkefrø	O
@@ -8582,9 +5699,6 @@ plastic	O
 og	O
 nylon	O
 .	O
-
-Ingen	O
-sammenhæng	O
 
 På	O
 lørdag	O
@@ -8644,16 +5758,8 @@ smuk	O
 tradition	O
 .	O
 
-Alle	O
-er	O
-klædt	O
-om	O
-til	O
-middagen	O
-.	O
-
 -	O
-Fadila	B-PER
+Kamran	B-PER
 mødte	O
 jeg	O
 tilfældigt	O
@@ -8661,23 +5767,6 @@ på	O
 en	O
 café	O
 .	O
-
-Så	O
-ville	O
-jeg	O
-personligt	O
-aflive	O
-ham	O
-,	O
-"	O
-sagde	O
-Afrah	B-PER
-Albawaina	I-PER
-.	O
-
-Skrald	O
-og	O
-post	O
 
 -	O
 Selvfølgelig	O
@@ -8695,36 +5784,14 @@ kæmpegæld	O
 
 BEGYNDTE	O
 MED	O
-Oilibya	B-ORG
-
-Markedsføring	O
-:	O
-forsyning	O
-af	O
-eller	O
-stillen	O
-til	O
-rådighed	O
-for	O
-tredjemand	O
-med	O
-henblik	O
-på	O
-salg	O
-eller	O
-distribution	O
-med	O
-salg	O
-for	O
-øje	O
-.	O
+Altibbi	B-ORG
 
 Og	O
 så	O
 er	O
 det	O
 jo	O
-Huda	B-PER
+Ehsan	B-PER
 år	O
 i	O
 år	O
@@ -8747,7 +5814,7 @@ vildt	O
 forvirret	O
 .	O
 
-Mustapha	B-PER
+Khalida	B-PER
 grå	O
 øjne	O
 lyste	O
@@ -8773,8 +5840,8 @@ alt	O
 for	O
 lidt	O
 på	O
-Gonbad-e	B-LOC
-Kavus	I-LOC
+Al	B-LOC
+Fujayrah	I-LOC
 ,	O
 og	O
 ind	O
@@ -8799,7 +5866,7 @@ af	O
 det	O
 med	O
 Kong	O
-Bader	B-PER
+Jalal	B-PER
 ,	O
 og	O
 derfor	O
@@ -8807,8 +5874,8 @@ hellere	O
 ville	O
 blive	O
 på	O
-Az	B-LOC
-Zubayr	I-LOC
+Khomeyni	B-LOC
+Shahr	I-LOC
 fremfor	O
 at	O
 være	O
@@ -8828,44 +5895,6 @@ Svage	O
 spor	O
 af	O
 smerte	O
-
-Nariman	B-PER
-bekræfter	O
-,	O
-at	O
-han	O
-sidste	O
-år	O
-i	O
-september	O
-indgik	O
-en	O
-aftale	O
-med	O
-en	O
-italiener	O
-,	O
-Mikail	B-PER
-Albawaly	I-PER
-,	O
-og	O
-en	O
-nigeriansk	O
-forretningsmand	O
-om	O
-at	O
-oplagre	O
-gifttønderne	O
-for	O
-500	O
-naira	O
-(	O
-650	O
-kr.	O
-)	O
-om	O
-måneden	O
-.	O
 
 Produkt	O
 :	O
@@ -8902,7 +5931,7 @@ Udsigt	O
 nedover	O
 svømmepølen	O
 og	O
-Samsun	B-LOC
+Samarra	B-LOC
 mod	O
 "	O
 De	O
@@ -8919,22 +5948,22 @@ omtalt	O
 som	O
 oil	O
 wealthy	O
-Nasser	B-PER
-Chaudhry	I-PER
+Saman	B-PER
+Mughal	I-PER
 ,	O
 som	O
 Texan	O
 society	O
 princess	O
-Malak	B-PER
-Nadeem	I-PER
+Sakina	B-PER
+Alairayshiah	I-PER
 .	O
 
 Den	O
 havde	O
 nemlig	O
 efter	O
-Massaya	B-ORG
+Mathaqi	B-ORG
 opfattelse	O
 fejl	O
 og	O
@@ -8980,26 +6009,6 @@ dette	O
 klima	O
 .	O
 
-Penge	O
-,	O
-som	O
-er	O
-investeret	O
-,	O
-og	O
-som	O
-den	O
-uheldige	O
-spiller	O
-ikke	O
-håber	O
-at	O
-røre	O
-de	O
-kommende	O
-år	O
-.	O
-
 Han	O
 har	O
 i	O
@@ -9020,62 +6029,16 @@ deres	O
 mor	O
 .	O
 
-7	O
-.	O
-
 Det	O
 kan	O
-Tarik	B-PER
+Malaika	B-PER
 skriver	O
 under	O
 på	O
 
-Eller	O
-var	O
-det	O
-bare	O
-nysgerrighed	O
-efter	O
-at	O
-betragte	O
-,	O
-beglo	O
-?	O
-
-Men	O
-du	O
-har	O
-altså	O
-aldrig	O
-været	O
-rigtig	O
-,	O
-for	O
-alvor	O
-,	O
-forelsket	O
-?	O
-
-Hun	O
-boede	O
-i	O
-den	O
-anden	O
-ende	O
-af	O
-landsbyden	O
-.	O
-
 Ugens	O
 bedste	O
 idé	O
-
-På	O
-vagt	O
-foran	O
-Khomeyni	B-LOC
-Shahr	I-LOC
-.	O
 
 De	O
 skal	O
@@ -9085,62 +6048,6 @@ lige	O
 dele	O
 i	O
 kosten	O
-.	O
-
-Bushra	B-PER
-Ashour	I-PER
-blev	O
-anholdt	O
-og	O
-forhørt	O
-14	O
-timer	O
-senere	O
-.	O
-
-Ziba	B-PER
-er	O
-utrolig	O
-til	O
-at	O
-udtrykke	O
-sig	O
-med	O
-sin	O
-musik	O
-.	O
-
-En	O
-ubehagelig	O
-kemisk	O
-lugt	O
-har	O
-bredt	O
-sig	O
-,	O
-men	O
-Saleh	B-PER
-og	O
-de	O
-af	O
-hans	O
-24	O
-børn	O
-,	O
-som	O
-stadig	O
-bor	O
-hjemme	O
-,	O
-siger	O
-,	O
-at	O
-de	O
-har	O
-vænnet	O
-sig	O
-til	O
-det	O
 .	O
 
 -	O
@@ -9154,25 +6061,6 @@ tør	O
 og	O
 knirkende	O
 stemme	O
-.	O
-
-Lav	O
-dernæst	O
-en	O
-forsøgsrække	O
-,	O
-der	O
-kan	O
-afsløre	O
-hvilke	O
-ting	O
-,	O
-der	O
-har	O
-indflydelse	O
-på	O
-magnetfelters	O
-styrke	O
 .	O
 
 Af	O
@@ -9191,7 +6079,7 @@ præsidentrådet	O
 
 Han	O
 omtaler	O
-Mohamed	B-PER
+Yusra	B-PER
 som	O
 en	O
 af	O
@@ -9212,25 +6100,9 @@ stadig	O
 væk	O
 .	O
 
-Netop	O
-som	O
-han	O
-kom	O
-ud	O
-i	O
-det	O
-fri	O
-ramtes	O
-han	O
-af	O
-noget	O
-fra	O
-oven	O
-.	O
-
 Museet	O
 i	O
-Ümraniye	B-LOC
+Zahle	B-LOC
 ,	O
 et	O
 slags	O
@@ -9241,8 +6113,8 @@ skulle	O
 bekrive	O
 afdøde	O
 præsident	O
-Hana	B-PER
-Fayad	I-PER
+Aya	B-PER
+Alaidhayqi	I-PER
 og	O
 hans	O
 hustrus	O
@@ -9331,7 +6203,7 @@ internationale	O
 told-og	O
 handelsaftale-koordinators	O
 ,	O
-Cevital	B-ORG
+PSLab	B-ORG
 ,	O
 årsberetning	O
 illustrerer	O
@@ -9368,29 +6240,6 @@ for	O
 1992	O
 .	O
 
-Enhver	O
-,	O
-der	O
-har	O
-forsøgt	O
-at	O
-gennemføre	O
-en	O
-samtale	O
-i	O
-lastrummet	O
-på	O
-sådan	O
-en	O
-tyksak	O
-af	O
-et	O
-fly	O
-,	O
-kender	O
-betingelserne	O
-.	O
-
 Der	O
 findes	O
 to	O
@@ -9400,25 +6249,13 @@ på	O
 markedet	O
 .	O
 
-I	O
-sin	O
-første	O
-sæson	O
-for	O
-Deyaar	B-ORG
-scorede	O
-Jamilla	B-PER
-15	O
-mål	O
-.	O
-
 Fem	O
 hundrede	O
 meter	O
 fra	O
 hjemmet	O
 blev	O
-Maher	B-PER
+Nadiya	B-PER
 ramt	O
 bagfra	O
 af	O
@@ -9430,59 +6267,6 @@ en	O
 30-årig	O
 kvindelig	O
 bilist	O
-.	O
-
-Han	O
-elsker	O
-julen	O
-og	O
-fejrer	O
-den	O
-i	O
-sit	O
-hjem	O
-lige	O
-til	O
-Hellig	B-MISC
-Tre	I-MISC
-Konger	I-MISC
-,	O
-hvor	O
-han	O
-slutter	O
-højtiden	O
-med	O
-at	O
-tænde	O
-tre	O
-lys	O
-og	O
-en	O
-sidste	O
-gang	O
-glæder	O
-sig	O
-over	O
-de	O
-nisseskarer	O
-,	O
-som	O
-pynter	O
-i	O
-sofaer	O
-og	O
-stole	O
-,	O
-på	O
-borde	O
-,	O
-reoler	O
-,	O
-i	O
-vindueskarme	O
-og	O
-på	O
-gulvet	O
 .	O
 
 Bunden	O
@@ -9609,7 +6393,7 @@ der	O
 enslydende	O
 fortalte	O
 om	O
-Munira	B-PER
+Zakia	B-PER
 særlige	O
 ansættelsesvilkår	O
 .	O
@@ -9618,10 +6402,7 @@ Forbudt	O
 at	O
 demonstrere	O
 
-Mod	O
-impotens	O
-
-TGCC	B-ORG
+Saudia	B-ORG
 afvises	O
 af	O
 de	O
@@ -9629,20 +6410,6 @@ fleste	O
 andre	O
 politiske	O
 bevægelser	O
-.	O
-
-Bin	B-PER
-Juma	I-PER
-12-årige	O
-søn	O
-Abdi	B-PER
-blev	O
-også	O
-dræbt	O
-af	O
-den	O
-sadistiske	O
-skolelærer	O
 .	O
 
 Hoteldøren	O
@@ -9675,7 +6442,7 @@ at	O
 en	O
 trend-katalysator	O
 som	O
-Fadia	B-PER
+Amal	B-PER
 kunne	O
 give	O
 tendensen	O
@@ -9684,74 +6451,6 @@ navn	O
 mæle	O
 og	O
 underhold	O
-.	O
-
-For	O
-begærer	O
-man	O
-kendskab	O
-til	O
-menneskesindets	O
-udtryksmangfoldighed	O
-,	O
-dets	O
-ydre	O
-tilkendegivelsers	O
-muligheder	O
-og	O
-ytringers	O
-facettering	O
-,	O
-og	O
-ønsker	O
-man	O
-indsigt	O
-i	O
-den	O
-menneskelige	O
-oplevelsesverdens	O
-rigdom	O
-,	O
-stemningernes	O
-udsving	O
-og	O
-følelsernes	O
-inderlighed	O
-,	O
-fantasilivets	O
-grænseløshed	O
-og	O
-sanseillusionernes	O
-mangfoldighed	O
--	O
-da	O
-er	O
-det	O
-blandt	O
-dem	O
-,	O
-der	O
-bærer	O
-afsindets	O
-mærke	O
-,	O
-man	O
-skal	O
-lede	O
-for	O
-at	O
-finde	O
-,	O
-hvad	O
-man	O
-søger	O
-;	O
-såre	O
-langt	O
-fra	O
-de	O
-besindiges	O
-kreds	O
 .	O
 
 Ministererklæringen	O
@@ -9778,51 +6477,6 @@ og	O
 bistandsorganisationer	O
 .	O
 
-Han	O
-har	O
-ved	O
-flere	O
-lejligheder	O
-understreget	O
-,	O
-at	O
-selskabet	O
-er	O
-økonomisk	O
-sundt	O
-,	O
-og	O
-at	O
-han	O
-er	O
-formuende	O
-.	O
-
-Et	O
-nyhedsmagasin	O
-fandt	O
-ud	O
-af	O
-,	O
-at	O
-Zaid	B-PER
-Albyati	I-PER
-allerede	O
-to	O
-timer	O
-efter	O
-den	O
-påståede	O
-risiko-fødsel	O
-på	O
-parkeringspladsen	O
-befandt	O
-sig	O
-i	O
-sin	O
-lejlighed	O
-.	O
-
 Det	O
 første	O
 skridt	O
@@ -9837,92 +6491,12 @@ før	O
 pinse	O
 .	O
 
-Hver	O
-scene	O
-er	O
-bygget	O
-op	O
-i	O
-et	O
-atelier	O
-for	O
-at	O
-få	O
-den	O
-helt	O
-præcis	O
-,	O
-"	O
-fortæller	O
-instruktøren	O
-,	O
-der	O
-er	O
-perfektionist	O
-,	O
-hvad	O
-angår	O
-komposition	O
-og	O
-udsagnskraft	O
-i	O
-hvert	O
-billede	O
-.	O
-
-Forholdene	O
-var	O
-grufulde	O
-i	O
-Al-Bilad	B-ORG
-eneste	O
-lukkede	O
-børnefængsel	O
-,	O
-som	O
-lå	O
-i	O
-Semnan	B-LOC
-ved	O
-Afyonkarahisar	B-LOC
-.	O
-
-Men	O
-min	O
-holdning	O
-er	O
-,	O
-at	O
-det	O
-vil	O
-være	O
-langt	O
-mere	O
-effektivt	O
-,	O
-hvis	O
-lægerne	O
-offentligt	O
-erklærer	O
-,	O
-at	O
-de	O
-vil	O
-bryde	O
-tavshedspligten	O
-,	O
-"	O
-siger	O
-Faisa	B-PER
-El sherif	I-PER
-.	O
-
 Han	O
 fik	O
 hurtigt	O
 tag	O
 i	O
-Al-Wehda	B-ORG
+Al-Thawra	B-ORG
 og	O
 lærte	O
 ,	O
@@ -9941,7 +6515,7 @@ spare	O
 bilen	O
 .	O
 
-Walid	B-PER
+Sonya	B-PER
 på	O
 35	O
 bor	O
@@ -9956,9 +6530,9 @@ overlevende	O
 familiemedlemmer	O
 .	O
 
-Houda	B-PER
-Jarallah	I-PER
-Siwar	I-PER
+Hashim	B-PER
+Al aqrabawi	I-PER
+Marza	I-PER
 i	O
 afslappet	O
 påklædning	O
@@ -10014,12 +6588,12 @@ i	O
 fast	O
 rutefart	O
 mellem	O
-Rasht	B-LOC
+Neyshabur	B-LOC
 og	O
 hovedstaden	O
-Silifke	B-LOC
+Abha	B-LOC
 i	O
-Tyre	B-LOC
+As-Salt	B-LOC
 .	O
 
 Beløbet	O
@@ -10039,7 +6613,7 @@ når	O
 man	O
 skuer	O
 over	O
-SNRT	B-ORG
+Wasla	B-ORG
 igangværende	O
 satsninger	O
 .	O
@@ -10094,8 +6668,8 @@ Jeg	O
 er	O
 ansat	O
 i	O
-Amanat	B-ORG
-Holdings	I-ORG
+Al	B-ORG
+Massar	I-ORG
 ,	O
 og	O
 jeg	O
@@ -10108,114 +6682,21 @@ skovskole	O
 Ingen	O
 redninger	O
 
-Mounira	B-PER
-Roy	I-PER
+Rani	B-PER
+Alairayai	I-PER
 -	O
 glad	O
 for	O
 sko	O
-
-Hun	O
-undrer	O
-sig	O
-over	O
-,	O
-hvor	O
-den	O
-kraft	O
-kommer	O
-fra	O
-,	O
-der	O
-gør	O
-hende	O
-i	O
-stand	O
-til	O
-at	O
-vælte	O
-ham	O
-om	O
-på	O
-gulvet	O
-og	O
-slå	O
-løs	O
-på	O
-ham	O
-med	O
-knyttede	O
-hænder	O
-.	O
-
-"	O
-Åh	O
-snak	O
-,	O
-"	O
-sagde	O
-hun	O
-,	O
-"	O
-vi	O
-har	O
-da	O
-haft	O
-patienter	O
-på	O
-90	O
-der	O
-uden	O
-besvær	O
-selv	O
-har	O
-kunnet	O
-tage	O
-den	O
-i	O
-øret	O
-.	O
-"	O
-
-"	O
-Alle	O
-,	O
-der	O
-har	O
-været	O
-så	O
-tæt	O
-på	O
-branden	O
-,	O
-at	O
-de	O
-har	O
-kunnet	O
-fornemme	O
-lugten	O
-,	O
-risikerer	O
-inden	O
-for	O
-24	O
-timer	O
-at	O
-pådrage	O
-sig	O
-væske	O
-i	O
-lungerne	O
-.	O
 
 Den	O
 er	O
 indstiftet	O
 af	O
 fagbladet	O
-solutions	B-ORG
-by	I-ORG
-stc	I-ORG
+ibTECHar	B-ORG
+Digital	I-ORG
+Solutions	I-ORG
 i	O
 1984	O
 og	O
@@ -10342,7 +6823,7 @@ en	O
 SW	O
 SE	O
 ,	O
-Empower	B-ORG
+Kezad	B-ORG
 nyeste	O
 bud	O
 i	O
@@ -10357,36 +6838,6 @@ vinde	O
 terræn	O
 .	O
 
-Og	O
-i	O
-hvert	O
-fald	O
-kan	O
-vi	O
-ikke	O
-måle	O
-kvaliteten	O
-af	O
-vore	O
-dages	O
-barndom	O
-ud	O
-fra	O
-de	O
-normer	O
-,	O
-der	O
-gjaldt	O
-dengang	O
-,	O
-vi	O
-selv	O
-var	O
-børn	O
-.	O
-
-Karavane	O
-
 Skal	O
 man	O
 tro	O
@@ -10400,9 +6851,6 @@ vist	O
 år	O
 yngre	O
 ud	O
-.	O
-
-1	O
 .	O
 
 "	O
@@ -10424,16 +6872,14 @@ i	O
 vandet	O
 .	O
 
-Levestandarden	O
-
 Og	O
 i	O
 de	O
 kredse	O
 ,	O
 hvor	O
-Ayoub	B-PER
-Al huimel	I-PER
+Israa	B-PER
+Ghanem	I-PER
 færdes	O
 ,	O
 gælder	O
@@ -10445,17 +6891,6 @@ om	O
 at	O
 se	O
 ud	O
-.	O
-
-Overgangssummen	O
-på	O
-1,3	O
-mill.	O
-franc	O
-reddede	O
-Alshaya	B-ORG
-fra	O
-konkurs	O
 .	O
 
 Man	O
@@ -10482,47 +6917,15 @@ brugsret	O
 til	O
 .	O
 
-For	O
-fuldstændighedens	O
-skyld	O
-skal	O
-lige	O
-nævnes	O
-,	O
-at	O
-omtalte	O
-gade	O
-er	O
-en	O
-gågade	O
-,	O
-der	O
-hovedsagelig	O
-besøges	O
-af	O
-personer	O
-der	O
-har	O
-interesse	O
-i	O
-antikviteter	O
-,	O
-altså	O
-et	O
-meget	O
-begrænset	O
-klientel	O
-.	O
-
 Emballagesektoren	O
 volder	O
-Mo’men	B-ORG
+Adwya	B-ORG
 betydelige	O
 problemer	O
 .	O
 
 I	O
-Naziha	B-PER
+Husam	B-PER
 hovedbund	O
 er	O
 såret	O
@@ -10534,17 +6937,6 @@ allerede	O
 ved	O
 at	O
 læges	O
-.	O
-
-Sygdomme	O
-som	O
-fåresyge	B-MISC
-eller	O
-gonorré	B-MISC
-giver	O
-smerter	O
-i	O
-stenene	O
 .	O
 
 Det	O
@@ -10603,7 +6995,7 @@ også	O
 for	O
 at	O
 forarge	O
-Madiha	B-PER
+Talal	B-PER
 .	O
 
 Han	O
@@ -10642,9 +7034,9 @@ rigtige	O
 stil	O
 .	O
 
-Jasmina	B-PER
-Al fayoumi	I-PER
-Souaha	I-PER
+Mahdi	B-PER
+Abdel rahman	I-PER
+Kanaan	I-PER
 ,	O
 af	O
 mange	O
@@ -10663,10 +7055,6 @@ hvad	O
 der	O
 venter	O
 .	O
-
-Familieudbrud	O
-mest	O
-almindelige	O
 
 Med	O
 andre	O
@@ -10765,16 +7153,6 @@ uddanner	O
 sig	O
 .	O
 
-Hvordan	O
-er	O
-det	O
-så	O
-egentlig	O
-med	O
-os	O
-selv	O
-.	O
-
 Kun	O
 30	O
 af	O
@@ -10799,7 +7177,7 @@ meget	O
 nære	O
 forhold	O
 til	O
-Ashabiba	B-ORG
+e&	B-ORG
 ,	O
 er	O
 det	O
@@ -10830,9 +7208,9 @@ serverer	O
 også	O
 hos	O
 bakkerestauratør	O
-Shoaib	B-PER
-Ba Baiyr	I-PER
-Al saadi	I-PER
+Saliha	B-PER
+Elaiouaini	I-PER
+Fuqaha	I-PER
 ,	O
 og	O
 de	O
@@ -10870,7 +7248,7 @@ først	O
 og	O
 fremmest	O
 kritiserede	O
-Shihan	B-ORG
+Al-Thawra	B-ORG
 fortsatte	O
 engagement	O
 i	O
@@ -10883,32 +7261,6 @@ forfulgte	O
 halvdelen	O
 af	O
 befolkningen	O
-.	O
-
-Ünye	B-LOC
-nyvalgte	O
-præsident	O
-nyder	O
-normalt	O
-stor	O
-respekt	O
-,	O
-men	O
-Hamza	B-PER
-Al olaimat	I-PER
-Matroud	I-PER
-så	O
-sig	O
-tirsdag	O
-omringet	O
-af	O
-de	O
-myrdede	O
-livvagters	O
-vrede	O
-og	O
-afmægtige	O
-kolleger	O
 .	O
 
 For	O
@@ -10929,9 +7281,9 @@ om	O
 pct.	O
 .	O
 
-Zefta	B-LOC
+Zanjan	B-LOC
 i	O
-Maltepe	B-LOC
+Piranshahr	B-LOC
 .	O
 
 Det	O
@@ -10964,18 +7316,10 @@ religion	O
 påbyder	O
 .	O
 
-Rachid	B-PER
-Sawaida	I-PER
+Tahira	B-PER
+Albahari	I-PER
 ,	O
 1978	O
-
--	O
-Vi	O
-må	O
-mødes	O
-i	O
-aften	O
-.	O
 
 Men	O
 vi	O
@@ -10990,7 +7334,7 @@ miljøet	O
 .	O
 
 Hilsen	O
-Umair	B-PER
+Kamil	B-PER
 .	O
 
 Din	O
@@ -11008,58 +7352,12 @@ til	O
 golfbanen	O
 ?	O
 
-Et	O
-par	O
-kraftige	O
-vandresko	O
-eller	O
-støvler	O
-bør	O
-man	O
-derfor	O
-have	O
-.	O
-
-Forbruget	O
-af	O
-lægemidler	O
-som	O
-Kodimagnyl	B-MISC
-,	O
-Treo	B-MISC
-,	O
-Panodil	B-MISC
-og	O
-Pamol	B-MISC
-er	O
-nu	O
-så	O
-stort	O
-,	O
-at	O
-det	O
-svarer	O
-til	O
-,	O
-at	O
-hver	O
-dansker	O
-årligt	O
-i	O
-hele	O
-sin	O
-levetid	O
-indtager	O
-160	O
-piller	O
-.	O
-
 -	O
 Og	O
 hvis	O
 nu	O
 også	O
-Rahima	B-PER
+Farhan	B-PER
 er	O
 forrykt	O
 nok	O
@@ -11073,8 +7371,8 @@ uddannet	O
 til	O
 linjeofficer	O
 ved	O
-Filasteen	B-ORG
-al-Muslimah	I-ORG
+Americana	B-ORG
+Restaurants	I-ORG
 fortsatte	O
 han	O
 på	O
@@ -11089,73 +7387,6 @@ og	O
 flyinstruktør	O
 .	O
 
-Det	O
-perspektiv	O
-kommer	O
-forståeligt	O
-nok	O
-endnu	O
-i	O
-anden	O
-række	O
-for	O
-de	O
-partisaner	O
-,	O
-der	O
-ser	O
-forbundshæren	O
-som	O
-et	O
-utåleligt	O
-levn	O
-efter	O
-det	O
-regime	O
-,	O
-der	O
-i	O
-generationer	O
-har	O
-stået	O
-for	O
-serbisk	O
-undertrykkelse	O
-af	O
-de	O
-andre	O
-jugoslaviske	O
-folkegruppers	O
-nationale	O
-selvstændighed	O
-.	O
-
-Landet	O
-som	O
-helhed	O
-satser	O
-hverken	O
-på	O
-uddannelse	O
-eller	O
-industrifremme	O
-af	O
-rumfartsteknologi	O
-og	O
-derfor	O
-har	O
-danske	O
-virksomheder	O
-svært	O
-ved	O
-at	O
-trænge	O
-ind	O
-i	O
-denne	O
-branche	O
-.	O
-
 Men	O
 den	O
 form	O
@@ -11164,35 +7395,6 @@ presfodbold	O
 kræver	O
 kræfter	O
 .	O
-
-I	O
-løbet	O
-af	O
-firserne	O
-fik	O
-naturvidenskaben	O
-sig	O
-et	O
-andet	O
-og	O
-mere	O
-positivt	O
-image	O
-,	O
-nemlig	O
-som	O
-leverandør	O
-af	O
-svar	O
-på	O
-de	O
-store	O
-spørgsmål	O
-:	O
-Hvornår	O
-begyndte	O
-universet	O
-?	O
 
 Hver	O
 fredag	O
@@ -11235,84 +7437,10 @@ halvkg	O
 krabat	O
 .	O
 
-t-boret20	O
-
-Ved	O
-VM	O
-i	O
-Sultangazi	B-LOC
-scorede	O
-han	O
-to	O
-mål	O
-,	O
-det	O
-ene	O
-i	O
-bronzekampen	O
-mod	O
-Alwasat	B-ORG
-.	O
-
-Ifølge	O
-en	O
-officiel	O
-rapport	O
-fra	O
-bystyret	O
-var	O
-tilstandene	O
-i	O
-fængslet	O
-betydeligt	O
-værre	O
-end	O
-i	O
-normale	O
-DDR-fængsler	O
-for	O
-voksne	O
-.	O
-
-Deltager	O
-De	O
-også	O
-i	O
-"	O
-Ugens	O
-Overraskelse	O
-"	O
-på	O
-side	O
-47	O
-,	O
-så	O
-kommer	O
-De	O
-blot	O
-kuponen	O
-i	O
-én	O
-kuvert	O
-mærket	O
-"	O
-Ugens	O
-Overraskelse	O
--	O
-uge	O
-47	O
-"	O
-og	O
-"	O
-DUPLO	B-MISC
-legetøj	O
-"	O
-.	O
-
 Sådan	O
 noget	O
 kan	O
-Hanaa	B-PER
+Dalal	B-PER
 skrive	O
 ,	O
 så	O
@@ -11386,10 +7514,6 @@ Egenvægt	O
 kg.	O
 .	O
 
-Varmt	O
-indenfor	O
-.	O
-
 Bilerne	O
 dækkes	O
 med	O
@@ -11404,7 +7528,7 @@ før	O
 ,	O
 de	O
 tog	O
-Arwa	B-PER
+Nasreen	B-PER
 i	O
 hovedet	O
 og	O
@@ -11438,10 +7562,6 @@ pladsbillet	O
 Fig.	O
 9.10	O
 
--	O
-Selvfølgelig	O
-.	O
-
 Der	O
 var	O
 mange	O
@@ -11454,19 +7574,19 @@ hold	O
 ,	O
 udsat	O
 af	O
-DEN	B-ORG
-DANSKE	I-ORG
-BANK	I-ORG
-Al-Kifah	B-ORG
-al-Arabi	I-ORG
+Islamic	B-ORG
+Relief	I-ORG
+Worldwide	I-ORG
 Emaar	B-ORG
-Development	I-ORG
-Inagrab	B-ORG
-Al-Arab	B-ORG
-Al-Yawm	I-ORG
+Properties	I-ORG
+Akhbar	B-ORG
+Nouakchott	I-ORG
+SNVI	B-ORG
+Balad	B-ORG
+Party	I-ORG
 og	O
-ESSO	B-ORG
-Motorcenter	I-ORG
+AL24	B-ORG
+News	I-ORG
 .	O
 
 Grimme	O
@@ -11533,7 +7653,7 @@ jeg	O
 nej	O
 ,	O
 men	O
-Bayan	B-PER
+Brahim	B-PER
 blev	O
 ved	O
 med	O
@@ -11549,12 +7669,12 @@ er	O
 holdt	O
 uden	O
 for	O
-G42	B-ORG
+QEWC	B-ORG
 regnskab	O
 .	O
 
-Dialog	B-ORG
-Fondene	I-ORG
+Al	B-ORG
+Raya	I-ORG
 sikrer	O
 ,	O
 at	O
@@ -11596,39 +7716,6 @@ for	O
 svar	O
 .	O
 
-Derefter	O
-er	O
-der	O
-igen	O
-en	O
-pause	O
-hvor	O
-Taghrid	B-PER
-rejser	O
-ud	O
-i	O
-verden	O
-.	O
-
-Bagefter	O
-måtte	O
-hun	O
-trøste	O
-hende	O
-længe	O
-,	O
-og	O
-hun	O
-var	O
-ved	O
-at	O
-komme	O
-for	O
-sent	O
-i	O
-skole	O
-.	O
-
 Nogle	O
 kan	O
 få	O
@@ -11639,30 +7726,6 @@ under	O
 stærk	O
 sexuel	O
 ophidselse	O
-.	O
-
-En	O
-anden	O
-gang	O
-vil	O
-jeg	O
-stole	O
-mere	O
-på	O
-lægernes	O
-råd	O
-.	O
-
-Når	O
-kvinden	O
-sidder	O
-"	O
-omvendt	O
-"	O
-på	O
-manden	O
-,	O
-bl.a.	O
 .	O
 
 Det	O
@@ -11691,8 +7754,8 @@ og	O
 her	O
 bad	O
 lektor	O
-Azad	B-PER
-Shams	I-PER
+Selim	B-PER
+Obeidat	I-PER
 om	O
 et	O
 minuts	O
@@ -11722,99 +7785,11 @@ rigtigste	O
 løsning	O
 .	O
 
-På	O
-det	O
-tidspunkt	O
-havde	O
-vi	O
-drukket	O
-gin'en	O
-,	O
-og	O
-vi	O
-var	O
-faktisk	O
-halvfulde	O
-,	O
-da	O
-taxaen	O
-kom	O
-.	O
-
-Og	O
-så	O
-skal	O
-de	O
-ellers	O
-inden	O
-3.	O
-maj	O
-have	O
-udarbejdet	O
-en	O
-ny	O
-standardkontrakt	O
-og	O
-et	O
-andet	O
-transfersystem	O
-til	O
-afløsning	O
-for	O
-det	O
-,	O
-der	O
-blev	O
-vedtaget	O
-på	O
-360VUZ	B-ORG
-repræsentantskabsmøde	O
-,	O
-og	O
-som	O
-spillerne	O
-mener	O
-giver	O
-dem	O
-urimelige	O
-vilkår	O
-.	O
-
 Han	O
 kiggede	O
 nysgerrigt	O
 på	O
 mig	O
-.	O
-
-Det	O
-er	O
-absolut	O
-nødvendigt	O
-med	O
-en	O
-diskussion	O
-om	O
-hovedstadsregionens	O
-styre	O
-,	O
-men	O
-foreløbig	O
-har	O
-bidragene	O
-næsten	O
-til	O
-det	O
-ulidelige	O
-været	O
-domineret	O
-af	O
-uopfindsomhed	O
-og	O
-manglende	O
-vilje	O
-til	O
-fornyelse	O
 .	O
 
 Hun	O
@@ -11856,11 +7831,6 @@ kan	O
 være	O
 .	O
 
-Abbas	B-PER
-Atta	I-PER
-nikkede	O
-.	O
-
 Jeg	O
 burde	O
 se	O
@@ -11892,28 +7862,7 @@ sent	O
 til	O
 maskinen	O
 til	O
-Neyshabur	B-LOC
-.	O
-
-Storkøkkenerne	O
-er	O
-underkastet	O
-levnedsmiddelkontrollens	O
-tilsyn	O
-,	O
-og	O
-der	O
-er	O
-krav	O
-om	O
-køkkenernes	O
-indretning	O
-og	O
-udrustning	O
-og	O
-til	O
-personalets	O
-uddannelse	O
+Aksaray	B-LOC
 .	O
 
 "	O
@@ -11959,7 +7908,7 @@ af	O
 ,	O
 det	O
 var	O
-Hamad	B-PER
+Ghulam	B-PER
 ,	O
 han	O
 havde	O
@@ -11995,7 +7944,7 @@ vide	O
 ,	O
 at	O
 franske	O
-BMMI	B-ORG
+RASCO	B-ORG
 ,	O
 som	O
 vi	O
@@ -12021,7 +7970,7 @@ jo	O
 ,	O
 at	O
 når	O
-Djezzy	B-ORG
+al-Watan	B-ORG
 har	O
 en	O
 slagvare	O
@@ -12049,30 +7998,6 @@ gode	O
 tilbud	O
 .	O
 
-Var	O
-vi	O
-blevet	O
-nummer	O
-fem-seks	O
-stykker	O
-,	O
-så	O
-lad	O
-gå	O
--	O
-osse	O
-selv	O
-om	O
-vi	O
-jo	O
-næsten	O
-troede	O
-,	O
-vi	O
-skulle	O
-vinde	O
-.	O
-
 En	O
 del	O
 mennesker	O
@@ -12083,7 +8008,7 @@ blev	O
 evakueret	O
 fra	O
 byen	O
-Gaziantep	B-LOC
+Gemlik	B-LOC
 ,	O
 var	O
 endnu	O
@@ -12107,27 +8032,8 @@ nu	O
 til	O
 urafstemning	O
 blandt	O
-Al-Horria	B-ORG
+Dabchy	B-ORG
 medlemmer	O
-.	O
-
-Den	O
-anden	O
-bane	O
-,	O
-Ørestadsbanen	B-MISC
-,	O
-skal	O
-gå	O
-langs	O
-Ath	B-LOC
-Thawrah	I-LOC
-og	O
-vest	O
-om	O
-universitet	O
-til	O
-Khobar	B-LOC
 .	O
 
 Hvem	O
@@ -12145,21 +8051,10 @@ en	O
 overraskelse	O
 .	O
 
-Så	O
-nu	O
-sidder	O
-jeg	O
-dèr	O
-og	O
-føler	O
-mig	O
-bedraget	O
-.	O
-
 Opbakningen	O
 om	O
-Mahmood.	B-PER
-El ghany	I-PER
+Najma	B-PER
+Sameer	I-PER
 er	O
 overraskende	O
 og	O
@@ -12205,49 +8100,6 @@ og	O
 muligheder	O
 .	O
 
-Drivkraften	O
-i	O
-dansk	O
-økonomi	O
-er	O
-eksporten	O
-,	O
-og	O
-et	O
-tilbageslag	O
-for	O
-eksporten	O
-har	O
-derfor	O
-store	O
-konsekvenser	O
-for	O
-den	O
-samlede	O
-samfundsøkonomi	O
-,	O
-herunder	O
-ikke	O
-mindst	O
-beskæftigelsen	O
-.	O
-
-Afhængig	O
-af	O
-energi	O
-kan	O
-man	O
-vælge	O
-enten	O
-en	O
-kultivator	O
-med	O
-fem	O
-kløer	O
-eller	O
-tre	O
-.	O
-
 Skoene	O
 er	O
 nemlig	O
@@ -12262,8 +8114,8 @@ forlydender	O
 om	O
 ,	O
 at	O
-Ben	B-PER
-Aldhiayni	I-PER
+Ihsan	B-PER
+Jaber	I-PER
 får	O
 dem	O
 tilbage	O
@@ -12288,9 +8140,9 @@ at	O
 nedlægge	O
 skolerne	O
 i	O
-Söke	B-LOC
+Libanon	B-LOC
 og	O
-Burdur	B-LOC
+Ta'if	B-LOC
 og	O
 sparer	O
 dermed	O
@@ -12317,16 +8169,7 @@ op	O
 igen	O
 .	O
 
-Jamjamal	B-LOC
-blev	O
-ikke	O
-bygget	O
-på	O
-én	O
-dag	O
-.	O
-
-Samra	B-PER
+Muhammed	B-PER
 ...	O
 ja	O
 ...	O
@@ -12345,16 +8188,6 @@ siger	O
 du	O
 ...	O
 ?	O
-
-Eller	O
-prøv	O
-en	O
-sværdfiskbøf	O
-til	O
-20	O
-kr.	O
-stk.	O
-.	O
 
 Men	O
 man	O
@@ -12389,25 +8222,6 @@ dem	O
 alle	O
 .	O
 
-Apropos	O
-udyr	O
-,	O
-så	O
-har	O
-den	O
-engelske	O
-skuespiller	O
-jo	O
-også	O
-fået	O
-bugt	O
-med	O
-sit	O
-eget	O
-,	O
-alkoholen	O
-.	O
-
 De	O
 manglende	O
 indre	O
@@ -12419,48 +8233,6 @@ danskernes	O
 adelsmærke	O
 .	O
 
-Mærk	O
-kuverten	O
-"	O
-Etisalat	B-ORG
-legetøj	O
-"	O
-
-Deres	O
-kroppe	O
-ligger	O
-i	O
-hvert	O
-fald	O
-langt	O
-fra	O
-80'ernes	O
-bøfdrenge	O
-Bibi	B-PER
-"	O
-Wisam	B-PER
-"	O
-Fayez	B-PER
-og	O
-Fatih	B-PER
-Manea	I-PER
-.	O
-
-For	O
-Omer	B-PER
-Siwarayn	I-PER
-,	O
-16	O
-år	O
-,	O
-har	O
-projektet	O
-betydet	O
-noget	O
-helt	O
-specielt	O
-.	O
-
 Hvor	O
 mange	O
 kan	O
@@ -12469,7 +8241,7 @@ lokkes	O
 til	O
 returkamp	O
 i	O
-Disuq	B-LOC
+Ramadi	B-LOC
 til	O
 priser	O
 mellem	O
@@ -12487,7 +8259,7 @@ Den	O
 fredsbevarende	O
 styrke	O
 i	O
-Midyat	B-LOC
+Karabağlar	B-LOC
 har	O
 beskyldt	O
 skibet	O
@@ -12517,21 +8289,13 @@ sidste	O
 øjeblik	O
 .	O
 
-Hvad	O
-er	O
-menneskets	O
-plads	O
-i	O
-evolutionen	O
-?	O
-
-Naia	B-PER
+Fatma	B-PER
 om	O
 racerkøreren	O
-Bünyamin	B-PER
+Asma	B-PER
 :	O
 -	O
-Maha	B-PER
+Safia	B-PER
 er	O
 en	O
 meget	O
@@ -12559,12 +8323,12 @@ er	O
 det	O
 også	O
 med	O
-Erciş	B-LOC
+Faqus	B-LOC
 .	O
 
-Brahim	B-PER
-Adhra	I-PER
-Abou Hechich	I-PER
+Abdullahi	B-PER
+Das	I-PER
+Al falahi	I-PER
 hævder	O
 ,	O
 at	O
@@ -12600,23 +8364,6 @@ bog	O
 .	O
 
 "	O
-Situationen	O
-for	O
-besætningen	O
-skal	O
-tages	O
-meget	O
-alvorligt	O
-.	O
-
-Alle	O
-veje	O
-fører	O
-til	O
-Khorramshahr	B-LOC
-.	O
-
-"	O
 Jeg	O
 så	O
 flyet	O
@@ -12639,46 +8386,6 @@ flade	O
 bygning	O
 .	O
 
-"	O
-På	O
-baggrund	O
-af	O
-pigens	O
-langvarige	O
-ophold	O
-i	O
-hjemmet	O
-finder	O
-forvaltningen	O
-ikke	O
-,	O
-at	O
-der	O
-bør	O
-foretages	O
-videre	O
-i	O
-sagen	O
-,	O
-og	O
-forvaltningen	O
-finder	O
-heller	O
-ikke	O
-,	O
-at	O
-der	O
-er	O
-grundlag	O
-for	O
-en	O
-ophævelse	O
-af	O
-plejeforholdet	O
-nu	O
-.	O
-"	O
-
 Men	O
 rastløsheden	O
 skyldes	O
@@ -12689,21 +8396,6 @@ pressefolk	O
 uden	O
 for	O
 hotellet	O
-.	O
-
-Nu	O
-skal	O
-han	O
-se	O
-sporty	O
-ud	O
-,	O
-uden	O
-at	O
-vælte	O
-rundt	O
-med	O
-muskler	O
 .	O
 
 Tænk	O
@@ -12732,7 +8424,7 @@ en	O
 højderyg	O
 ,	O
 som	O
-Ihab	B-PER
+Bushra	B-PER
 kontrollerede	O
 .	O
 
@@ -12740,12 +8432,12 @@ Flippen	O
 strammer	O
 til	O
 om	O
-Asima	B-PER
+Nazli	B-PER
 hals	O
 .	O
 
 I	O
-Damaskus	B-LOC
+Azadshahr	B-LOC
 skal	O
 vi	O
 bruge	O
@@ -12768,7 +8460,7 @@ tav	O
 jeg	O
 ...	O
 vil	O
-Hamsa	B-PER
+Shahin	B-PER
 og	O
 jeg	O
 ...	O
@@ -12789,10 +8481,6 @@ til	O
 barnevognen	O
 .	O
 
-Især	O
-ældre	O
-rammes	O
-
 Med	O
 en	O
 sær	O
@@ -12812,7 +8500,7 @@ borte	O
 :	O
 "	O
 Nej	O
-Maryam	B-PER
+Mohammad	B-PER
 ,	O
 jeg	O
 tror	O
@@ -12834,7 +8522,7 @@ procent	O
 indoktrinerer	O
 ,	O
 hævdede	O
-Abida	B-PER
+Sheikh	B-PER
 frimodigt	O
 .	O
 
@@ -12883,8 +8571,8 @@ synthesizer	O
 Den	O
 vare	O
 leverer	O
-Daria	B-PER
-Naji	I-PER
+Maha	B-PER
+Basha	I-PER
 ca.	O
 en	O
 gang	O
@@ -12909,108 +8597,8 @@ på	O
 kroner	O
 fra	O
 modstanderen	O
-Zaki	B-PER
-Aldhilaymi	I-PER
-.	O
-
--	O
-Det	O
-er	O
-noget	O
-pjat	O
-,	O
-at	O
-du	O
-tror	O
-,	O
-ingen	O
-bryder	O
-sig	O
-om	O
-dig	O
-,	O
-Malek	B-PER
-!	O
-sagde	O
-Samia	B-PER
-en	O
-dag	O
-,	O
-da	O
-hun	O
-var	O
-hjemme	O
-på	O
-besøg	O
-.	O
-
-I	O
-lang	O
-tid	O
-var	O
-de	O
-atter	O
-tavse	O
-,	O
-og	O
-den	O
-fjerne	O
-summen	O
-af	O
-biler	O
-fra	O
-hovedvejen	O
-ved	O
-de	O
-hvides	O
-kvarter	O
-,	O
-to	O
-fluers	O
-indædte	O
-kamp	O
-om	O
-majsgrødresterne	O
-på	O
-en	O
-uslikket	O
-ske	O
-og	O
-fars	O
-hivende	O
-åndedræt	O
-larmede	O
-i	O
-Feras	B-PER
-ører	O
-.	O
-
-Født	O
-af	O
-de	O
-samme	O
-forældre	O
-er	O
-de	O
-bundet	O
-via	O
-deres	O
-fælles	O
-køn	O
-,	O
-fælles	O
-erfaringer	O
-,	O
-intimt	O
-kendskab	O
-til	O
-de	O
-samme	O
-mennesker	O
-og	O
-de	O
-samme	O
-steder	O
+Azra	B-PER
+Kessimou Elfedil	I-PER
 .	O
 
 Endelig	O
@@ -13025,47 +8613,16 @@ salg	O
 Her	O
 formanden	O
 for	O
-Mellemfolkeligt	B-ORG
-Samvirke	I-ORG
+Filasteen	B-ORG
+al-Muslimah	I-ORG
 ,	O
-Waseem	B-PER
-Chandran	I-PER
+Mohamed	B-PER
+Jeddah	I-PER
 :	O
 
 Ikke	O
 kun	O
 hverdagsbiler	O
-
-Den	O
-klub	O
-mente	O
-Murtaza	B-PER
-far	O
-var	O
-sagen	O
-.	O
-
-Det	O
-lyder	O
-af	O
-meget	O
-,	O
-men	O
-sammenslutningen	O
-af	O
-amerikanske	O
-borgmestre	O
-mener	O
-,	O
-at	O
-der	O
-er	O
-brug	O
-for	O
-35	O
-mia.	O
-dollar	B-MISC
-.	O
 
 -	O
 Får	O
@@ -13076,28 +8633,6 @@ bringe	O
 programmet	O
 senere	O
 ?	O
-
-Begge	O
-er	O
-tiltalt	O
-for	O
-at	O
-have	O
-påført	O
-banken	O
-et	O
-tab	O
-på	O
-omkring	O
-60	O
-millioner	O
-kroner	O
-ved	O
-uforsvarlig	O
-og	O
-ulovlig	O
-långivning	O
-.	O
 
 Så	O
 bor	O
@@ -13116,10 +8651,6 @@ i	O
 hvert	O
 fald	O
 kreativt	O
-.	O
-
-Værelset	O
-skrumpede	O
 .	O
 
 Det	O
@@ -13152,21 +8683,6 @@ varer	O
 længere	O
 .	O
 
-Et	O
-kraftigt	O
-slag	O
-eller	O
-spark	O
-kan	O
-være	O
-så	O
-smertefuldt	O
-,	O
-at	O
-man	O
-besvimer	O
-.	O
-
 Nogle	O
 af	O
 dem	O
@@ -13195,7 +8711,7 @@ født	O
 og	O
 opvokset	O
 i	O
-Iskenderun	B-LOC
+Khorramshahr	B-LOC
 og	O
 mødtes	O
 ,	O
@@ -13214,8 +8730,8 @@ infektionen	O
 ,	O
 "	O
 siger	O
-Selim	B-PER
-Al awamer	I-PER
+Laila	B-PER
+Elgibaichi	I-PER
 .	O
 
 Dyrt	O
@@ -13238,7 +8754,7 @@ butikker	O
 i	O
 det	O
 centrale	O
-Madaba	B-LOC
+Østjerusalem	B-LOC
 Norrmalm-kvarter	O
 .	O
 
@@ -13254,22 +8770,6 @@ det	O
 22-20	O
 til	O
 polakken	O
-.	O
-
-Året	O
-1716-1717	O
-var	O
-et	O
-kæmpe	O
-år	O
-for	O
-Yousif	B-PER
-her	O
-udkom	O
-der	O
-hele	O
-3	O
-opuser	O
 .	O
 
 Og	O
@@ -13315,19 +8815,6 @@ tænker	O
 han	O
 .	O
 
-De	O
-hævder	O
-,	O
-at	O
-Kermanshah	B-LOC
-vej	O
-til	O
-demokrati	O
-går	O
-gennem	O
-diktatur	O
-.	O
-
 Og	O
 de	O
 tilføjede	O
@@ -13348,7 +8835,7 @@ samfund	O
 var	O
 vi	O
 imod	O
-Banagas	B-ORG
+Tunisna	B-ORG
 .	O
 
 Bortset	O
@@ -13368,7 +8855,7 @@ De	O
 mener	O
 ,	O
 at	O
-Lamsa	B-ORG
+Al-Mustaqbal	B-ORG
 skal	O
 give	O
 præsidenten	O
@@ -13377,8 +8864,8 @@ beføjelser	O
 .	O
 
 Af	O
-Hasib	B-PER
-Ba Butayn	I-PER
+Mouna	B-PER
+Al shuraideh	I-PER
 
 Derfor	O
 skal	O
@@ -13392,74 +8879,6 @@ sig	O
 et	O
 direkte	O
 ansvar	O
-.	O
-
-For	O
-første	O
-gang	O
-i	O
-100	O
-år	O
-tabte	O
-Indre	B-ORG
-Mission	I-ORG
-menighedsrådsvalget	O
-i	O
-Sharjah	B-LOC
-.	O
-
-I	O
-1972	O
-fik	O
-Şişli	B-LOC
-sit	O
-første	O
-værtshus	O
-.	O
-
-Det	O
-var	O
-samme	O
-år	O
-,	O
-at	O
-Salih	B-PER
-Ali	I-PER
-kom	O
-til	O
-byen	O
-.	O
-
-20	O
-år	O
-senere	O
-tabte	O
-Indre	B-ORG
-Mission	I-ORG
-menighedsrådsvalget	O
-i	O
-Muratpasa	B-LOC
-.	O
-
-Og	O
-denne	O
-gang	O
-kan	O
-Arshad	B-PER
-Mahfouz	I-PER
-ikke	O
-sige	O
-sig	O
-fri	O
-for	O
-at	O
-have	O
-haft	O
-en	O
-finger	O
-med	O
-i	O
-spillet	O
 .	O
 
 Han	O
@@ -13481,7 +8900,7 @@ har	O
 vundet	O
 flertallet	O
 i	O
-Başakşehir	B-LOC
+Esenyurt	B-LOC
 menighedsråd	O
 .	O
 
@@ -13490,20 +8909,6 @@ står	O
 det	O
 syv-seks	O
 .	O
-
-3	O
-)	O
-Har	O
-ministeren	O
-løjet	O
-om	O
-sit	O
-og	O
-regeringens	O
-kendskab	O
-til	O
-virksomheden	O
-?	O
 
 men	O
 hos	O
@@ -13528,31 +8933,9 @@ fyres	O
 .	O
 "	O
 
-De	O
-nye	O
-super-butikker	O
-har	O
-også	O
-en	O
-anden	O
-kedelig	O
-følge	O
-,	O
-set	O
-med	O
-brancheøjne	O
-.	O
-
-Også	O
-i	O
-Patchi	B-ORG
-egne	O
-rækker	O
-.	O
-
 Desuden	O
 forudser	O
-K24	B-ORG
+DMC	B-ORG
 ,	O
 at	O
 200	O
@@ -13565,25 +8948,6 @@ i	O
 de	O
 nye	O
 Super-Brugser	O
-.	O
-
-"	O
-Jeg	O
-satser	O
-på	O
-at	O
-bruge	O
-forhandlingerne	O
-om	O
-finansloven	O
-som	O
-murbrækker	O
-for	O
-resultater	O
-på	O
-de	O
-andre	O
-områder	O
 .	O
 
 Kampvognene	O
@@ -13626,8 +8990,8 @@ en	O
 kvæstet	O
 litauer	O
 ,	O
-Wassim	B-PER
-Shara	I-PER
+Aisha	B-PER
+Azzam	I-PER
 .	O
 
 Klokken	O
@@ -13639,13 +9003,13 @@ de	O
 første	O
 bomber	O
 over	O
-Latakia	B-LOC
+Körfez	B-LOC
 .	O
 
 Klokken	O
 01.38	O
 var	O
-Jablah	B-LOC
+Bushehr	B-LOC
 en	O
 død	O
 by	O
@@ -13669,7 +9033,7 @@ byen	O
 rapporterede	O
 CNN-journalisterne	O
 fra	O
-Mersin	B-LOC
+Aleppo	B-LOC
 .	O
 
 Det	O
@@ -13698,7 +9062,7 @@ helvede	O
 løs	O
 igen	O
 over	O
-Quchan	B-LOC
+Denizli	B-LOC
 .	O
 
 På	O
@@ -13744,36 +9108,8 @@ slap	O
 .	O
 "	O
 
-"	O
-Alligevel	O
-blev	O
-oplysningen	O
-aldrig	O
-skrevet	O
-ned	O
-,	O
-"	O
-fastslog	O
-DR-Dokumentar	O
-gruppen	O
-i	O
-sin	O
-sønderlemmende	O
-kritik	O
-af	O
-Frederikshavns	B-ORG
-politis	I-ORG
-efterforskningsarbejde	O
-i	O
-Pedal-Ove-sagen	O
-.	O
-
-MED	O
-FØRT	O
-HÅND	O
-
 Nedslidte	O
-Fertiglobe	B-ORG
+Saudia	B-ORG
 jeans	O
 til	O
 snøre-støvletter	O
@@ -13809,17 +9145,6 @@ LIGNER	O
 EN	O
 GRIS	O
 
-Men	O
-de	O
-er	O
-jo	O
-smukke	O
--	O
-ikke	O
-grimme	O
-.	O
-"	O
-
 Dansk	O
 kultur	O
 skal	O
@@ -13835,25 +9160,6 @@ os	O
 danskere	O
 .	O
 
-Det	O
-er	O
-ikke	O
-god	O
-tone	O
-blandt	O
-os	O
-kulturformidlere	O
-at	O
-sige	O
-,	O
-at	O
-publikum	O
-også	O
-har	O
-et	O
-ansvar	O
-.	O
-
 "	O
 MAN	O
 må	O
@@ -13865,44 +9171,6 @@ med	O
 medierne	O
 og	O
 branchen	O
-.	O
-
-Jeg	O
-håber	O
-,	O
-politiet	O
-fanger	O
-dig	O
-hurtigt	O
-,	O
-så	O
-du	O
-ikke	O
-når	O
-at	O
-krænke	O
-andre	O
-piger	O
-,	O
-som	O
-måske	O
-ikke	O
-får	O
-samme	O
-familiemæssige	O
-støtte	O
-som	O
-min	O
-pige	O
-,	O
-og	O
-derfor	O
-risikerer	O
-at	O
-knække	O
-helt	O
-sammen	O
-psykisk	O
 .	O
 
 De	O
@@ -13918,36 +9186,15 @@ samme	O
 kedel	O
 .	O
 
-Senere	O
-på	O
-dagen	O
-var	O
-der	O
-hold-tidskørsel	O
-,	O
-og	O
-her	O
-triumferede	O
-Kudu	B-ORG
-med	O
-sejr	O
-i	O
-41,23	O
-minut	O
-for	O
-36,5	O
-km.	O
-.	O
-
 Så	O
 fulgte	O
-Ahlibank	B-ORG
+Al-Horria	B-ORG
 ,	O
-Mubadala	B-ORG
+Shamsina	B-ORG
 ,	O
-DMC	B-ORG
+Saidal	B-ORG
 ,	O
-Altibbi	B-ORG
+Al-Thawra	B-ORG
 og	O
 overraskende	O
 kun	O
@@ -13955,13 +9202,13 @@ som	O
 nr.	O
 syv	O
 "	O
-QEWC	B-ORG
+Al-Tijari	B-ORG
 "	O
 med	O
-Ajmal	B-PER
+Naila	B-PER
 .	O
 
-Ghada	B-PER
+Wafa	B-PER
 havde	O
 punktering	O
 efter	O
@@ -13969,8 +9216,8 @@ fem	O
 kilometer	O
 ,	O
 og	O
-Sadik	B-PER
-Mohamed aly	I-PER
+Afrah	B-PER
+Sahu	I-PER
 punkterede	O
 efter	O
 kun	O
@@ -14053,14 +9300,14 @@ Nu	O
 skal	O
 de	O
 spille	O
-Saad	B-PER
+Jasmine	B-PER
 og	O
-Jihad	I-PER
+Sahlaah	I-PER
 i	O
 dramatiseringen	O
 af	O
-Imane	B-PER
-Zghir	I-PER
+Zaid	B-PER
+Alharbi	I-PER
 eventyr	O
 "	O
 Brødrene	B-MISC
@@ -14102,10 +9349,7 @@ sejre	O
 .	O
 "	O
 
-NYE	O
-AFSLØRINGER	O
-
-Tamer	B-PER
+Hanaa	B-PER
 :	O
 "	O
 Hvorfor	O
@@ -14118,7 +9362,7 @@ Oven	O
 i	O
 købet	O
 har	O
-Yasmine	B-PER
+Bayan	B-PER
 det	O
 problem	O
 ,	O
@@ -14135,7 +9379,7 @@ de	O
 olympiske	O
 spillere	O
 fra	O
-Mrsool	B-ORG
+Ahlibank	B-ORG
 holdet	O
 .	O
 
@@ -14148,36 +9392,6 @@ længe	O
 siden	O
 .	O
 
-Ligesom	O
-Aligudarz	B-LOC
-politichef	O
-Yasir	B-PER
-Hamdan	I-PER
-måtte	O
-statens	O
-overhoved	O
-finde	O
-sig	O
-i	O
-vrede	O
-tilråb	O
-,	O
-og	O
-dukke	O
-sig	O
-for	O
-folk	O
-,	O
-der	O
-slog	O
-ud	O
-efter	O
-og	O
-sparkede	O
-efter	O
-ham	O
-.	O
-
 Varme	O
 vafler	O
 og	O
@@ -14188,7 +9402,7 @@ Det	O
 serbisk	O
 dominerede	O
 nyhedsbureau	O
-Hawacom	B-ORG
+Biougnach	B-ORG
 har	O
 tidligere	O
 rapporteret	O
@@ -14233,44 +9447,6 @@ i	O
 stk.	O
 1	O
 
-Hjælp	O
-udefra	O
-
-Taj	B-PER
-fik	O
-lønforhøjelse	O
-,	O
-og	O
-succes'en	O
-ventede	O
-lige	O
-rundt	O
-om	O
-hjørnet	O
-.	O
-
-"	O
-Vi	O
-ses	O
-i	O
-Talkha	B-LOC
-!	O
-"	O
-svarede	O
-han	O
-hende	O
-og	O
-tog	O
-op	O
-på	O
-skolen	O
-for	O
-at	O
-tale	O
-med	O
-hende	O
-.	O
-
 Det	O
 var	O
 også	O
@@ -14307,23 +9483,8 @@ vores	O
 muskler	O
 .	O
 
-Måske	O
-skyldes	O
-det	O
-ændringer	O
-i	O
-de	O
-elektriske	O
-strømme	O
-i	O
-Bahçelievler	B-LOC
-flydende	O
-ydre	O
-kerne	O
-.	O
-
-Asia	B-PER
-Nemer	I-PER
+Habiba	B-PER
+Hamoud	I-PER
 har	O
 et	O
 svar	O
@@ -14341,26 +9502,6 @@ disse	O
 tider	O
 .	O
 
-Ved	O
-anvendelse	O
-af	O
-mavesårsmidlerne	O
-blev	O
-den	O
-samlede	O
-behandlingsudgift	O
-reduceret	O
-til	O
-220	O
-dollar	B-MISC
-,	O
-et	O
-fald	O
-på	O
-500	O
-dollar	B-MISC
-.	O
-
 Det	O
 gælder	O
 sågu'	O
@@ -14375,42 +9516,13 @@ klubbens	O
 sejr	O
 .	O
 
-Det	O
-er	O
-den	O
-største	O
-kernevåbennedrustning	O
-i	O
-alliancens	O
-historie	O
-.	O
-
-"	O
-Bordpladen	O
-på	O
-skrivebordet	O
-er	O
-pulveriseret	O
-,	O
-og	O
-bomben	O
-har	O
-lavet	O
-et	O
-dybt	O
-krater	O
-i	O
-gulvet	O
-nedunder	O
-.	O
-
 Den	O
 danske	O
 importør	O
 ,	O
-Vilh.	B-ORG
-Nellemann	I-ORG
-Autoimport	I-ORG
+Asdaa	B-ORG
+Burson	I-ORG
+Marsteller	I-ORG
 ,	O
 har	O
 besluttet	O
@@ -14442,9 +9554,9 @@ i	O
 de	O
 tidligere	O
 Sovjetrepublikker	O
-Kadirli	B-LOC
+Samalut	B-LOC
 og	O
-Yüksekova	B-LOC
+Khash	B-LOC
 -	O
 mindre	O
 end	O
@@ -14466,7 +9578,7 @@ smykke-	O
 og	O
 ur-industri	O
 i	O
-Manama	B-LOC
+Jablah	B-LOC
 .	O
 
 GENBRUG	O
@@ -14494,8 +9606,8 @@ det	O
 tre	O
 gøglere	O
 fra	O
-Die	B-ORG
-Onkels	I-ORG
+Al	B-ORG
+Mada	I-ORG
 ,	O
 som	O
 jo	O
@@ -14596,7 +9708,7 @@ glas	O
 lød	O
 det	O
 fra	O
-Jawad	B-PER
+Hashem	B-PER
 .	O
 
 Lærer	O
@@ -14670,7 +9782,7 @@ modtog	O
 han	O
 i	O
 øvrigt	O
-Al-Thawra	B-ORG
+NBN	B-ORG
 børnebogspris	O
 for	O
 i	O
@@ -14703,7 +9815,7 @@ opfordre	O
 fremtidige	O
 trænere	O
 i	O
-SNVI	B-ORG
+AKKASA	B-ORG
 til	O
 at	O
 forlange	O
@@ -14723,28 +9835,8 @@ mere	O
 end	O
 hele	O
 "	O
-Mathaqi	B-ORG
+PSLab	B-ORG
 "	O
-.	O
-
-Han	O
-vil	O
-kun	O
-arbejde	O
-og	O
-have	O
-flere	O
-og	O
-flere	O
-ting	O
-.	O
-
-Den	O
-forudsigelse	O
-har	O
-foreløbig	O
-holdt	O
-stik	O
 .	O
 
 Resten	O
@@ -14754,46 +9846,6 @@ med	O
 en	O
 ekstra	O
 sprøjtning	O
-.	O
-
-Derefter	O
-slog	O
-han	O
-alarm	O
-over	O
-sin	O
-radio	O
-til	O
-hovedkvarteret	O
-i	O
-Salihli	B-LOC
-,	O
-hvor	O
-man	O
-slog	O
-alarm	O
-til	O
-politiet	O
-klokken	O
-17.48	O
-.	O
-
-Den	O
-42-årige	O
-borgmester	O
-fra	O
-provinsbyen	O
-Jidda	B-LOC
-er	O
-en	O
-af	O
-grundlæggerne	O
-af	O
-den	O
-ultra-nationalistiske	O
-bevægelse	O
-Vatra	B-ORG
-Romanesca	I-ORG
 .	O
 
 Der	O
@@ -14831,7 +9883,7 @@ er	O
 en	O
 hyldest	O
 til	O
-Sonalgaz	B-ORG
+Tunisavia	B-ORG
 .	O
 
 De	O
