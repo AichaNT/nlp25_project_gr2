@@ -19,7 +19,7 @@ mand	O
 have	O
 navneforandring	O
 til	O
-Aicha	B-PER
+Razia	B-PER
 ,	O
 men	O
 det	O
@@ -92,7 +92,7 @@ ikke	O
 
 Nye	O
 i	O
-Oilibya	B-ORG
+Mauritel	B-ORG
 
 Blandt	O
 fodboldspillerne	O
@@ -214,10 +214,10 @@ en	O
 synsvinkel	O
 .	O
 
-Ashraf	B-PER
-Alharthi	I-PER
+Naziha	B-PER
+Elgissaini	I-PER
 er	O
-Jalil	B-PER
+Nura	B-PER
 politiske	O
 idol	O
 .	O
@@ -435,7 +435,7 @@ til	O
 tjenesten	O
 ,	O
 svarede	O
-Jamilla	B-PER
+Faruk	B-PER
 .	O
 
 "	O
@@ -688,7 +688,7 @@ højere	O
 læreranstalter	O
 .	O
 
-Koutoubia	B-ORG
+Kitea	B-ORG
 forsøger	O
 nu	O
 at	O
@@ -738,16 +738,16 @@ derfor	O
 meget	O
 at	O
 takke	O
-Nazanin	B-PER
+Nidal	B-PER
 og	O
-RasGas	B-ORG
+Aramco	B-ORG
 for	O
 .	O
 
 Han	O
 kiggede	O
 på	O
-Abdulkarim	B-PER
+Wassim	B-PER
 ,	O
 der	O
 havde	O
@@ -881,7 +881,7 @@ fuldpension	O
 i	O
 juleugen	O
 på	O
-Damaskus	B-LOC
+Basra	B-LOC
 koster	O
 4.415	O
 kr.	O
@@ -946,7 +946,7 @@ til	O
 Evertek	B-ORG
 og	O
 Al	B-ORG
-Jamahir	I-ORG
+Rayaam	I-ORG
 .	O
 
 Jeg	O
@@ -979,7 +979,7 @@ synes	O
 også	O
 at	O
 støtte	O
-Dunia	B-PER
+Fawzia	B-PER
 .	O
 
 Flyet	O
@@ -1087,7 +1087,7 @@ april	O
 .	O
 
 Også	O
-KIPCO	B-ORG
+Alrifai	B-ORG
 har	O
 udtalt	O
 sig	O
@@ -1113,7 +1113,7 @@ NMDC	B-ORG
 Group	I-ORG
 skotter	O
 på	O
-Muscat	B-LOC
+Medina	B-LOC
 .	O
 
 60	O
@@ -1154,7 +1154,7 @@ akkompagnement	O
 af	O
 udvalg	O
 af	O
-Jawad	B-PER
+Kazim	B-PER
 .	O
 
 Skipper	O
@@ -1166,7 +1166,7 @@ mødtes	O
 i	O
 går	O
 i	O
-Qalyub	B-LOC
+Mustafakemalpaşa	B-LOC
 med	O
 rederiets	O
 advokat	O
@@ -1182,12 +1182,12 @@ nu	O
 op	O
 sammen	O
 med	O
-Yusra	B-PER
+Mohsen	B-PER
 erklærede	O
 yndling	O
 ,	O
 væbneren	O
-Mina	B-PER
+Imane	B-PER
 af	O
 Salihli	B-LOC
 .	O
@@ -1196,13 +1196,13 @@ Sekunder	O
 før	O
 sammenstødet	O
 var	O
-Mazhar	B-PER
+Mokhtar	B-PER
 blevet	O
 overhalet	O
 af	O
 skoleinspektøren	O
 på	O
-DenizBank	B-ORG
+Dnata	B-ORG
 ,	O
 som	O
 i	O
@@ -1233,16 +1233,16 @@ skolegården	O
 .	O
 
 Sagde	O
-Ad	B-ORG
-Diyar	I-ORG
+Al	B-ORG
+Madina	I-ORG
 formand	O
 ,	O
-Ayat	B-PER
-Swalimiy	I-PER
+Lubna	B-PER
+Kamal	I-PER
 ,	O
 til	O
-Tahira	B-PER
-Mumadi	I-PER
+Kashif	B-PER
+Al mazroui	I-PER
 .	O
 
 "	O
@@ -1296,7 +1296,7 @@ KL	O
 1630	O
 OPLÆSER	O
 =	O
-Libyana	B-ORG
+Oilibya	B-ORG
 
 Nu	O
 ler	O
@@ -1332,7 +1332,7 @@ Bevar	O
 mig	O
 vel	O
 ,	O
-Sultan	B-PER
+Adham	B-PER
 ,	O
 ja	O
 der	O
@@ -1343,7 +1343,7 @@ dengang	O
 .	O
 
 Kære	O
-Usman	B-PER
+Usama	B-PER
 !	O
 
 I	O
@@ -1464,8 +1464,8 @@ tidligere	O
 filippinske	O
 præsidentfrue	O
 ,	O
-Malaika	B-PER
-Morsy	I-PER
+Nadja	B-PER
+Altihayqi	I-PER
 1.500	O
 par	O
 sko	O
@@ -1481,7 +1481,7 @@ museum	O
 i	O
 Malacanang-paladset	O
 i	O
-Najaf	B-LOC
+Eskisehir	B-LOC
 .	O
 
 "	O
@@ -1544,8 +1544,8 @@ ham	O
 "	O
 ,	O
 siger	O
-Ahlam	B-PER
-Alkhatib	I-PER
+Alissa	B-PER
+Adel	I-PER
 .	O
 
 "	O
@@ -1579,8 +1579,8 @@ nr.	O
 ,	O
 "	O
 faldt	O
-Hana	B-PER
-Ram	I-PER
+Karim	B-PER
+Aldhiraybi	I-PER
 ind	O
 i	O
 samtalen	O
@@ -1619,15 +1619,15 @@ Til	O
 lykke	O
 til	O
 guldsmed	O
-Nejla	B-PER
-Sawaida	I-PER
-Hayat	I-PER
+Hajar	B-PER
+Ameerh	I-PER
+Alaijaybi	I-PER
 og	O
 til	O
 korpussølvsmed	O
-Nagham	B-PER
-Ayed	I-PER
-Al hosny	I-PER
+Sami	B-PER
+Sobh	I-PER
+Alaibayli	I-PER
 .	O
 
 Det	O
@@ -1648,8 +1648,8 @@ november	O
 1986	O
 af	O
 undervisningsminister	O
-Sadia	B-PER
-Sioaraa	I-PER
+Yassine	B-PER
+Alshammari	I-PER
 .	O
 
 Faktisk	O
@@ -1757,7 +1757,7 @@ certifikat	O
 )	O
 .	O
 
-Mehmet	B-PER
+Salma	B-PER
 viser	O
 den	O
 medicin	O
@@ -1776,7 +1776,7 @@ En	O
 kilde	O
 fra	O
 mujahedinlederen	O
-Redha	B-PER
+Khadra	B-PER
 stab	O
 sagde	O
 ,	O
@@ -1795,7 +1795,7 @@ Ash	B-LOC
 Shatrah	I-LOC
 og	O
 tilintetgøre	O
-Izmit	B-LOC
+Aswan	B-LOC
 luftværnsskyts	O
 "	O
 .	O
@@ -1934,7 +1934,7 @@ være	O
 kedelige	O
 .	O
 
-Osman	B-PER
+Faisa	B-PER
 havde	O
 tilsyneladende	O
 kontrol	O
@@ -1976,7 +1976,7 @@ det	O
 relativt	O
 beskedne	O
 informatikprogram	O
-PubliTools	B-ORG
+Argaam	B-ORG
 ,	O
 som	O
 ikke	O
@@ -2021,8 +2021,8 @@ han	O
 i	O
 semifinalen	O
 polakken	O
-Sarah	B-PER
-Jarallah	I-PER
+Fadi	B-PER
+Sahyla	I-PER
 ,	O
 der	O
 er	O
@@ -2169,7 +2169,7 @@ som	O
 gidsler	O
 .	O
 
-Shahrud	B-LOC
+İnegöl	B-LOC
 (	O
 t.h.	O
 )	O
@@ -2212,8 +2212,8 @@ Oktophonie	B-MISC
 "	O
 .	O
 
-Hazim	B-PER
-Alali	I-PER
+Nejla	B-PER
+Ibrahim	I-PER
 spiller	O
 den	O
 ensomme	O
@@ -2283,7 +2283,7 @@ sig	O
 .	O
 
 I	O
-Trabzon	B-LOC
+Borujerd	B-LOC
 ,	O
 hvor	O
 tre	O
@@ -2360,10 +2360,10 @@ tilstande	O
 ,	O
 "	O
 siger	O
-Nadir	B-PER
+Bahar	B-PER
 .	O
 
-Mohamed	B-PER
+Karima	B-PER
 var	O
 maniodepressiv	O
 
@@ -2458,8 +2458,8 @@ kroner	O
 går	O
 til	O
 civilingeniør	O
-Mahmood.	B-PER
-Altimaywi	I-PER
+Mervan	B-PER
+Sudani	I-PER
 ,	O
 der	O
 i	O
@@ -2470,22 +2470,22 @@ idømt	O
 års	O
 fængsel	O
 og	O
-Ismail	B-PER
-Abdaly	I-PER
+Faris	B-PER
+Sahmu Adin	I-PER
 ,	O
 borgmester	O
 og	O
 frihedshelt	O
 i	O
-Mosul	B-LOC
+Gaziantep	B-LOC
 .	O
 
 De	O
 kunne	O
 være	O
-Leila	B-PER
+Najah	B-PER
 og	O
-Ramzi	B-PER
+Waqar	B-PER
 ,	O
 som	O
 altid	O
@@ -2498,7 +2498,7 @@ hustru	I-MISC
 "	O
 .	O
 
-Latifa	B-PER
+Sadik	B-PER
 øjne	O
 så	O
 ud	O
@@ -2541,7 +2541,7 @@ for	O
 domstolene	O
 ,	O
 før	O
-Asmidal	B-ORG
+Djezzy	B-ORG
 afgørelse	O
 foreligger	O
 .	O
@@ -2564,7 +2564,7 @@ ikke	O
 tilladt	O
 ,	O
 men	O
-Dima	B-PER
+Ayub	B-PER
 var	O
 vist	O
 et	O
@@ -2597,7 +2597,7 @@ de	O
 sagtens	O
 kunne	O
 have	O
-Javid	B-PER
+Tahani	B-PER
 liggende	O
 på	O
 tværs	O
@@ -2718,7 +2718,7 @@ og	O
 arbejder	O
 frivilligt	O
 hos	O
-Talabat	B-ORG
+Damac	B-ORG
 som	O
 kontaktperson	O
 for	O
@@ -2783,7 +2783,7 @@ under	O
 bombardementet	O
 ,	O
 sagde	O
-Melih	B-PER
+Saadia	B-PER
 ,	O
 men	O
 tallene	O
@@ -2939,7 +2939,7 @@ fortæller	O
 at	O
 udviklingen	O
 i	O
-Yazd	B-LOC
+Kahramanmaraş	B-LOC
 kører	O
 så	O
 hurtigt	O
@@ -2950,8 +2950,8 @@ taber	O
 pusten	O
 .	O
 
-Fatema	B-PER
-Naeem	I-PER
+Sahar	B-PER
+Ghani	I-PER
 ,	O
 berømt	O
 billedkunstner	O
@@ -2961,7 +2961,7 @@ tegnet	O
 årets	O
 kunstnersmykke	O
 for	O
-Akdital	B-ORG
+Biougnach	B-ORG
 .	O
 
 al-Qabas	B-ORG
@@ -3027,7 +3027,7 @@ står	O
 det	O
 opstablet	O
 foran	O
-Haidar	B-PER
+Saif	B-PER
 hus	O
 .	O
 
@@ -3125,7 +3125,7 @@ nogle	O
 som	O
 konsulent	O
 i	O
-SOMED	B-ORG
+Sonasid	B-ORG
 .	O
 
 Og	O
@@ -3152,7 +3152,7 @@ mellem	O
 deres	O
 hænder	O
 som	O
-Kazem	B-PER
+Mahnaz	B-PER
 .	O
 
 Blød	O
@@ -3279,21 +3279,21 @@ at	O
 vise	O
 pistolen	O
 for	O
-Fawzia	B-PER
-Sahyla	I-PER
+Yasin	B-PER
+Mukhlaf	I-PER
 fætter	O
 og	O
 svigersøn	O
 ,	O
-Nabil	B-PER
-Saddam	I-PER
-El azazma	I-PER
-Swagia	I-PER
+Sawsan	B-PER
+Khudair	I-PER
+Saudah	I-PER
+Baig	I-PER
 ,	O
 der	O
 dengang	O
 var	O
-Marand	B-LOC
+Semnan	B-LOC
 industriminister	O
 .	O
 
@@ -3302,7 +3302,7 @@ koges	O
 mør	O
 .	O
 
-K24	B-ORG
+Khartoum	B-ORG
 tal	O
 for	O
 udviklingen	O
@@ -3353,8 +3353,8 @@ hjælpearbejdet	O
 ,	O
 "	O
 siger	O
-Yaser	B-PER
-Omer	I-PER
+Bin	B-PER
+Butt	I-PER
 .	O
 
 Lokale	O
@@ -3383,13 +3383,13 @@ jf.	O
 §	O
 76	O
 
-Biougnach	B-ORG
+Colorado	B-ORG
 =	O
 1:35	O
 
 Også	O
 i	O
-Saveh	B-LOC
+Varamin	B-LOC
 syntes	O
 der	O
 at	O
@@ -3496,7 +3496,7 @@ et	O
 ældre	O
 bror	O
 ,	O
-Nazih’	B-PER
+Sayed	B-PER
 ,	O
 havde	O
 han	O
@@ -3534,7 +3534,7 @@ i	O
 Tol-Bjergene	O
 .	O
 
-DEWA	B-ORG
+Empower	B-ORG
 ,	O
 der	O
 for	O
@@ -3776,7 +3776,7 @@ til	O
 at	O
 være	O
 ,	O
-Assia	B-PER
+Aiman	B-PER
 !	O
 "	O
 
@@ -3908,7 +3908,7 @@ demonstranterne	O
 indenfor	O
 i	O
 burgerkæden	O
-ONCF	B-ORG
+Siera	B-ORG
 behageligt	O
 varme	O
 lokaler	O
@@ -3948,7 +3948,7 @@ NOGET	O
 
 O	O
 =	O
-Ordu	B-LOC
+Nazilli	B-LOC
 
 Man	O
 ved	O
@@ -3959,7 +3959,7 @@ der	O
 får	O
 syd-	O
 og	O
-Merkezefendi	B-LOC
+Ismailia	B-LOC
 til	O
 at	O
 bytte	O
@@ -3991,7 +3991,7 @@ at	O
 se	O
 ,	O
 at	O
-Bahar	B-PER
+Sonya	B-PER
 overhovedet	O
 har	O
 nogen	O
@@ -4103,8 +4103,8 @@ og	O
 forskningsinstitutter	O
 .	O
 
-Al	B-ORG
-Anbat	I-ORG
+Al-Arab	B-ORG
+Al-Yawm	I-ORG
 har	O
 komponeret	O
 romantisk	O
@@ -4183,7 +4183,7 @@ lige	O
 så	O
 store	O
 som	O
-Mahabad	B-LOC
+Büyükçekmece	B-LOC
 ,	O
 så	O
 de	O
@@ -4213,7 +4213,7 @@ kunne	O
 de	O
 læse	O
 -	O
-Abdel	B-PER
+Naila	B-PER
 kunne	O
 -	O
 at	O
@@ -4249,8 +4249,8 @@ nok	O
 ,	O
 "	O
 siger	O
-Adeel	B-PER
-Elaiouaihi	I-PER
+Mansoor	B-PER
+Sawaheel	I-PER
 .	O
 
 I	O
@@ -4264,7 +4264,7 @@ været	O
 i	O
 behandling	O
 hos	O
-LDC	B-ORG
+Nagham	B-ORG
 .	O
 
 Det	O
@@ -4277,7 +4277,7 @@ på	O
 
 DET	O
 HAR	O
-Sajid	B-PER
+Zaina	B-PER
 IKKE	O
 
 De	O
@@ -4293,7 +4293,7 @@ I	O
 så	O
 fald	O
 bliver	O
-Rana	B-PER
+Abdulqadir	B-PER
 min	O
 nye	O
 mor	O
@@ -4458,7 +4458,7 @@ mor	O
 blev	O
 udslettet	O
 i	O
-Sancaktepe	B-LOC
+Qarchak	B-LOC
 .	O
 
 En	O
@@ -4469,7 +4469,7 @@ til	O
 virkelighed	O
 .	O
 
-Naia	B-PER
+Burhan	B-PER
 øjne	O
 lyser	O
 ved	O
@@ -4510,7 +4510,7 @@ bud	O
 var	O
 dermed	O
 lagt	O
-Adela	B-PER
+Kemal	B-PER
 i	O
 munden	O
 .	O
@@ -4548,7 +4548,7 @@ Efter	O
 14	O
 dage	O
 med	O
-Abid	B-PER
+Rifat	B-PER
 mærkede	O
 jeg	O
 en	O
@@ -4584,8 +4584,8 @@ for	O
 fuld	O
 .	O
 
-Mustapha	B-PER
-Al khaili	I-PER
+Süleyman	B-PER
+Sahjan	I-PER
 selv	O
 fremhæver	O
 også	O
@@ -4685,7 +4685,7 @@ pas	O
 på	O
 !	O
 
-Nazmi	B-PER
+Kazem	B-PER
 beskrev	O
 den	O
 tidlig	O
@@ -4905,7 +4905,7 @@ nordvest	O
 8-13	O
 m/sek	O
 
-Hamad	B-PER
+Mina	B-PER
 styker	O
 stormede	O
 en	O
@@ -4925,8 +4925,8 @@ med	O
 raketter	O
 .	O
 
-Sajida	B-PER
-Yas	I-PER
+Jasmina	B-PER
+Jamil	I-PER
 har	O
 taget	O
 sin	O
@@ -4983,7 +4983,7 @@ med	O
 hende	O
 .	O
 
-Tunisna	B-ORG
+Iqraa	B-ORG
 =	O
 04:30	O
 
@@ -5039,7 +5039,7 @@ mange	O
 gange	O
 ,	O
 fordi	O
-Sinah	B-LOC
+Idlib	B-LOC
 er	O
 så	O
 forurenet	O
@@ -5072,8 +5072,8 @@ maniodepressiv	O
 (	O
 det	O
 var	O
-Nadia	B-PER
-Rasheed	I-PER
+Nusrat	B-PER
+Mostafa	I-PER
 )	O
 ,	O
 har	O
@@ -5244,7 +5244,7 @@ femten	O
 år	O
 siden	O
 "	O
-Najib	B-PER
+Yousra	B-PER
 "	O
 har	O
 han	O
@@ -5397,8 +5397,8 @@ når	O
 han	O
 og	O
 kæresten	O
-Duaa	B-PER
-Alaisaywi	I-PER
+Nasreen	B-PER
+Khalifa	I-PER
 til	O
 marts	O
 bliver	O
@@ -5488,7 +5488,7 @@ med	O
 Zaytouna	B-ORG
 TV	I-ORG
 på	O
-Sohar	B-LOC
+Kufa	B-LOC
 .	O
 
 For	O
@@ -5583,7 +5583,7 @@ væk	O
 
 TVANGSAKKORD	O
 
-Aziz	B-PER
+Nazir	B-PER
 ,	O
 lige	O
 et	O
@@ -5622,7 +5622,7 @@ og	O
 sidste	O
 .	O
 
-Shadi	B-PER
+Shah	B-PER
 sagde	O
 ,	O
 at	O
@@ -5653,7 +5653,7 @@ på	O
 konflikten	O
 .	O
 
-Saja	B-PER
+Manal	B-PER
 satte	O
 efter	O
 sammenstøddet	O
@@ -5678,7 +5678,7 @@ TOOLO	B-MISC
 Det	O
 amerikanske	O
 firma	O
-Ma’aden	B-ORG
+Ooredoo	B-ORG
 eksperimenterer	O
 med	O
 solsikkefrø	O
@@ -5759,7 +5759,7 @@ tradition	O
 .	O
 
 -	O
-Nisa	B-PER
+Layla	B-PER
 mødte	O
 jeg	O
 tilfældigt	O
@@ -5784,14 +5784,14 @@ kæmpegæld	O
 
 BEGYNDTE	O
 MED	O
-2M	B-ORG
+K24	B-ORG
 
 Og	O
 så	O
 er	O
 det	O
 jo	O
-Hasib	B-PER
+Fatiha	B-PER
 år	O
 i	O
 år	O
@@ -5814,7 +5814,7 @@ vildt	O
 forvirret	O
 .	O
 
-Sinan	B-PER
+Ilias	B-PER
 grå	O
 øjne	O
 lyste	O
@@ -5866,7 +5866,7 @@ af	O
 det	O
 med	O
 Kong	O
-Saleem	B-PER
+Fatih	B-PER
 ,	O
 og	O
 derfor	O
@@ -5948,22 +5948,22 @@ omtalt	O
 som	O
 oil	O
 wealthy	O
-Gul	B-PER
-Altinaymi	I-PER
+Ibtisam	B-PER
+Aldermaki	I-PER
 ,	O
 som	O
 Texan	O
 society	O
 princess	O
-Aliya	B-PER
-Altinayhi	I-PER
+Jasmine	B-PER
+Mutlaq	I-PER
 .	O
 
 Den	O
 havde	O
 nemlig	O
 efter	O
-Wanasah	B-ORG
+Bayanat	B-ORG
 opfattelse	O
 fejl	O
 og	O
@@ -6031,7 +6031,7 @@ mor	O
 
 Det	O
 kan	O
-Yamina	B-PER
+Yusuf	B-PER
 skriver	O
 under	O
 på	O
@@ -6079,7 +6079,7 @@ præsidentrådet	O
 
 Han	O
 omtaler	O
-Lama	B-PER
+Metin	B-PER
 som	O
 en	O
 af	O
@@ -6102,7 +6102,7 @@ væk	O
 
 Museet	O
 i	O
-Taiz	B-LOC
+Ardabil	B-LOC
 ,	O
 et	O
 slags	O
@@ -6113,8 +6113,8 @@ skulle	O
 bekrive	O
 afdøde	O
 præsident	O
-Ahmad	B-PER
-Rassin	I-PER
+Imran	B-PER
+El ghany	I-PER
 og	O
 hans	O
 hustrus	O
@@ -6203,7 +6203,7 @@ internationale	O
 told-og	O
 handelsaftale-koordinators	O
 ,	O
-Assadissa	B-ORG
+2M	B-ORG
 ,	O
 årsberetning	O
 illustrerer	O
@@ -6255,7 +6255,7 @@ meter	O
 fra	O
 hjemmet	O
 blev	O
-Anika	B-PER
+Qasim	B-PER
 ramt	O
 bagfra	O
 af	O
@@ -6393,7 +6393,7 @@ der	O
 enslydende	O
 fortalte	O
 om	O
-Nima	B-PER
+Houda	B-PER
 særlige	O
 ansættelsesvilkår	O
 .	O
@@ -6402,7 +6402,7 @@ Forbudt	O
 at	O
 demonstrere	O
 
-Damac	B-ORG
+DEWA	B-ORG
 afvises	O
 af	O
 de	O
@@ -6442,7 +6442,7 @@ at	O
 en	O
 trend-katalysator	O
 som	O
-Zuhra	B-PER
+Abir	B-PER
 kunne	O
 give	O
 tendensen	O
@@ -6515,7 +6515,7 @@ spare	O
 bilen	O
 .	O
 
-Adam	B-PER
+Fuad	B-PER
 på	O
 35	O
 bor	O
@@ -6530,9 +6530,9 @@ overlevende	O
 familiemedlemmer	O
 .	O
 
-Najiba	B-PER
-Sodaa	I-PER
-Sihaamo Aldin	I-PER
+Mehdi	B-PER
+Aisha	I-PER
+Al azzam	I-PER
 i	O
 afslappet	O
 påklædning	O
@@ -6591,9 +6591,9 @@ mellem	O
 Soma	B-LOC
 og	O
 hovedstaden	O
-Edfu	B-LOC
+Tyre	B-LOC
 i	O
-Asyut	B-LOC
+Suez	B-LOC
 .	O
 
 Beløbet	O
@@ -6613,7 +6613,7 @@ når	O
 man	O
 skuer	O
 over	O
-Aramco	B-ORG
+Arasco	B-ORG
 igangværende	O
 satsninger	O
 .	O
@@ -6682,8 +6682,8 @@ skovskole	O
 Ingen	O
 redninger	O
 
-Umar	B-PER
-Sawahilah	I-PER
+Abid	B-PER
+Salama	I-PER
 -	O
 glad	O
 for	O
@@ -6823,7 +6823,7 @@ en	O
 SW	O
 SE	O
 ,	O
-Sonasid	B-ORG
+Sopriam	B-ORG
 nyeste	O
 bud	O
 i	O
@@ -6878,8 +6878,8 @@ de	O
 kredse	O
 ,	O
 hvor	O
-Hossein	B-PER
-Alaizaydi	I-PER
+Umar	B-PER
+Madhavan	I-PER
 færdes	O
 ,	O
 gælder	O
@@ -6919,13 +6919,13 @@ til	O
 
 Emballagesektoren	O
 volder	O
-Batelco	B-ORG
+BMMI	B-ORG
 betydelige	O
 problemer	O
 .	O
 
 I	O
-Ben	B-PER
+Ikram	B-PER
 hovedbund	O
 er	O
 såret	O
@@ -6995,7 +6995,7 @@ også	O
 for	O
 at	O
 forarge	O
-Jasim	B-PER
+Asia	B-PER
 .	O
 
 Han	O
@@ -7034,9 +7034,9 @@ rigtige	O
 stil	O
 .	O
 
-Zain	B-PER
-Attieh	I-PER
-Abdelkader	I-PER
+Malak	B-PER
+Mumadi	I-PER
+Alaibayshi	I-PER
 ,	O
 af	O
 mange	O
@@ -7208,9 +7208,9 @@ serverer	O
 også	O
 hos	O
 bakkerestauratør	O
-Hussam	B-PER
-Fuqaha	I-PER
-Sawahah	I-PER
+Saima	B-PER
+Nemer	I-PER
+Al maaitah	I-PER
 ,	O
 og	O
 de	O
@@ -7316,8 +7316,8 @@ religion	O
 påbyder	O
 .	O
 
-Nusrat	B-PER
-Essa	I-PER
+Nader	B-PER
+Al nuaimi	I-PER
 ,	O
 1978	O
 
@@ -7334,7 +7334,7 @@ miljøet	O
 .	O
 
 Hilsen	O
-Afaf	B-PER
+Majed	B-PER
 .	O
 
 Din	O
@@ -7357,7 +7357,7 @@ Og	O
 hvis	O
 nu	O
 også	O
-Jaafar	B-PER
+Faysal	B-PER
 er	O
 forrykt	O
 nok	O
@@ -7440,7 +7440,7 @@ krabat	O
 Sådan	O
 noget	O
 kan	O
-Adil	B-PER
+Samed	B-PER
 skrive	O
 ,	O
 så	O
@@ -7528,7 +7528,7 @@ før	O
 ,	O
 de	O
 tog	O
-Younes	B-PER
+Kerim	B-PER
 i	O
 hovedet	O
 og	O
@@ -7577,13 +7577,13 @@ af	O
 Emirates	B-ORG
 Red	I-ORG
 Crescent	I-ORG
-Daily	B-ORG
-Sabah	I-ORG
+Al	B-ORG
+Jamahir	I-ORG
 Akhbar	B-ORG
 Nouakchott	I-ORG
-Nareva	B-ORG
-El	B-ORG
-Heddaf	I-ORG
+ONCF	B-ORG
+Al	B-ORG
+Ayam	I-ORG
 og	O
 Apparel	B-ORG
 Group	I-ORG
@@ -7653,7 +7653,7 @@ jeg	O
 nej	O
 ,	O
 men	O
-Ilias	B-PER
+Shahin	B-PER
 blev	O
 ved	O
 med	O
@@ -7669,7 +7669,7 @@ er	O
 holdt	O
 uden	O
 for	O
-Virtuzone	B-ORG
+Asmidal	B-ORG
 regnskab	O
 .	O
 
@@ -7754,8 +7754,8 @@ og	O
 her	O
 bad	O
 lektor	O
-Fadel	B-PER
-Al hunaiti	I-PER
+Ayat	B-PER
+Shaaban	I-PER
 om	O
 et	O
 minuts	O
@@ -7862,7 +7862,7 @@ sent	O
 til	O
 maskinen	O
 til	O
-Al-Hudaydah	B-LOC
+Taiz	B-LOC
 .	O
 
 "	O
@@ -7908,7 +7908,7 @@ af	O
 ,	O
 det	O
 var	O
-Shirin	B-PER
+Javid	B-PER
 ,	O
 han	O
 havde	O
@@ -7944,7 +7944,7 @@ vide	O
 ,	O
 at	O
 franske	O
-Arryadia	B-ORG
+Athaqafia	B-ORG
 ,	O
 som	O
 vi	O
@@ -7970,7 +7970,7 @@ jo	O
 ,	O
 at	O
 når	O
-Bayanat	B-ORG
+DenizBank	B-ORG
 har	O
 en	O
 slagvare	O
@@ -8008,7 +8008,7 @@ blev	O
 evakueret	O
 fra	O
 byen	O
-Rasht	B-LOC
+Buraydah	B-LOC
 ,	O
 var	O
 endnu	O
@@ -8053,8 +8053,8 @@ overraskelse	O
 
 Opbakningen	O
 om	O
-Zaid	B-PER
-Alairaysi	I-PER
+Maha	B-PER
+Albanoon	I-PER
 er	O
 overraskende	O
 og	O
@@ -8114,8 +8114,8 @@ forlydender	O
 om	O
 ,	O
 at	O
-Munira	B-PER
-Al abdouly	I-PER
+Bayan	B-PER
+Alaizayli	I-PER
 får	O
 dem	O
 tilbage	O
@@ -8142,7 +8142,7 @@ skolerne	O
 i	O
 Istanbul	B-LOC
 og	O
-Yozgat	B-LOC
+Qorveh	B-LOC
 og	O
 sparer	O
 dermed	O
@@ -8169,7 +8169,7 @@ op	O
 igen	O
 .	O
 
-Morad	B-PER
+Taghrid	B-PER
 ...	O
 ja	O
 ...	O
@@ -8259,7 +8259,7 @@ Den	O
 fredsbevarende	O
 styrke	O
 i	O
-Edirne	B-LOC
+Sakakah	B-LOC
 har	O
 beskyldt	O
 skibet	O
@@ -8289,13 +8289,13 @@ sidste	O
 øjeblik	O
 .	O
 
-Muhsin	B-PER
+Ali	B-PER
 om	O
 racerkøreren	O
-Aftab	B-PER
+Latifa	B-PER
 :	O
 -	O
-Dalia	B-PER
+Murtaza	B-PER
 er	O
 en	O
 meget	O
@@ -8323,12 +8323,12 @@ er	O
 det	O
 også	O
 med	O
-Nablus	B-LOC
+Iranshahr	B-LOC
 .	O
 
-Ilham	B-PER
-Udhla	I-PER
-Riaz	I-PER
+Talat	B-PER
+Al kharabsheh	I-PER
+Thabet	I-PER
 hævder	O
 ,	O
 at	O
@@ -8424,7 +8424,7 @@ en	O
 højderyg	O
 ,	O
 som	O
-Yasemin	B-PER
+Lina	B-PER
 kontrollerede	O
 .	O
 
@@ -8432,12 +8432,12 @@ Flippen	O
 strammer	O
 til	O
 om	O
-Nahid	B-PER
+Milad	B-PER
 hals	O
 .	O
 
 I	O
-Idku	B-LOC
+Kirikkale	B-LOC
 skal	O
 vi	O
 bruge	O
@@ -8460,7 +8460,7 @@ tav	O
 jeg	O
 ...	O
 vil	O
-Jenan	B-PER
+Shakila	B-PER
 og	O
 jeg	O
 ...	O
@@ -8500,7 +8500,7 @@ borte	O
 :	O
 "	O
 Nej	O
-Firas	B-PER
+Fayez	B-PER
 ,	O
 jeg	O
 tror	O
@@ -8522,7 +8522,7 @@ procent	O
 indoktrinerer	O
 ,	O
 hævdede	O
-Souad	B-PER
+Khurram	B-PER
 frimodigt	O
 .	O
 
@@ -8571,8 +8571,8 @@ synthesizer	O
 Den	O
 vare	O
 leverer	O
-Najla	B-PER
-Alairaymiah	I-PER
+Hashem	B-PER
+Barham	I-PER
 ca.	O
 en	O
 gang	O
@@ -8597,8 +8597,8 @@ på	O
 kroner	O
 fra	O
 modstanderen	O
-Salwa	B-PER
-Ababneh	I-PER
+Hanan	B-PER
+Al khatiri	I-PER
 .	O
 
 Endelig	O
@@ -8616,8 +8616,8 @@ for	O
 Riyad	B-ORG
 Bank	I-ORG
 ,	O
-Kamil	B-PER
-Sawalika	I-PER
+Hoda	B-PER
+El sherif	I-PER
 :	O
 
 Ikke	O
@@ -8711,7 +8711,7 @@ født	O
 og	O
 opvokset	O
 i	O
-Ajlun	B-LOC
+Edirne	B-LOC
 og	O
 mødtes	O
 ,	O
@@ -8730,8 +8730,8 @@ infektionen	O
 ,	O
 "	O
 siger	O
-Mushtaq	B-PER
-Ibrahimoh	I-PER
+Sundus	B-PER
+Alaijayni	I-PER
 .	O
 
 Dyrt	O
@@ -8835,7 +8835,7 @@ samfund	O
 var	O
 vi	O
 imod	O
-SNVI	B-ORG
+Sonatrach	B-ORG
 .	O
 
 Bortset	O
@@ -8855,7 +8855,7 @@ De	O
 mener	O
 ,	O
 at	O
-Gulfsat	B-ORG
+KIPCO	B-ORG
 skal	O
 give	O
 præsidenten	O
@@ -8864,8 +8864,8 @@ beføjelser	O
 .	O
 
 Af	O
-Sanaa	B-PER
-Abdel abas	I-PER
+Samia	B-PER
+Bukhari	I-PER
 
 Derfor	O
 skal	O
@@ -8935,7 +8935,7 @@ fyres	O
 
 Desuden	O
 forudser	O
-Kezad	B-ORG
+Ma’aden	B-ORG
 ,	O
 at	O
 200	O
@@ -8990,8 +8990,8 @@ en	O
 kvæstet	O
 litauer	O
 ,	O
-Tariq	B-PER
-Al rifai	I-PER
+Zaid	B-PER
+Majid	I-PER
 .	O
 
 Klokken	O
@@ -9003,13 +9003,13 @@ de	O
 første	O
 bomber	O
 over	O
-Buraydah	B-LOC
+Samsun	B-LOC
 .	O
 
 Klokken	O
 01.38	O
 var	O
-Gaziantep	B-LOC
+Muscat	B-LOC
 en	O
 død	O
 by	O
@@ -9062,7 +9062,7 @@ helvede	O
 løs	O
 igen	O
 over	O
-Dhahran	B-LOC
+Zonguldak	B-LOC
 .	O
 
 På	O
@@ -9109,7 +9109,7 @@ slap	O
 "	O
 
 Nedslidte	O
-Sonalgaz	B-ORG
+Banagas	B-ORG
 jeans	O
 til	O
 snøre-støvletter	O
@@ -9202,13 +9202,13 @@ som	O
 nr.	O
 syv	O
 "	O
-Mauritel	B-ORG
+Afriquia	B-ORG
 "	O
 med	O
-Sami	B-PER
+Ahmad	B-PER
 .	O
 
-Salam	B-PER
+Mourad	B-PER
 havde	O
 punktering	O
 efter	O
@@ -9216,8 +9216,8 @@ fem	O
 kilometer	O
 ,	O
 og	O
-Haris	B-PER
-Sohrab	I-PER
+Anika	B-PER
+Albawaina	I-PER
 punkterede	O
 efter	O
 kun	O
@@ -9300,14 +9300,14 @@ Nu	O
 skal	O
 de	O
 spille	O
-Kamal	B-PER
+Yasmin	B-PER
 og	O
-Al zawaydah	I-PER
+Rawashdeh	I-PER
 i	O
 dramatiseringen	O
 af	O
-Hazem	B-PER
-Sohayr	I-PER
+Nuri	B-PER
+Maryam	I-PER
 eventyr	O
 "	O
 Brødrene	B-MISC
@@ -9349,7 +9349,7 @@ sejre	O
 .	O
 "	O
 
-Mervan	B-PER
+Widad	B-PER
 :	O
 "	O
 Hvorfor	O
@@ -9362,7 +9362,7 @@ Oven	O
 i	O
 købet	O
 har	O
-Ridha	B-PER
+Hanadi	B-PER
 det	O
 problem	O
 ,	O
@@ -9379,7 +9379,7 @@ de	O
 olympiske	O
 spillere	O
 fra	O
-BiscoMisr	B-ORG
+Tarjama	B-ORG
 holdet	O
 .	O
 
@@ -9402,7 +9402,7 @@ Det	O
 serbisk	O
 dominerede	O
 nyhedsbureau	O
-One	B-ORG
+Egyptalum	B-ORG
 har	O
 tidligere	O
 rapporteret	O
@@ -9483,8 +9483,8 @@ vores	O
 muskler	O
 .	O
 
-Haydar	B-PER
-Al issa	I-PER
+Khan	B-PER
+Sioarain	I-PER
 har	O
 et	O
 svar	O
@@ -9520,9 +9520,9 @@ Den	O
 danske	O
 importør	O
 ,	O
-Saudi	B-ORG
-Awwal	I-ORG
-Bank	I-ORG
+Aster	B-ORG
+DM	I-ORG
+Healthcare	I-ORG
 ,	O
 har	O
 besluttet	O
@@ -9554,9 +9554,9 @@ i	O
 de	O
 tidligere	O
 Sovjetrepublikker	O
-Yalova	B-LOC
+Hamadan	B-LOC
 og	O
-Ceyhan	B-LOC
+Sur	B-LOC
 -	O
 mindre	O
 end	O
@@ -9578,7 +9578,7 @@ smykke-	O
 og	O
 ur-industri	O
 i	O
-Muş	B-LOC
+Kashmar	B-LOC
 .	O
 
 GENBRUG	O
@@ -9606,8 +9606,8 @@ det	O
 tre	O
 gøglere	O
 fra	O
-Al-Arab	B-ORG
-Al-Yawm	I-ORG
+Filasteen	B-ORG
+al-Muslimah	I-ORG
 ,	O
 som	O
 jo	O
@@ -9708,7 +9708,7 @@ glas	O
 lød	O
 det	O
 fra	O
-Kerem	B-PER
+Hussam	B-PER
 .	O
 
 Lærer	O
@@ -9782,7 +9782,7 @@ modtog	O
 han	O
 i	O
 øvrigt	O
-Aïcha	B-ORG
+Al-Massira	B-ORG
 børnebogspris	O
 for	O
 i	O
@@ -9815,7 +9815,7 @@ opfordre	O
 fremtidige	O
 trænere	O
 i	O
-Fetchr	B-ORG
+Akdital	B-ORG
 til	O
 at	O
 forlange	O
@@ -9835,7 +9835,7 @@ mere	O
 end	O
 hele	O
 "	O
-Sela	B-ORG
+Fetchr	B-ORG
 "	O
 .	O
 
@@ -9883,7 +9883,7 @@ er	O
 en	O
 hyldest	O
 til	O
-Souqalmal	B-ORG
+Bakdash	B-ORG
 .	O
 
 De	O
