@@ -42,7 +42,7 @@ def modified_readNlu(path, target_column = 1): # default to index 1 (thats where
 
 
 # mapping funciton 
-def mapping(path):
+def label_mapping(path):
     '''
     This function generates mappings between labels and their corresponding integer IDs from a labeled dataset.
 
