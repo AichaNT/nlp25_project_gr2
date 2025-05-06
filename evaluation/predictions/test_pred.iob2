@@ -940,12 +940,12 @@
 
 1	Til	O	-	-
 2	Gausdal	B-LOC	-	-
-3	Høifjellshotell	I-LOC	-	-
+3	Høifjellshotell	I-ORG	-	-
 4	og	O	-	-
 5	til	O	-	-
 6	Kampsæter	B-LOC	-	-
 7	og	O	-	-
-8	Ruten	B-ORG	-	-
+8	Ruten	B-LOC	-	-
 9	Fjellstue	I-ORG	-	-
 10	.	O	-	-
 
@@ -1030,9 +1030,9 @@
 9	.	O	-	-
 
 1	Hverken	O	-	-
-2	Justy	B-PER	-	-
+2	Justy	B-MISC	-	-
 3	eller	O	-	-
-4	Alto	B-PER	-	-
+4	Alto	B-MISC	-	-
 5	er	O	-	-
 6	på	O	-	-
 7	programmet	O	-	-
@@ -1041,7 +1041,7 @@
 10	den	O	-	-
 11	lette	O	-	-
 12	mellemklassebil	O	-	-
-13	Leone	B-PER	-	-
+13	Leone	B-MISC	-	-
 14	er	O	-	-
 15	på	O	-	-
 16	vej	O	-	-
@@ -1113,7 +1113,7 @@
 18	Rangers'	I-ORG	-	-
 19	skotter	O	-	-
 20	på	O	-	-
-21	Ibrox	B-LOC	-	-
+21	Ibrox	B-ORG	-	-
 22	.	O	-	-
 
 1	60	O	-	-
@@ -1757,7 +1757,7 @@
 33	)	O	-	-
 34	.	O	-	-
 
-1	Bassam	B-PER	-	-
+1	Bassam	B-ORG	-	-
 2	viser	O	-	-
 3	den	O	-	-
 4	medicin	O	-	-
@@ -1791,8 +1791,8 @@
 17	overstået	O	-	-
 18	kampen	O	-	-
 19	om	O	-	-
-20	Bala	B-PER	-	-
-21	Hissar	I-PER	-	-
+20	Bala	B-MISC	-	-
+21	Hissar	I-MISC	-	-
 22	og	O	-	-
 23	tilintetgøre	O	-	-
 24	Hekmatyars	B-PER	-	-
@@ -1939,7 +1939,7 @@
 3	tilsyneladende	O	-	-
 4	kontrol	O	-	-
 5	med	O	-	-
-6	Kabuls	B-LOC	-	-
+6	Kabuls	B-PER	-	-
 7	centrum	O	-	-
 8	,	O	-	-
 9	men	O	-	-
@@ -2197,7 +2197,7 @@
 18	større	O	-	-
 19	rum	O	-	-
 20	end	O	-	-
-21	Gulbenkian-museets	B-ORG	-	-
+21	Gulbenkian-museets	O	-	-
 22	prøvelokale	O	-	-
 23	om	O	-	-
 24	kompositionsteknikken	O	-	-
@@ -4510,7 +4510,7 @@
 5	var	O	-	-
 6	dermed	O	-	-
 7	lagt	O	-	-
-8	Syd	B-PER	-	-
+8	Syd	B-ORG	-	-
 9	i	O	-	-
 10	munden	O	-	-
 11	.	O	-	-
@@ -4745,7 +4745,7 @@
 16	Poststrasse	B-LOC	-	-
 17	1	O	-	-
 18	,	O	-	-
-19	W-7530	O	-	-
+19	W-7530	B-LOC	-	-
 20	Pforzheim	B-LOC	-	-
 21	.	O	-	-
 
@@ -4849,7 +4849,7 @@
 13	programsætte	O	-	-
 14	returkampen	O	-	-
 15	i	O	-	-
-16	Europa-Cup-turneringen	O	-	-
+16	Europa-Cup-turneringen	B-MISC	-	-
 17	for	O	-	-
 18	mestre	O	-	-
 19	til	O	-	-
@@ -5353,7 +5353,7 @@
 12	alderen	O	-	-
 13	,	O	-	-
 14	har	O	-	-
-15	Chlorella	O	-	-
+15	Chlorella	B-MISC	-	-
 16	hjulpet	O	-	-
 17	på	O	-	-
 18	.	O	-	-
@@ -5653,7 +5653,7 @@
 29	konflikten	O	-	-
 30	.	O	-	-
 
-1	Isafold	B-PER	-	-
+1	Isafold	O	-	-
 2	satte	O	-	-
 3	efter	O	-	-
 4	sammenstøddet	O	-	-
@@ -6079,7 +6079,7 @@
 
 1	Han	O	-	-
 2	omtaler	O	-	-
-3	Parzival	B-PER	-	-
+3	Parzival	B-MISC	-	-
 4	som	O	-	-
 5	en	O	-	-
 6	af	O	-	-
@@ -6402,7 +6402,7 @@
 2	at	O	-	-
 3	demonstrere	O	-	-
 
-1	Funar	B-ORG	-	-
+1	Funar	B-MISC	-	-
 2	afvises	O	-	-
 3	af	O	-	-
 4	de	O	-	-
@@ -6819,7 +6819,7 @@
 7	1,6	O	-	-
 8	og	O	-	-
 9	en	O	-	-
-10	2,0	O	-	-
+10	2,0	B-MISC	-	-
 11	SW	I-MISC	-	-
 12	SE	I-MISC	-	-
 13	,	O	-	-
@@ -6902,7 +6902,7 @@
 7	formuen	O	-	-
 8	i	O	-	-
 9	det	O	-	-
-10	I/S	O	-	-
+10	I/S	B-ORG	-	-
 11	,	O	-	-
 12	der	O	-	-
 13	ejer	O	-	-
@@ -7281,7 +7281,7 @@
 16	pct.	O	-	-
 17	.	O	-	-
 
-1	Sheraton	O	-	-
+1	Sheraton	B-LOC	-	-
 2	i	O	-	-
 3	Luxor	B-LOC	-	-
 4	.	O	-	-
@@ -7577,7 +7577,7 @@
 13	DEN	B-ORG	-	-
 14	DANSKE	I-ORG	-	-
 15	BANK	I-ORG	-	-
-16	TESS	B-ORG	-	-
+16	TESS	I-ORG	-	-
 17	INN	I-ORG	-	-
 18	LYNGBY	I-ORG	-	-
 19	EL-service	O	-	-
@@ -7944,7 +7944,7 @@
 11	,	O	-	-
 12	at	O	-	-
 13	franske	O	-	-
-14	Lyon	B-LOC	-	-
+14	Lyon	B-ORG	-	-
 15	,	O	-	-
 16	som	O	-	-
 17	vi	O	-	-
@@ -8541,7 +8541,7 @@
 
 1	Under	O	-	-
 2	overskriften	O	-	-
-3	Kystland	B-MISC	-	-
+3	Kystland	B-LOC	-	-
 4	byder	O	-	-
 5	hun	O	-	-
 6	på	O	-	-
@@ -8737,7 +8737,7 @@
 1	Dyrt	O	-	-
 2	klædte	O	-	-
 3	familier	O	-	-
-4	Jönsson	O	-	-
+4	Jönsson	B-PER	-	-
 5	og	O	-	-
 6	Carlsson'er	B-PER	-	-
 7	i	O	-	-
@@ -8900,7 +8900,7 @@
 17	vundet	O	-	-
 18	flertallet	O	-	-
 19	i	O	-	-
-20	Skjerns	B-ORG	-	-
+20	Skjerns	B-LOC	-	-
 21	menighedsråd	O	-	-
 22	.	O	-	-
 
@@ -9192,9 +9192,9 @@
 4	,	O	-	-
 5	PDM	B-ORG	-	-
 6	,	O	-	-
-7	Clas	B-MISC	-	-
+7	Clas	B-ORG	-	-
 8	,	O	-	-
-9	Buckler	B-MISC	-	-
+9	Buckler	B-ORG	-	-
 10	og	O	-	-
 11	overraskende	O	-	-
 12	kun	O	-	-
@@ -9205,7 +9205,7 @@
 17	Z	O	-	-
 18	"	O	-	-
 19	med	O	-	-
-20	Lemond	B-MISC	-	-
+20	Lemond	B-ORG	-	-
 21	.	O	-	-
 
 1	Alcala	B-PER	-	-
@@ -9521,7 +9521,7 @@
 3	importør	O	-	-
 4	,	O	-	-
 5	Vilh.	B-ORG	-	-
-6	Nellemann	I-ORG	-	-
+6	Nellemann	I-PER	-	-
 7	Autoimport	I-ORG	-	-
 8	,	O	-	-
 9	har	O	-	-
@@ -9553,7 +9553,7 @@
 10	i	O	-	-
 11	de	O	-	-
 12	tidligere	O	-	-
-13	Sovjetrepublikker	B-LOC	-	-
+13	Sovjetrepublikker	O	-	-
 14	Uzbekistan	B-LOC	-	-
 15	og	O	-	-
 16	Kazakstan	B-LOC	-	-
@@ -9606,8 +9606,8 @@
 4	tre	O	-	-
 5	gøglere	O	-	-
 6	fra	O	-	-
-7	Die	B-ORG	-	-
-8	Onkels	I-ORG	-	-
+7	Die	B-PER	-	-
+8	Onkels	I-PER	-	-
 9	,	O	-	-
 10	som	O	-	-
 11	jo	O	-	-
@@ -9883,7 +9883,7 @@
 5	en	O	-	-
 6	hyldest	O	-	-
 7	til	O	-	-
-8	Bakken	B-ORG	-	-
+8	Bakken	B-LOC	-	-
 9	.	O	-	-
 
 1	De	O	-	-
