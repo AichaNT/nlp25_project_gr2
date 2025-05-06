@@ -1,12 +1,23 @@
+# imports
+import random
+from collections import defaultdict, Counter
 
-def fix_overlap(train_data, dev_data, test_data, seed = 20):
+from scripts.load_data import (
+    mapping, extract_labeled_tokens,
+    read_tsv_file, write_tsv_file,
+    write_iob2_file, modified_readNlu,
+    read_iob2_file
+)
+
+# set local seed for this script
+rnd = random.Random(20)
+
+def concatenate_data(train_data, dev_data, test_data):
     '''
     
     '''
-    rng = random.Random(seed)  # Create a local RNG instance
+    total_data = train_data + dev_data + test_data
+    return total_data
 
-    # concatenate datasets
-    total_data = train_data + dev_data + test_data    
 
-    # extraxt unique entities
-    total_entities = extract_labeled_tokens(total_data)
+# Build mapping from entity to sentence and sentence to entity
