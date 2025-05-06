@@ -1,20 +1,25 @@
+# imports
 import numpy as np
 from transformers import AutoTokenizer
 
-
+# load the tokenizer 
 tokenizer = AutoTokenizer.from_pretrained("vesteinn/DanskBERT")
 
+
+# tokenizing and aligning
 def tokenize_and_align_labels(data):
     '''
-    This function tokentizes the tokens and align the labels to the newly created subwords.
-    The tokens can be split into multiple subwords, which are marked with -100, so they are ignored
-    in the model *********
+    This function tokentizes the input sentences and aligns the original NER labels with the resulting subword tokens.
+    When a token is split into multiple subwords, only the first subword retains the original label.
+    All subsequent subwords and special tokens are marked with -100 so they are ignored during model training.
 
     Parameters:
-        - data : the data we wish to tokenize and align. Must be a Huggingface dataset.
-
-    Returns: 
-        - the tokenized input with aligned labels.
+        data (Huggingface dataset): The data we wish to tokenize and align. Must be a Huggingface dataset and contain:
+            - "tokens": a list of tokens per sentence.
+            - "tag_ids": a list of corresponding label IDs per sentence.
+        
+    Returns:
+        dict: A dictionary containing tokenized inputs with an added "labels" key that holds the aligned label IDs.
     '''
 
     # tokenize the input
@@ -25,7 +30,6 @@ def tokenize_and_align_labels(data):
         max_length = 128,           # a sentence can't be longer than 128
         padding = False             # no padding to save memory
     )
-
     
     # create empty list for aligned labels (to the subwords)
     all_labels = []
@@ -52,11 +56,11 @@ def tokenize_and_align_labels(data):
                 label_ids.append(-100)
             
             else:
-                # new subword, so use the label for the original token
+                # first subword of a token, so use the label for the original token
                 label_ids.append(labels[word_id])
             
             # move on to the next word
-            prev_word_id = word_id
+            prev_word_id = word_id # track the previous word ID to catch subwords
         
         all_labels.append(label_ids)
 
@@ -66,20 +70,38 @@ def tokenize_and_align_labels(data):
     return tokenized_inputs
 
 
+# converting predictions to NER labels
 def pred2label(predictions, id2label):
     '''
-    
-    '''
-    logits, labels = predictions # unpack predictons into logits (probabilities) and labels
+    This function converts model output (logits and true labels) into NER label strings.
+    It ignores special tokens and subwords that were marked with -100 during training.
 
-    preds = np.argmax(logits, axis = -1) # choose the highest probability as the prediciton
+    Parameters:
+        predictions (Tuple[np.ndarray, np.ndarray]): A tuple of (logits, true_labels) obtained from Huggingface Trainer's ".predict()" method. 
+            - logits: Model output of shape [batch_size, seq_len, num_labels].
+            - true_labels: Ground truth label IDs, with -100 marking ignored positions.
+
+        id2label (dict): A dictionary mapping label IDs (int) to label strings.
+
+    Returns:
+        Tuple[List[List[str]], List[List[str]]]: Two lists:
+            - true_labels: list of label sequences from the gold data.
+            - pred_labels: list of label sequences from the model predictions.
+    '''
+
+    # unpack predictons into logits (probabilities) and labels
+    logits, labels = predictions 
+
+    # convert logits to predicted class IDs (take the highest scoring label for each token)
+    preds = np.argmax(logits, axis = -1) 
 
     true_labels = [] # list to hold true labels
-    pred_labels = []  # list to hold predicted labels
+    pred_labels = [] # list to hold predicted labels
 
     # convert true labels and predictions to string
     for pred_seq, label_seq in zip(preds, labels):
 
+        # only include labels for non-ignored positions (-100)
         true_labels.append([id2label[label] for label in label_seq if label != -100])
         
         pred_labels.append([id2label[pred] for pred, label in zip(pred_seq, label_seq) if label != -100])
