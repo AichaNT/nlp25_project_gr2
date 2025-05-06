@@ -19,7 +19,7 @@
 6	have	O	-	-
 7	navneforandring	O	-	-
 8	til	O	-	-
-9	Fatima	B-PER	-	-
+9	Salima	B-PER	-	-
 10	,	O	-	-
 11	men	O	-	-
 12	det	O	-	-
@@ -144,7 +144,7 @@
 
 1	Nye	O	-	-
 2	i	O	-	-
-3	Wallyscar	B-ORG	-	-
+3	RASCO	B-ORG	-	-
 
 1	Ikke	O	-	-
 2	alene	O	-	-
@@ -177,7 +177,7 @@
 20	den	O	-	-
 21	britiske	O	-	-
 22	tv-station	O	-	-
-23	SGTM	B-ORG	-	-
+23	ANB	B-ORG	-	-
 24	.	O	-	-
 
 1	Jeg	O	-	-
@@ -234,10 +234,10 @@
 19	,	O	-	-
 20	EARN-nettet	O	-	-
 21	(	O	-	-
-22	Al	B-ORG	-	-
-23	Yah	I-ORG	-	-
-24	Satellite	I-ORG	-	-
-25	Communications	I-ORG	-	-
+22	Jordan	B-ORG	-	-
+23	Phosphate	I-ORG	-	-
+24	Mines	I-ORG	-	-
+25	Company	I-ORG	-	-
 26	)	O	-	-
 27	.	O	-	-
 
@@ -320,10 +320,10 @@
 3	mange	O	-	-
 4	fag	O	-	-
 
-1	Saliha	B-PER	-	-
-2	Alaibaysi	I-PER	-	-
+1	Wafaa	B-PER	-	-
+2	Dabbas	I-PER	-	-
 3	er	O	-	-
-4	Damir	B-PER	-	-
+4	Aliya	B-PER	-	-
 5	politiske	O	-	-
 6	idol	O	-	-
 7	.	O	-	-
@@ -395,7 +395,7 @@
 15	at	O	-	-
 16	kunne	O	-	-
 17	forlade	O	-	-
-18	Langarud	B-LOC	-	-
+18	Khorramabad	B-LOC	-	-
 19	på	O	-	-
 20	en	O	-	-
 21	måde	O	-	-
@@ -427,7 +427,7 @@
 20	over	O	-	-
 21	traditionen	O	-	-
 22	i	O	-	-
-23	Kuşadası	B-LOC	-	-
+23	Qarchak	B-LOC	-	-
 24	,	O	-	-
 25	hvor	O	-	-
 26	folk	O	-	-
@@ -533,7 +533,7 @@
 4	,	O	-	-
 5	det	O	-	-
 6	er	O	-	-
-7	Tuba	B-PER	-	-
+7	Jasmin	B-PER	-	-
 8	...	O	-	-
 9	hvad	O	-	-
 10	siger	O	-	-
@@ -621,7 +621,7 @@
 9	hanen	O	-	-
 10	.	O	-	-
 
-1	Mardin	B-LOC	-	-
+1	Yanbu	B-LOC	-	-
 2	har	O	-	-
 3	fejl	O	-	-
 4	og	O	-	-
@@ -645,7 +645,7 @@
 6	tjenesten	O	-	-
 7	,	O	-	-
 8	svarede	O	-	-
-9	Ramla	B-PER	-	-
+9	Raad	B-PER	-	-
 10	.	O	-	-
 
 1	"	O	-	-
@@ -677,8 +677,8 @@
 6	kunstfond	I-MISC	-	-
 7	"	O	-	-
 8	,	O	-	-
-9	Maroc	B-ORG	-	-
-10	Telecom	I-ORG	-	-
+9	al-Jarida	B-ORG	-	-
+10	al-Maghribia	I-ORG	-	-
 11	,	O	-	-
 12	der	O	-	-
 13	gav	O	-	-
@@ -773,7 +773,7 @@
 16	flyder	O	-	-
 17	ned	O	-	-
 18	ad	O	-	-
-19	Ha'il	B-LOC	-	-
+19	A'zaz	B-LOC	-	-
 20	,	O	-	-
 21	om	O	-	-
 22	hårde	O	-	-
@@ -869,13 +869,13 @@
 1	Intet	O	-	-
 2	gennembrud	O	-	-
 3	for	O	-	-
-4	Naseej	B-ORG	-	-
+4	Aumet	B-ORG	-	-
 
-1	Yallacompare	B-ORG	-	-
+1	DenizBank	B-ORG	-	-
 2	daværende	O	-	-
 3	landstræner	O	-	-
-4	Abdul	B-PER	-	-
-5	Muhaibis	I-PER	-	-
+4	Husam	B-PER	-	-
+5	Alaitayli	I-PER	-	-
 6	kunne	O	-	-
 7	ikke	O	-	-
 8	længere	O	-	-
@@ -888,7 +888,7 @@
 1	11	O	-	-
 2	kratere	O	-	-
 3	i	O	-	-
-4	Egypten	B-LOC	-	-
+4	Silopi	B-LOC	-	-
 5	tyder	O	-	-
 6	på	O	-	-
 7	,	O	-	-
@@ -903,7 +903,7 @@
 16	hoppede	O	-	-
 17	hen	O	-	-
 18	over	O	-	-
-19	Saham	B-LOC	-	-
+19	Kastamonu	B-LOC	-	-
 
 1	Derfor	O	-	-
 2	er	O	-	-
@@ -1028,7 +1028,7 @@
 15	læreranstalter	O	-	-
 16	.	O	-	-
 
-1	Abjjad	B-ORG	-	-
+1	Al-Muhaidib	B-ORG	-	-
 2	forsøger	O	-	-
 3	nu	O	-	-
 4	at	O	-	-
@@ -1053,7 +1053,7 @@
 
 1	Når	O	-	-
 2	"	O	-	-
-3	Managem	B-ORG	-	-
+3	Al-Nahar	B-ORG	-	-
 4	"	O	-	-
 5	slynges	O	-	-
 6	ud	O	-	-
@@ -1083,7 +1083,7 @@
 3	havde	O	-	-
 4	hørt	O	-	-
 5	socialdemokraten	O	-	-
-6	Imad	B-PER	-	-
+6	Isam	B-PER	-	-
 7	udråbe	O	-	-
 8	den	O	-	-
 9	demokratiske	O	-	-
@@ -1100,16 +1100,16 @@
 4	meget	O	-	-
 5	at	O	-	-
 6	takke	O	-	-
-7	Manna	B-PER	-	-
+7	Hisham	B-PER	-	-
 8	og	O	-	-
-9	Marafiq	B-ORG	-	-
+9	Epilert	B-ORG	-	-
 10	for	O	-	-
 11	.	O	-	-
 
 1	Han	O	-	-
 2	kiggede	O	-	-
 3	på	O	-	-
-4	Abdulahi	B-PER	-	-
+4	Lulu	B-PER	-	-
 5	,	O	-	-
 6	der	O	-	-
 7	havde	O	-	-
@@ -1243,7 +1243,7 @@
 7	i	O	-	-
 8	juleugen	O	-	-
 9	på	O	-	-
-10	Fasa	B-LOC	-	-
+10	Gaza	B-LOC	-	-
 11	koster	O	-	-
 12	4.415	O	-	-
 13	kr.	O	-	-
@@ -1301,17 +1301,17 @@
 15	.	O	-	-
 
 1	Til	O	-	-
-2	al-Zahf	B-ORG	-	-
-3	Al-Akhdar	I-ORG	-	-
+2	al-Fajr	B-ORG	-	-
+3	al-Jadid	I-ORG	-	-
 4	og	O	-	-
 5	til	O	-	-
-6	Saudia	B-ORG	-	-
+6	Daraty	B-ORG	-	-
 7	og	O	-	-
-8	Al-Kifah	B-ORG	-	-
-9	al-Arabi	I-ORG	-	-
+8	El	B-ORG	-	-
+9	Mehwar	I-ORG	-	-
 10	.	O	-	-
 
-1	Mrsool	B-ORG	-	-
+1	ONTV	B-ORG	-	-
 2	har	O	-	-
 3	en	O	-	-
 4	særlig	O	-	-
@@ -1355,7 +1355,7 @@
 9	også	O	-	-
 10	at	O	-	-
 11	støtte	O	-	-
-12	Adela	B-PER	-	-
+12	Nazih’	B-PER	-	-
 13	.	O	-	-
 
 1	Suverænitetsafgivelse	O	-	-
@@ -1526,7 +1526,7 @@
 20	.	O	-	-
 
 1	Også	O	-	-
-2	Alshaya	B-ORG	-	-
+2	Wasla	B-ORG	-	-
 3	har	O	-	-
 4	udtalt	O	-	-
 5	sig	O	-	-
@@ -1548,11 +1548,11 @@
 14	sammenstødet	O	-	-
 15	"	O	-	-
 16	med	O	-	-
-17	Aldar	B-ORG	-	-
-18	Properties	I-ORG	-	-
+17	al-Zahf	B-ORG	-	-
+18	Al-Akhdar	I-ORG	-	-
 19	skotter	O	-	-
 20	på	O	-	-
-21	Dhamar	B-LOC	-	-
+21	Viranşehir	B-LOC	-	-
 22	.	O	-	-
 
 1	De	O	-	-
@@ -1603,7 +1603,7 @@
 22	af	O	-	-
 23	udvalg	O	-	-
 24	af	O	-	-
-25	Haider	B-PER	-	-
+25	Irfan	B-PER	-	-
 26	.	O	-	-
 
 1	Skipper	O	-	-
@@ -1615,7 +1615,7 @@
 7	i	O	-	-
 8	går	O	-	-
 9	i	O	-	-
-10	Bonab	B-LOC	-	-
+10	Bağcılar	B-LOC	-	-
 11	med	O	-	-
 12	rederiets	O	-	-
 13	advokat	O	-	-
@@ -1631,27 +1631,27 @@
 6	op	O	-	-
 7	sammen	O	-	-
 8	med	O	-	-
-9	Sabah	B-PER	-	-
+9	Abed	B-PER	-	-
 10	erklærede	O	-	-
 11	yndling	O	-	-
 12	,	O	-	-
 13	væbneren	O	-	-
-14	Madiha	B-PER	-	-
+14	Saeed	B-PER	-	-
 15	af	O	-	-
-16	Dahuk	B-LOC	-	-
+16	Toukh	B-LOC	-	-
 17	.	O	-	-
 
 1	Sekunder	O	-	-
 2	før	O	-	-
 3	sammenstødet	O	-	-
 4	var	O	-	-
-5	Salman	B-PER	-	-
+5	Mouna	B-PER	-	-
 6	blevet	O	-	-
 7	overhalet	O	-	-
 8	af	O	-	-
 9	skoleinspektøren	O	-	-
 10	på	O	-	-
-11	GoEjaza	B-ORG	-	-
+11	Nagham	B-ORG	-	-
 12	,	O	-	-
 13	som	O	-	-
 14	i	O	-	-
@@ -1682,16 +1682,16 @@
 39	.	O	-	-
 
 1	Sagde	O	-	-
-2	Jumeirah	B-ORG	-	-
-3	Hotels	I-ORG	-	-
+2	ACWA	B-ORG	-	-
+3	Power	I-ORG	-	-
 4	formand	O	-	-
 5	,	O	-	-
-6	Hilal	B-PER	-	-
-7	Amin	I-PER	-	-
+6	Muhamad	B-PER	-	-
+7	Alsayed	I-PER	-	-
 8	,	O	-	-
 9	til	O	-	-
-10	Nagham	B-PER	-	-
-11	Alaijaybi	I-PER	-	-
+10	Samina	B-PER	-	-
+11	Khawaldeh	I-PER	-	-
 12	.	O	-	-
 
 1	"	O	-	-
@@ -1766,7 +1766,7 @@
 4	1630	O	-	-
 5	OPLÆSER	O	-	-
 6	=	O	-	-
-7	Gulfsat	B-ORG	-	-
+7	Ad-Dustour	B-ORG	-	-
 
 1	Tynde	O	-	-
 2	gummisko	O	-	-
@@ -1856,7 +1856,7 @@
 3	mig	O	-	-
 4	vel	O	-	-
 5	,	O	-	-
-6	Jihan	B-PER	-	-
+6	Leila	B-PER	-	-
 7	,	O	-	-
 8	ja	O	-	-
 9	der	O	-	-
@@ -1867,7 +1867,7 @@
 14	.	O	-	-
 
 1	Kære	O	-	-
-2	Mounira	B-PER	-	-
+2	Anisa	B-PER	-	-
 3	!	O	-	-
 
 1	I	O	-	-
@@ -1884,7 +1884,7 @@
 12	ting	O	-	-
 13	.	O	-	-
 
-1	Aïcha	B-ORG	-	-
+1	ADNOC	B-ORG	-	-
 2	nærmest	O	-	-
 3	foregående	O	-	-
 4	sejr	O	-	-
@@ -1982,8 +1982,8 @@
 18	konkurrencen	O	-	-
 19	op	O	-	-
 20	med	O	-	-
-21	Saudi	B-LOC	-	-
-22	Arabien	I-LOC	-	-
+21	Khamis	B-LOC	-	-
+22	Mushait	I-LOC	-	-
 23	og	O	-	-
 24	andre	O	-	-
 25	skattely	O	-	-
@@ -2029,7 +2029,7 @@
 13	i	O	-	-
 14	en	O	-	-
 15	række	O	-	-
-16	Noon	B-ORG	-	-
+16	Agility	B-ORG	-	-
 17	og	O	-	-
 18	OBS-butikker	O	-	-
 19	,	O	-	-
@@ -2108,8 +2108,8 @@
 15	filippinske	O	-	-
 16	præsidentfrue	O	-	-
 17	,	O	-	-
-18	Zahida	B-PER	-	-
-19	El nekby	I-PER	-	-
+18	Naja	B-PER	-	-
+19	Jassim	I-PER	-	-
 20	1.500	O	-	-
 21	par	O	-	-
 22	sko	O	-	-
@@ -2125,7 +2125,7 @@
 32	i	O	-	-
 33	Malacanang-paladset	O	-	-
 34	i	O	-	-
-35	Gorgan	B-LOC	-	-
+35	Hamadan	B-LOC	-	-
 36	.	O	-	-
 
 1	"	O	-	-
@@ -2188,8 +2188,8 @@
 12	"	O	-	-
 13	,	O	-	-
 14	siger	O	-	-
-15	Gani	B-PER	-	-
-16	Alairaythi	I-PER	-	-
+15	Liban	B-PER	-	-
+16	Sehmoudine	I-PER	-	-
 17	.	O	-	-
 
 1	"	O	-	-
@@ -2223,8 +2223,8 @@
 29	,	O	-	-
 30	"	O	-	-
 31	faldt	O	-	-
-32	Dalia	B-PER	-	-
-33	Samy	I-PER	-	-
+32	Halima	B-PER	-	-
+33	Akl	I-PER	-	-
 34	ind	O	-	-
 35	i	O	-	-
 36	samtalen	O	-	-
@@ -2252,7 +2252,7 @@
 20	som	O	-	-
 21	overassistent	O	-	-
 22	fra	O	-	-
-23	Al-Ouruba	B-ORG	-	-
+23	PubliTools	B-ORG	-	-
 24	på	O	-	-
 25	grund	O	-	-
 26	af	O	-	-
@@ -2273,15 +2273,15 @@
 2	lykke	O	-	-
 3	til	O	-	-
 4	guldsmed	O	-	-
-5	Hussein	B-PER	-	-
-6	Fahmy	I-PER	-	-
-7	Ba Baryjah	I-PER	-	-
+5	Heba	B-PER	-	-
+6	Bhatia	I-PER	-	-
+7	Al kaabi	I-PER	-	-
 8	og	O	-	-
 9	til	O	-	-
 10	korpussølvsmed	O	-	-
-11	Saba	B-PER	-	-
-12	Alkhaldi	I-PER	-	-
-13	Binaabd Allah	I-PER	-	-
+11	May	B-PER	-	-
+12	Naima	I-PER	-	-
+13	Suhayl	I-PER	-	-
 14	.	O	-	-
 
 1	Det	O	-	-
@@ -2302,8 +2302,8 @@
 16	1986	O	-	-
 17	af	O	-	-
 18	undervisningsminister	O	-	-
-19	Muhammed	B-PER	-	-
-20	Raj	I-PER	-	-
+19	Ubah	B-PER	-	-
+20	Faleh	I-PER	-	-
 21	.	O	-	-
 
 1	Faktisk	O	-	-
@@ -2347,7 +2347,7 @@
 22	bofællesskabet	O	-	-
 23	.	O	-	-
 
-1	Amaal	B-PER	-	-
+1	Tasnim	B-PER	-	-
 2	sad	O	-	-
 3	tavs	O	-	-
 4	i	O	-	-
@@ -2511,19 +2511,19 @@
 5	bemærke	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	Borouge	B-ORG	-	-
+8	Kezad	B-ORG	-	-
 9	forsvar	O	-	-
 10	er	O	-	-
 11	blevet	O	-	-
 12	mere	O	-	-
 13	stabilt	O	-	-
 14	efter	O	-	-
-15	Jihad	B-PER	-	-
+15	Yusef	B-PER	-	-
 16	entre	O	-	-
 17	"	O	-	-
 18	.	O	-	-
 
-1	Hossein	B-PER	-	-
+1	Sabri	B-PER	-	-
 2	viser	O	-	-
 3	den	O	-	-
 4	medicin	O	-	-
@@ -2542,7 +2542,7 @@
 2	kilde	O	-	-
 3	fra	O	-	-
 4	mujahedinlederen	O	-	-
-5	Shazia	B-PER	-	-
+5	Firas	B-PER	-	-
 6	stab	O	-	-
 7	sagde	O	-	-
 8	,	O	-	-
@@ -2557,11 +2557,11 @@
 17	overstået	O	-	-
 18	kampen	O	-	-
 19	om	O	-	-
-20	Khomeyni	B-LOC	-	-
-21	Shahr	I-LOC	-	-
+20	Ad	B-LOC	-	-
+21	Diwaniyah	I-LOC	-	-
 22	og	O	-	-
 23	tilintetgøre	O	-	-
-24	Kermanshah	B-LOC	-	-
+24	Elazig	B-LOC	-	-
 25	luftværnsskyts	O	-	-
 26	"	O	-	-
 27	.	O	-	-
@@ -2650,7 +2650,7 @@
 14	:	O	-	-
 15	Ring	O	-	-
 16	til	O	-	-
-17	Saidal	B-ORG	-	-
+17	Wanasah	B-ORG	-	-
 18	billetkontor	O	-	-
 19	på	O	-	-
 20	33	O	-	-
@@ -2705,12 +2705,12 @@
 14	kedelige	O	-	-
 15	.	O	-	-
 
-1	Zahid	B-PER	-	-
+1	Shahin	B-PER	-	-
 2	havde	O	-	-
 3	tilsyneladende	O	-	-
 4	kontrol	O	-	-
 5	med	O	-	-
-6	Ereğli	B-LOC	-	-
+6	Üsküdarr	B-LOC	-	-
 7	centrum	O	-	-
 8	,	O	-	-
 9	men	O	-	-
@@ -2766,7 +2766,7 @@
 10	relativt	O	-	-
 11	beskedne	O	-	-
 12	informatikprogram	O	-	-
-13	Adaraweesh	B-ORG	-	-
+13	Al-Ittihad	B-ORG	-	-
 14	,	O	-	-
 15	som	O	-	-
 16	ikke	O	-	-
@@ -2821,8 +2821,8 @@
 4	i	O	-	-
 5	semifinalen	O	-	-
 6	polakken	O	-	-
-7	Imane	B-PER	-	-
-8	Jarrar	I-PER	-	-
+7	Malik	B-PER	-	-
+8	Sahlali	I-PER	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	er	O	-	-
@@ -2892,7 +2892,7 @@
 1	Når	O	-	-
 2	vi	O	-	-
 3	lægger	O	-	-
-4	Arabot	B-ORG	-	-
+4	Cima	B-ORG	-	-
 5	røntgenfilm	O	-	-
 6	af	O	-	-
 7	den	O	-	-
@@ -2998,8 +2998,8 @@
 34	.	O	-	-
 
 1	Dommeren	O	-	-
-2	Najla	B-PER	-	-
-3	Alaa	B-PER	-	-
+2	Said	B-PER	-	-
+3	Zarina	B-PER	-	-
 4	lagde	O	-	-
 5	stor	O	-	-
 6	vægt	O	-	-
@@ -3056,7 +3056,7 @@
 7	gidsler	O	-	-
 8	.	O	-	-
 
-1	Babol	B-LOC	-	-
+1	Miandoab	B-LOC	-	-
 2	(	O	-	-
 3	t.h.	O	-	-
 4	)	O	-	-
@@ -3084,7 +3084,7 @@
 18	større	O	-	-
 19	rum	O	-	-
 20	end	O	-	-
-21	Solfeh	B-ORG	-	-
+21	Syriatel	B-ORG	-	-
 22	prøvelokale	O	-	-
 23	om	O	-	-
 24	kompositionsteknikken	O	-	-
@@ -3099,8 +3099,8 @@
 33	"	O	-	-
 34	.	O	-	-
 
-1	Amjad	B-PER	-	-
-2	Sawahiri	I-PER	-	-
+1	Qasim	B-PER	-	-
+2	Sahlah	I-PER	-	-
 3	spiller	O	-	-
 4	den	O	-	-
 5	ensomme	O	-	-
@@ -3194,7 +3194,7 @@
 14	.	O	-	-
 
 1	I	O	-	-
-2	Darab	B-LOC	-	-
+2	Kirkuk	B-LOC	-	-
 3	,	O	-	-
 4	hvor	O	-	-
 5	tre	O	-	-
@@ -3330,10 +3330,10 @@
 12	,	O	-	-
 13	"	O	-	-
 14	siger	O	-	-
-15	Nusrat	B-PER	-	-
+15	Zeina	B-PER	-	-
 16	.	O	-	-
 
-1	Belal	B-PER	-	-
+1	Kashif	B-PER	-	-
 2	var	O	-	-
 3	maniodepressiv	O	-	-
 
@@ -3354,7 +3354,7 @@
 5	han	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	Sela	B-ORG	-	-
+8	Du	B-ORG	-	-
 9	vil	O	-	-
 10	lægge	O	-	-
 11	op	O	-	-
@@ -3370,8 +3370,8 @@
 21	mellem	O	-	-
 22	forbundet	O	-	-
 23	og	O	-	-
-24	Amanat	B-ORG	-	-
-25	Holdings	I-ORG	-	-
+24	alrajhi	B-ORG	-	-
+25	bank	I-ORG	-	-
 26	.	O	-	-
 
 1	Men	O	-	-
@@ -3428,8 +3428,8 @@
 7	går	O	-	-
 8	til	O	-	-
 9	civilingeniør	O	-	-
-10	Zain	B-PER	-	-
-11	Elbanon	I-PER	-	-
+10	Fares	B-PER	-	-
+11	Samreen	I-PER	-	-
 12	,	O	-	-
 13	der	O	-	-
 14	i	O	-	-
@@ -3440,14 +3440,14 @@
 19	års	O	-	-
 20	fængsel	O	-	-
 21	og	O	-	-
-22	Lama	B-PER	-	-
-23	Abdulla	I-PER	-	-
+22	Samar	B-PER	-	-
+23	Alaizayri	I-PER	-	-
 24	,	O	-	-
 25	borgmester	O	-	-
 26	og	O	-	-
 27	frihedshelt	O	-	-
 28	i	O	-	-
-29	Khash	B-LOC	-	-
+29	Shahrud	B-LOC	-	-
 30	.	O	-	-
 
 1	Det	O	-	-
@@ -3478,9 +3478,9 @@
 1	De	O	-	-
 2	kunne	O	-	-
 3	være	O	-	-
-4	Kasim	B-PER	-	-
+4	Mahamed	B-PER	-	-
 5	og	O	-	-
-6	Radia	B-PER	-	-
+6	Lama	B-PER	-	-
 7	,	O	-	-
 8	som	O	-	-
 9	altid	O	-	-
@@ -3493,7 +3493,7 @@
 16	"	O	-	-
 17	.	O	-	-
 
-1	Attajdid	B-ORG	-	-
+1	MarsaMaroc	B-ORG	-	-
 2	ledelse	O	-	-
 3	har	O	-	-
 4	tilsyneladende	O	-	-
@@ -3577,7 +3577,7 @@
 10	kapitler	O	-	-
 11	.	O	-	-
 
-1	Talal	B-PER	-	-
+1	Fatiha	B-PER	-	-
 2	øjne	O	-	-
 3	så	O	-	-
 4	ud	O	-	-
@@ -3620,7 +3620,7 @@
 17	domstolene	O	-	-
 18	,	O	-	-
 19	før	O	-	-
-20	Fetchr	B-ORG	-	-
+20	Unifonic	B-ORG	-	-
 21	afgørelse	O	-	-
 22	foreligger	O	-	-
 23	.	O	-	-
@@ -3643,7 +3643,7 @@
 5	tilladt	O	-	-
 6	,	O	-	-
 7	men	O	-	-
-8	Ikram	B-PER	-	-
+8	Sami	B-PER	-	-
 9	var	O	-	-
 10	vist	O	-	-
 11	et	O	-	-
@@ -3676,7 +3676,7 @@
 38	sagtens	O	-	-
 39	kunne	O	-	-
 40	have	O	-	-
-41	Lamia	B-PER	-	-
+41	Kamila	B-PER	-	-
 42	liggende	O	-	-
 43	på	O	-	-
 44	tværs	O	-	-
@@ -3789,7 +3789,7 @@
 2	snehvide	O	-	-
 3	propagandapalads	O	-	-
 4	i	O	-	-
-5	Abha	B-LOC	-	-
+5	Shiraz	B-LOC	-	-
 6	beskæftigede	O	-	-
 7	flere	O	-	-
 8	psykologer	O	-	-
@@ -3859,7 +3859,7 @@
 7	arbejder	O	-	-
 8	frivilligt	O	-	-
 9	hos	O	-	-
-10	Al-Waie	B-ORG	-	-
+10	KIPCO	B-ORG	-	-
 11	som	O	-	-
 12	kontaktperson	O	-	-
 13	for	O	-	-
@@ -3872,7 +3872,7 @@
 3	på	O	-	-
 4	nogle	O	-	-
 5	af	O	-	-
-6	Nahavand	B-LOC	-	-
+6	Gorgan	B-LOC	-	-
 7	postkontorer	O	-	-
 8	fik	O	-	-
 9	den	O	-	-
@@ -3940,25 +3940,25 @@
 5	sine	O	-	-
 6	sønner	O	-	-
 7	,	O	-	-
-8	Nada	B-PER	-	-
+8	Iman	B-PER	-	-
 9	,	O	-	-
 10	10	O	-	-
 11	år	O	-	-
 12	,	O	-	-
-13	Sidra	B-PER	-	-
+13	Dahlia	B-PER	-	-
 14	,	O	-	-
 15	17	O	-	-
 16	år	O	-	-
 17	,	O	-	-
 18	og	O	-	-
-19	Zahir	B-PER	-	-
+19	Sheikh	B-PER	-	-
 20	,	O	-	-
 21	19	O	-	-
 22	år	O	-	-
 23	.	O	-	-
 
 1	I	O	-	-
-2	Soma	B-LOC	-	-
+2	Turgutlu	B-LOC	-	-
 3	derimod	O	-	-
 4	er	O	-	-
 5	det	O	-	-
@@ -4008,7 +4008,7 @@
 4	man	O	-	-
 5	påvirke	O	-	-
 6	et	O	-	-
-7	Khanjarah	B-LOC	-	-
+7	Niğde	B-LOC	-	-
 8	lukkede	O	-	-
 9	system	O	-	-
 10	?	O	-	-
@@ -4025,7 +4025,7 @@
 10	bombardementet	O	-	-
 11	,	O	-	-
 12	sagde	O	-	-
-13	Maryam	B-PER	-	-
+13	Melih	B-PER	-	-
 14	,	O	-	-
 15	men	O	-	-
 16	tallene	O	-	-
@@ -4060,7 +4060,7 @@
 8	om	O	-	-
 9	,	O	-	-
 10	at	O	-	-
-11	Salam	B-PER	-	-
+11	Hafsa	B-PER	-	-
 12	og	O	-	-
 13	hendes	O	-	-
 14	mand	O	-	-
@@ -4096,7 +4096,7 @@
 21	til	O	-	-
 22	øen	O	-	-
 23	fra	O	-	-
-24	Ahar	B-LOC	-	-
+24	Varamin	B-LOC	-	-
 25	.	O	-	-
 
 1	Fast	O	-	-
@@ -4178,8 +4178,8 @@
 13	for	O	-	-
 14	politiet	O	-	-
 15	,	O	-	-
-16	Rani	B-PER	-	-
-17	Chaudhry	I-PER	-	-
+16	Saleem	B-PER	-	-
+17	Al rashedi	I-PER	-	-
 18	.	O	-	-
 
 1	Vinder	O	-	-
@@ -4207,8 +4207,8 @@
 5	mod	O	-	-
 6	de	O	-	-
 7	snedækkede	O	-	-
-8	Ad	B-LOC	-	-
-9	Diwaniyah	I-LOC	-	-
+8	Hafar	B-LOC	-	-
+9	Al-Batin	I-LOC	-	-
 10	bjerge	O	-	-
 11	.	O	-	-
 
@@ -4241,7 +4241,7 @@
 4	at	O	-	-
 5	udviklingen	O	-	-
 6	i	O	-	-
-7	Sur	B-LOC	-	-
+7	Ereğli	B-LOC	-	-
 8	kører	O	-	-
 9	så	O	-	-
 10	hurtigt	O	-	-
@@ -4252,8 +4252,8 @@
 15	pusten	O	-	-
 16	.	O	-	-
 
-1	Rayan	B-PER	-	-
-2	El kutby	I-PER	-	-
+1	Hena	B-PER	-	-
+2	Tariq	I-PER	-	-
 3	,	O	-	-
 4	berømt	O	-	-
 5	billedkunstner	O	-	-
@@ -4263,7 +4263,7 @@
 9	årets	O	-	-
 10	kunstnersmykke	O	-	-
 11	for	O	-	-
-12	360VUZ	B-ORG	-	-
+12	Al-Ouruba	B-ORG	-	-
 13	.	O	-	-
 
 1	Samtidig	O	-	-
@@ -4295,7 +4295,7 @@
 27	løb	O	-	-
 28	.	O	-	-
 
-1	e&	B-ORG	-	-
+1	Nadec	B-ORG	-	-
 2	topmodel	O	-	-
 3	,	O	-	-
 4	den	O	-	-
@@ -4370,7 +4370,7 @@
 3	det	O	-	-
 4	opstablet	O	-	-
 5	foran	O	-	-
-6	Kausar	B-PER	-	-
+6	Zahida	B-PER	-	-
 7	hus	O	-	-
 8	.	O	-	-
 
@@ -4476,8 +4476,8 @@
 8	og	O	-	-
 9	chef	O	-	-
 10	for	O	-	-
-11	QNB	B-ORG	-	-
-12	ALAHLI	I-ORG	-	-
+11	Maroc	B-ORG	-	-
+12	Telecom	I-ORG	-	-
 13	1975	O	-	-
 14	,	O	-	-
 15	men	O	-	-
@@ -4489,7 +4489,7 @@
 21	som	O	-	-
 22	konsulent	O	-	-
 23	i	O	-	-
-24	Eco-Médias	B-ORG	-	-
+24	Tunisavia	B-ORG	-	-
 25	.	O	-	-
 
 1	Sæsonsvingninger	O	-	-
@@ -4565,7 +4565,7 @@
 22	deres	O	-	-
 23	hænder	O	-	-
 24	som	O	-	-
-25	Mina	B-PER	-	-
+25	Mahmud	B-PER	-	-
 26	.	O	-	-
 
 1	Blød	O	-	-
@@ -4697,21 +4697,21 @@
 4	vise	O	-	-
 5	pistolen	O	-	-
 6	for	O	-	-
-7	Nazif	B-PER	-	-
-8	Albohlool	I-PER	-	-
+7	Ihsan	B-PER	-	-
+8	Al kibaly	I-PER	-	-
 9	fætter	O	-	-
 10	og	O	-	-
 11	svigersøn	O	-	-
 12	,	O	-	-
-13	Nida	B-PER	-	-
-14	Al thahouri	I-PER	-	-
-15	Hasan	I-PER	-	-
-16	Karim	I-PER	-	-
+13	Idris	B-PER	-	-
+14	Siwarah	I-PER	-	-
+15	Sawamirah	I-PER	-	-
+16	Abu Jabir	I-PER	-	-
 17	,	O	-	-
 18	der	O	-	-
 19	dengang	O	-	-
 20	var	O	-	-
-21	Kilis	B-LOC	-	-
+21	Ilam	B-LOC	-	-
 22	industriminister	O	-	-
 23	.	O	-	-
 
@@ -4743,7 +4743,7 @@
 7	?	O	-	-
 8	"	O	-	-
 
-1	Omantel	B-ORG	-	-
+1	al-Alam	B-ORG	-	-
 2	tal	O	-	-
 3	for	O	-	-
 4	udviklingen	O	-	-
@@ -4794,8 +4794,8 @@
 24	,	O	-	-
 25	"	O	-	-
 26	siger	O	-	-
-27	Muhammad	B-PER	-	-
-28	Al shuraideh	I-PER	-	-
+27	Nada	B-PER	-	-
+28	Hamouda	I-PER	-	-
 29	.	O	-	-
 
 1	Lokale	O	-	-
@@ -4824,13 +4824,13 @@
 24	§	O	-	-
 25	76	O	-	-
 
-1	Siger	B-ORG	-	-
+1	Arabot	B-ORG	-	-
 2	=	O	-	-
 3	1:35	O	-	-
 
 1	Også	O	-	-
 2	i	O	-	-
-3	Kerman	B-LOC	-	-
+3	Rukban	B-LOC	-	-
 4	syntes	O	-	-
 5	der	O	-	-
 6	at	O	-	-
@@ -4937,7 +4937,7 @@
 26	ældre	O	-	-
 27	bror	O	-	-
 28	,	O	-	-
-29	Hamdi	B-PER	-	-
+29	Yusuf	B-PER	-	-
 30	,	O	-	-
 31	havde	O	-	-
 32	han	O	-	-
@@ -4965,8 +4965,8 @@
 54	sin	O	-	-
 55	far	O	-	-
 56	på	O	-	-
-57	Port	B-LOC	-	-
-58	Said	I-LOC	-	-
+57	Robat	B-LOC	-	-
+58	Karim	I-LOC	-	-
 59	ved	O	-	-
 60	det	O	-	-
 61	vigtige	O	-	-
@@ -4979,8 +4979,8 @@
 2	er	O	-	-
 3	elevgruppen	O	-	-
 4	på	O	-	-
-5	Akhbar	B-ORG	-	-
-6	Nouakchott	I-ORG	-	-
+5	Dubai	B-ORG	-	-
+6	Investments	I-ORG	-	-
 7	skole	O	-	-
 8	meget	O	-	-
 9	kreativt	O	-	-
@@ -5029,7 +5029,7 @@
 34	returkampen	O	-	-
 35	.	O	-	-
 
-1	Tabbah	B-ORG	-	-
+1	Shamsina	B-ORG	-	-
 2	er	O	-	-
 3	skæv	O	-	-
 4	i	O	-	-
@@ -5055,13 +5055,13 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Nilesat	B-ORG	-	-
+9	SGTM	B-ORG	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
 13	til	O	-	-
 14	skotske	O	-	-
-15	Swvl	B-ORG	-	-
+15	Shawarmer	B-ORG	-	-
 16	var	O	-	-
 17	til	O	-	-
 18	at	O	-	-
@@ -5090,7 +5090,7 @@
 41	brandstorm	O	-	-
 42	.	O	-	-
 
-1	Kezad	B-ORG	-	-
+1	OSN	B-ORG	-	-
 2	,	O	-	-
 3	der	O	-	-
 4	for	O	-	-
@@ -5216,7 +5216,7 @@
 19	om	O	-	-
 20	at	O	-	-
 21	støtte	O	-	-
-22	Zakia	B-PER	-	-
+22	Najma	B-PER	-	-
 23	.	O	-	-
 
 1	OPLÆG	O	-	-
@@ -5376,7 +5376,7 @@
 16	hos	O	-	-
 17	det	O	-	-
 18	private	O	-	-
-19	Ajeer	B-ORG	-	-
+19	Okaz	B-ORG	-	-
 20	,	O	-	-
 21	hvor	O	-	-
 22	han	O	-	-
@@ -5414,7 +5414,7 @@
 5	opvarmet	O	-	-
 6	pøl	O	-	-
 7	og	O	-	-
-8	MBC	B-ORG	-	-
+8	Somaca	B-ORG	-	-
 9	.	O	-	-
 
 1	Så	O	-	-
@@ -5435,13 +5435,13 @@
 16	at	O	-	-
 17	være	O	-	-
 18	,	O	-	-
-19	Ayah	B-PER	-	-
+19	Osama	B-PER	-	-
 20	!	O	-	-
 21	"	O	-	-
 
 1	Udstyrsmæssigt	O	-	-
 2	placerer	O	-	-
-3	AKKASA	B-ORG	-	-
+3	Al-Mashriq	B-ORG	-	-
 4	sig	O	-	-
 5	fint	O	-	-
 6	i	O	-	-
@@ -5519,7 +5519,7 @@
 
 1	Foto	O	-	-
 2	:	O	-	-
-3	Samia	B-PER	-	-
+3	Laila	B-PER	-	-
 
 1	Børnenes	O	-	-
 2	forskellige	O	-	-
@@ -5528,9 +5528,9 @@
 5	ganske	O	-	-
 6	glimrende	O	-	-
 7	i	O	-	-
-8	SABIC	B-ORG	-	-
-9	Agri-Nutrients	I-ORG	-	-
-10	Company	I-ORG	-	-
+8	ibTECHar	B-ORG	-	-
+9	Digital	I-ORG	-	-
+10	Solutions	I-ORG	-	-
 11	.	O	-	-
 
 1	"	O	-	-
@@ -5602,7 +5602,7 @@
 21	,	O	-	-
 22	(	O	-	-
 23	som	O	-	-
-24	Halima	B-PER	-	-
+24	Omar	B-PER	-	-
 25	f.eks.	O	-	-
 26	gør	O	-	-
 27	)	O	-	-
@@ -5712,7 +5712,7 @@
 5	indenfor	O	-	-
 6	i	O	-	-
 7	burgerkæden	O	-	-
-8	Somaca	B-ORG	-	-
+8	Al-Kalima	B-ORG	-	-
 9	behageligt	O	-	-
 10	varme	O	-	-
 11	lokaler	O	-	-
@@ -5789,9 +5789,9 @@
 3	fælles	O	-	-
 4	Billedanalysegruppe	O	-	-
 5	fra	O	-	-
-6	Lamsa	B-ORG	-	-
+6	al-Furat	B-ORG	-	-
 7	og	O	-	-
-8	OSN	B-ORG	-	-
+8	Sela	B-ORG	-	-
 9	har	O	-	-
 10	konstrueret	O	-	-
 11	en	O	-	-
@@ -5828,7 +5828,7 @@
 
 1	O	O	-	-
 2	=	O	-	-
-3	Fatsa	B-LOC	-	-
+3	Zarqa	B-LOC	-	-
 
 1	Man	O	-	-
 2	ved	O	-	-
@@ -5839,7 +5839,7 @@
 7	får	O	-	-
 8	syd-	O	-	-
 9	og	O	-	-
-10	Ordu	B-LOC	-	-
+10	Zabol	B-LOC	-	-
 11	til	O	-	-
 12	at	O	-	-
 13	bytte	O	-	-
@@ -5871,7 +5871,7 @@
 6	se	O	-	-
 7	,	O	-	-
 8	at	O	-	-
-9	Ahmad	B-PER	-	-
+9	Hinna	B-PER	-	-
 10	overhovedet	O	-	-
 11	har	O	-	-
 12	nogen	O	-	-
@@ -5914,8 +5914,8 @@
 4	f.eks.	O	-	-
 5	flygtningene	O	-	-
 6	på	O	-	-
-7	As	B-LOC	-	-
-8	Samawah	I-LOC	-	-
+7	Housh	B-LOC	-	-
+8	Eissa	I-LOC	-	-
 9	fået	O	-	-
 10	.	O	-	-
 
@@ -5983,8 +5983,8 @@
 15	forskningsinstitutter	O	-	-
 16	.	O	-	-
 
-1	El	B-ORG	-	-
-2	Heddaf	I-ORG	-	-
+1	Akhbar	B-ORG	-	-
+2	Nouakchott	I-ORG	-	-
 3	har	O	-	-
 4	komponeret	O	-	-
 5	romantisk	O	-	-
@@ -6066,7 +6066,7 @@
 28	så	O	-	-
 29	store	O	-	-
 30	som	O	-	-
-31	Suez	B-LOC	-	-
+31	Ceyhan	B-LOC	-	-
 32	,	O	-	-
 33	så	O	-	-
 34	de	O	-	-
@@ -6096,7 +6096,7 @@
 8	de	O	-	-
 9	læse	O	-	-
 10	-	O	-	-
-11	Assia	B-PER	-	-
+11	Anis	B-PER	-	-
 12	kunne	O	-	-
 13	-	O	-	-
 14	at	O	-	-
@@ -6132,8 +6132,8 @@
 17	,	O	-	-
 18	"	O	-	-
 19	siger	O	-	-
-20	Ayman	B-PER	-	-
-21	Sahmud	I-PER	-	-
+20	Yasemin	B-PER	-	-
+21	Sawahiry	I-PER	-	-
 22	.	O	-	-
 
 1	I	O	-	-
@@ -6147,7 +6147,7 @@
 9	i	O	-	-
 10	behandling	O	-	-
 11	hos	O	-	-
-12	Al-Anbaa	B-ORG	-	-
+12	Malaeb	B-ORG	-	-
 13	.	O	-	-
 
 1	Det	O	-	-
@@ -6160,7 +6160,7 @@
 
 1	DET	O	-	-
 2	HAR	O	-	-
-3	Hamida	B-PER	-	-
+3	Anwar	B-PER	-	-
 4	IKKE	O	-	-
 
 1	Men	O	-	-
@@ -6233,7 +6233,7 @@
 8	.	O	-	-
 
 1	LILLE	O	-	-
-2	Rahman	B-PER	-	-
+2	Siham	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
 5	,	O	-	-
@@ -6241,7 +6241,7 @@
 7	har	O	-	-
 8	succes	O	-	-
 9	på	O	-	-
-10	Kahramaa	B-ORG	-	-
+10	Chefaa	B-ORG	-	-
 11	friluftsscene	O	-	-
 12	,	O	-	-
 13	kom	O	-	-
@@ -6255,15 +6255,15 @@
 21	kollegaen	O	-	-
 22	,	O	-	-
 23	bakkesangerinde	O	-	-
-24	Atef	B-PER	-	-
-25	Kassem	I-PER	-	-
+24	Morad	B-PER	-	-
+25	Qasimo Alfadil	I-PER	-	-
 26	,	O	-	-
 27	da	O	-	-
 28	hun	O	-	-
 29	blev	O	-	-
 30	hædret	O	-	-
 31	med	O	-	-
-32	Echorouk	B-ORG	-	-
+32	Ferrimaroc	B-ORG	-	-
 33	Oscar	I-MISC	-	-
 34	,	O	-	-
 35	et	O	-	-
@@ -6277,7 +6277,7 @@
 2	så	O	-	-
 3	fald	O	-	-
 4	bliver	O	-	-
-5	Yunus	B-PER	-	-
+5	Hasna	B-PER	-	-
 6	min	O	-	-
 7	nye	O	-	-
 8	mor	O	-	-
@@ -6365,7 +6365,7 @@
 
 1	-	O	-	-
 2	På	O	-	-
-3	Deyaar	B-ORG	-	-
+3	Cerebras	B-ORG	-	-
 4	var	O	-	-
 5	man	O	-	-
 6	selvfølgelig	O	-	-
@@ -6442,7 +6442,7 @@
 17	et	O	-	-
 18	pizzaria	O	-	-
 19	i	O	-	-
-20	Sharjah	B-LOC	-	-
+20	Piranshahr	B-LOC	-	-
 21	sammen	O	-	-
 22	med	O	-	-
 23	sin	O	-	-
@@ -6460,7 +6460,7 @@
 9	blev	O	-	-
 10	udslettet	O	-	-
 11	i	O	-	-
-12	Kashmar	B-LOC	-	-
+12	Asyut	B-LOC	-	-
 13	.	O	-	-
 
 1	En	O	-	-
@@ -6471,7 +6471,7 @@
 6	virkelighed	O	-	-
 7	.	O	-	-
 
-1	Fatih	B-PER	-	-
+1	Wail	B-PER	-	-
 2	øjne	O	-	-
 3	lyser	O	-	-
 4	ved	O	-	-
@@ -6516,7 +6516,7 @@
 5	var	O	-	-
 6	dermed	O	-	-
 7	lagt	O	-	-
-8	Salwa	B-PER	-	-
+8	Ridha	B-PER	-	-
 9	i	O	-	-
 10	munden	O	-	-
 11	.	O	-	-
@@ -6577,8 +6577,8 @@
 6	,	O	-	-
 7	2-4	O	-	-
 8	mod	O	-	-
-9	beIN	B-ORG	-	-
-10	SPORTS	I-ORG	-	-
+9	Emirates	B-ORG	-	-
+10	Islamic	I-ORG	-	-
 11	,	O	-	-
 12	men	O	-	-
 13	siden	O	-	-
@@ -6657,7 +6657,7 @@
 2	14	O	-	-
 3	dage	O	-	-
 4	med	O	-	-
-5	Waseem	B-PER	-	-
+5	Rim	B-PER	-	-
 6	mærkede	O	-	-
 7	jeg	O	-	-
 8	en	O	-	-
@@ -6714,8 +6714,8 @@
 19	frem	O	-	-
 20	.	O	-	-
 
-1	Hasib	B-PER	-	-
-2	Antony	I-PER	-	-
+1	Wafa	B-PER	-	-
+2	Hamoud	I-PER	-	-
 3	selv	O	-	-
 4	fremhæver	O	-	-
 5	også	O	-	-
@@ -6757,7 +6757,7 @@
 8	vamp	O	-	-
 9	.	O	-	-
 
-1	Nabil	B-PER	-	-
+1	Harun	B-PER	-	-
 2	øjne	O	-	-
 3	kunne	O	-	-
 4	ikke	O	-	-
@@ -6868,7 +6868,7 @@
 8	på	O	-	-
 9	!	O	-	-
 
-1	Mahmud	B-PER	-	-
+1	Fouad	B-PER	-	-
 2	beskrev	O	-	-
 3	den	O	-	-
 4	tidlig	O	-	-
@@ -6922,14 +6922,14 @@
 10	med	O	-	-
 11	førstedags-stempel	O	-	-
 12	hos	O	-	-
-13	Emirates	B-ORG	-	-
-14	NBD	I-ORG	-	-
+13	Daily	B-ORG	-	-
+14	Sabah	I-ORG	-	-
 15	,	O	-	-
-16	Ar	B-LOC	-	-
-17	Rifa	I-LOC	-	-
+16	Deir	B-LOC	-	-
+17	ez-Zor	I-LOC	-	-
 18	,	O	-	-
 19	W-7530	O	-	-
-20	Tanda	B-LOC	-	-
+20	Zaxo	B-LOC	-	-
 21	.	O	-	-
 
 1	Førstehjælperne	O	-	-
@@ -7057,7 +7057,7 @@
 17	for	O	-	-
 18	mestre	O	-	-
 19	til	O	-	-
-20	Nazilli	B-LOC	-	-
+20	Akhmim	B-LOC	-	-
 21	med	O	-	-
 22	de	O	-	-
 23	40.000	O	-	-
@@ -7112,9 +7112,9 @@
 11	,	O	-	-
 12	både	O	-	-
 13	hos	O	-	-
-14	LDC	B-ORG	-	-
+14	Mauritel	B-ORG	-	-
 15	og	O	-	-
-16	Arryadia	B-ORG	-	-
+16	Elves	B-ORG	-	-
 17	.	O	-	-
 
 1	Vest	O	-	-
@@ -7137,7 +7137,7 @@
 11	sagen	O	-	-
 12	?	O	-	-
 
-1	Mounir	B-PER	-	-
+1	Islam	B-PER	-	-
 2	styker	O	-	-
 3	stormede	O	-	-
 4	en	O	-	-
@@ -7157,8 +7157,8 @@
 18	raketter	O	-	-
 19	.	O	-	-
 
-1	Atif	B-PER	-	-
-2	Alawi	I-PER	-	-
+1	Ismael	B-PER	-	-
+2	Altimayhi	I-PER	-	-
 3	har	O	-	-
 4	taget	O	-	-
 5	sin	O	-	-
@@ -7201,8 +7201,8 @@
 10	,	O	-	-
 11	"	O	-	-
 12	siger	O	-	-
-13	Kamil	B-PER	-	-
-14	Shaalan	I-PER	-	-
+13	Ikram	B-PER	-	-
+14	Jadoua	I-PER	-	-
 15	.	O	-	-
 
 1	Læsetræning	O	-	-
@@ -7235,7 +7235,7 @@
 10	.	O	-	-
 
 1	I	O	-	-
-2	Çubuk	B-LOC	-	-
+2	Behbahan	B-LOC	-	-
 3	kunne	O	-	-
 4	toget	O	-	-
 5	ikke	O	-	-
@@ -7258,7 +7258,7 @@
 22	vej	O	-	-
 23	.	O	-	-
 
-1	Oilibya	B-ORG	-	-
+1	Electroplanet	B-ORG	-	-
 2	=	O	-	-
 3	04:30	O	-	-
 
@@ -7364,7 +7364,7 @@
 6	Søterrassen	O	-	-
 7	7	O	-	-
 8	i	O	-	-
-9	Viranşehir	B-LOC	-	-
+9	Qurayyat	B-LOC	-	-
 10	,	O	-	-
 11	gav	O	-	-
 12	alene	O	-	-
@@ -7384,7 +7384,7 @@
 7	gange	O	-	-
 8	,	O	-	-
 9	fordi	O	-	-
-10	Aleppo	B-LOC	-	-
+10	Østjerusalem	B-LOC	-	-
 11	er	O	-	-
 12	så	O	-	-
 13	forurenet	O	-	-
@@ -7417,8 +7417,8 @@
 6	(	O	-	-
 7	det	O	-	-
 8	var	O	-	-
-9	Azad	B-PER	-	-
-10	Alaithayli	I-PER	-	-
+9	Mina	B-PER	-	-
+10	Asif	I-PER	-	-
 11	)	O	-	-
 12	,	O	-	-
 13	har	O	-	-
@@ -7570,9 +7570,9 @@
 2	gik	O	-	-
 3	ind	O	-	-
 4	i	O	-	-
-5	al-Watan	B-ORG	-	-
+5	Bimo	B-ORG	-	-
 6	,	O	-	-
-7	Iğdır	B-LOC	-	-
+7	Bishah	B-LOC	-	-
 8	smarteste	O	-	-
 9	modeforretning	O	-	-
 10	.	O	-	-
@@ -7600,12 +7600,12 @@
 8	,	O	-	-
 9	"	O	-	-
 10	bad	O	-	-
-11	Nabila	B-PER	-	-
-12	Alahmadi	I-PER	-	-
+11	Nahid	B-PER	-	-
+12	Yadav	I-PER	-	-
 13	,	O	-	-
 14	en	O	-	-
 15	af	O	-	-
-16	Samsun	B-LOC	-	-
+16	Zonguldak	B-LOC	-	-
 17	mest	O	-	-
 18	respekterede	O	-	-
 19	journalister	O	-	-
@@ -7689,7 +7689,7 @@
 22	overgrebene	O	-	-
 23	inde	O	-	-
 24	i	O	-	-
-25	Ilam	B-LOC	-	-
+25	Kairo	B-LOC	-	-
 26	var	O	-	-
 27	intensiveret	O	-	-
 28	.	O	-	-
@@ -7704,7 +7704,7 @@
 8	triumf	O	-	-
 9	.	O	-	-
 
-1	Monoprix	B-ORG	-	-
+1	Al-Mustaqbal	B-ORG	-	-
 2	"	O	-	-
 3	Gold	O	-	-
 4	"	O	-	-
@@ -7716,7 +7716,7 @@
 10	tv	O	-	-
 11	,	O	-	-
 12	ligesom	O	-	-
-13	One	B-ORG	-	-
+13	al-Jamahiriyah	B-ORG	-	-
 14	og	O	-	-
 15	andre	O	-	-
 16	"	O	-	-
@@ -7731,8 +7731,8 @@
 2	sker	O	-	-
 3	gennem	O	-	-
 4	såkaldte	O	-	-
-5	Al-Arab	B-ORG	-	-
-6	Al-Yawm	I-ORG	-	-
+5	Zain	B-ORG	-	-
+6	KSA	I-ORG	-	-
 7	,	O	-	-
 8	hvorigennem	O	-	-
 9	bankerne	O	-	-
@@ -7752,7 +7752,7 @@
 4	år	O	-	-
 5	siden	O	-	-
 6	"	O	-	-
-7	Hanan	B-PER	-	-
+7	Habiba	B-PER	-	-
 8	"	O	-	-
 9	har	O	-	-
 10	han	O	-	-
@@ -7779,7 +7779,7 @@
 2	bioteknologisk	O	-	-
 3	selskab	O	-	-
 4	i	O	-	-
-5	Yozgat	B-LOC	-	-
+5	Kazerun	B-LOC	-	-
 6	eksperimenterer	O	-	-
 7	med	O	-	-
 8	jordbær-gener	O	-	-
@@ -7811,7 +7811,7 @@
 17	hende	O	-	-
 18	.	O	-	-
 
-1	Hatun	B-PER	-	-
+1	Usman	B-PER	-	-
 2	er	O	-	-
 3	sprunget	O	-	-
 4	fra	O	-	-
@@ -7956,8 +7956,8 @@
 14	efter	O	-	-
 15	jeg	O	-	-
 16	forlod	O	-	-
-17	Istiqlal	B-ORG	-	-
-18	Party	I-ORG	-	-
+17	beIN	B-ORG	-	-
+18	SPORTS	I-ORG	-	-
 19	første	O	-	-
 20	gang	O	-	-
 21	i	O	-	-
@@ -8064,8 +8064,8 @@
 13	han	O	-	-
 14	og	O	-	-
 15	kæresten	O	-	-
-16	Mariam	B-PER	-	-
-17	Al rumaithi	I-PER	-	-
+16	Kassem	B-PER	-	-
+17	Abdel sada	I-PER	-	-
 18	til	O	-	-
 19	marts	O	-	-
 20	bliver	O	-	-
@@ -8163,10 +8163,10 @@
 6	tæt	O	-	-
 7	samarbejde	O	-	-
 8	med	O	-	-
-9	Amal	B-ORG	-	-
-10	Glass	I-ORG	-	-
+9	Americana	B-ORG	-	-
+10	Restaurants	I-ORG	-	-
 11	på	O	-	-
-12	Muscat	B-LOC	-	-
+12	Sinah	B-LOC	-	-
 13	.	O	-	-
 
 1	Der	O	-	-
@@ -8320,7 +8320,7 @@
 16	væk	O	-	-
 17	.	O	-	-
 
-1	Sana	B-PER	-	-
+1	Ala	B-PER	-	-
 2	satsede	O	-	-
 3	aggressivt	O	-	-
 4	på	O	-	-
@@ -8350,7 +8350,7 @@
 13	,	O	-	-
 14	(	O	-	-
 15	som	O	-	-
-16	Suad	B-PER	-	-
+16	Hasina	B-PER	-	-
 17	er	O	-	-
 18	besjælet	O	-	-
 19	af	O	-	-
@@ -8383,8 +8383,8 @@
 10	på	O	-	-
 11	campingpladsen	O	-	-
 12	ved	O	-	-
-13	Housh	B-LOC	-	-
-14	Eissa	I-LOC	-	-
+13	Ash	B-LOC	-	-
+14	Shafa	I-LOC	-	-
 15	.	O	-	-
 
 1	Dvs.	O	-	-
@@ -8406,7 +8406,7 @@
 
 1	TVANGSAKKORD	O	-	-
 
-1	Faris	B-PER	-	-
+1	Hasan	B-PER	-	-
 2	,	O	-	-
 3	lige	O	-	-
 4	et	O	-	-
@@ -8481,8 +8481,8 @@
 24	.	O	-	-
 
 1	"	O	-	-
-2	GEMS	B-ORG	-	-
-3	Education	I-ORG	-	-
+2	Aldar	B-ORG	-	-
+3	Properties	I-ORG	-	-
 4	har	O	-	-
 5	ændret	O	-	-
 6	sig	O	-	-
@@ -8505,7 +8505,7 @@
 23	han	O	-	-
 24	.	O	-	-
 
-1	Mukhtar	B-PER	-	-
+1	Zuhra	B-PER	-	-
 2	sagde	O	-	-
 3	,	O	-	-
 4	at	O	-	-
@@ -8536,7 +8536,7 @@
 29	konflikten	O	-	-
 30	.	O	-	-
 
-1	Tahsin	B-PER	-	-
+1	Fahad	B-PER	-	-
 2	satte	O	-	-
 3	efter	O	-	-
 4	sammenstøddet	O	-	-
@@ -8561,7 +8561,7 @@
 1	Det	O	-	-
 2	amerikanske	O	-	-
 3	firma	O	-	-
-4	Asmidal	B-ORG	-	-
+4	Al-Intiqad	B-ORG	-	-
 5	eksperimenterer	O	-	-
 6	med	O	-	-
 7	solsikkefrø	O	-	-
@@ -8653,7 +8653,7 @@
 7	.	O	-	-
 
 1	-	O	-	-
-2	Shabnam	B-PER	-	-
+2	Fadila	B-PER	-	-
 3	mødte	O	-	-
 4	jeg	O	-	-
 5	tilfældigt	O	-	-
@@ -8671,8 +8671,8 @@
 7	,	O	-	-
 8	"	O	-	-
 9	sagde	O	-	-
-10	Nader	B-PER	-	-
-11	Al tarawneh	I-PER	-	-
+10	Afrah	B-PER	-	-
+11	Albawaina	I-PER	-	-
 12	.	O	-	-
 
 1	Skrald	O	-	-
@@ -8695,7 +8695,7 @@
 
 1	BEGYNDTE	O	-	-
 2	MED	O	-	-
-3	OTV	B-ORG	-	-
+3	Oilibya	B-ORG	-	-
 
 1	Markedsføring	O	-	-
 2	:	O	-	-
@@ -8724,7 +8724,7 @@
 3	er	O	-	-
 4	det	O	-	-
 5	jo	O	-	-
-6	Masoud	B-PER	-	-
+6	Huda	B-PER	-	-
 7	år	O	-	-
 8	i	O	-	-
 9	år	O	-	-
@@ -8747,7 +8747,7 @@
 15	forvirret	O	-	-
 16	.	O	-	-
 
-1	Shamim	B-PER	-	-
+1	Mustapha	B-PER	-	-
 2	grå	O	-	-
 3	øjne	O	-	-
 4	lyste	O	-	-
@@ -8773,8 +8773,8 @@
 24	for	O	-	-
 25	lidt	O	-	-
 26	på	O	-	-
-27	Ash	B-LOC	-	-
-28	Shatrah	I-LOC	-	-
+27	Gonbad-e	B-LOC	-	-
+28	Kavus	I-LOC	-	-
 29	,	O	-	-
 30	og	O	-	-
 31	ind	O	-	-
@@ -8799,7 +8799,7 @@
 50	det	O	-	-
 51	med	O	-	-
 52	Kong	O	-	-
-53	Asmaa	B-PER	-	-
+53	Bader	B-PER	-	-
 54	,	O	-	-
 55	og	O	-	-
 56	derfor	O	-	-
@@ -8807,8 +8807,8 @@
 58	ville	O	-	-
 59	blive	O	-	-
 60	på	O	-	-
-61	Bandar-e	B-LOC	-	-
-62	Anzali	I-LOC	-	-
+61	Az	B-LOC	-	-
+62	Zubayr	I-LOC	-	-
 63	fremfor	O	-	-
 64	at	O	-	-
 65	være	O	-	-
@@ -8829,7 +8829,7 @@
 3	af	O	-	-
 4	smerte	O	-	-
 
-1	Leila	B-PER	-	-
+1	Nariman	B-PER	-	-
 2	bekræfter	O	-	-
 3	,	O	-	-
 4	at	O	-	-
@@ -8845,8 +8845,8 @@
 14	en	O	-	-
 15	italiener	O	-	-
 16	,	O	-	-
-17	Saleh	B-PER	-	-
-18	Abu Jabir	I-PER	-	-
+17	Mikail	B-PER	-	-
+18	Albawaly	I-PER	-	-
 19	,	O	-	-
 20	og	O	-	-
 21	en	O	-	-
@@ -8902,7 +8902,7 @@
 2	nedover	O	-	-
 3	svømmepølen	O	-	-
 4	og	O	-	-
-5	Isparta	B-LOC	-	-
+5	Samsun	B-LOC	-	-
 6	mod	O	-	-
 7	"	O	-	-
 8	De	O	-	-
@@ -8919,22 +8919,22 @@
 6	som	O	-	-
 7	oil	O	-	-
 8	wealthy	O	-	-
-9	Yassine	B-PER	-	-
-10	Zayed	I-PER	-	-
+9	Nasser	B-PER	-	-
+10	Chaudhry	I-PER	-	-
 11	,	O	-	-
 12	som	O	-	-
 13	Texan	O	-	-
 14	society	O	-	-
 15	princess	O	-	-
-16	Mahamed	B-PER	-	-
-17	Kitan	I-PER	-	-
+16	Malak	B-PER	-	-
+17	Nadeem	I-PER	-	-
 18	.	O	-	-
 
 1	Den	O	-	-
 2	havde	O	-	-
 3	nemlig	O	-	-
 4	efter	O	-	-
-5	Kudu	B-ORG	-	-
+5	Massaya	B-ORG	-	-
 6	opfattelse	O	-	-
 7	fejl	O	-	-
 8	og	O	-	-
@@ -9025,7 +9025,7 @@
 
 1	Det	O	-	-
 2	kan	O	-	-
-3	Jenan	B-PER	-	-
+3	Tarik	B-PER	-	-
 4	skriver	O	-	-
 5	under	O	-	-
 6	på	O	-	-
@@ -9073,8 +9073,8 @@
 1	På	O	-	-
 2	vagt	O	-	-
 3	foran	O	-	-
-4	Bani	B-LOC	-	-
-5	Suwayf	I-LOC	-	-
+4	Khomeyni	B-LOC	-	-
+5	Shahr	I-LOC	-	-
 6	.	O	-	-
 
 1	De	O	-	-
@@ -9087,8 +9087,8 @@
 8	kosten	O	-	-
 9	.	O	-	-
 
-1	Ziba	B-PER	-	-
-2	Hassan	I-PER	-	-
+1	Bushra	B-PER	-	-
+2	Ashour	I-PER	-	-
 3	blev	O	-	-
 4	anholdt	O	-	-
 5	og	O	-	-
@@ -9098,7 +9098,7 @@
 9	senere	O	-	-
 10	.	O	-	-
 
-1	Hafsa	B-PER	-	-
+1	Ziba	B-PER	-	-
 2	er	O	-	-
 3	utrolig	O	-	-
 4	til	O	-	-
@@ -9119,7 +9119,7 @@
 7	sig	O	-	-
 8	,	O	-	-
 9	men	O	-	-
-10	Qasim	B-PER	-	-
+10	Saleh	B-PER	-	-
 11	og	O	-	-
 12	de	O	-	-
 13	af	O	-	-
@@ -9191,7 +9191,7 @@
 
 1	Han	O	-	-
 2	omtaler	O	-	-
-3	Sundus	B-PER	-	-
+3	Mohamed	B-PER	-	-
 4	som	O	-	-
 5	en	O	-	-
 6	af	O	-	-
@@ -9230,7 +9230,7 @@
 
 1	Museet	O	-	-
 2	i	O	-	-
-3	Hawalli	B-LOC	-	-
+3	Ümraniye	B-LOC	-	-
 4	,	O	-	-
 5	et	O	-	-
 6	slags	O	-	-
@@ -9241,8 +9241,8 @@
 11	bekrive	O	-	-
 12	afdøde	O	-	-
 13	præsident	O	-	-
-14	Samed	B-PER	-	-
-15	Saadoun	I-PER	-	-
+14	Hana	B-PER	-	-
+15	Fayad	I-PER	-	-
 16	og	O	-	-
 17	hans	O	-	-
 18	hustrus	O	-	-
@@ -9331,7 +9331,7 @@
 5	told-og	O	-	-
 6	handelsaftale-koordinators	O	-	-
 7	,	O	-	-
-8	Djezzy	B-ORG	-	-
+8	Cevital	B-ORG	-	-
 9	,	O	-	-
 10	årsberetning	O	-	-
 11	illustrerer	O	-	-
@@ -9405,9 +9405,9 @@
 3	første	O	-	-
 4	sæson	O	-	-
 5	for	O	-	-
-6	Kitea	B-ORG	-	-
+6	Deyaar	B-ORG	-	-
 7	scorede	O	-	-
-8	Kazem	B-PER	-	-
+8	Jamilla	B-PER	-	-
 9	15	O	-	-
 10	mål	O	-	-
 11	.	O	-	-
@@ -9418,7 +9418,7 @@
 4	fra	O	-	-
 5	hjemmet	O	-	-
 6	blev	O	-	-
-7	Abida	B-PER	-	-
+7	Maher	B-PER	-	-
 8	ramt	O	-	-
 9	bagfra	O	-	-
 10	af	O	-	-
@@ -9609,7 +9609,7 @@
 12	enslydende	O	-	-
 13	fortalte	O	-	-
 14	om	O	-	-
-15	Abed	B-PER	-	-
+15	Munira	B-PER	-	-
 16	særlige	O	-	-
 17	ansættelsesvilkår	O	-	-
 18	.	O	-	-
@@ -9621,7 +9621,7 @@
 1	Mod	O	-	-
 2	impotens	O	-	-
 
-1	Sonalgaz	B-ORG	-	-
+1	TGCC	B-ORG	-	-
 2	afvises	O	-	-
 3	af	O	-	-
 4	de	O	-	-
@@ -9631,11 +9631,11 @@
 8	bevægelser	O	-	-
 9	.	O	-	-
 
-1	Safia	B-PER	-	-
-2	Akbar	I-PER	-	-
+1	Bin	B-PER	-	-
+2	Juma	I-PER	-	-
 3	12-årige	O	-	-
 4	søn	O	-	-
-5	Intisar	B-PER	-	-
+5	Abdi	B-PER	-	-
 6	blev	O	-	-
 7	også	O	-	-
 8	dræbt	O	-	-
@@ -9675,7 +9675,7 @@
 24	en	O	-	-
 25	trend-katalysator	O	-	-
 26	som	O	-	-
-27	Nidal	B-PER	-	-
+27	Fadia	B-PER	-	-
 28	kunne	O	-	-
 29	give	O	-	-
 30	tendensen	O	-	-
@@ -9805,8 +9805,8 @@
 5	af	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	Saman	B-PER	-	-
-9	Didan	I-PER	-	-
+8	Zaid	B-PER	-	-
+9	Albyati	I-PER	-	-
 10	allerede	O	-	-
 11	to	O	-	-
 12	timer	O	-	-
@@ -9874,7 +9874,7 @@
 2	var	O	-	-
 3	grufulde	O	-	-
 4	i	O	-	-
-5	RASCO	B-ORG	-	-
+5	Al-Bilad	B-ORG	-	-
 6	eneste	O	-	-
 7	lukkede	O	-	-
 8	børnefængsel	O	-	-
@@ -9882,9 +9882,9 @@
 10	som	O	-	-
 11	lå	O	-	-
 12	i	O	-	-
-13	Iran	B-LOC	-	-
+13	Semnan	B-LOC	-	-
 14	ved	O	-	-
-15	Ödemiş	B-LOC	-	-
+15	Afyonkarahisar	B-LOC	-	-
 16	.	O	-	-
 
 1	Men	O	-	-
@@ -9913,8 +9913,8 @@
 24	,	O	-	-
 25	"	O	-	-
 26	siger	O	-	-
-27	Seyed	B-PER	-	-
-28	Alaitaymi	I-PER	-	-
+27	Faisa	B-PER	-	-
+28	El sherif	I-PER	-	-
 29	.	O	-	-
 
 1	Han	O	-	-
@@ -9922,7 +9922,7 @@
 3	hurtigt	O	-	-
 4	tag	O	-	-
 5	i	O	-	-
-6	Al-Massira	B-ORG	-	-
+6	Al-Wehda	B-ORG	-	-
 7	og	O	-	-
 8	lærte	O	-	-
 9	,	O	-	-
@@ -9941,7 +9941,7 @@
 22	bilen	O	-	-
 23	.	O	-	-
 
-1	Fahima	B-PER	-	-
+1	Walid	B-PER	-	-
 2	på	O	-	-
 3	35	O	-	-
 4	bor	O	-	-
@@ -9956,9 +9956,9 @@
 13	familiemedlemmer	O	-	-
 14	.	O	-	-
 
-1	Sania	B-PER	-	-
-2	Sahmoud	I-PER	-	-
-3	Alaisayri	I-PER	-	-
+1	Houda	B-PER	-	-
+2	Jarallah	I-PER	-	-
+3	Siwar	I-PER	-	-
 4	i	O	-	-
 5	afslappet	O	-	-
 6	påklædning	O	-	-
@@ -10014,12 +10014,12 @@
 10	fast	O	-	-
 11	rutefart	O	-	-
 12	mellem	O	-	-
-13	Basra	B-LOC	-	-
+13	Rasht	B-LOC	-	-
 14	og	O	-	-
 15	hovedstaden	O	-	-
-16	Karaj	B-LOC	-	-
+16	Silifke	B-LOC	-	-
 17	i	O	-	-
-18	Neyshabur	B-LOC	-	-
+18	Tyre	B-LOC	-	-
 19	.	O	-	-
 
 1	Beløbet	O	-	-
@@ -10039,7 +10039,7 @@
 15	man	O	-	-
 16	skuer	O	-	-
 17	over	O	-	-
-18	Nasr	B-ORG	-	-
+18	SNRT	B-ORG	-	-
 19	igangværende	O	-	-
 20	satsninger	O	-	-
 21	.	O	-	-
@@ -10094,8 +10094,8 @@
 2	er	O	-	-
 3	ansat	O	-	-
 4	i	O	-	-
-5	Télé	B-ORG	-	-
-6	Liban	I-ORG	-	-
+5	Amanat	B-ORG	-	-
+6	Holdings	I-ORG	-	-
 7	,	O	-	-
 8	og	O	-	-
 9	jeg	O	-	-
@@ -10108,8 +10108,8 @@
 1	Ingen	O	-	-
 2	redninger	O	-	-
 
-1	Sahar	B-PER	-	-
-2	Kaka	I-PER	-	-
+1	Mounira	B-PER	-	-
+2	Roy	I-PER	-	-
 3	-	O	-	-
 4	glad	O	-	-
 5	for	O	-	-
@@ -10213,9 +10213,9 @@
 3	indstiftet	O	-	-
 4	af	O	-	-
 5	fagbladet	O	-	-
-6	ibTECHar	B-ORG	-	-
-7	Digital	I-ORG	-	-
-8	Solutions	I-ORG	-	-
+6	solutions	B-ORG	-	-
+7	by	I-ORG	-	-
+8	stc	I-ORG	-	-
 9	i	O	-	-
 10	1984	O	-	-
 11	og	O	-	-
@@ -10342,7 +10342,7 @@
 11	SW	O	-	-
 12	SE	O	-	-
 13	,	O	-	-
-14	Arasco	B-ORG	-	-
+14	Empower	B-ORG	-	-
 15	nyeste	O	-	-
 16	bud	O	-	-
 17	i	O	-	-
@@ -10432,8 +10432,8 @@
 4	kredse	O	-	-
 5	,	O	-	-
 6	hvor	O	-	-
-7	Abdel	B-PER	-	-
-8	Siham	I-PER	-	-
+7	Ayoub	B-PER	-	-
+8	Al huimel	I-PER	-	-
 9	færdes	O	-	-
 10	,	O	-	-
 11	gælder	O	-	-
@@ -10453,7 +10453,7 @@
 4	mill.	O	-	-
 5	franc	O	-	-
 6	reddede	O	-	-
-7	Spinneys	B-ORG	-	-
+7	Alshaya	B-ORG	-	-
 8	fra	O	-	-
 9	konkurs	O	-	-
 10	.	O	-	-
@@ -10516,13 +10516,13 @@
 
 1	Emballagesektoren	O	-	-
 2	volder	O	-	-
-3	PSLab	B-ORG	-	-
+3	Mo’men	B-ORG	-	-
 4	betydelige	O	-	-
 5	problemer	O	-	-
 6	.	O	-	-
 
 1	I	O	-	-
-2	Shah	B-PER	-	-
+2	Naziha	B-PER	-	-
 3	hovedbund	O	-	-
 4	er	O	-	-
 5	såret	O	-	-
@@ -10603,7 +10603,7 @@
 21	for	O	-	-
 22	at	O	-	-
 23	forarge	O	-	-
-24	Bahar	B-PER	-	-
+24	Madiha	B-PER	-	-
 25	.	O	-	-
 
 1	Han	O	-	-
@@ -10642,9 +10642,9 @@
 34	stil	O	-	-
 35	.	O	-	-
 
-1	Fadel	B-PER	-	-
-2	Mohamed	I-PER	-	-
-3	Albayda	I-PER	-	-
+1	Jasmina	B-PER	-	-
+2	Al fayoumi	I-PER	-	-
+3	Souaha	I-PER	-	-
 4	,	O	-	-
 5	af	O	-	-
 6	mange	O	-	-
@@ -10799,7 +10799,7 @@
 8	nære	O	-	-
 9	forhold	O	-	-
 10	til	O	-	-
-11	Almarai	B-ORG	-	-
+11	Ashabiba	B-ORG	-	-
 12	,	O	-	-
 13	er	O	-	-
 14	det	O	-	-
@@ -10830,9 +10830,9 @@
 3	også	O	-	-
 4	hos	O	-	-
 5	bakkerestauratør	O	-	-
-6	Ordbog over muslimske fornavne i Danmark	B-PER	-	-
-7	Ullah	I-PER	-	-
-8	Attia	I-PER	-	-
+6	Shoaib	B-PER	-	-
+7	Ba Baiyr	I-PER	-	-
+8	Al saadi	I-PER	-	-
 9	,	O	-	-
 10	og	O	-	-
 11	de	O	-	-
@@ -10870,7 +10870,7 @@
 9	og	O	-	-
 10	fremmest	O	-	-
 11	kritiserede	O	-	-
-12	al-Alam	B-ORG	-	-
+12	Shihan	B-ORG	-	-
 13	fortsatte	O	-	-
 14	engagement	O	-	-
 15	i	O	-	-
@@ -10885,7 +10885,7 @@
 24	befolkningen	O	-	-
 25	.	O	-	-
 
-1	Muş	B-LOC	-	-
+1	Ünye	B-LOC	-	-
 2	nyvalgte	O	-	-
 3	præsident	O	-	-
 4	nyder	O	-	-
@@ -10894,9 +10894,9 @@
 7	respekt	O	-	-
 8	,	O	-	-
 9	men	O	-	-
-10	Süleyman	B-PER	-	-
-11	Al manasir	I-PER	-	-
-12	Mani	I-PER	-	-
+10	Hamza	B-PER	-	-
+11	Al olaimat	I-PER	-	-
+12	Matroud	I-PER	-	-
 13	så	O	-	-
 14	sig	O	-	-
 15	tirsdag	O	-	-
@@ -10929,9 +10929,9 @@
 16	pct.	O	-	-
 17	.	O	-	-
 
-1	Esenyurt	B-LOC	-	-
+1	Zefta	B-LOC	-	-
 2	i	O	-	-
-3	Hamadan	B-LOC	-	-
+3	Maltepe	B-LOC	-	-
 4	.	O	-	-
 
 1	Det	O	-	-
@@ -10964,8 +10964,8 @@
 28	påbyder	O	-	-
 29	.	O	-	-
 
-1	Jana	B-PER	-	-
-2	Hanash	I-PER	-	-
+1	Rachid	B-PER	-	-
+2	Sawaida	I-PER	-	-
 3	,	O	-	-
 4	1978	O	-	-
 
@@ -10990,7 +10990,7 @@
 11	.	O	-	-
 
 1	Hilsen	O	-	-
-2	Rana	B-PER	-	-
+2	Umair	B-PER	-	-
 3	.	O	-	-
 
 1	Din	O	-	-
@@ -11059,7 +11059,7 @@
 3	hvis	O	-	-
 4	nu	O	-	-
 5	også	O	-	-
-6	Ilias	B-PER	-	-
+6	Rahima	B-PER	-	-
 7	er	O	-	-
 8	forrykt	O	-	-
 9	nok	O	-	-
@@ -11073,8 +11073,8 @@
 6	til	O	-	-
 7	linjeofficer	O	-	-
 8	ved	O	-	-
-9	AL24	B-ORG	-	-
-10	News	I-ORG	-	-
+9	Filasteen	B-ORG	-	-
+10	al-Muslimah	I-ORG	-	-
 11	fortsatte	O	-	-
 12	han	O	-	-
 13	på	O	-	-
@@ -11240,7 +11240,7 @@
 1	Ved	O	-	-
 2	VM	O	-	-
 3	i	O	-	-
-4	Doğubayazıt	B-LOC	-	-
+4	Sultangazi	B-LOC	-	-
 5	scorede	O	-	-
 6	han	O	-	-
 7	to	O	-	-
@@ -11251,7 +11251,7 @@
 12	i	O	-	-
 13	bronzekampen	O	-	-
 14	mod	O	-	-
-15	Jawan	B-ORG	-	-
+15	Alwasat	B-ORG	-	-
 16	.	O	-	-
 
 1	Ifølge	O	-	-
@@ -11312,7 +11312,7 @@
 1	Sådan	O	-	-
 2	noget	O	-	-
 3	kan	O	-	-
-4	Hena	B-PER	-	-
+4	Hanaa	B-PER	-	-
 5	skrive	O	-	-
 6	,	O	-	-
 7	så	O	-	-
@@ -11404,7 +11404,7 @@
 5	,	O	-	-
 6	de	O	-	-
 7	tog	O	-	-
-8	Hani	B-PER	-	-
+8	Arwa	B-PER	-	-
 9	i	O	-	-
 10	hovedet	O	-	-
 11	og	O	-	-
@@ -11454,19 +11454,19 @@
 10	,	O	-	-
 11	udsat	O	-	-
 12	af	O	-	-
-13	Palestinian	B-ORG	-	-
-14	Liberation	I-ORG	-	-
-15	Front	I-ORG	-	-
-16	Al-Ahd	B-ORG	-	-
-17	Ul’Jadid	I-ORG	-	-
-18	Shorooq	B-ORG	-	-
-19	Partners	I-ORG	-	-
-20	Al-Mashriq	B-ORG	-	-
-21	al-Jarida	B-ORG	-	-
-22	al-Maghribia	I-ORG	-	-
+13	DEN	B-ORG	-	-
+14	DANSKE	I-ORG	-	-
+15	BANK	I-ORG	-	-
+16	Al-Kifah	B-ORG	-	-
+17	al-Arabi	I-ORG	-	-
+18	Emaar	B-ORG	-	-
+19	Development	I-ORG	-	-
+20	Inagrab	B-ORG	-	-
+21	Al-Arab	B-ORG	-	-
+22	Al-Yawm	I-ORG	-	-
 23	og	O	-	-
-24	Dubai	B-ORG	-	-
-25	Investments	I-ORG	-	-
+24	ESSO	B-ORG	-	-
+25	Motorcenter	I-ORG	-	-
 26	.	O	-	-
 
 1	Grimme	O	-	-
@@ -11533,7 +11533,7 @@
 4	nej	O	-	-
 5	,	O	-	-
 6	men	O	-	-
-7	Talha	B-PER	-	-
+7	Bayan	B-PER	-	-
 8	blev	O	-	-
 9	ved	O	-	-
 10	med	O	-	-
@@ -11549,12 +11549,12 @@
 6	holdt	O	-	-
 7	uden	O	-	-
 8	for	O	-	-
-9	Athaqafia	B-ORG	-	-
+9	G42	B-ORG	-	-
 10	regnskab	O	-	-
 11	.	O	-	-
 
-1	ACWA	B-ORG	-	-
-2	Power	I-ORG	-	-
+1	Dialog	B-ORG	-	-
+2	Fondene	I-ORG	-	-
 3	sikrer	O	-	-
 4	,	O	-	-
 5	at	O	-	-
@@ -11603,7 +11603,7 @@
 5	en	O	-	-
 6	pause	O	-	-
 7	hvor	O	-	-
-8	Abbas	B-PER	-	-
+8	Taghrid	B-PER	-	-
 9	rejser	O	-	-
 10	ud	O	-	-
 11	i	O	-	-
@@ -11691,8 +11691,8 @@
 12	her	O	-	-
 13	bad	O	-	-
 14	lektor	O	-	-
-15	Tarik	B-PER	-	-
-16	Alaibaysiah	I-PER	-	-
+15	Azad	B-PER	-	-
+16	Shams	I-PER	-	-
 17	om	O	-	-
 18	et	O	-	-
 19	minuts	O	-	-
@@ -11767,7 +11767,7 @@
 24	blev	O	-	-
 25	vedtaget	O	-	-
 26	på	O	-	-
-27	SAMI	B-ORG	-	-
+27	360VUZ	B-ORG	-	-
 28	repræsentantskabsmøde	O	-	-
 29	,	O	-	-
 30	og	O	-	-
@@ -11856,8 +11856,8 @@
 27	være	O	-	-
 28	.	O	-	-
 
-1	Mervan	B-PER	-	-
-2	Oued	I-PER	-	-
+1	Abbas	B-PER	-	-
+2	Atta	I-PER	-	-
 3	nikkede	O	-	-
 4	.	O	-	-
 
@@ -11892,7 +11892,7 @@
 29	til	O	-	-
 30	maskinen	O	-	-
 31	til	O	-	-
-32	Hurghada	B-LOC	-	-
+32	Neyshabur	B-LOC	-	-
 33	.	O	-	-
 
 1	Storkøkkenerne	O	-	-
@@ -11959,7 +11959,7 @@
 8	,	O	-	-
 9	det	O	-	-
 10	var	O	-	-
-11	Imran	B-PER	-	-
+11	Hamad	B-PER	-	-
 12	,	O	-	-
 13	han	O	-	-
 14	havde	O	-	-
@@ -11995,7 +11995,7 @@
 11	,	O	-	-
 12	at	O	-	-
 13	franske	O	-	-
-14	JoSat	B-ORG	-	-
+14	BMMI	B-ORG	-	-
 15	,	O	-	-
 16	som	O	-	-
 17	vi	O	-	-
@@ -12021,7 +12021,7 @@
 5	,	O	-	-
 6	at	O	-	-
 7	når	O	-	-
-8	Cima	B-ORG	-	-
+8	Djezzy	B-ORG	-	-
 9	har	O	-	-
 10	en	O	-	-
 11	slagvare	O	-	-
@@ -12083,7 +12083,7 @@
 8	evakueret	O	-	-
 9	fra	O	-	-
 10	byen	O	-	-
-11	Çorum	B-LOC	-	-
+11	Gaziantep	B-LOC	-	-
 12	,	O	-	-
 13	var	O	-	-
 14	endnu	O	-	-
@@ -12107,7 +12107,7 @@
 8	til	O	-	-
 9	urafstemning	O	-	-
 10	blandt	O	-	-
-11	Du	B-ORG	-	-
+11	Al-Horria	B-ORG	-	-
 12	medlemmer	O	-	-
 13	.	O	-	-
 
@@ -12120,14 +12120,14 @@
 7	skal	O	-	-
 8	gå	O	-	-
 9	langs	O	-	-
-10	Masjed	B-LOC	-	-
-11	Soleyman	I-LOC	-	-
+10	Ath	B-LOC	-	-
+11	Thawrah	I-LOC	-	-
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
 15	universitet	O	-	-
 16	til	O	-	-
-17	Ünye	B-LOC	-	-
+17	Khobar	B-LOC	-	-
 18	.	O	-	-
 
 1	Hvem	O	-	-
@@ -12158,8 +12158,8 @@
 
 1	Opbakningen	O	-	-
 2	om	O	-	-
-3	Tahani	B-PER	-	-
-4	Moheisen	I-PER	-	-
+3	Mahmood.	B-PER	-	-
+4	El ghany	I-PER	-	-
 5	er	O	-	-
 6	overraskende	O	-	-
 7	og	O	-	-
@@ -12262,8 +12262,8 @@
 12	om	O	-	-
 13	,	O	-	-
 14	at	O	-	-
-15	Idriz	B-PER	-	-
-16	Youssef	I-PER	-	-
+15	Ben	B-PER	-	-
+16	Aldhiayni	I-PER	-	-
 17	får	O	-	-
 18	dem	O	-	-
 19	tilbage	O	-	-
@@ -12288,9 +12288,9 @@
 5	nedlægge	O	-	-
 6	skolerne	O	-	-
 7	i	O	-	-
-8	Sohar	B-LOC	-	-
+8	Söke	B-LOC	-	-
 9	og	O	-	-
-10	Salalah	B-LOC	-	-
+10	Burdur	B-LOC	-	-
 11	og	O	-	-
 12	sparer	O	-	-
 13	dermed	O	-	-
@@ -12317,7 +12317,7 @@
 17	igen	O	-	-
 18	.	O	-	-
 
-1	Tarsus	B-LOC	-	-
+1	Jamjamal	B-LOC	-	-
 2	blev	O	-	-
 3	ikke	O	-	-
 4	bygget	O	-	-
@@ -12326,7 +12326,7 @@
 7	dag	O	-	-
 8	.	O	-	-
 
-1	Waqar	B-PER	-	-
+1	Samra	B-PER	-	-
 2	...	O	-	-
 3	ja	O	-	-
 4	...	O	-	-
@@ -12422,7 +12422,7 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	Investcorp	B-ORG	-	-
+4	Etisalat	B-ORG	-	-
 5	legetøj	O	-	-
 6	"	O	-	-
 
@@ -12436,19 +12436,19 @@
 8	fra	O	-	-
 9	80'ernes	O	-	-
 10	bøfdrenge	O	-	-
-11	Ramadan	B-PER	-	-
+11	Bibi	B-PER	-	-
 12	"	O	-	-
-13	Benyamin	B-PER	-	-
+13	Wisam	B-PER	-	-
 14	"	O	-	-
-15	Jawad	B-PER	-	-
+15	Fayez	B-PER	-	-
 16	og	O	-	-
-17	Shoaib	B-PER	-	-
-18	Al zuben	I-PER	-	-
+17	Fatih	B-PER	-	-
+18	Manea	I-PER	-	-
 19	.	O	-	-
 
 1	For	O	-	-
-2	Isam	B-PER	-	-
-3	Reish	I-PER	-	-
+2	Omer	B-PER	-	-
+3	Siwarayn	I-PER	-	-
 4	,	O	-	-
 5	16	O	-	-
 6	år	O	-	-
@@ -12469,7 +12469,7 @@
 6	til	O	-	-
 7	returkamp	O	-	-
 8	i	O	-	-
-9	Daraa	B-LOC	-	-
+9	Disuq	B-LOC	-	-
 10	til	O	-	-
 11	priser	O	-	-
 12	mellem	O	-	-
@@ -12487,7 +12487,7 @@
 2	fredsbevarende	O	-	-
 3	styrke	O	-	-
 4	i	O	-	-
-5	Qurayyat	B-LOC	-	-
+5	Midyat	B-LOC	-	-
 6	har	O	-	-
 7	beskyldt	O	-	-
 8	skibet	O	-	-
@@ -12525,13 +12525,13 @@
 6	evolutionen	O	-	-
 7	?	O	-	-
 
-1	Yousif	B-PER	-	-
+1	Naia	B-PER	-	-
 2	om	O	-	-
 3	racerkøreren	O	-	-
-4	Najma	B-PER	-	-
+4	Bünyamin	B-PER	-	-
 5	:	O	-	-
 6	-	O	-	-
-7	Warda	B-PER	-	-
+7	Maha	B-PER	-	-
 8	er	O	-	-
 9	en	O	-	-
 10	meget	O	-	-
@@ -12559,12 +12559,12 @@
 3	det	O	-	-
 4	også	O	-	-
 5	med	O	-	-
-6	Bagdad	B-LOC	-	-
+6	Erciş	B-LOC	-	-
 7	.	O	-	-
 
-1	Hasna	B-PER	-	-
-2	Kesmoulkerime	I-PER	-	-
-3	El omry	I-PER	-	-
+1	Brahim	B-PER	-	-
+2	Adhra	I-PER	-	-
+3	Abou Hechich	I-PER	-	-
 4	hævder	O	-	-
 5	,	O	-	-
 6	at	O	-	-
@@ -12613,7 +12613,7 @@
 2	veje	O	-	-
 3	fører	O	-	-
 4	til	O	-	-
-5	Yasuj	B-LOC	-	-
+5	Khorramshahr	B-LOC	-	-
 6	.	O	-	-
 
 1	"	O	-	-
@@ -12732,7 +12732,7 @@
 9	højderyg	O	-	-
 10	,	O	-	-
 11	som	O	-	-
-12	Wafaa	B-PER	-	-
+12	Ihab	B-PER	-	-
 13	kontrollerede	O	-	-
 14	.	O	-	-
 
@@ -12740,12 +12740,12 @@
 2	strammer	O	-	-
 3	til	O	-	-
 4	om	O	-	-
-5	Ehsan	B-PER	-	-
+5	Asima	B-PER	-	-
 6	hals	O	-	-
 7	.	O	-	-
 
 1	I	O	-	-
-2	Burdur	B-LOC	-	-
+2	Damaskus	B-LOC	-	-
 3	skal	O	-	-
 4	vi	O	-	-
 5	bruge	O	-	-
@@ -12768,7 +12768,7 @@
 6	jeg	O	-	-
 7	...	O	-	-
 8	vil	O	-	-
-9	Hanadi	B-PER	-	-
+9	Hamsa	B-PER	-	-
 10	og	O	-	-
 11	jeg	O	-	-
 12	...	O	-	-
@@ -12812,7 +12812,7 @@
 17	:	O	-	-
 18	"	O	-	-
 19	Nej	O	-	-
-20	Jasmine	B-PER	-	-
+20	Maryam	B-PER	-	-
 21	,	O	-	-
 22	jeg	O	-	-
 23	tror	O	-	-
@@ -12834,7 +12834,7 @@
 3	indoktrinerer	O	-	-
 4	,	O	-	-
 5	hævdede	O	-	-
-6	Ridha	B-PER	-	-
+6	Abida	B-PER	-	-
 7	frimodigt	O	-	-
 8	.	O	-	-
 
@@ -12883,8 +12883,8 @@
 1	Den	O	-	-
 2	vare	O	-	-
 3	leverer	O	-	-
-4	Kamal	B-PER	-	-
-5	Faleh	I-PER	-	-
+4	Daria	B-PER	-	-
+5	Naji	I-PER	-	-
 6	ca.	O	-	-
 7	en	O	-	-
 8	gang	O	-	-
@@ -12909,8 +12909,8 @@
 15	kroner	O	-	-
 16	fra	O	-	-
 17	modstanderen	O	-	-
-18	Kazim	B-PER	-	-
-19	Albanali	I-PER	-	-
+18	Zaki	B-PER	-	-
+19	Aldhilaymi	I-PER	-	-
 20	.	O	-	-
 
 1	-	O	-	-
@@ -12929,10 +12929,10 @@
 14	om	O	-	-
 15	dig	O	-	-
 16	,	O	-	-
-17	Bader	B-PER	-	-
+17	Malek	B-PER	-	-
 18	!	O	-	-
 19	sagde	O	-	-
-20	Islam	B-PER	-	-
+20	Samia	B-PER	-	-
 21	en	O	-	-
 22	dag	O	-	-
 23	,	O	-	-
@@ -12981,7 +12981,7 @@
 35	åndedræt	O	-	-
 36	larmede	O	-	-
 37	i	O	-	-
-38	Samad	B-PER	-	-
+38	Feras	B-PER	-	-
 39	ører	O	-	-
 40	.	O	-	-
 
@@ -13025,11 +13025,11 @@
 1	Her	O	-	-
 2	formanden	O	-	-
 3	for	O	-	-
-4	Emaar	B-ORG	-	-
-5	Development	I-ORG	-	-
+4	Mellemfolkeligt	B-ORG	-	-
+5	Samvirke	I-ORG	-	-
 6	,	O	-	-
-7	Mikail	B-PER	-	-
-8	Al habsi	I-PER	-	-
+7	Waseem	B-PER	-	-
+8	Chandran	I-PER	-	-
 9	:	O	-	-
 
 1	Ikke	O	-	-
@@ -13039,7 +13039,7 @@
 1	Den	O	-	-
 2	klub	O	-	-
 3	mente	O	-	-
-4	Ahsan	B-PER	-	-
+4	Murtaza	B-PER	-	-
 5	far	O	-	-
 6	var	O	-	-
 7	sagen	O	-	-
@@ -13195,7 +13195,7 @@
 7	og	O	-	-
 8	opvokset	O	-	-
 9	i	O	-	-
-10	Mekka	B-LOC	-	-
+10	Iskenderun	B-LOC	-	-
 11	og	O	-	-
 12	mødtes	O	-	-
 13	,	O	-	-
@@ -13214,7 +13214,7 @@
 5	,	O	-	-
 6	"	O	-	-
 7	siger	O	-	-
-8	Khurram	B-PER	-	-
+8	Selim	B-PER	-	-
 9	Al awamer	I-PER	-	-
 10	.	O	-	-
 
@@ -13238,7 +13238,7 @@
 18	i	O	-	-
 19	det	O	-	-
 20	centrale	O	-	-
-21	Gemlik	B-LOC	-	-
+21	Madaba	B-LOC	-	-
 22	Norrmalm-kvarter	O	-	-
 23	.	O	-	-
 
@@ -13263,7 +13263,7 @@
 5	kæmpe	O	-	-
 6	år	O	-	-
 7	for	O	-	-
-8	Laila	B-PER	-	-
+8	Yousif	B-PER	-	-
 9	her	O	-	-
 10	udkom	O	-	-
 11	der	O	-	-
@@ -13319,7 +13319,7 @@
 2	hævder	O	-	-
 3	,	O	-	-
 4	at	O	-	-
-5	Kahriz	B-LOC	-	-
+5	Kermanshah	B-LOC	-	-
 6	vej	O	-	-
 7	til	O	-	-
 8	demokrati	O	-	-
@@ -13348,7 +13348,7 @@
 18	var	O	-	-
 19	vi	O	-	-
 20	imod	O	-	-
-21	Tunisavia	B-ORG	-	-
+21	Banagas	B-ORG	-	-
 22	.	O	-	-
 
 1	Bortset	O	-	-
@@ -13368,7 +13368,7 @@
 2	mener	O	-	-
 3	,	O	-	-
 4	at	O	-	-
-5	eSpace	B-ORG	-	-
+5	Lamsa	B-ORG	-	-
 6	skal	O	-	-
 7	give	O	-	-
 8	præsidenten	O	-	-
@@ -13377,8 +13377,8 @@
 11	.	O	-	-
 
 1	Af	O	-	-
-2	Nariman	B-PER	-	-
-3	Souaha	I-PER	-	-
+2	Hasib	B-PER	-	-
+3	Ba Butayn	I-PER	-	-
 
 1	Derfor	O	-	-
 2	skal	O	-	-
@@ -13401,17 +13401,17 @@
 5	100	O	-	-
 6	år	O	-	-
 7	tabte	O	-	-
-8	Bupa	B-ORG	-	-
-9	Arabia	I-ORG	-	-
+8	Indre	B-ORG	-	-
+9	Mission	I-ORG	-	-
 10	menighedsrådsvalget	O	-	-
 11	i	O	-	-
-12	Ahvaz	B-LOC	-	-
+12	Sharjah	B-LOC	-	-
 13	.	O	-	-
 
 1	I	O	-	-
 2	1972	O	-	-
 3	fik	O	-	-
-4	Varamin	B-LOC	-	-
+4	Şişli	B-LOC	-	-
 5	sit	O	-	-
 6	første	O	-	-
 7	værtshus	O	-	-
@@ -13423,8 +13423,8 @@
 4	år	O	-	-
 5	,	O	-	-
 6	at	O	-	-
-7	Uzma	B-PER	-	-
-8	Abdalla	I-PER	-	-
+7	Salih	B-PER	-	-
+8	Ali	I-PER	-	-
 9	kom	O	-	-
 10	til	O	-	-
 11	byen	O	-	-
@@ -13434,19 +13434,19 @@
 2	år	O	-	-
 3	senere	O	-	-
 4	tabte	O	-	-
-5	Gulf	B-ORG	-	-
-6	Madhyamam	I-ORG	-	-
+5	Indre	B-ORG	-	-
+6	Mission	I-ORG	-	-
 7	menighedsrådsvalget	O	-	-
 8	i	O	-	-
-9	Samalut	B-LOC	-	-
+9	Muratpasa	B-LOC	-	-
 10	.	O	-	-
 
 1	Og	O	-	-
 2	denne	O	-	-
 3	gang	O	-	-
 4	kan	O	-	-
-5	Yasmin	B-PER	-	-
-6	Al abdouly	I-PER	-	-
+5	Arshad	B-PER	-	-
+6	Mahfouz	I-PER	-	-
 7	ikke	O	-	-
 8	sige	O	-	-
 9	sig	O	-	-
@@ -13481,7 +13481,7 @@
 17	vundet	O	-	-
 18	flertallet	O	-	-
 19	i	O	-	-
-20	Disuq	B-LOC	-	-
+20	Başakşehir	B-LOC	-	-
 21	menighedsråd	O	-	-
 22	.	O	-	-
 
@@ -13545,14 +13545,14 @@
 
 1	Også	O	-	-
 2	i	O	-	-
-3	Iqraa	B-ORG	-	-
+3	Patchi	B-ORG	-	-
 4	egne	O	-	-
 5	rækker	O	-	-
 6	.	O	-	-
 
 1	Desuden	O	-	-
 2	forudser	O	-	-
-3	Egyptalum	B-ORG	-	-
+3	K24	B-ORG	-	-
 4	,	O	-	-
 5	at	O	-	-
 6	200	O	-	-
@@ -13626,8 +13626,8 @@
 24	kvæstet	O	-	-
 25	litauer	O	-	-
 26	,	O	-	-
-27	Salih	B-PER	-	-
-28	Sahyf	I-PER	-	-
+27	Wassim	B-PER	-	-
+28	Shara	I-PER	-	-
 29	.	O	-	-
 
 1	Klokken	O	-	-
@@ -13639,13 +13639,13 @@
 7	første	O	-	-
 8	bomber	O	-	-
 9	over	O	-	-
-10	Tarut	B-LOC	-	-
+10	Latakia	B-LOC	-	-
 11	.	O	-	-
 
 1	Klokken	O	-	-
 2	01.38	O	-	-
 3	var	O	-	-
-4	Damaskus	B-LOC	-	-
+4	Jablah	B-LOC	-	-
 5	en	O	-	-
 6	død	O	-	-
 7	by	O	-	-
@@ -13669,7 +13669,7 @@
 9	rapporterede	O	-	-
 10	CNN-journalisterne	O	-	-
 11	fra	O	-	-
-12	Nizwa	B-LOC	-	-
+12	Mersin	B-LOC	-	-
 13	.	O	-	-
 
 1	Det	O	-	-
@@ -13698,7 +13698,7 @@
 9	løs	O	-	-
 10	igen	O	-	-
 11	over	O	-	-
-12	Kirkuk	B-LOC	-	-
+12	Quchan	B-LOC	-	-
 13	.	O	-	-
 
 1	På	O	-	-
@@ -13761,8 +13761,8 @@
 15	sønderlemmende	O	-	-
 16	kritik	O	-	-
 17	af	O	-	-
-18	Americana	B-ORG	-	-
-19	Restaurants	I-ORG	-	-
+18	Frederikshavns	B-ORG	-	-
+19	politis	I-ORG	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-
 22	Pedal-Ove-sagen	O	-	-
@@ -13773,7 +13773,7 @@
 3	HÅND	O	-	-
 
 1	Nedslidte	O	-	-
-2	Al-Mustaqbal	B-ORG	-	-
+2	Fertiglobe	B-ORG	-	-
 3	jeans	O	-	-
 4	til	O	-	-
 5	snøre-støvletter	O	-	-
@@ -13928,7 +13928,7 @@
 8	og	O	-	-
 9	her	O	-	-
 10	triumferede	O	-	-
-11	Daraty	B-ORG	-	-
+11	Kudu	B-ORG	-	-
 12	med	O	-	-
 13	sejr	O	-	-
 14	i	O	-	-
@@ -13941,13 +13941,13 @@
 
 1	Så	O	-	-
 2	fulgte	O	-	-
-3	ArabiaWeather	B-ORG	-	-
+3	Ahlibank	B-ORG	-	-
 4	,	O	-	-
-5	Ahlibank	B-ORG	-	-
+5	Mubadala	B-ORG	-	-
 6	,	O	-	-
-7	K24	B-ORG	-	-
+7	DMC	B-ORG	-	-
 8	,	O	-	-
-9	al-Balad	B-ORG	-	-
+9	Altibbi	B-ORG	-	-
 10	og	O	-	-
 11	overraskende	O	-	-
 12	kun	O	-	-
@@ -13955,13 +13955,13 @@
 14	nr.	O	-	-
 15	syv	O	-	-
 16	"	O	-	-
-17	Al-Tijari	B-ORG	-	-
+17	QEWC	B-ORG	-	-
 18	"	O	-	-
 19	med	O	-	-
-20	Halim	B-PER	-	-
+20	Ajmal	B-PER	-	-
 21	.	O	-	-
 
-1	Fuad	B-PER	-	-
+1	Ghada	B-PER	-	-
 2	havde	O	-	-
 3	punktering	O	-	-
 4	efter	O	-	-
@@ -13969,8 +13969,8 @@
 6	kilometer	O	-	-
 7	,	O	-	-
 8	og	O	-	-
-9	Ammar	B-PER	-	-
-10	Alairayhi	I-PER	-	-
+9	Sadik	B-PER	-	-
+10	Mohamed aly	I-PER	-	-
 11	punkterede	O	-	-
 12	efter	O	-	-
 13	kun	O	-	-
@@ -14053,14 +14053,14 @@
 2	skal	O	-	-
 3	de	O	-	-
 4	spille	O	-	-
-5	Suleiman	B-PER	-	-
+5	Saad	B-PER	-	-
 6	og	O	-	-
-7	Alairaymin	I-PER	-	-
+7	Jihad	I-PER	-	-
 8	i	O	-	-
 9	dramatiseringen	O	-	-
 10	af	O	-	-
-11	Abdullah	B-PER	-	-
-12	Siwar	I-PER	-	-
+11	Imane	B-PER	-	-
+12	Zghir	I-PER	-	-
 13	eventyr	O	-	-
 14	"	O	-	-
 15	Brødrene	B-MISC	-	-
@@ -14105,7 +14105,7 @@
 1	NYE	O	-	-
 2	AFSLØRINGER	O	-	-
 
-1	Marjan	B-PER	-	-
+1	Tamer	B-PER	-	-
 2	:	O	-	-
 3	"	O	-	-
 4	Hvorfor	O	-	-
@@ -14118,7 +14118,7 @@
 2	i	O	-	-
 3	købet	O	-	-
 4	har	O	-	-
-5	Dima	B-PER	-	-
+5	Yasmine	B-PER	-	-
 6	det	O	-	-
 7	problem	O	-	-
 8	,	O	-	-
@@ -14135,7 +14135,7 @@
 19	olympiske	O	-	-
 20	spillere	O	-	-
 21	fra	O	-	-
-22	al-Bayan	B-ORG	-	-
+22	Mrsool	B-ORG	-	-
 23	holdet	O	-	-
 24	.	O	-	-
 
@@ -14149,10 +14149,10 @@
 8	.	O	-	-
 
 1	Ligesom	O	-	-
-2	Palæstina	B-LOC	-	-
+2	Aligudarz	B-LOC	-	-
 3	politichef	O	-	-
-4	Khadra	B-PER	-	-
-5	Alaidhaydhi	I-PER	-	-
+4	Yasir	B-PER	-	-
+5	Hamdan	I-PER	-	-
 6	måtte	O	-	-
 7	statens	O	-	-
 8	overhoved	O	-	-
@@ -14188,7 +14188,7 @@
 2	serbisk	O	-	-
 3	dominerede	O	-	-
 4	nyhedsbureau	O	-	-
-5	Ma’aden	B-ORG	-	-
+5	Hawacom	B-ORG	-	-
 6	har	O	-	-
 7	tidligere	O	-	-
 8	rapporteret	O	-	-
@@ -14236,7 +14236,7 @@
 1	Hjælp	O	-	-
 2	udefra	O	-	-
 
-1	Metin	B-PER	-	-
+1	Taj	B-PER	-	-
 2	fik	O	-	-
 3	lønforhøjelse	O	-	-
 4	,	O	-	-
@@ -14253,7 +14253,7 @@
 2	Vi	O	-	-
 3	ses	O	-	-
 4	i	O	-	-
-5	Firuzabad	B-LOC	-	-
+5	Talkha	B-LOC	-	-
 6	!	O	-	-
 7	"	O	-	-
 8	svarede	O	-	-
@@ -14316,14 +14316,14 @@
 7	elektriske	O	-	-
 8	strømme	O	-	-
 9	i	O	-	-
-10	Mosul	B-LOC	-	-
+10	Bahçelievler	B-LOC	-	-
 11	flydende	O	-	-
 12	ydre	O	-	-
 13	kerne	O	-	-
 14	.	O	-	-
 
-1	Sara	B-PER	-	-
-2	Alaisayriah	I-PER	-	-
+1	Asia	B-PER	-	-
+2	Nemer	I-PER	-	-
 3	har	O	-	-
 4	et	O	-	-
 5	svar	O	-	-
@@ -14408,9 +14408,9 @@
 2	danske	O	-	-
 3	importør	O	-	-
 4	,	O	-	-
-5	Asdaa	B-ORG	-	-
-6	Burson	I-ORG	-	-
-7	Marsteller	I-ORG	-	-
+5	Vilh.	B-ORG	-	-
+6	Nellemann	I-ORG	-	-
+7	Autoimport	I-ORG	-	-
 8	,	O	-	-
 9	har	O	-	-
 10	besluttet	O	-	-
@@ -14442,9 +14442,9 @@
 11	de	O	-	-
 12	tidligere	O	-	-
 13	Sovjetrepublikker	O	-	-
-14	Habbouch	B-LOC	-	-
+14	Kadirli	B-LOC	-	-
 15	og	O	-	-
-16	Mukalla	B-LOC	-	-
+16	Yüksekova	B-LOC	-	-
 17	-	O	-	-
 18	mindre	O	-	-
 19	end	O	-	-
@@ -14466,7 +14466,7 @@
 8	og	O	-	-
 9	ur-industri	O	-	-
 10	i	O	-	-
-11	Zarqa	B-LOC	-	-
+11	Manama	B-LOC	-	-
 12	.	O	-	-
 
 1	GENBRUG	O	-	-
@@ -14494,8 +14494,8 @@
 4	tre	O	-	-
 5	gøglere	O	-	-
 6	fra	O	-	-
-7	Bayane	B-ORG	-	-
-8	al-Yaoume	I-ORG	-	-
+7	Die	B-ORG	-	-
+8	Onkels	I-ORG	-	-
 9	,	O	-	-
 10	som	O	-	-
 11	jo	O	-	-
@@ -14596,7 +14596,7 @@
 14	lød	O	-	-
 15	det	O	-	-
 16	fra	O	-	-
-17	Habiba	B-PER	-	-
+17	Jawad	B-PER	-	-
 18	.	O	-	-
 
 1	Lærer	O	-	-
@@ -14670,7 +14670,7 @@
 3	han	O	-	-
 4	i	O	-	-
 5	øvrigt	O	-	-
-6	Sarwa	B-ORG	-	-
+6	Al-Thawra	B-ORG	-	-
 7	børnebogspris	O	-	-
 8	for	O	-	-
 9	i	O	-	-
@@ -14703,7 +14703,7 @@
 6	fremtidige	O	-	-
 7	trænere	O	-	-
 8	i	O	-	-
-9	G42	B-ORG	-	-
+9	SNVI	B-ORG	-	-
 10	til	O	-	-
 11	at	O	-	-
 12	forlange	O	-	-
@@ -14723,7 +14723,7 @@
 10	end	O	-	-
 11	hele	O	-	-
 12	"	O	-	-
-13	Unifonic	B-ORG	-	-
+13	Mathaqi	B-ORG	-	-
 14	"	O	-	-
 15	.	O	-	-
 
@@ -14766,7 +14766,7 @@
 8	til	O	-	-
 9	hovedkvarteret	O	-	-
 10	i	O	-	-
-11	Damghan	B-LOC	-	-
+11	Salihli	B-LOC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	man	O	-	-
@@ -14783,7 +14783,7 @@
 3	borgmester	O	-	-
 4	fra	O	-	-
 5	provinsbyen	O	-	-
-6	Antalya	B-LOC	-	-
+6	Jidda	B-LOC	-	-
 7	er	O	-	-
 8	en	O	-	-
 9	af	O	-	-
@@ -14792,8 +14792,8 @@
 12	den	O	-	-
 13	ultra-nationalistiske	O	-	-
 14	bevægelse	O	-	-
-15	al-Hayat	B-ORG	-	-
-16	al-Jadida	I-ORG	-	-
+15	Vatra	B-ORG	-	-
+16	Romanesca	I-ORG	-	-
 17	.	O	-	-
 
 1	Der	O	-	-
@@ -14831,7 +14831,7 @@
 5	en	O	-	-
 6	hyldest	O	-	-
 7	til	O	-	-
-8	Dussur	B-ORG	-	-
+8	Sonalgaz	B-ORG	-	-
 9	.	O	-	-
 
 1	De	O	-	-
