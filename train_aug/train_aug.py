@@ -5,19 +5,19 @@ sys.path.append("../")
 
 from scripts.load_data import write_tsv_file, extract_labeled_tokens, label_mapping, read_tsv_file, write_iob2_file
 from scripts.data_aug import data_aug_replace
-from middle_eastern_ne import extract_first_names, get_last_names,  load_location, load_organisation
+from scripts.middle_eastern_ne import extract_first_names, get_last_names,  load_location, load_organisation
 
 random.seed(42)
 
-ME_BPER = extract_first_names("../data_aug_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf")
-ME_IPER = get_last_names("../data_aug_sources/middle_eastern_last_names.txt", "../data_aug_sources/KDBGIVE.tsv")
-ME_LOC = load_location("../data_aug_sources/the-middle-east-cities.csv")
-ME_ORG = load_organisation("../data_aug_sources/middle_eastern_organisations.csv")
+ME_BPER = extract_first_names("data_aug_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf")
+ME_IPER = get_last_names("data_aug_sources/middle_eastern_last_names.txt", "../data_aug_sources/KDBGIVE.tsv")
+ME_LOC = load_location("data_aug_sources/the-middle-east-cities.csv")
+ME_ORG = load_organisation("data_aug_sources/middle_eastern_organisations.csv")
 
 # path to the data files
-path_train = "../data/no_overlap_da_news/da_news_train.tsv"
-path_dev = "../data/no_overlap_da_news/da_news_dev.tsv"
-path_test = "../data/no_overlap_da_news/da_news_test.tsv"
+path_train = "data/no_overlap_da_news/da_news_train.tsv"
+path_dev = "data/no_overlap_da_news/da_news_dev.tsv"
+path_test = "data/no_overlap_da_news/da_news_test.tsv"
 
 # create mapping
 label2id, id2label = label_mapping(path_train)
@@ -52,8 +52,8 @@ for amount in sentence_values:
     augmented_datasets.append(aug_set)
 
 # save as tsv files
-write_tsv_file(ME_dev, "../data/me_data/middle_eastern_dev.tsv")
-write_tsv_file(ME_test, "../data/me_data/middle_eastern_test.tsv")
+write_tsv_file(ME_dev, "data/me_data/middle_eastern_dev.tsv")
+write_tsv_file(ME_test, "data/me_data/middle_eastern_test.tsv")
 
 
 ################################################# Baseline code ######################################################
