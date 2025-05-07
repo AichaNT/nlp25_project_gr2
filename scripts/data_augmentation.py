@@ -1,7 +1,7 @@
 import random
 import copy
 
-from load_data import extract_labeled_tokens, read_tsv_file, label_mapping
+from scripts.load_data import extract_labeled_tokens, read_tsv_file, label_mapping
 from scripts.extract_ME_entities import extract_first_names, get_last_names,  load_location, load_organisation
 
 path_train = "../data/no_overlap_da_news/da_news_train.tsv"

@@ -1,7 +1,7 @@
 # imports
 import random
 from collections import defaultdict, Counter
-from load_data import extract_labeled_tokens
+from scripts.load_data import extract_labeled_tokens
    
 
 ###################### REMOVING ENTITY OVERLAP ######################
