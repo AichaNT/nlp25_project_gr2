@@ -3,7 +3,7 @@ import random
 import sys
 sys.path.append("../")
 
-from scripts.load_data import write_tsv_file, extract_labeled_tokens, mapping, read_tsv_file, write_iob2_file
+from scripts.load_data import write_tsv_file, extract_labeled_tokens, label_mapping, read_tsv_file, write_iob2_file
 from scripts.data_aug import data_aug_replace
 from middle_eastern_ne import extract_first_names, get_last_names,  load_location, load_organisation
 
@@ -20,7 +20,7 @@ path_dev = "../data/no_overlap_da_news/da_news_dev.tsv"
 path_test = "../data/no_overlap_da_news/da_news_test.tsv"
 
 # create mapping
-label2id, id2label = mapping(path_train)
+label2id, id2label = label_mapping(path_train)
 
 # read in the DaN+ data
 train_data = read_tsv_file(path_train, label2id)
@@ -72,7 +72,7 @@ path_me_dev = "data/me_data/middle_eastern_dev.tsv"
 model_name = "vesteinn/DanskBERT"
 
 # creating the label to id mapping 
-label2id, id2label = mapping(path_train)
+label2id, id2label = label_mapping(path_train)
 
 # number of labels
 num_labels = len(label2id)

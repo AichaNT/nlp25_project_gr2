@@ -1,7 +1,7 @@
 # reading label data from a given column
 # this is the readNlu function from the provided span_f1 file
 # minor modifications were made to make it usable with our data. 
-def readNlu(path, target_column = 1): # default to index 1 (thats where DaN+ labels are)
+def modified_readNlu(path, target_column = 1): # default to index 1 (thats where DaN+ labels are)
     '''
     This function reads labeled annotations from a CoNLL-like file.
 
@@ -42,11 +42,11 @@ def readNlu(path, target_column = 1): # default to index 1 (thats where DaN+ lab
 
 
 # mapping funciton 
-def mapping(path):
+def label_mapping(path):
     '''
     This function generates mappings between labels and their corresponding integer IDs from a labeled dataset.
 
-    It reads annotations from a CoNLL-like file using the "readNlu" function,
+    It reads annotations from a CoNLL-like file using the "modified_readNlu" function,
     filters out labels containing substrings like "part" or "deriv" (case-insensitive),
     and creates a bidirectional mapping between the remaining unique labels and integer IDs.
 
@@ -60,7 +60,7 @@ def mapping(path):
     '''
 
     # get the data labels
-    data_labels = readNlu(path) 
+    data_labels = modified_readNlu(path) 
 
     # create empty set to store unique labels
     label_set = set()
