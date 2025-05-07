@@ -42,7 +42,7 @@ ME_test, used_entities = data_aug_replace(test_data, sentence_amount=1000,
                                          used_entities = used_entities, train_tokens=train_tokens)
 final_used = used_entities
 
-sentence_values = [100, 250, 500, 864, 1000, 1500, 1729]
+sentence_values = [0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1729]
 augmented_datasets = []
 
 for amount in sentence_values:
