@@ -1,22 +1,26 @@
 import random
 import copy
 
-from load_data import extract_labeled_tokens, read_tsv_file, label_mapping
+from scripts.load_data import extract_labeled_tokens, read_tsv_file, label_mapping
 from scripts.extract_ME_entities import extract_first_names, get_last_names,  load_location, load_organisation
 
-path_train = "../data/no_overlap_da_news/da_news_train.tsv"
+# path to train data
+path_train = "data/no_overlap_da_news/da_news_train.tsv"
 
+# label mapping
 label2id, id2label = label_mapping(path_train)
 
+# read in train data
 train_data = read_tsv_file(path_train, label2id)
 
-# extracting all tokens in train data - to ensure no overlap later
+# extracting all tokens in train data - to ensure no overlap
 train_tokens = extract_labeled_tokens(train_data)
 
-ME_BPER = extract_first_names("data_aug_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf")
-ME_IPER = get_last_names("data_aug_sources/middle_eastern_last_names.txt", "data_aug_sources/KDBGIVE.tsv")
-ME_LOC = load_location("data_aug_sources/the-middle-east-cities.csv")
-ME_ORG = load_organisation("data_aug_sources/middle_eastern_organisations.csv")
+# get ME entities
+ME_BPER = extract_first_names("data/me_entity_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf")
+ME_IPER = get_last_names("data/me_entity_sources/middle_eastern_last_names.txt", "data/me_entity_sources/KDBGIVE.tsv")
+ME_LOC = load_location("data/me_entity_sources/the-middle-east-cities.csv")
+ME_ORG = load_organisation("data/me_entity_sources/middle_eastern_organisations.csv")
 
 
 def data_aug_replace(dataset, sentence_amount, ME_LOC=ME_LOC, ME_ORG=ME_ORG,

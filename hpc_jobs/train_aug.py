@@ -1,67 +1,31 @@
-# imports 
-import random
-import pickle
-import sys
-sys.path.append("../")
-
-from scripts.load_data import write_tsv_file, extract_labeled_tokens, label_mapping, read_tsv_file, write_iob2_file
-from scripts.data_aug import data_aug_replace
-from scripts.extract_ME_entities import extract_first_names, get_last_names,  load_location, load_organisation
-
-random.seed(20)
-
-ME_BPER = extract_first_names("data_aug_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf")
-ME_IPER = get_last_names("data_aug_sources/middle_eastern_last_names.txt", "data_aug_sources/KDBGIVE.tsv")
-ME_LOC = load_location("data_aug_sources/the-middle-east-cities.csv")
-ME_ORG = load_organisation("data_aug_sources/middle_eastern_organisations.csv")
-
-# path to the data files
-path_train = "data/no_overlap_da_news/da_news_train.tsv"
-path_dev = "data/no_overlap_da_news/da_news_dev.tsv"
-path_test = "data/no_overlap_da_news/da_news_test.tsv"
-
-# create mapping
-label2id, id2label = label_mapping(path_train)
-
-# read in the DaN+ data
-train_data = read_tsv_file(path_train, label2id)
-dev_data = read_tsv_file(path_dev, label2id)
-test_data = read_tsv_file(path_test, label2id)
-
-# extracting all tokens in train data - to ensure no overlap later
-train_tokens = extract_labeled_tokens(train_data)
-
-# for saving all used entities
-used_entities = set()
-
-ME_dev, used_entities = data_aug_replace(dev_data, sentence_amount=1000,
-                                         ME_LOC = ME_LOC, ME_ORG = ME_ORG, ME_BPER = ME_BPER, ME_IPER = ME_IPER, 
-                                         used_entities = used_entities, train_tokens=train_tokens)
-
-ME_test, used_entities = data_aug_replace(test_data, sentence_amount=1000,
-                                         ME_LOC = ME_LOC, ME_ORG = ME_ORG, ME_BPER = ME_BPER, ME_IPER = ME_IPER, 
-                                         used_entities = used_entities, train_tokens=train_tokens)
-final_used = used_entities
-
-sentence_values = [0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1729]
-augmented_datasets = []
-
-for amount in sentence_values:
-    aug_set, _ = data_aug_replace(train_data, sentence_amount=amount,
-                                         ME_LOC = ME_LOC, ME_ORG = ME_ORG, ME_BPER = ME_BPER, ME_IPER = ME_IPER, 
-                                         used_entities = final_used, train_tokens=train_tokens)
-    augmented_datasets.append(aug_set)
-
-
-
 ################################################# Training code ######################################################
 
 from scripts.train_pred import tokenize_and_align_labels, pred2label
+from scripts.load_data import label_mapping, read_tsv_file, write_iob2_file
+from scripts.data_augmentation import data_aug_replace
 
 from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, AutoConfig, AutoTokenizer, DataCollatorForTokenClassification
 from datasets import Dataset
 import torch
 import pickle
+import random
+random.seed(20)
+
+# path to the data files
+path_train = "data/no_overlap_da_news/da_news_train.tsv"
+path_dev = "data/no_overlap_da_news/da_news_dev.tsv"
+path_me_dev = "data/me_data/middle_eastern_dev.tsv"  
+
+# create mapping
+label2id, id2label = label_mapping(path_train)
+
+# number of labels
+num_labels = len(label2id)
+
+# reading in the data
+train_data = read_tsv_file(path_train, label2id)
+dev_data = read_tsv_file(path_dev, label2id=label2id)
+me_dev_data = read_tsv_file(path_me_dev, label2id=label2id)
 
 with open('used_entities.pkl', 'rb') as f:
     final_used = pickle.load(f)
@@ -71,26 +35,12 @@ augmented_datasets = []
 
 # create augmented train sets
 for amount in sentence_values:
-    aug_set, _ = data_aug_replace(train_data, sentence_amount=amount,
-                                         ME_LOC = ME_LOC, ME_ORG = ME_ORG, ME_BPER = ME_BPER, ME_IPER = ME_IPER, 
-                                         used_entities = final_used, train_tokens=train_tokens)
-    augmented_datasets.append(aug_set)
+    aug_set, _ = data_aug_replace(train_data, sentence_amount=amount, used_entities = final_used)
 
-# path to the data files
-path_me_dev = "data/me_data/middle_eastern_dev.tsv"  
+    augmented_datasets.append(aug_set)
 
 # saving model name
 model_name = "vesteinn/DanskBERT"
-
-# creating the label to id mapping 
-label2id, id2label = label_mapping(path_train)
-
-# number of labels
-num_labels = len(label2id)
-
-# reading in the data
-dev_data = read_tsv_file(path_dev, label2id=label2id)
-me_dev_data = read_tsv_file(path_me_dev, label2id=label2id)
 
 # convert to huggingface format
 dev_dataset = Dataset.from_list(dev_data)
