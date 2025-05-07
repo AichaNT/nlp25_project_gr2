@@ -34,12 +34,6 @@ aug_data, _ = data_aug_replace(train_data, sentence_amount=300, used_entities = 
 # saving model name
 model_name = "vesteinn/DanskBERT"
 
-# creating the label to id mapping 
-label2id, id2label = label_mapping(path_train)
-
-# number of labels
-num_labels = len(label2id)
-
 # convert to huggingface format
 train_dataset = Dataset.from_list(aug_data)
 test_dataset = Dataset.from_list(test_data)

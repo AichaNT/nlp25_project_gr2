@@ -1,5 +1,5 @@
 # imports 
-from scripts.load_data import mapping, read_tsv_file, write_iob2_file
+from scripts.load_data import label_mapping, read_tsv_file, write_iob2_file
 from scripts.train_pred import tokenize_and_align_labels, pred2label
 
 from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, AutoConfig, AutoTokenizer, DataCollatorForTokenClassification
@@ -17,7 +17,7 @@ path_me_test = "data/me_data/middle_eastern_test.tsv"
 model_name = "vesteinn/DanskBERT"
 
 # creating the label to id mapping 
-label2id, id2label = mapping(path_train)
+label2id, id2label = label_mapping(path_train)
 
 # number of labels
 num_labels = len(label2id)
