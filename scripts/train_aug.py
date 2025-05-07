@@ -124,9 +124,6 @@ data_collator = DataCollatorForTokenClassification(tokenizer)
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model.to(device) # move model to device
 
-# load the seqeval metric 
-metric = load("seqeval") 
-
 # define the training arguments
 args = TrainingArguments(
     output_dir = "output_trainer", 
@@ -141,7 +138,7 @@ args = TrainingArguments(
 )
 
 # loop for training sets
-for train_data in augmented_datasets:
+for idx, train_data in enumerate(augmented_datasets):
     train_dataset = Dataset.from_list(train_data) # convert to huggingface format
 
     tokenized_train_dataset = train_dataset.map( # tokenize train dataset and align labels with subword tokens
@@ -160,3 +157,19 @@ for train_data in augmented_datasets:
 
     # train the model
     trainer.train()
+
+    # predicting on non-augmented dev set
+    dev_preds, dev_labels, _ = trainer.predict(tokenized_dev_dataset)
+
+    # predicting on augmented dev set
+    me_dev_preds, me_dev_labels, _ = trainer.predict(tokenized_me_dev_dataset)
+
+    # predict max logit and convert to strings for non-augmented
+    _, dev_predictions = pred2label((dev_preds, dev_labels), id2label)
+
+    # predict max logit and convert to strings for augmented
+    _, me_dev_predictions = pred2label((me_dev_preds, me_dev_labels), id2label)
+
+    # write output file for predictions on dev sets
+    write_iob2_file(dev_data, predictions = dev_predictions, path = f"{idx}dev_pred.iob2")
+    write_iob2_file(me_dev_data, predictions = me_dev_predictions, path = f"{idx}me_dev_pred.iob2")
