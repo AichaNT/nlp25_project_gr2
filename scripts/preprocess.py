@@ -9,8 +9,6 @@ from scripts.load_data import (
     read_iob2_file
 )
 
-# set seed
-random.seed(20)
 
 # main function for fixing overlap
 def fix_overlap(train_data, dev_data, test_data):
@@ -146,22 +144,3 @@ def finalize_split_with_o_sentences(data, train_group, dev_group, test_group):
     test_data = [data[i] for i in sorted(test_group)]
 
     return train_data, dev_data, test_data
-
-# dataset sizes
-def check_dataset_sizes(train_data, dev_data, test_data):
-    total = len(train_data) + len(dev_data) + len(test_data)
-    print("train size:", len(train_data))
-    print("dev size:", len(dev_data))
-    print("test size:", len(test_data))
-    print("total dataset size:", total)
-
-# token overlap
-def check_token_overlap(train_data, dev_data, test_data):
-    train_tokens = extract_labeled_tokens(train_data)
-    dev_tokens = extract_labeled_tokens(dev_data)
-    test_tokens = extract_labeled_tokens(test_data)
-
-    print('overlap between train and dev:', len(train_tokens & dev_tokens))
-    print('overlap between dev and test:', len(dev_tokens & test_tokens))
-    print('overlap between train and test:', len(train_tokens & test_tokens))
-
