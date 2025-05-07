@@ -1,5 +1,6 @@
 # imports 
 import random
+import pickle
 import sys
 sys.path.append("../")
 
@@ -7,7 +8,7 @@ from scripts.load_data import write_tsv_file, extract_labeled_tokens, label_mapp
 from scripts.data_aug import data_aug_replace
 from scripts.extract_ME_entities import extract_first_names, get_last_names,  load_location, load_organisation
 
-random.seed(42)
+random.seed(20)
 
 ME_BPER = extract_first_names("data_aug_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf")
 ME_IPER = get_last_names("data_aug_sources/middle_eastern_last_names.txt", "data_aug_sources/KDBGIVE.tsv")
@@ -51,13 +52,6 @@ for amount in sentence_values:
                                          used_entities = final_used, train_tokens=train_tokens)
     augmented_datasets.append(aug_set)
 
-# save as tsv files
-write_tsv_file(ME_dev, "data/me_data/middle_eastern_dev.tsv")
-write_tsv_file(ME_test, "data/me_data/middle_eastern_test.tsv")
-
-# save as iob2 files
-write_iob2_file(ME_dev, path="data/me_data/middle_eastern_dev.iob2", gold=True)
-write_iob2_file(ME_test, path="data/me_data/middle_eastern_test.iob2", gold=True)
 
 
 ################################################# Training code ######################################################
@@ -67,7 +61,20 @@ from scripts.train_pred import tokenize_and_align_labels, pred2label
 from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, AutoConfig, AutoTokenizer, DataCollatorForTokenClassification
 from datasets import Dataset
 import torch
-from evaluate import load 
+import pickle
+
+with open('used_entities.pkl', 'rb') as f:
+    final_used = pickle.load(f)
+
+sentence_values = [0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1729]
+augmented_datasets = []
+
+# create augmented train sets
+for amount in sentence_values:
+    aug_set, _ = data_aug_replace(train_data, sentence_amount=amount,
+                                         ME_LOC = ME_LOC, ME_ORG = ME_ORG, ME_BPER = ME_BPER, ME_IPER = ME_IPER, 
+                                         used_entities = final_used, train_tokens=train_tokens)
+    augmented_datasets.append(aug_set)
 
 # path to the data files
 path_me_dev = "data/me_data/middle_eastern_dev.tsv"  
@@ -135,7 +142,6 @@ args = TrainingArguments(
     save_strategy = "no",
     learning_rate = 2e-5,
     per_device_train_batch_size = 2,
-    per_device_eval_batch_size = 2,
     num_train_epochs = 1,
     weight_decay = 0.01,
     remove_unused_columns=False
