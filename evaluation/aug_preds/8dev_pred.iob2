@@ -92,9 +92,9 @@
 2	den	O	-	-
 3	orangegule	O	-	-
 4	norske	O	-	-
-5	Fanta	B-PER	-	-
+5	Fanta	O	-	-
 6	,	O	-	-
-7	Solus	B-PER	-	-
+7	Solus	B-MISC	-	-
 8	,	O	-	-
 9	kan	O	-	-
 10	holde	O	-	-
@@ -109,8 +109,8 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-MISC	-	-
-7	Hvile	I-MISC	-	-
+6	Bakkens	B-LOC	-	-
+7	Hvile	I-LOC	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -616,7 +616,7 @@
 34	lønforhøjelse	O	-	-
 35	.	O	-	-
 
-1	Fielfraz	B-PER	-	-
+1	Fielfraz	B-LOC	-	-
 2	har	O	-	-
 3	en	O	-	-
 4	særlig	O	-	-
@@ -1198,7 +1198,7 @@
 11	nord	O	-	-
 12	for	O	-	-
 13	Bella	B-ORG	-	-
-14	Centret	I-ORG	-	-
+14	Centret	I-LOC	-	-
 15	,	O	-	-
 16	hvor	O	-	-
 17	i	O	-	-
@@ -2053,7 +2053,7 @@
 7	jagten	O	-	-
 8	på	O	-	-
 9	"	O	-	-
-10	Basse	B-PER	-	-
+10	Basse	B-MISC	-	-
 11	"	O	-	-
 12	,	O	-	-
 13	fordi	O	-	-
@@ -2558,7 +2558,7 @@
 10	overtages	O	-	-
 11	af	O	-	-
 12	en	O	-	-
-13	ECU	B-MISC	-	-
+13	ECU	O	-	-
 14	.	O	-	-
 
 1	Konkurrencen	O	-	-
@@ -2650,8 +2650,8 @@
 9	,	O	-	-
 10	som	O	-	-
 11	"	O	-	-
-12	Nr.	B-MISC	-	-
-13	742	I-MISC	-	-
+12	Nr.	O	-	-
+13	742	O	-	-
 14	"	O	-	-
 15	må	O	-	-
 16	opleves	O	-	-
@@ -2698,7 +2698,7 @@
 
 1	Det	O	-	-
 2	tyske	O	-	-
-3	Transall	O	-	-
+3	Transall	B-ORG	-	-
 4	fly	O	-	-
 5	taxier	O	-	-
 6	ind	O	-	-
@@ -2774,8 +2774,8 @@
 3	elevgruppen	O	-	-
 4	på	O	-	-
 5	Ny	B-ORG	-	-
-6	Holte	I-ORG	-	-
-7	skole	I-ORG	-	-
+6	Holte	I-LOC	-	-
+7	skole	O	-	-
 8	meget	O	-	-
 9	kreativt	O	-	-
 10	orienteret	O	-	-
@@ -3100,14 +3100,14 @@
 32	nær	O	-	-
 33	ved	O	-	-
 34	mod	O	-	-
-35	Grubba	B-ORG	-	-
+35	Grubba	B-PER	-	-
 36	og	O	-	-
 37	bagefter	O	-	-
 38	også	O	-	-
 39	tog	O	-	-
 40	sæt	O	-	-
 41	fra	O	-	-
-42	Appelgren	B-PER	-	-
+42	Appelgren	B-ORG	-	-
 43	og	O	-	-
 44	viste	O	-	-
 45	noget	O	-	-
@@ -3187,7 +3187,7 @@
 5	opvarmet	O	-	-
 6	pøl	O	-	-
 7	og	O	-	-
-8	Volvo	B-ORG	-	-
+8	Volvo	O	-	-
 9	.	O	-	-
 
 1	Udstyrsmæssigt	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	B-LOC	-	-
+1	Hash	B-MISC	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3935,8 +3935,8 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	B-PER	-	-
-2	PALLE	B-PER	-	-
+1	LILLE	O	-	-
+2	PALLE	O	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
 5	,	O	-	-
@@ -3967,7 +3967,7 @@
 30	hædret	O	-	-
 31	med	O	-	-
 32	Bakkens	B-MISC	-	-
-33	Oscar	I-MISC	-	-
+33	Oscar	B-MISC	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
@@ -4800,7 +4800,7 @@
 4	den	O	-	-
 5	handler	O	-	-
 6	om	O	-	-
-7	Justitsministeriets	O	-	-
+7	Justitsministeriets	B-ORG	-	-
 8	og	O	-	-
 9	Rigspolitiets	B-ORG	-	-
 10	manglende	O	-	-
@@ -5215,9 +5215,9 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	ABBA	B-ORG	-	-
+1	ABBA	B-MISC	-	-
 2	"	O	-	-
-3	Gold	B-MISC	-	-
+3	Gold	I-MISC	-	-
 4	"	O	-	-
 5	har	O	-	-
 6	været	O	-	-
@@ -5344,7 +5344,7 @@
 32	hverdags-biler	O	-	-
 33	.	O	-	-
 
-1	F.P.Jac	B-ORG	-	-
+1	F.P.Jac	B-PER	-	-
 2	er	O	-	-
 3	sprunget	O	-	-
 4	fra	O	-	-
@@ -5490,8 +5490,8 @@
 2	om	O	-	-
 3	Seat	B-MISC	-	-
 4	Toledo	I-MISC	-	-
-5	2,0	I-MISC	-	-
-6	GLX	I-MISC	-	-
+5	2,0	O	-	-
+6	GLX	O	-	-
 7	OPBYGNING	O	-	-
 8	:	O	-	-
 9	4/5-personers	O	-	-
@@ -5750,7 +5750,7 @@
 17	år	O	-	-
 18	.	O	-	-
 
-1	Nord	B-PER	-	-
+1	Nord	B-ORG	-	-
 2	satsede	O	-	-
 3	aggressivt	O	-	-
 4	på	O	-	-
@@ -6252,7 +6252,7 @@
 9	senere	O	-	-
 10	.	O	-	-
 
-1	vivaldi	O	-	-
+1	vivaldi	B-PER	-	-
 2	er	O	-	-
 3	utrolig	O	-	-
 4	til	O	-	-
@@ -6994,7 +6994,7 @@
 4	mill.	O	-	-
 5	franc	O	-	-
 6	reddede	O	-	-
-7	Valenciennes	B-ORG	-	-
+7	Valenciennes	B-LOC	-	-
 8	fra	O	-	-
 9	konkurs	O	-	-
 10	.	O	-	-
@@ -7068,8 +7068,8 @@
 7	over	O	-	-
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
-10	McClardÁs	B-ORG	-	-
-11	Bar-B-Que	B-MISC	-	-
+10	McClardÁs	B-LOC	-	-
+11	Bar-B-Que	I-LOC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	den	O	-	-
@@ -7657,7 +7657,7 @@
 22	"	O	-	-
 23	Ugens	B-MISC	-	-
 24	Overraskelse	I-MISC	-	-
-25	-	I-MISC	-	-
+25	-	O	-	-
 26	uge	O	-	-
 27	47	O	-	-
 28	"	O	-	-
@@ -7685,7 +7685,7 @@
 15	tankvogn	O	-	-
 16	med	O	-	-
 17	giftstoffet	O	-	-
-18	acrylonitril	O	-	-
+18	acrylonitril	B-MISC	-	-
 19	sprang	O	-	-
 20	læk	O	-	-
 21	.	O	-	-
@@ -8188,8 +8188,8 @@
 5	succes'en	O	-	-
 6	med	O	-	-
 7	"	O	-	-
-8	Gule	B-MISC	-	-
-9	handsker	I-MISC	-	-
+8	Gule	O	-	-
+9	handsker	O	-	-
 10	"	O	-	-
 11	,	O	-	-
 12	og	O	-	-
@@ -8264,7 +8264,7 @@
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
-15	universitet	B-LOC	-	-
+15	universitet	O	-	-
 16	til	O	-	-
 17	Tårnby	B-LOC	-	-
 18	.	O	-	-
@@ -8449,7 +8449,7 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	B-ORG	-	-
+4	DUPLO	O	-	-
 5	legetøj	O	-	-
 6	"	O	-	-
 
@@ -9087,7 +9087,7 @@
 1	I	O	-	-
 2	1972	O	-	-
 3	fik	O	-	-
-4	Skjern	B-LOC	-	-
+4	Skjern	B-PER	-	-
 5	sit	O	-	-
 6	første	O	-	-
 7	værtshus	O	-	-
@@ -9206,7 +9206,7 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	O	-	-
+3	Super-Pedersen	B-ORG	-	-
 4	sig	O	-	-
 5	over	O	-	-
 6	Nettos	B-PER	-	-
@@ -9288,7 +9288,7 @@
 15	sønderlemmende	O	-	-
 16	kritik	O	-	-
 17	af	O	-	-
-18	Frederikshavns	B-LOC	-	-
+18	Frederikshavns	B-ORG	-	-
 19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-
@@ -9722,7 +9722,7 @@
 12	,	O	-	-
 13	forbi	O	-	-
 14	Sydhavn	B-LOC	-	-
-15	S-station	I-LOC	-	-
+15	S-station	O	-	-
 16	mod	O	-	-
 17	Sjællandsbroen	B-LOC	-	-
 18	.	O	-	-

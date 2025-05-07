@@ -8,8 +8,8 @@
 8	klorofyl-turister	O	-	-
 9	"	O	-	-
 10	er	O	-	-
-11	Robinson	B-PER	-	-
-12	Crusoe	I-PER	-	-
+11	Robinson	B-LOC	-	-
+12	Crusoe	I-LOC	-	-
 13	et	O	-	-
 14	paradis	O	-	-
 15	for	O	-	-
@@ -94,7 +94,7 @@
 4	norske	O	-	-
 5	Fanta	O	-	-
 6	,	O	-	-
-7	Solus	B-PER	-	-
+7	Solus	B-MISC	-	-
 8	,	O	-	-
 9	kan	O	-	-
 10	holde	O	-	-
@@ -109,8 +109,8 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-ORG	-	-
-7	Hvile	I-ORG	-	-
+6	Bakkens	B-MISC	-	-
+7	Hvile	I-MISC	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	B-MISC	-	-
+6	Pio-episoden	O	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -1003,8 +1003,8 @@
 18	konkurrencen	O	-	-
 19	op	O	-	-
 20	med	O	-	-
-21	Cayman	B-LOC	-	-
-22	Islands	I-LOC	-	-
+21	Cayman	B-ORG	-	-
+22	Islands	I-ORG	-	-
 23	og	O	-	-
 24	andre	O	-	-
 25	skattely	O	-	-
@@ -1197,7 +1197,7 @@
 10	naturen	O	-	-
 11	nord	O	-	-
 12	for	O	-	-
-13	Bella	B-ORG	-	-
+13	Bella	B-LOC	-	-
 14	Centret	I-LOC	-	-
 15	,	O	-	-
 16	hvor	O	-	-
@@ -1795,8 +1795,8 @@
 19	og	O	-	-
 20	MikroData	B-ORG	-	-
 21	i	O	-	-
-22	Bella	B-ORG	-	-
-23	Center	I-ORG	-	-
+22	Bella	B-LOC	-	-
+23	Center	I-LOC	-	-
 24	.	O	-	-
 
 1	De	O	-	-
@@ -1895,7 +1895,7 @@
 4	jeg	O	-	-
 5	fodboldlærling	O	-	-
 6	i	O	-	-
-7	Arsenal	B-ORG	-	-
+7	Arsenal	B-LOC	-	-
 8	,	O	-	-
 9	og	O	-	-
 10	så	O	-	-
@@ -2228,7 +2228,7 @@
 3	på	O	-	-
 4	nogle	O	-	-
 5	af	O	-	-
-6	Colorados	B-LOC	-	-
+6	Colorados	B-ORG	-	-
 7	postkontorer	O	-	-
 8	fik	O	-	-
 9	den	O	-	-
@@ -2434,7 +2434,7 @@
 5	alle	O	-	-
 6	de	O	-	-
 7	andre	O	-	-
-8	Østersølande	B-LOC	-	-
+8	Østersølande	O	-	-
 9	skal	O	-	-
 10	vi	O	-	-
 11	i	O	-	-
@@ -2651,7 +2651,7 @@
 10	som	O	-	-
 11	"	O	-	-
 12	Nr.	O	-	-
-13	742	I-MISC	-	-
+13	742	O	-	-
 14	"	O	-	-
 15	må	O	-	-
 16	opleves	O	-	-
@@ -2774,7 +2774,7 @@
 3	elevgruppen	O	-	-
 4	på	O	-	-
 5	Ny	B-ORG	-	-
-6	Holte	I-ORG	-	-
+6	Holte	I-LOC	-	-
 7	skole	O	-	-
 8	meget	O	-	-
 9	kreativt	O	-	-
@@ -2849,7 +2849,7 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-ORG	-	-
+9	Altans	B-PER	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
@@ -3944,7 +3944,7 @@
 7	har	O	-	-
 8	succes	O	-	-
 9	på	O	-	-
-10	Bakkens	B-LOC	-	-
+10	Bakkens	O	-	-
 11	friluftsscene	O	-	-
 12	,	O	-	-
 13	kom	O	-	-
@@ -4806,7 +4806,7 @@
 10	manglende	O	-	-
 11	respekt	O	-	-
 12	for	O	-	-
-13	Grundloven	B-MISC	-	-
+13	Grundloven	O	-	-
 14	.	O	-	-
 
 1	Sådan	O	-	-
@@ -4937,7 +4937,7 @@
 7	har	O	-	-
 8	kun	O	-	-
 9	BMW's	B-ORG	-	-
-10	3-serie	I-MISC	-	-
+10	3-serie	O	-	-
 11	et	O	-	-
 12	hårstrå	O	-	-
 13	mindre	O	-	-
@@ -4952,13 +4952,13 @@
 22	rummeligheds-giganter	O	-	-
 23	som	O	-	-
 24	Citroen	B-ORG	-	-
-25	XM	I-MISC	-	-
+25	XM	I-ORG	-	-
 26	,	O	-	-
 27	Opel	B-ORG	-	-
-28	Omega	I-MISC	-	-
+28	Omega	I-ORG	-	-
 29	og	O	-	-
 30	Peugeot	B-ORG	-	-
-31	605	I-MISC	-	-
+31	605	I-ORG	-	-
 32	.	O	-	-
 
 1	Men	O	-	-
@@ -5490,7 +5490,7 @@
 2	om	O	-	-
 3	Seat	B-MISC	-	-
 4	Toledo	I-MISC	-	-
-5	2,0	O	-	-
+5	2,0	I-MISC	-	-
 6	GLX	I-MISC	-	-
 7	OPBYGNING	O	-	-
 8	:	O	-	-
@@ -5602,7 +5602,7 @@
 5	beliggende	O	-	-
 6	i	O	-	-
 7	Snares	B-LOC	-	-
-8	Kvarter	I-LOC	-	-
+8	Kvarter	O	-	-
 9	,	O	-	-
 10	får	O	-	-
 11	nu	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	B-MISC	-	-
+21	Chaussé	B-LOC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5750,7 +5750,7 @@
 17	år	O	-	-
 18	.	O	-	-
 
-1	Nord	B-PER	-	-
+1	Nord	B-ORG	-	-
 2	satsede	O	-	-
 3	aggressivt	O	-	-
 4	på	O	-	-
@@ -6015,7 +6015,7 @@
 23	søge	O	-	-
 24	specialviden	O	-	-
 25	om	O	-	-
-26	AIDS	O	-	-
+26	AIDS	B-MISC	-	-
 27	andre	O	-	-
 28	steder	O	-	-
 29	,	O	-	-
@@ -6252,7 +6252,7 @@
 9	senere	O	-	-
 10	.	O	-	-
 
-1	vivaldi	O	-	-
+1	vivaldi	B-PER	-	-
 2	er	O	-	-
 3	utrolig	O	-	-
 4	til	O	-	-
@@ -6678,7 +6678,7 @@
 2	var	O	-	-
 3	grufulde	O	-	-
 4	i	O	-	-
-5	DDRs	B-ORG	-	-
+5	DDRs	B-LOC	-	-
 6	eneste	O	-	-
 7	lukkede	O	-	-
 8	børnefængsel	O	-	-
@@ -7658,8 +7658,8 @@
 23	Ugens	B-MISC	-	-
 24	Overraskelse	I-MISC	-	-
 25	-	I-MISC	-	-
-26	uge	O	-	-
-27	47	O	-	-
+26	uge	I-MISC	-	-
+27	47	I-MISC	-	-
 28	"	O	-	-
 29	og	O	-	-
 30	"	O	-	-
@@ -8276,7 +8276,7 @@
 5	ny	O	-	-
 6	teori	O	-	-
 7	i	O	-	-
-8	Propagandaministeriet	B-ORG	-	-
+8	Propagandaministeriet	O	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	gik	O	-	-
@@ -8449,7 +8449,7 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	B-ORG	-	-
+4	DUPLO	O	-	-
 5	legetøj	O	-	-
 6	"	O	-	-
 
@@ -8465,7 +8465,7 @@
 10	bøfdrenge	O	-	-
 11	Sylvester	B-PER	-	-
 12	"	O	-	-
-13	Rambo	B-PER	-	-
+13	Rambo	I-PER	-	-
 14	"	O	-	-
 15	Stallone	I-PER	-	-
 16	og	O	-	-
@@ -9281,7 +9281,7 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-MISC	-	-
+11	DR-Dokumentar	B-ORG	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
@@ -9722,7 +9722,7 @@
 12	,	O	-	-
 13	forbi	O	-	-
 14	Sydhavn	B-LOC	-	-
-15	S-station	I-LOC	-	-
+15	S-station	O	-	-
 16	mod	O	-	-
 17	Sjællandsbroen	B-LOC	-	-
 18	.	O	-	-

@@ -92,7 +92,7 @@
 2	den	O	-	-
 3	orangegule	O	-	-
 4	norske	O	-	-
-5	Fanta	B-PER	-	-
+5	Fanta	B-MISC	-	-
 6	,	O	-	-
 7	Solus	B-PER	-	-
 8	,	O	-	-
@@ -109,8 +109,8 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-ORG	-	-
-7	Hvile	I-ORG	-	-
+6	Bakkens	B-LOC	-	-
+7	Hvile	I-MISC	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -400,7 +400,7 @@
 
 1	Kun	O	-	-
 2	Ugemagasinet	B-ORG	-	-
-3	SØNDAG's	I-ORG	-	-
+3	SØNDAG's	B-ORG	-	-
 4	læger	O	-	-
 5	må	O	-	-
 6	åbne	O	-	-
@@ -506,7 +506,7 @@
 16	hoppede	O	-	-
 17	hen	O	-	-
 18	over	O	-	-
-19	Jorden	O	-	-
+19	Jorden	B-LOC	-	-
 
 1	Derfor	O	-	-
 2	er	O	-	-
@@ -1313,7 +1313,7 @@
 24	lettede	O	-	-
 25	fra	O	-	-
 26	Amsterdams	B-LOC	-	-
-27	Schiphol	I-LOC	-	-
+27	Schiphol	B-LOC	-	-
 28	lufthavn	O	-	-
 29	.	O	-	-
 
@@ -1378,7 +1378,7 @@
 5	bemærke	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	Liverpools	B-PER	-	-
+8	Liverpools	B-ORG	-	-
 9	forsvar	O	-	-
 10	er	O	-	-
 11	blevet	O	-	-
@@ -2849,7 +2849,7 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-PER	-	-
+9	Altans	B-MISC	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
@@ -3187,12 +3187,12 @@
 5	opvarmet	O	-	-
 6	pøl	O	-	-
 7	og	O	-	-
-8	Volvo	B-ORG	-	-
+8	Volvo	O	-	-
 9	.	O	-	-
 
 1	Udstyrsmæssigt	O	-	-
 2	placerer	O	-	-
-3	Toledo	B-MISC	-	-
+3	Toledo	B-ORG	-	-
 4	sig	O	-	-
 5	fint	O	-	-
 6	i	O	-	-
@@ -3250,7 +3250,7 @@
 
 1	Foto	O	-	-
 2	:	O	-	-
-3	WINNIFRED	B-PER	-	-
+3	WINNIFRED	O	-	-
 
 1	Børnenes	O	-	-
 2	forskellige	O	-	-
@@ -3944,7 +3944,7 @@
 7	har	O	-	-
 8	succes	O	-	-
 9	på	O	-	-
-10	Bakkens	B-ORG	-	-
+10	Bakkens	B-MISC	-	-
 11	friluftsscene	O	-	-
 12	,	O	-	-
 13	kom	O	-	-
@@ -3966,14 +3966,14 @@
 29	blev	O	-	-
 30	hædret	O	-	-
 31	med	O	-	-
-32	Bakkens	B-ORG	-	-
+32	Bakkens	B-MISC	-	-
 33	Oscar	I-MISC	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
 37	og	O	-	-
 38	fornemt	O	-	-
-39	Bjørn-Wiinblad-fad	O	-	-
+39	Bjørn-Wiinblad-fad	B-PER	-	-
 40	.	O	-	-
 
 1	Det	O	-	-
@@ -4361,7 +4361,7 @@
 5	i	O	-	-
 6	rejsegildet	O	-	-
 7	for	O	-	-
-8	Nørresø-kollegiet	O	-	-
+8	Nørresø-kollegiet	B-ORG	-	-
 9	.	O	-	-
 
 1	Jo	O	-	-
@@ -4806,7 +4806,7 @@
 10	manglende	O	-	-
 11	respekt	O	-	-
 12	for	O	-	-
-13	Grundloven	B-ORG	-	-
+13	Grundloven	O	-	-
 14	.	O	-	-
 
 1	Sådan	O	-	-
@@ -4957,7 +4957,7 @@
 27	Opel	B-ORG	-	-
 28	Omega	I-MISC	-	-
 29	og	O	-	-
-30	Peugeot	B-ORG	-	-
+30	Peugeot	B-MISC	-	-
 31	605	I-MISC	-	-
 32	.	O	-	-
 
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	O	-	-
+21	Chaussé	B-MISC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-PER	-	-
+4	Majors	B-ORG	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -7145,7 +7145,7 @@
 9	syd	O	-	-
 10	for	O	-	-
 11	Bella	B-LOC	-	-
-12	Centret	I-ORG	-	-
+12	Centret	I-LOC	-	-
 13	,	O	-	-
 14	hvor	O	-	-
 15	der	O	-	-
@@ -7404,13 +7404,13 @@
 2	af	O	-	-
 3	lægemidler	O	-	-
 4	som	O	-	-
-5	Kodimagnyl	B-ORG	-	-
+5	Kodimagnyl	B-MISC	-	-
 6	,	O	-	-
 7	Treo	B-MISC	-	-
 8	,	O	-	-
 9	Panodil	B-MISC	-	-
 10	og	O	-	-
-11	Pamol	B-ORG	-	-
+11	Pamol	B-MISC	-	-
 12	er	O	-	-
 13	nu	O	-	-
 14	så	O	-	-
@@ -7597,7 +7597,7 @@
 1	t-boret20	O	-	-
 
 1	Ved	O	-	-
-2	VM	O	-	-
+2	VM	B-LOC	-	-
 3	i	O	-	-
 4	Mexico	B-LOC	-	-
 5	scorede	O	-	-
@@ -7658,7 +7658,7 @@
 23	Ugens	B-MISC	-	-
 24	Overraskelse	I-MISC	-	-
 25	-	I-MISC	-	-
-26	uge	I-MISC	-	-
+26	uge	O	-	-
 27	47	I-MISC	-	-
 28	"	O	-	-
 29	og	O	-	-
@@ -8449,8 +8449,8 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	B-MISC	-	-
-5	legetøj	I-MISC	-	-
+4	DUPLO	O	-	-
+5	legetøj	O	-	-
 6	"	O	-	-
 
 1	Deres	O	-	-
@@ -8466,7 +8466,7 @@
 11	Sylvester	B-PER	-	-
 12	"	O	-	-
 13	Rambo	B-PER	-	-
-14	"	O	-	-
+14	"	I-PER	-	-
 15	Stallone	I-PER	-	-
 16	og	O	-	-
 17	Arnold	B-PER	-	-
@@ -8856,9 +8856,9 @@
 5	dristige	O	-	-
 6	film	O	-	-
 7	"	O	-	-
-8	9	B-MISC	-	-
-9	1/2	I-MISC	-	-
-10	uge	I-MISC	-	-
+8	9	O	-	-
+9	1/2	O	-	-
+10	uge	O	-	-
 11	"	O	-	-
 12	.	O	-	-
 
@@ -9087,7 +9087,7 @@
 1	I	O	-	-
 2	1972	O	-	-
 3	fik	O	-	-
-4	Skjern	B-LOC	-	-
+4	Skjern	B-PER	-	-
 5	sit	O	-	-
 6	første	O	-	-
 7	værtshus	O	-	-
@@ -9206,7 +9206,7 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	O	-	-
+3	Super-Pedersen	B-PER	-	-
 4	sig	O	-	-
 5	over	O	-	-
 6	Nettos	B-PER	-	-
@@ -9722,7 +9722,7 @@
 12	,	O	-	-
 13	forbi	O	-	-
 14	Sydhavn	B-LOC	-	-
-15	S-station	O	-	-
+15	S-station	I-LOC	-	-
 16	mod	O	-	-
 17	Sjællandsbroen	B-LOC	-	-
 18	.	O	-	-

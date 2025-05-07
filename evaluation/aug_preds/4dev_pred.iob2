@@ -92,7 +92,7 @@
 2	den	O	-	-
 3	orangegule	O	-	-
 4	norske	O	-	-
-5	Fanta	B-MISC	-	-
+5	Fanta	O	-	-
 6	,	O	-	-
 7	Solus	B-MISC	-	-
 8	,	O	-	-
@@ -400,7 +400,7 @@
 
 1	Kun	O	-	-
 2	Ugemagasinet	O	-	-
-3	SØNDAG's	B-ORG	-	-
+3	SØNDAG's	O	-	-
 4	læger	O	-	-
 5	må	O	-	-
 6	åbne	O	-	-
@@ -464,7 +464,7 @@
 1	Intet	O	-	-
 2	gennembrud	O	-	-
 3	for	O	-	-
-4	Nutrio	B-PER	-	-
+4	Nutrio	B-ORG	-	-
 
 1	Frankrigs	B-LOC	-	-
 2	daværende	O	-	-
@@ -616,7 +616,7 @@
 34	lønforhøjelse	O	-	-
 35	.	O	-	-
 
-1	Fielfraz	B-LOC	-	-
+1	Fielfraz	B-PER	-	-
 2	har	O	-	-
 3	en	O	-	-
 4	særlig	O	-	-
@@ -1197,8 +1197,8 @@
 10	naturen	O	-	-
 11	nord	O	-	-
 12	for	O	-	-
-13	Bella	B-ORG	-	-
-14	Centret	I-ORG	-	-
+13	Bella	B-LOC	-	-
+14	Centret	I-LOC	-	-
 15	,	O	-	-
 16	hvor	O	-	-
 17	i	O	-	-
@@ -1795,8 +1795,8 @@
 19	og	O	-	-
 20	MikroData	B-ORG	-	-
 21	i	O	-	-
-22	Bella	B-ORG	-	-
-23	Center	I-ORG	-	-
+22	Bella	B-LOC	-	-
+23	Center	I-LOC	-	-
 24	.	O	-	-
 
 1	De	O	-	-
@@ -2553,7 +2553,7 @@
 5	meningen	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	D-marken	O	-	-
+8	D-marken	B-MISC	-	-
 9	skal	O	-	-
 10	overtages	O	-	-
 11	af	O	-	-
@@ -2650,8 +2650,8 @@
 9	,	O	-	-
 10	som	O	-	-
 11	"	O	-	-
-12	Nr.	B-MISC	-	-
-13	742	I-MISC	-	-
+12	Nr.	O	-	-
+13	742	O	-	-
 14	"	O	-	-
 15	må	O	-	-
 16	opleves	O	-	-
@@ -2849,7 +2849,7 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-PER	-	-
+9	Altans	B-ORG	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
@@ -2902,7 +2902,7 @@
 4	.	O	-	-
 
 1	-	O	-	-
-2	Vagga	O	-	-
+2	Vagga	B-PER	-	-
 3	,	O	-	-
 4	mumlede	O	-	-
 5	han	O	-	-
@@ -3100,14 +3100,14 @@
 32	nær	O	-	-
 33	ved	O	-	-
 34	mod	O	-	-
-35	Grubba	B-ORG	-	-
+35	Grubba	B-PER	-	-
 36	og	O	-	-
 37	bagefter	O	-	-
 38	også	O	-	-
 39	tog	O	-	-
 40	sæt	O	-	-
 41	fra	O	-	-
-42	Appelgren	B-ORG	-	-
+42	Appelgren	B-LOC	-	-
 43	og	O	-	-
 44	viste	O	-	-
 45	noget	O	-	-
@@ -3935,7 +3935,7 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	B-PER	-	-
+1	LILLE	O	-	-
 2	PALLE	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
@@ -3967,7 +3967,7 @@
 30	hædret	O	-	-
 31	med	O	-	-
 32	Bakkens	B-MISC	-	-
-33	Oscar	I-MISC	-	-
+33	Oscar	B-MISC	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
@@ -4691,7 +4691,7 @@
 4	besøgende	O	-	-
 5	ved	O	-	-
 6	sidste	O	-	-
-7	MikroData	B-MISC	-	-
+7	MikroData	B-ORG	-	-
 8	for	O	-	-
 9	to	O	-	-
 10	år	O	-	-
@@ -4802,7 +4802,7 @@
 6	om	O	-	-
 7	Justitsministeriets	O	-	-
 8	og	O	-	-
-9	Rigspolitiets	B-ORG	-	-
+9	Rigspolitiets	O	-	-
 10	manglende	O	-	-
 11	respekt	O	-	-
 12	for	O	-	-
@@ -4937,7 +4937,7 @@
 7	har	O	-	-
 8	kun	O	-	-
 9	BMW's	B-ORG	-	-
-10	3-serie	B-MISC	-	-
+10	3-serie	O	-	-
 11	et	O	-	-
 12	hårstrå	O	-	-
 13	mindre	O	-	-
@@ -5084,7 +5084,7 @@
 2	gik	O	-	-
 3	ind	O	-	-
 4	i	O	-	-
-5	Coctail	B-ORG	-	-
+5	Coctail	B-LOC	-	-
 6	,	O	-	-
 7	Odenses	B-LOC	-	-
 8	smarteste	O	-	-
@@ -5156,9 +5156,9 @@
 23	kommentar	O	-	-
 24	i	O	-	-
 25	avisen	O	-	-
-26	Corriere	B-PER	-	-
-27	Della	I-PER	-	-
-28	Sera	I-PER	-	-
+26	Corriere	B-ORG	-	-
+27	Della	I-ORG	-	-
+28	Sera	I-ORG	-	-
 29	mandag	O	-	-
 30	.	O	-	-
 
@@ -5479,7 +5479,7 @@
 14	.	O	-	-
 
 1	"	O	-	-
-2	Voldsturisme	B-MISC	-	-
+2	Voldsturisme	O	-	-
 3	"	O	-	-
 4	bliver	O	-	-
 5	det	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	B-MISC	-	-
+21	Chaussé	O	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-PER	-	-
+4	Majors	B-ORG	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -6678,7 +6678,7 @@
 2	var	O	-	-
 3	grufulde	O	-	-
 4	i	O	-	-
-5	DDRs	B-ORG	-	-
+5	DDRs	B-LOC	-	-
 6	eneste	O	-	-
 7	lukkede	O	-	-
 8	børnefængsel	O	-	-
@@ -7597,7 +7597,7 @@
 1	t-boret20	O	-	-
 
 1	Ved	O	-	-
-2	VM	O	-	-
+2	VM	B-MISC	-	-
 3	i	O	-	-
 4	Mexico	B-LOC	-	-
 5	scorede	O	-	-
@@ -7849,7 +7849,7 @@
 5	en	O	-	-
 6	pause	O	-	-
 7	hvor	O	-	-
-8	vivaldi	O	-	-
+8	vivaldi	B-PER	-	-
 9	rejser	O	-	-
 10	ud	O	-	-
 11	i	O	-	-
@@ -8449,8 +8449,8 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	B-ORG	-	-
-5	legetøj	I-ORG	-	-
+4	DUPLO	O	-	-
+5	legetøj	O	-	-
 6	"	O	-	-
 
 1	Deres	O	-	-
@@ -8697,8 +8697,8 @@
 
 1	Blyindholdet	O	-	-
 2	i	O	-	-
-3	98	B-MISC	-	-
-4	oktan	I-MISC	-	-
+3	98	O	-	-
+4	oktan	O	-	-
 5	blyholdig	O	-	-
 6	benzin	O	-	-
 7	har	O	-	-
@@ -9048,7 +9048,7 @@
 5	kæmpe	O	-	-
 6	år	O	-	-
 7	for	O	-	-
-8	vivaldi	O	-	-
+8	vivaldi	B-PER	-	-
 9	her	O	-	-
 10	udkom	O	-	-
 11	der	O	-	-
@@ -9209,7 +9209,7 @@
 3	Super-Pedersen	B-PER	-	-
 4	sig	O	-	-
 5	over	O	-	-
-6	Nettos	B-PER	-	-
+6	Nettos	B-ORG	-	-
 7	priser	O	-	-
 
 1	"	O	-	-
@@ -9281,7 +9281,7 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-ORG	-	-
+11	DR-Dokumentar	O	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
@@ -9414,7 +9414,7 @@
 8	og	O	-	-
 9	her	O	-	-
 10	triumferede	O	-	-
-11	Ariostea	B-ORG	-	-
+11	Ariostea	B-PER	-	-
 12	med	O	-	-
 13	sejr	O	-	-
 14	i	O	-	-
@@ -10019,7 +10019,7 @@
 16	Romanesca	I-ORG	-	-
 17	.	O	-	-
 
-1	Unix'	B-PER	-	-
+1	Unix'	B-ORG	-	-
 2	rolle	O	-	-
 3	er	O	-	-
 4	i	O	-	-

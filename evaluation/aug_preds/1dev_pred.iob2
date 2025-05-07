@@ -9,7 +9,7 @@
 9	"	O	-	-
 10	er	O	-	-
 11	Robinson	B-PER	-	-
-12	Crusoe	I-MISC	-	-
+12	Crusoe	I-PER	-	-
 13	et	O	-	-
 14	paradis	O	-	-
 15	for	O	-	-
@@ -399,8 +399,8 @@
 15	.	O	-	-
 
 1	Kun	O	-	-
-2	Ugemagasinet	B-ORG	-	-
-3	SØNDAG's	I-ORG	-	-
+2	Ugemagasinet	O	-	-
+3	SØNDAG's	B-ORG	-	-
 4	læger	O	-	-
 5	må	O	-	-
 6	åbne	O	-	-
@@ -464,7 +464,7 @@
 1	Intet	O	-	-
 2	gennembrud	O	-	-
 3	for	O	-	-
-4	Nutrio	B-ORG	-	-
+4	Nutrio	B-PER	-	-
 
 1	Frankrigs	B-LOC	-	-
 2	daværende	O	-	-
@@ -1198,7 +1198,7 @@
 11	nord	O	-	-
 12	for	O	-	-
 13	Bella	B-ORG	-	-
-14	Centret	I-ORG	-	-
+14	Centret	I-LOC	-	-
 15	,	O	-	-
 16	hvor	O	-	-
 17	i	O	-	-
@@ -1795,8 +1795,8 @@
 19	og	O	-	-
 20	MikroData	B-ORG	-	-
 21	i	O	-	-
-22	Bella	B-LOC	-	-
-23	Center	I-LOC	-	-
+22	Bella	B-ORG	-	-
+23	Center	I-ORG	-	-
 24	.	O	-	-
 
 1	De	O	-	-
@@ -2553,7 +2553,7 @@
 5	meningen	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	D-marken	O	-	-
+8	D-marken	B-MISC	-	-
 9	skal	O	-	-
 10	overtages	O	-	-
 11	af	O	-	-
@@ -2650,8 +2650,8 @@
 9	,	O	-	-
 10	som	O	-	-
 11	"	O	-	-
-12	Nr.	O	-	-
-13	742	O	-	-
+12	Nr.	B-MISC	-	-
+13	742	I-MISC	-	-
 14	"	O	-	-
 15	må	O	-	-
 16	opleves	O	-	-
@@ -2698,7 +2698,7 @@
 
 1	Det	O	-	-
 2	tyske	O	-	-
-3	Transall	O	-	-
+3	Transall	B-MISC	-	-
 4	fly	O	-	-
 5	taxier	O	-	-
 6	ind	O	-	-
@@ -2849,13 +2849,13 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-ORG	-	-
+9	Altans	B-MISC	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
 13	til	O	-	-
 14	skotske	O	-	-
-15	Wolffstones	B-ORG	-	-
+15	Wolffstones	B-MISC	-	-
 16	var	O	-	-
 17	til	O	-	-
 18	at	O	-	-
@@ -3100,14 +3100,14 @@
 32	nær	O	-	-
 33	ved	O	-	-
 34	mod	O	-	-
-35	Grubba	B-ORG	-	-
+35	Grubba	B-LOC	-	-
 36	og	O	-	-
 37	bagefter	O	-	-
 38	også	O	-	-
 39	tog	O	-	-
 40	sæt	O	-	-
 41	fra	O	-	-
-42	Appelgren	B-PER	-	-
+42	Appelgren	B-ORG	-	-
 43	og	O	-	-
 44	viste	O	-	-
 45	noget	O	-	-
@@ -3187,7 +3187,7 @@
 5	opvarmet	O	-	-
 6	pøl	O	-	-
 7	og	O	-	-
-8	Volvo	B-ORG	-	-
+8	Volvo	O	-	-
 9	.	O	-	-
 
 1	Udstyrsmæssigt	O	-	-
@@ -4051,7 +4051,7 @@
 
 1	-	O	-	-
 2	På	O	-	-
-3	Fønix	B-LOC	-	-
+3	Fønix	B-MISC	-	-
 4	var	O	-	-
 5	man	O	-	-
 6	selvfølgelig	O	-	-
@@ -4207,8 +4207,8 @@
 1	Og	O	-	-
 2	prismæssigt	O	-	-
 3	ligger	O	-	-
-4	Seat	B-ORG	-	-
-5	Toledo	I-ORG	-	-
+4	Seat	B-MISC	-	-
+5	Toledo	I-MISC	-	-
 6	også	O	-	-
 7	pænt	O	-	-
 8	i	O	-	-
@@ -4800,9 +4800,9 @@
 4	den	O	-	-
 5	handler	O	-	-
 6	om	O	-	-
-7	Justitsministeriets	B-ORG	-	-
+7	Justitsministeriets	O	-	-
 8	og	O	-	-
-9	Rigspolitiets	B-ORG	-	-
+9	Rigspolitiets	O	-	-
 10	manglende	O	-	-
 11	respekt	O	-	-
 12	for	O	-	-
@@ -4951,13 +4951,13 @@
 21	af	O	-	-
 22	rummeligheds-giganter	O	-	-
 23	som	O	-	-
-24	Citroen	B-ORG	-	-
+24	Citroen	B-MISC	-	-
 25	XM	I-MISC	-	-
 26	,	O	-	-
-27	Opel	B-ORG	-	-
+27	Opel	B-MISC	-	-
 28	Omega	I-MISC	-	-
 29	og	O	-	-
-30	Peugeot	B-ORG	-	-
+30	Peugeot	B-MISC	-	-
 31	605	I-MISC	-	-
 32	.	O	-	-
 
@@ -5215,7 +5215,7 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	ABBA	B-ORG	-	-
+1	ABBA	B-MISC	-	-
 2	"	O	-	-
 3	Gold	B-MISC	-	-
 4	"	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-ORG	-	-
+4	Majors	B-PER	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -7069,7 +7069,7 @@
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
 10	McClardÁs	B-PER	-	-
-11	Bar-B-Que	I-MISC	-	-
+11	Bar-B-Que	B-MISC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	den	O	-	-
@@ -8254,7 +8254,7 @@
 2	anden	O	-	-
 3	bane	O	-	-
 4	,	O	-	-
-5	Ørestadsbanen	B-MISC	-	-
+5	Ørestadsbanen	B-LOC	-	-
 6	,	O	-	-
 7	skal	O	-	-
 8	gå	O	-	-
@@ -9206,10 +9206,10 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	O	-	-
+3	Super-Pedersen	B-PER	-	-
 4	sig	O	-	-
 5	over	O	-	-
-6	Nettos	B-ORG	-	-
+6	Nettos	B-PER	-	-
 7	priser	O	-	-
 
 1	"	O	-	-
@@ -9722,7 +9722,7 @@
 12	,	O	-	-
 13	forbi	O	-	-
 14	Sydhavn	B-LOC	-	-
-15	S-station	I-LOC	-	-
+15	S-station	O	-	-
 16	mod	O	-	-
 17	Sjællandsbroen	B-LOC	-	-
 18	.	O	-	-

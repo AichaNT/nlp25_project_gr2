@@ -92,9 +92,9 @@
 2	den	O	-	-
 3	orangegule	O	-	-
 4	norske	O	-	-
-5	Fanta	B-PER	-	-
+5	Fanta	O	-	-
 6	,	O	-	-
-7	Solus	B-PER	-	-
+7	Solus	B-MISC	-	-
 8	,	O	-	-
 9	kan	O	-	-
 10	holde	O	-	-
@@ -109,7 +109,7 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-ORG	-	-
+6	Bakkens	B-MISC	-	-
 7	Hvile	I-ORG	-	-
 8	.	O	-	-
 
@@ -363,8 +363,8 @@
 4	andre	O	-	-
 5	spørgsmål	O	-	-
 6	besvarer	O	-	-
-7	Illustreret	O	-	-
-8	Videnskabs	O	-	-
+7	Illustreret	B-ORG	-	-
+8	Videnskabs	I-ORG	-	-
 9	eksperter	O	-	-
 
 1	Når	O	-	-
@@ -464,7 +464,7 @@
 1	Intet	O	-	-
 2	gennembrud	O	-	-
 3	for	O	-	-
-4	Nutrio	B-PER	-	-
+4	Nutrio	B-ORG	-	-
 
 1	Frankrigs	B-LOC	-	-
 2	daværende	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	B-MISC	-	-
+6	Pio-episoden	O	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -2228,7 +2228,7 @@
 3	på	O	-	-
 4	nogle	O	-	-
 5	af	O	-	-
-6	Colorados	B-LOC	-	-
+6	Colorados	B-ORG	-	-
 7	postkontorer	O	-	-
 8	fik	O	-	-
 9	den	O	-	-
@@ -2558,7 +2558,7 @@
 10	overtages	O	-	-
 11	af	O	-	-
 12	en	O	-	-
-13	ECU	B-MISC	-	-
+13	ECU	O	-	-
 14	.	O	-	-
 
 1	Konkurrencen	O	-	-
@@ -2651,7 +2651,7 @@
 10	som	O	-	-
 11	"	O	-	-
 12	Nr.	O	-	-
-13	742	I-MISC	-	-
+13	742	O	-	-
 14	"	O	-	-
 15	må	O	-	-
 16	opleves	O	-	-
@@ -2775,7 +2775,7 @@
 4	på	O	-	-
 5	Ny	B-ORG	-	-
 6	Holte	I-ORG	-	-
-7	skole	I-ORG	-	-
+7	skole	O	-	-
 8	meget	O	-	-
 9	kreativt	O	-	-
 10	orienteret	O	-	-
@@ -2849,13 +2849,13 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-ORG	-	-
+9	Altans	B-PER	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
 13	til	O	-	-
 14	skotske	O	-	-
-15	Wolffstones	B-MISC	-	-
+15	Wolffstones	B-ORG	-	-
 16	var	O	-	-
 17	til	O	-	-
 18	at	O	-	-
@@ -2902,7 +2902,7 @@
 4	.	O	-	-
 
 1	-	O	-	-
-2	Vagga	O	-	-
+2	Vagga	B-PER	-	-
 3	,	O	-	-
 4	mumlede	O	-	-
 5	han	O	-	-
@@ -3004,7 +3004,7 @@
 11	motivet	O	-	-
 12	.	O	-	-
 
-1	LONDON	O	-	-
+1	LONDON	B-LOC	-	-
 
 1	En	O	-	-
 2	almindelig	O	-	-
@@ -3192,7 +3192,7 @@
 
 1	Udstyrsmæssigt	O	-	-
 2	placerer	O	-	-
-3	Toledo	B-ORG	-	-
+3	Toledo	B-PER	-	-
 4	sig	O	-	-
 5	fint	O	-	-
 6	i	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	B-ORG	-	-
+1	Hash	B-PER	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3944,7 +3944,7 @@
 7	har	O	-	-
 8	succes	O	-	-
 9	på	O	-	-
-10	Bakkens	B-LOC	-	-
+10	Bakkens	O	-	-
 11	friluftsscene	O	-	-
 12	,	O	-	-
 13	kom	O	-	-
@@ -3966,7 +3966,7 @@
 29	blev	O	-	-
 30	hædret	O	-	-
 31	med	O	-	-
-32	Bakkens	B-MISC	-	-
+32	Bakkens	O	-	-
 33	Oscar	B-MISC	-	-
 34	,	O	-	-
 35	et	O	-	-
@@ -4519,7 +4519,7 @@
 7	det	O	-	-
 8	,	O	-	-
 9	arrangerer	O	-	-
-10	Scleroseforeningen	O	-	-
+10	Scleroseforeningen	B-ORG	-	-
 11	også	O	-	-
 12	grupperejser	O	-	-
 13	og	O	-	-
@@ -4691,7 +4691,7 @@
 4	besøgende	O	-	-
 5	ved	O	-	-
 6	sidste	O	-	-
-7	MikroData	O	-	-
+7	MikroData	B-MISC	-	-
 8	for	O	-	-
 9	to	O	-	-
 10	år	O	-	-
@@ -4802,11 +4802,11 @@
 6	om	O	-	-
 7	Justitsministeriets	O	-	-
 8	og	O	-	-
-9	Rigspolitiets	B-ORG	-	-
+9	Rigspolitiets	O	-	-
 10	manglende	O	-	-
 11	respekt	O	-	-
 12	for	O	-	-
-13	Grundloven	B-MISC	-	-
+13	Grundloven	O	-	-
 14	.	O	-	-
 
 1	Sådan	O	-	-
@@ -4937,7 +4937,7 @@
 7	har	O	-	-
 8	kun	O	-	-
 9	BMW's	B-ORG	-	-
-10	3-serie	I-MISC	-	-
+10	3-serie	O	-	-
 11	et	O	-	-
 12	hårstrå	O	-	-
 13	mindre	O	-	-
@@ -4951,14 +4951,14 @@
 21	af	O	-	-
 22	rummeligheds-giganter	O	-	-
 23	som	O	-	-
-24	Citroen	B-ORG	-	-
-25	XM	I-ORG	-	-
+24	Citroen	B-MISC	-	-
+25	XM	I-MISC	-	-
 26	,	O	-	-
-27	Opel	B-ORG	-	-
-28	Omega	I-ORG	-	-
+27	Opel	B-MISC	-	-
+28	Omega	I-MISC	-	-
 29	og	O	-	-
-30	Peugeot	B-ORG	-	-
-31	605	I-ORG	-	-
+30	Peugeot	B-MISC	-	-
+31	605	I-MISC	-	-
 32	.	O	-	-
 
 1	Men	O	-	-
@@ -5156,9 +5156,9 @@
 23	kommentar	O	-	-
 24	i	O	-	-
 25	avisen	O	-	-
-26	Corriere	B-PER	-	-
-27	Della	I-PER	-	-
-28	Sera	I-PER	-	-
+26	Corriere	B-ORG	-	-
+27	Della	I-ORG	-	-
+28	Sera	I-ORG	-	-
 29	mandag	O	-	-
 30	.	O	-	-
 
@@ -5602,7 +5602,7 @@
 5	beliggende	O	-	-
 6	i	O	-	-
 7	Snares	B-LOC	-	-
-8	Kvarter	O	-	-
+8	Kvarter	I-LOC	-	-
 9	,	O	-	-
 10	får	O	-	-
 11	nu	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	B-MISC	-	-
+21	Chaussé	O	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5750,7 +5750,7 @@
 17	år	O	-	-
 18	.	O	-	-
 
-1	Nord	B-PER	-	-
+1	Nord	B-ORG	-	-
 2	satsede	O	-	-
 3	aggressivt	O	-	-
 4	på	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-ORG	-	-
+4	Majors	B-PER	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -6252,7 +6252,7 @@
 9	senere	O	-	-
 10	.	O	-	-
 
-1	vivaldi	O	-	-
+1	vivaldi	B-PER	-	-
 2	er	O	-	-
 3	utrolig	O	-	-
 4	til	O	-	-
@@ -6678,7 +6678,7 @@
 2	var	O	-	-
 3	grufulde	O	-	-
 4	i	O	-	-
-5	DDRs	B-LOC	-	-
+5	DDRs	B-ORG	-	-
 6	eneste	O	-	-
 7	lukkede	O	-	-
 8	børnefængsel	O	-	-
@@ -7597,7 +7597,7 @@
 1	t-boret20	O	-	-
 
 1	Ved	O	-	-
-2	VM	B-MISC	-	-
+2	VM	O	-	-
 3	i	O	-	-
 4	Mexico	B-LOC	-	-
 5	scorede	O	-	-
@@ -7659,7 +7659,7 @@
 24	Overraskelse	I-MISC	-	-
 25	-	I-MISC	-	-
 26	uge	O	-	-
-27	47	O	-	-
+27	47	I-MISC	-	-
 28	"	O	-	-
 29	og	O	-	-
 30	"	O	-	-
@@ -7720,7 +7720,7 @@
 3	.	O	-	-
 
 1	Med	O	-	-
-2	Scout	B-ORG	-	-
+2	Scout	B-MISC	-	-
 3	skulle	O	-	-
 4	der	O	-	-
 5	heller	O	-	-
@@ -7849,7 +7849,7 @@
 5	en	O	-	-
 6	pause	O	-	-
 7	hvor	O	-	-
-8	vivaldi	O	-	-
+8	vivaldi	B-PER	-	-
 9	rejser	O	-	-
 10	ud	O	-	-
 11	i	O	-	-
@@ -8269,14 +8269,14 @@
 17	Tårnby	B-LOC	-	-
 18	.	O	-	-
 
-1	DE	B-ORG	-	-
+1	DE	O	-	-
 2	havde	O	-	-
 3	udviklet	O	-	-
 4	en	O	-	-
 5	ny	O	-	-
 6	teori	O	-	-
 7	i	O	-	-
-8	Propagandaministeriet	B-ORG	-	-
+8	Propagandaministeriet	O	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	gik	O	-	-
@@ -8465,7 +8465,7 @@
 10	bøfdrenge	O	-	-
 11	Sylvester	B-PER	-	-
 12	"	O	-	-
-13	Rambo	B-PER	-	-
+13	Rambo	I-PER	-	-
 14	"	O	-	-
 15	Stallone	I-PER	-	-
 16	og	O	-	-
@@ -9281,14 +9281,14 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	O	-	-
+11	DR-Dokumentar	B-ORG	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
 15	sønderlemmende	O	-	-
 16	kritik	O	-	-
 17	af	O	-	-
-18	Frederikshavns	B-LOC	-	-
+18	Frederikshavns	B-ORG	-	-
 19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-
@@ -9414,7 +9414,7 @@
 8	og	O	-	-
 9	her	O	-	-
 10	triumferede	O	-	-
-11	Ariostea	B-PER	-	-
+11	Ariostea	B-ORG	-	-
 12	med	O	-	-
 13	sejr	O	-	-
 14	i	O	-	-
@@ -9673,7 +9673,7 @@
 2	Vi	O	-	-
 3	ses	O	-	-
 4	i	O	-	-
-5	Helvede	B-LOC	-	-
+5	Helvede	O	-	-
 6	!	O	-	-
 7	"	O	-	-
 8	svarede	O	-	-

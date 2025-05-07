@@ -92,7 +92,7 @@
 
 1	Nye	O	-	-
 2	i	O	-	-
-3	BTCC	B-MISC	-	-
+3	BTCC	O	-	-
 
 1	Blandt	O	-	-
 2	fodboldspillerne	O	-	-
@@ -166,8 +166,8 @@
 
 1	Det	O	-	-
 2	et-motorede	O	-	-
-3	Cessna	O	-	-
-4	172	O	-	-
+3	Cessna	B-MISC	-	-
+4	172	I-MISC	-	-
 5	fly	O	-	-
 6	med	O	-	-
 7	plads	O	-	-
@@ -740,7 +740,7 @@
 6	takke	O	-	-
 7	Erhard	B-PER	-	-
 8	og	O	-	-
-9	ALS	B-ORG	-	-
+9	ALS	B-PER	-	-
 10	for	O	-	-
 11	.	O	-	-
 
@@ -940,13 +940,13 @@
 
 1	Til	O	-	-
 2	Gausdal	B-LOC	-	-
-3	Høifjellshotell	I-LOC	-	-
+3	Høifjellshotell	I-ORG	-	-
 4	og	O	-	-
 5	til	O	-	-
-6	Kampsæter	B-LOC	-	-
+6	Kampsæter	O	-	-
 7	og	O	-	-
-8	Ruten	B-LOC	-	-
-9	Fjellstue	I-LOC	-	-
+8	Ruten	B-ORG	-	-
+9	Fjellstue	I-ORG	-	-
 10	.	O	-	-
 
 1	Jeg	O	-	-
@@ -964,7 +964,7 @@
 13	med	O	-	-
 14	at	O	-	-
 15	tage	O	-	-
-16	Chlorella	O	-	-
+16	Chlorella	B-MISC	-	-
 17	fremover	O	-	-
 18	.	O	-	-
 
@@ -1041,7 +1041,7 @@
 10	den	O	-	-
 11	lette	O	-	-
 12	mellemklassebil	O	-	-
-13	Leone	B-MISC	-	-
+13	Leone	B-PER	-	-
 14	er	O	-	-
 15	på	O	-	-
 16	vej	O	-	-
@@ -1188,7 +1188,7 @@
 12	,	O	-	-
 13	væbneren	O	-	-
 14	Aikin	B-PER	-	-
-15	af	O	-	-
+15	af	I-PER	-	-
 16	Cantir	B-LOC	-	-
 17	.	O	-	-
 
@@ -1360,7 +1360,7 @@
 12	ting	O	-	-
 13	.	O	-	-
 
-1	Horsens'	B-LOC	-	-
+1	Horsens'	B-ORG	-	-
 2	nærmest	O	-	-
 3	foregående	O	-	-
 4	sejr	O	-	-
@@ -1792,10 +1792,10 @@
 18	kampen	O	-	-
 19	om	O	-	-
 20	Bala	B-LOC	-	-
-21	Hissar	I-LOC	-	-
+21	Hissar	I-ORG	-	-
 22	og	O	-	-
 23	tilintetgøre	O	-	-
-24	Hekmatyars	B-ORG	-	-
+24	Hekmatyars	B-LOC	-	-
 25	luftværnsskyts	O	-	-
 26	"	O	-	-
 27	.	O	-	-
@@ -3125,7 +3125,7 @@
 21	som	O	-	-
 22	konsulent	O	-	-
 23	i	O	-	-
-24	Forsvarsstaben	B-ORG	-	-
+24	Forsvarsstaben	O	-	-
 25	.	O	-	-
 
 1	Og	O	-	-
@@ -4548,7 +4548,7 @@
 2	14	O	-	-
 3	dage	O	-	-
 4	med	O	-	-
-5	Chlorella	O	-	-
+5	Chlorella	B-MISC	-	-
 6	mærkede	O	-	-
 7	jeg	O	-	-
 8	en	O	-	-
@@ -4772,7 +4772,7 @@
 2	beklager	O	-	-
 3	vi	O	-	-
 4	i	O	-	-
-5	Kapellet	B-ORG	-	-
+5	Kapellet	O	-	-
 6	dybt	O	-	-
 7	,	O	-	-
 8	da	O	-	-
@@ -5161,7 +5161,7 @@
 16	køber	O	-	-
 17	en	O	-	-
 18	dåse	O	-	-
-19	Motorrens	B-MISC	-	-
+19	Motorrens	O	-	-
 20	på	O	-	-
 21	en	O	-	-
 22	tankstation	O	-	-
@@ -5791,7 +5791,7 @@
 3	er	O	-	-
 4	det	O	-	-
 5	jo	O	-	-
-6	Mozart	O	-	-
+6	Mozart	B-PER	-	-
 7	år	O	-	-
 8	i	O	-	-
 9	år	O	-	-
@@ -5952,8 +5952,8 @@
 10	Wyatt	I-PER	-	-
 11	,	O	-	-
 12	som	O	-	-
-13	Texan	O	-	-
-14	society	O	-	-
+13	Texan	B-MISC	-	-
+14	society	I-MISC	-	-
 15	princess	O	-	-
 16	Lynn	B-PER	-	-
 17	Wyatt	I-PER	-	-
@@ -6138,7 +6138,7 @@
 36	overtaget	O	-	-
 37	af	O	-	-
 38	landets	O	-	-
-39	Kulturfond	O	-	-
+39	Kulturfond	B-ORG	-	-
 40	og	O	-	-
 41	skal	O	-	-
 42	istedet	O	-	-
@@ -6402,7 +6402,7 @@
 2	at	O	-	-
 3	demonstrere	O	-	-
 
-1	Funar	B-PER	-	-
+1	Funar	B-LOC	-	-
 2	afvises	O	-	-
 3	af	O	-	-
 4	de	O	-	-
@@ -6807,7 +6807,7 @@
 14	for	O	-	-
 15	forslaget	O	-	-
 16	i	O	-	-
-17	Folketinget	B-ORG	-	-
+17	Folketinget	O	-	-
 18	.	O	-	-
 
 1	Der	O	-	-
@@ -6819,7 +6819,7 @@
 7	1,6	O	-	-
 8	og	O	-	-
 9	en	O	-	-
-10	2,0	O	-	-
+10	2,0	B-MISC	-	-
 11	SW	I-MISC	-	-
 12	SE	I-MISC	-	-
 13	,	O	-	-
@@ -6902,7 +6902,7 @@
 7	formuen	O	-	-
 8	i	O	-	-
 9	det	O	-	-
-10	I/S	O	-	-
+10	I/S	B-ORG	-	-
 11	,	O	-	-
 12	der	O	-	-
 13	ejer	O	-	-
@@ -7281,7 +7281,7 @@
 16	pct.	O	-	-
 17	.	O	-	-
 
-1	Sheraton	O	-	-
+1	Sheraton	B-LOC	-	-
 2	i	O	-	-
 3	Luxor	B-LOC	-	-
 4	.	O	-	-
@@ -7583,7 +7583,7 @@
 19	EL-service	O	-	-
 20	BIKUBEN	O	-	-
 21	Beboerbladet	O	-	-
-22	HER	I-ORG	-	-
+22	HER	O	-	-
 23	og	O	-	-
 24	ESSO	B-ORG	-	-
 25	Motorcenter	I-ORG	-	-
@@ -7970,7 +7970,7 @@
 5	,	O	-	-
 6	at	O	-	-
 7	når	O	-	-
-8	Superbrugsen	O	-	-
+8	Superbrugsen	B-ORG	-	-
 9	har	O	-	-
 10	en	O	-	-
 11	slagvare	O	-	-
@@ -8424,7 +8424,7 @@
 9	højderyg	O	-	-
 10	,	O	-	-
 11	som	O	-	-
-12	Hekmatyar	B-PER	-	-
+12	Hekmatyar	B-LOC	-	-
 13	kontrollerede	O	-	-
 14	.	O	-	-
 
@@ -8541,7 +8541,7 @@
 
 1	Under	O	-	-
 2	overskriften	O	-	-
-3	Kystland	B-LOC	-	-
+3	Kystland	B-MISC	-	-
 4	byder	O	-	-
 5	hun	O	-	-
 6	på	O	-	-
@@ -8737,9 +8737,9 @@
 1	Dyrt	O	-	-
 2	klædte	O	-	-
 3	familier	O	-	-
-4	Jönsson	O	-	-
+4	Jönsson	B-PER	-	-
 5	og	O	-	-
-6	Carlsson'er	O	-	-
+6	Carlsson'er	B-PER	-	-
 7	i	O	-	-
 8	hobetal	O	-	-
 9	slentrer	O	-	-
@@ -9208,7 +9208,7 @@
 20	Lemond	B-ORG	-	-
 21	.	O	-	-
 
-1	Alcala	B-PER	-	-
+1	Alcala	B-LOC	-	-
 2	havde	O	-	-
 3	punktering	O	-	-
 4	efter	O	-	-
@@ -9883,7 +9883,7 @@
 5	en	O	-	-
 6	hyldest	O	-	-
 7	til	O	-	-
-8	Bakken	B-ORG	-	-
+8	Bakken	B-LOC	-	-
 9	.	O	-	-
 
 1	De	O	-	-

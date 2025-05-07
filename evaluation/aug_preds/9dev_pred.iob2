@@ -92,9 +92,9 @@
 2	den	O	-	-
 3	orangegule	O	-	-
 4	norske	O	-	-
-5	Fanta	B-PER	-	-
+5	Fanta	O	-	-
 6	,	O	-	-
-7	Solus	B-PER	-	-
+7	Solus	B-MISC	-	-
 8	,	O	-	-
 9	kan	O	-	-
 10	holde	O	-	-
@@ -363,8 +363,8 @@
 4	andre	O	-	-
 5	spørgsmål	O	-	-
 6	besvarer	O	-	-
-7	Illustreret	O	-	-
-8	Videnskabs	O	-	-
+7	Illustreret	B-ORG	-	-
+8	Videnskabs	I-ORG	-	-
 9	eksperter	O	-	-
 
 1	Når	O	-	-
@@ -464,7 +464,7 @@
 1	Intet	O	-	-
 2	gennembrud	O	-	-
 3	for	O	-	-
-4	Nutrio	B-PER	-	-
+4	Nutrio	B-ORG	-	-
 
 1	Frankrigs	B-LOC	-	-
 2	daværende	O	-	-
@@ -616,7 +616,7 @@
 34	lønforhøjelse	O	-	-
 35	.	O	-	-
 
-1	Fielfraz	B-ORG	-	-
+1	Fielfraz	B-PER	-	-
 2	har	O	-	-
 3	en	O	-	-
 4	særlig	O	-	-
@@ -1003,7 +1003,7 @@
 18	konkurrencen	O	-	-
 19	op	O	-	-
 20	med	O	-	-
-21	Cayman	B-LOC	-	-
+21	Cayman	B-ORG	-	-
 22	Islands	I-LOC	-	-
 23	og	O	-	-
 24	andre	O	-	-
@@ -1793,7 +1793,7 @@
 17	rådhuse	O	-	-
 18	-	O	-	-
 19	og	O	-	-
-20	MikroData	B-MISC	-	-
+20	MikroData	B-ORG	-	-
 21	i	O	-	-
 22	Bella	B-ORG	-	-
 23	Center	I-ORG	-	-
@@ -2053,7 +2053,7 @@
 7	jagten	O	-	-
 8	på	O	-	-
 9	"	O	-	-
-10	Basse	B-MISC	-	-
+10	Basse	B-PER	-	-
 11	"	O	-	-
 12	,	O	-	-
 13	fordi	O	-	-
@@ -2442,7 +2442,7 @@
 13	5-årig	O	-	-
 14	periode	O	-	-
 15	undersøge	O	-	-
-16	Østersøens	B-LOC	-	-
+16	Østersøens	O	-	-
 17	miljø	O	-	-
 18	.	O	-	-
 
@@ -2553,12 +2553,12 @@
 5	meningen	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	D-marken	B-MISC	-	-
+8	D-marken	O	-	-
 9	skal	O	-	-
 10	overtages	O	-	-
 11	af	O	-	-
 12	en	O	-	-
-13	ECU	B-MISC	-	-
+13	ECU	O	-	-
 14	.	O	-	-
 
 1	Konkurrencen	O	-	-
@@ -2650,7 +2650,7 @@
 9	,	O	-	-
 10	som	O	-	-
 11	"	O	-	-
-12	Nr.	B-MISC	-	-
+12	Nr.	O	-	-
 13	742	I-MISC	-	-
 14	"	O	-	-
 15	må	O	-	-
@@ -2775,7 +2775,7 @@
 4	på	O	-	-
 5	Ny	B-ORG	-	-
 6	Holte	I-ORG	-	-
-7	skole	I-ORG	-	-
+7	skole	O	-	-
 8	meget	O	-	-
 9	kreativt	O	-	-
 10	orienteret	O	-	-
@@ -2849,7 +2849,7 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-ORG	-	-
+9	Altans	B-PER	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
@@ -3100,7 +3100,7 @@
 32	nær	O	-	-
 33	ved	O	-	-
 34	mod	O	-	-
-35	Grubba	B-ORG	-	-
+35	Grubba	B-PER	-	-
 36	og	O	-	-
 37	bagefter	O	-	-
 38	også	O	-	-
@@ -3187,12 +3187,12 @@
 5	opvarmet	O	-	-
 6	pøl	O	-	-
 7	og	O	-	-
-8	Volvo	B-ORG	-	-
+8	Volvo	O	-	-
 9	.	O	-	-
 
 1	Udstyrsmæssigt	O	-	-
 2	placerer	O	-	-
-3	Toledo	B-PER	-	-
+3	Toledo	B-ORG	-	-
 4	sig	O	-	-
 5	fint	O	-	-
 6	i	O	-	-
@@ -3250,7 +3250,7 @@
 
 1	Foto	O	-	-
 2	:	O	-	-
-3	WINNIFRED	B-ORG	-	-
+3	WINNIFRED	B-PER	-	-
 
 1	Børnenes	O	-	-
 2	forskellige	O	-	-
@@ -3935,8 +3935,8 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	O	-	-
-2	PALLE	O	-	-
+1	LILLE	B-PER	-	-
+2	PALLE	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
 5	,	O	-	-
@@ -4051,7 +4051,7 @@
 
 1	-	O	-	-
 2	På	O	-	-
-3	Fønix	B-LOC	-	-
+3	Fønix	B-MISC	-	-
 4	var	O	-	-
 5	man	O	-	-
 6	selvfølgelig	O	-	-
@@ -4603,7 +4603,7 @@
 2	for	O	-	-
 3	Erzincan-provinsen	O	-	-
 4	,	O	-	-
-5	Fikret	B-LOC	-	-
+5	Fikret	B-PER	-	-
 6	Cuhadaroglu	I-PER	-	-
 7	,	O	-	-
 8	oplyste	O	-	-
@@ -4800,9 +4800,9 @@
 4	den	O	-	-
 5	handler	O	-	-
 6	om	O	-	-
-7	Justitsministeriets	B-ORG	-	-
+7	Justitsministeriets	O	-	-
 8	og	O	-	-
-9	Rigspolitiets	B-ORG	-	-
+9	Rigspolitiets	O	-	-
 10	manglende	O	-	-
 11	respekt	O	-	-
 12	for	O	-	-
@@ -4936,8 +4936,8 @@
 6	mm	O	-	-
 7	har	O	-	-
 8	kun	O	-	-
-9	BMW's	B-MISC	-	-
-10	3-serie	I-MISC	-	-
+9	BMW's	B-ORG	-	-
+10	3-serie	O	-	-
 11	et	O	-	-
 12	hårstrå	O	-	-
 13	mindre	O	-	-
@@ -4952,13 +4952,13 @@
 22	rummeligheds-giganter	O	-	-
 23	som	O	-	-
 24	Citroen	B-ORG	-	-
-25	XM	I-MISC	-	-
+25	XM	I-ORG	-	-
 26	,	O	-	-
-27	Opel	B-MISC	-	-
-28	Omega	I-MISC	-	-
+27	Opel	B-ORG	-	-
+28	Omega	I-ORG	-	-
 29	og	O	-	-
 30	Peugeot	B-ORG	-	-
-31	605	I-MISC	-	-
+31	605	I-ORG	-	-
 32	.	O	-	-
 
 1	Men	O	-	-
@@ -5215,7 +5215,7 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	ABBA	B-MISC	-	-
+1	ABBA	B-ORG	-	-
 2	"	O	-	-
 3	Gold	B-MISC	-	-
 4	"	O	-	-
@@ -5344,7 +5344,7 @@
 32	hverdags-biler	O	-	-
 33	.	O	-	-
 
-1	F.P.Jac	B-ORG	-	-
+1	F.P.Jac	B-PER	-	-
 2	er	O	-	-
 3	sprunget	O	-	-
 4	fra	O	-	-
@@ -5510,7 +5510,7 @@
 10	:	O	-	-
 11	Den	O	-	-
 12	nye	O	-	-
-13	minibus	B-MISC	-	-
+13	minibus	O	-	-
 14	Talento	B-MISC	-	-
 15	,	O	-	-
 16	en	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	B-ORG	-	-
+21	Chaussé	O	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5750,7 +5750,7 @@
 17	år	O	-	-
 18	.	O	-	-
 
-1	Nord	B-PER	-	-
+1	Nord	B-ORG	-	-
 2	satsede	O	-	-
 3	aggressivt	O	-	-
 4	på	O	-	-
@@ -6252,7 +6252,7 @@
 9	senere	O	-	-
 10	.	O	-	-
 
-1	vivaldi	O	-	-
+1	vivaldi	B-PER	-	-
 2	er	O	-	-
 3	utrolig	O	-	-
 4	til	O	-	-
@@ -7068,8 +7068,8 @@
 7	over	O	-	-
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
-10	McClardÁs	B-ORG	-	-
-11	Bar-B-Que	I-ORG	-	-
+10	McClardÁs	B-LOC	-	-
+11	Bar-B-Que	B-ORG	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	den	O	-	-
@@ -7659,7 +7659,7 @@
 24	Overraskelse	I-MISC	-	-
 25	-	I-MISC	-	-
 26	uge	O	-	-
-27	47	O	-	-
+27	47	I-MISC	-	-
 28	"	O	-	-
 29	og	O	-	-
 30	"	O	-	-
@@ -7720,7 +7720,7 @@
 3	.	O	-	-
 
 1	Med	O	-	-
-2	Scout	B-MISC	-	-
+2	Scout	B-ORG	-	-
 3	skulle	O	-	-
 4	der	O	-	-
 5	heller	O	-	-
@@ -8188,8 +8188,8 @@
 5	succes'en	O	-	-
 6	med	O	-	-
 7	"	O	-	-
-8	Gule	B-MISC	-	-
-9	handsker	I-MISC	-	-
+8	Gule	O	-	-
+9	handsker	O	-	-
 10	"	O	-	-
 11	,	O	-	-
 12	og	O	-	-
@@ -8254,7 +8254,7 @@
 2	anden	O	-	-
 3	bane	O	-	-
 4	,	O	-	-
-5	Ørestadsbanen	B-LOC	-	-
+5	Ørestadsbanen	B-MISC	-	-
 6	,	O	-	-
 7	skal	O	-	-
 8	gå	O	-	-
@@ -8269,7 +8269,7 @@
 17	Tårnby	B-LOC	-	-
 18	.	O	-	-
 
-1	DE	B-ORG	-	-
+1	DE	O	-	-
 2	havde	O	-	-
 3	udviklet	O	-	-
 4	en	O	-	-
@@ -8449,7 +8449,7 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	B-ORG	-	-
+4	DUPLO	O	-	-
 5	legetøj	O	-	-
 6	"	O	-	-
 
@@ -9087,7 +9087,7 @@
 1	I	O	-	-
 2	1972	O	-	-
 3	fik	O	-	-
-4	Skjern	B-LOC	-	-
+4	Skjern	B-PER	-	-
 5	sit	O	-	-
 6	første	O	-	-
 7	værtshus	O	-	-
@@ -9206,7 +9206,7 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	O	-	-
+3	Super-Pedersen	B-PER	-	-
 4	sig	O	-	-
 5	over	O	-	-
 6	Nettos	B-PER	-	-
@@ -9281,14 +9281,14 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-MISC	-	-
+11	DR-Dokumentar	B-ORG	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
 15	sønderlemmende	O	-	-
 16	kritik	O	-	-
 17	af	O	-	-
-18	Frederikshavns	B-ORG	-	-
+18	Frederikshavns	B-LOC	-	-
 19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-
@@ -9673,7 +9673,7 @@
 2	Vi	O	-	-
 3	ses	O	-	-
 4	i	O	-	-
-5	Helvede	B-LOC	-	-
+5	Helvede	O	-	-
 6	!	O	-	-
 7	"	O	-	-
 8	svarede	O	-	-
@@ -9722,7 +9722,7 @@
 12	,	O	-	-
 13	forbi	O	-	-
 14	Sydhavn	B-LOC	-	-
-15	S-station	I-LOC	-	-
+15	S-station	O	-	-
 16	mod	O	-	-
 17	Sjællandsbroen	B-LOC	-	-
 18	.	O	-	-

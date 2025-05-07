@@ -444,7 +444,7 @@
 10	godt	O	-	-
 11	.	O	-	-
 
-1	Faraos	B-PER	-	-
+1	Faraos	B-LOC	-	-
 2	skytsgud	O	-	-
 3	Honus	B-PER	-	-
 4	-	O	-	-
@@ -464,7 +464,7 @@
 1	Intet	O	-	-
 2	gennembrud	O	-	-
 3	for	O	-	-
-4	Nutrio	B-PER	-	-
+4	Nutrio	B-ORG	-	-
 
 1	Frankrigs	B-LOC	-	-
 2	daværende	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	B-MISC	-	-
+6	Pio-episoden	O	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -887,7 +887,7 @@
 
 1	Man	O	-	-
 2	indsprøjter	O	-	-
-3	VIP	O	-	-
+3	VIP	B-MISC	-	-
 4	i	O	-	-
 5	penis	O	-	-
 6	kort	O	-	-
@@ -1198,7 +1198,7 @@
 11	nord	O	-	-
 12	for	O	-	-
 13	Bella	B-ORG	-	-
-14	Centret	I-LOC	-	-
+14	Centret	I-ORG	-	-
 15	,	O	-	-
 16	hvor	O	-	-
 17	i	O	-	-
@@ -1795,8 +1795,8 @@
 19	og	O	-	-
 20	MikroData	B-ORG	-	-
 21	i	O	-	-
-22	Bella	B-LOC	-	-
-23	Center	I-LOC	-	-
+22	Bella	B-ORG	-	-
+23	Center	I-ORG	-	-
 24	.	O	-	-
 
 1	De	O	-	-
@@ -1895,7 +1895,7 @@
 4	jeg	O	-	-
 5	fodboldlærling	O	-	-
 6	i	O	-	-
-7	Arsenal	B-LOC	-	-
+7	Arsenal	B-ORG	-	-
 8	,	O	-	-
 9	og	O	-	-
 10	så	O	-	-
@@ -2553,7 +2553,7 @@
 5	meningen	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	D-marken	O	-	-
+8	D-marken	B-LOC	-	-
 9	skal	O	-	-
 10	overtages	O	-	-
 11	af	O	-	-
@@ -2650,8 +2650,8 @@
 9	,	O	-	-
 10	som	O	-	-
 11	"	O	-	-
-12	Nr.	B-MISC	-	-
-13	742	I-MISC	-	-
+12	Nr.	O	-	-
+13	742	O	-	-
 14	"	O	-	-
 15	må	O	-	-
 16	opleves	O	-	-
@@ -2849,13 +2849,13 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-PER	-	-
+9	Altans	B-ORG	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
 13	til	O	-	-
 14	skotske	O	-	-
-15	Wolffstones	B-MISC	-	-
+15	Wolffstones	B-ORG	-	-
 16	var	O	-	-
 17	til	O	-	-
 18	at	O	-	-
@@ -3107,7 +3107,7 @@
 39	tog	O	-	-
 40	sæt	O	-	-
 41	fra	O	-	-
-42	Appelgren	B-PER	-	-
+42	Appelgren	B-ORG	-	-
 43	og	O	-	-
 44	viste	O	-	-
 45	noget	O	-	-
@@ -3187,7 +3187,7 @@
 5	opvarmet	O	-	-
 6	pøl	O	-	-
 7	og	O	-	-
-8	Volvo	O	-	-
+8	Volvo	B-MISC	-	-
 9	.	O	-	-
 
 1	Udstyrsmæssigt	O	-	-
@@ -3250,7 +3250,7 @@
 
 1	Foto	O	-	-
 2	:	O	-	-
-3	WINNIFRED	B-PER	-	-
+3	WINNIFRED	O	-	-
 
 1	Børnenes	O	-	-
 2	forskellige	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	O	-	-
+1	Hash	B-MISC	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3496,7 +3496,7 @@
 3	tidsskrift	O	-	-
 4	som	O	-	-
 5	Nature	B-ORG	-	-
-6	eller	I-ORG	-	-
+6	eller	O	-	-
 7	Science	I-ORG	-	-
 8	optages	O	-	-
 9	kun	O	-	-
@@ -3788,7 +3788,7 @@
 14	Nissan	B-ORG	-	-
 15	involveret	O	-	-
 16	i	O	-	-
-17	BTCC-serien	B-MISC	-	-
+17	BTCC-serien	O	-	-
 18	,	O	-	-
 19	som	O	-	-
 20	Thorkild	B-PER	-	-
@@ -3935,7 +3935,7 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	B-PER	-	-
+1	LILLE	O	-	-
 2	PALLE	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
@@ -4952,13 +4952,13 @@
 22	rummeligheds-giganter	O	-	-
 23	som	O	-	-
 24	Citroen	B-ORG	-	-
-25	XM	I-ORG	-	-
+25	XM	I-MISC	-	-
 26	,	O	-	-
 27	Opel	B-ORG	-	-
-28	Omega	I-ORG	-	-
+28	Omega	I-MISC	-	-
 29	og	O	-	-
 30	Peugeot	B-ORG	-	-
-31	605	I-ORG	-	-
+31	605	I-MISC	-	-
 32	.	O	-	-
 
 1	Men	O	-	-
@@ -5126,7 +5126,7 @@
 3	har	O	-	-
 4	leget	O	-	-
 5	med	O	-	-
-6	Vagga	B-PER	-	-
+6	Vagga	B-ORG	-	-
 7	hele	O	-	-
 8	eftermiddagen	O	-	-
 9	.	O	-	-
@@ -5215,9 +5215,9 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	ABBA	B-ORG	-	-
+1	ABBA	B-MISC	-	-
 2	"	O	-	-
-3	Gold	B-MISC	-	-
+3	Gold	I-MISC	-	-
 4	"	O	-	-
 5	har	O	-	-
 6	været	O	-	-
@@ -5232,7 +5232,7 @@
 15	andre	O	-	-
 16	"	O	-	-
 17	greatest	O	-	-
-18	hits	O	-	-
+18	hits	I-MISC	-	-
 19	"	O	-	-
 20	bliver	O	-	-
 21	det	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	B-MISC	-	-
+21	Chaussé	O	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5750,7 +5750,7 @@
 17	år	O	-	-
 18	.	O	-	-
 
-1	Nord	B-PER	-	-
+1	Nord	B-ORG	-	-
 2	satsede	O	-	-
 3	aggressivt	O	-	-
 4	på	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-PER	-	-
+4	Majors	B-ORG	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -6015,7 +6015,7 @@
 23	søge	O	-	-
 24	specialviden	O	-	-
 25	om	O	-	-
-26	AIDS	O	-	-
+26	AIDS	B-MISC	-	-
 27	andre	O	-	-
 28	steder	O	-	-
 29	,	O	-	-
@@ -7068,8 +7068,8 @@
 7	over	O	-	-
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
-10	McClardÁs	B-PER	-	-
-11	Bar-B-Que	I-MISC	-	-
+10	McClardÁs	B-LOC	-	-
+11	Bar-B-Que	I-LOC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	den	O	-	-
@@ -7597,9 +7597,9 @@
 1	t-boret20	O	-	-
 
 1	Ved	O	-	-
-2	VM	O	-	-
+2	VM	B-MISC	-	-
 3	i	O	-	-
-4	Mexico	B-LOC	-	-
+4	Mexico	I-LOC	-	-
 5	scorede	O	-	-
 6	han	O	-	-
 7	to	O	-	-
@@ -8254,7 +8254,7 @@
 2	anden	O	-	-
 3	bane	O	-	-
 4	,	O	-	-
-5	Ørestadsbanen	B-LOC	-	-
+5	Ørestadsbanen	B-MISC	-	-
 6	,	O	-	-
 7	skal	O	-	-
 8	gå	O	-	-
@@ -8449,7 +8449,7 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	B-MISC	-	-
+4	DUPLO	O	-	-
 5	legetøj	O	-	-
 6	"	O	-	-
 
@@ -8465,8 +8465,8 @@
 10	bøfdrenge	O	-	-
 11	Sylvester	B-PER	-	-
 12	"	O	-	-
-13	Rambo	B-PER	-	-
-14	"	O	-	-
+13	Rambo	I-PER	-	-
+14	"	I-PER	-	-
 15	Stallone	I-PER	-	-
 16	og	O	-	-
 17	Arnold	B-PER	-	-
@@ -9087,7 +9087,7 @@
 1	I	O	-	-
 2	1972	O	-	-
 3	fik	O	-	-
-4	Skjern	B-PER	-	-
+4	Skjern	B-LOC	-	-
 5	sit	O	-	-
 6	første	O	-	-
 7	værtshus	O	-	-
@@ -9288,7 +9288,7 @@
 15	sønderlemmende	O	-	-
 16	kritik	O	-	-
 17	af	O	-	-
-18	Frederikshavns	B-LOC	-	-
+18	Frederikshavns	B-ORG	-	-
 19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-
@@ -9514,7 +9514,7 @@
 23	"	O	-	-
 
 1	"	O	-	-
-2	Mercedes-manden	B-MISC	-	-
+2	Mercedes-manden	O	-	-
 3	"	O	-	-
 4	:	O	-	-
 5	"	O	-	-
@@ -9552,7 +9552,7 @@
 12	samtale	O	-	-
 13	fra	O	-	-
 14	"	O	-	-
-15	Mercedes-manden	B-MISC	-	-
+15	Mercedes-manden	O	-	-
 16	"	O	-	-
 17	til	O	-	-
 18	én	O	-	-
@@ -9673,7 +9673,7 @@
 2	Vi	O	-	-
 3	ses	O	-	-
 4	i	O	-	-
-5	Helvede	O	-	-
+5	Helvede	B-LOC	-	-
 6	!	O	-	-
 7	"	O	-	-
 8	svarede	O	-	-
@@ -10019,7 +10019,7 @@
 16	Romanesca	I-ORG	-	-
 17	.	O	-	-
 
-1	Unix'	B-PER	-	-
+1	Unix'	B-ORG	-	-
 2	rolle	O	-	-
 3	er	O	-	-
 4	i	O	-	-

@@ -8,8 +8,8 @@
 8	klorofyl-turister	O	-	-
 9	"	O	-	-
 10	er	O	-	-
-11	Robinson	B-PER	-	-
-12	Crusoe	I-PER	-	-
+11	Robinson	B-MISC	-	-
+12	Crusoe	I-LOC	-	-
 13	et	O	-	-
 14	paradis	O	-	-
 15	for	O	-	-
@@ -94,7 +94,7 @@
 4	norske	O	-	-
 5	Fanta	O	-	-
 6	,	O	-	-
-7	Solus	B-PER	-	-
+7	Solus	B-MISC	-	-
 8	,	O	-	-
 9	kan	O	-	-
 10	holde	O	-	-
@@ -464,7 +464,7 @@
 1	Intet	O	-	-
 2	gennembrud	O	-	-
 3	for	O	-	-
-4	Nutrio	B-PER	-	-
+4	Nutrio	B-ORG	-	-
 
 1	Frankrigs	B-LOC	-	-
 2	daværende	O	-	-
@@ -707,7 +707,7 @@
 8	kroner	O	-	-
 9	.	O	-	-
 
-1	Boligministeriet	O	-	-
+1	Boligministeriet	B-ORG	-	-
 2	:	O	-	-
 
 1	"	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	B-MISC	-	-
+6	Pio-episoden	O	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -1149,7 +1149,7 @@
 24	afskygninger	O	-	-
 25	.	O	-	-
 
-1	Scleroseforeningen	O	-	-
+1	Scleroseforeningen	B-ORG	-	-
 2	er	O	-	-
 3	opbygget	O	-	-
 4	således	O	-	-
@@ -1198,7 +1198,7 @@
 11	nord	O	-	-
 12	for	O	-	-
 13	Bella	B-ORG	-	-
-14	Centret	I-LOC	-	-
+14	Centret	I-ORG	-	-
 15	,	O	-	-
 16	hvor	O	-	-
 17	i	O	-	-
@@ -1895,7 +1895,7 @@
 4	jeg	O	-	-
 5	fodboldlærling	O	-	-
 6	i	O	-	-
-7	Arsenal	B-ORG	-	-
+7	Arsenal	B-LOC	-	-
 8	,	O	-	-
 9	og	O	-	-
 10	så	O	-	-
@@ -2053,7 +2053,7 @@
 7	jagten	O	-	-
 8	på	O	-	-
 9	"	O	-	-
-10	Basse	B-MISC	-	-
+10	Basse	B-PER	-	-
 11	"	O	-	-
 12	,	O	-	-
 13	fordi	O	-	-
@@ -2228,7 +2228,7 @@
 3	på	O	-	-
 4	nogle	O	-	-
 5	af	O	-	-
-6	Colorados	B-LOC	-	-
+6	Colorados	B-ORG	-	-
 7	postkontorer	O	-	-
 8	fik	O	-	-
 9	den	O	-	-
@@ -2442,7 +2442,7 @@
 13	5-årig	O	-	-
 14	periode	O	-	-
 15	undersøge	O	-	-
-16	Østersøens	B-LOC	-	-
+16	Østersøens	O	-	-
 17	miljø	O	-	-
 18	.	O	-	-
 
@@ -2558,7 +2558,7 @@
 10	overtages	O	-	-
 11	af	O	-	-
 12	en	O	-	-
-13	ECU	O	-	-
+13	ECU	B-ORG	-	-
 14	.	O	-	-
 
 1	Konkurrencen	O	-	-
@@ -2651,7 +2651,7 @@
 10	som	O	-	-
 11	"	O	-	-
 12	Nr.	O	-	-
-13	742	I-MISC	-	-
+13	742	O	-	-
 14	"	O	-	-
 15	må	O	-	-
 16	opleves	O	-	-
@@ -2698,7 +2698,7 @@
 
 1	Det	O	-	-
 2	tyske	O	-	-
-3	Transall	B-MISC	-	-
+3	Transall	B-ORG	-	-
 4	fly	O	-	-
 5	taxier	O	-	-
 6	ind	O	-	-
@@ -2855,7 +2855,7 @@
 12	musik	O	-	-
 13	til	O	-	-
 14	skotske	O	-	-
-15	Wolffstones	B-ORG	-	-
+15	Wolffstones	O	-	-
 16	var	O	-	-
 17	til	O	-	-
 18	at	O	-	-
@@ -2902,7 +2902,7 @@
 4	.	O	-	-
 
 1	-	O	-	-
-2	Vagga	B-PER	-	-
+2	Vagga	O	-	-
 3	,	O	-	-
 4	mumlede	O	-	-
 5	han	O	-	-
@@ -3004,7 +3004,7 @@
 11	motivet	O	-	-
 12	.	O	-	-
 
-1	LONDON	B-LOC	-	-
+1	LONDON	O	-	-
 
 1	En	O	-	-
 2	almindelig	O	-	-
@@ -3100,14 +3100,14 @@
 32	nær	O	-	-
 33	ved	O	-	-
 34	mod	O	-	-
-35	Grubba	B-ORG	-	-
+35	Grubba	B-PER	-	-
 36	og	O	-	-
 37	bagefter	O	-	-
 38	også	O	-	-
 39	tog	O	-	-
 40	sæt	O	-	-
 41	fra	O	-	-
-42	Appelgren	B-PER	-	-
+42	Appelgren	B-ORG	-	-
 43	og	O	-	-
 44	viste	O	-	-
 45	noget	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	B-ORG	-	-
+1	Hash	B-LOC	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3967,7 +3967,7 @@
 30	hædret	O	-	-
 31	med	O	-	-
 32	Bakkens	B-MISC	-	-
-33	Oscar	I-MISC	-	-
+33	Oscar	B-MISC	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
@@ -4802,7 +4802,7 @@
 6	om	O	-	-
 7	Justitsministeriets	O	-	-
 8	og	O	-	-
-9	Rigspolitiets	O	-	-
+9	Rigspolitiets	B-ORG	-	-
 10	manglende	O	-	-
 11	respekt	O	-	-
 12	for	O	-	-
@@ -4937,7 +4937,7 @@
 7	har	O	-	-
 8	kun	O	-	-
 9	BMW's	B-ORG	-	-
-10	3-serie	I-MISC	-	-
+10	3-serie	O	-	-
 11	et	O	-	-
 12	hårstrå	O	-	-
 13	mindre	O	-	-
@@ -4951,14 +4951,14 @@
 21	af	O	-	-
 22	rummeligheds-giganter	O	-	-
 23	som	O	-	-
-24	Citroen	B-ORG	-	-
-25	XM	I-ORG	-	-
+24	Citroen	B-MISC	-	-
+25	XM	I-MISC	-	-
 26	,	O	-	-
-27	Opel	B-ORG	-	-
-28	Omega	I-ORG	-	-
+27	Opel	B-MISC	-	-
+28	Omega	I-MISC	-	-
 29	og	O	-	-
-30	Peugeot	B-ORG	-	-
-31	605	I-ORG	-	-
+30	Peugeot	B-MISC	-	-
+31	605	I-MISC	-	-
 32	.	O	-	-
 
 1	Men	O	-	-
@@ -5215,9 +5215,9 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	ABBA	B-MISC	-	-
+1	ABBA	B-ORG	-	-
 2	"	O	-	-
-3	Gold	B-MISC	-	-
+3	Gold	O	-	-
 4	"	O	-	-
 5	har	O	-	-
 6	været	O	-	-
@@ -5344,7 +5344,7 @@
 32	hverdags-biler	O	-	-
 33	.	O	-	-
 
-1	F.P.Jac	B-ORG	-	-
+1	F.P.Jac	B-PER	-	-
 2	er	O	-	-
 3	sprunget	O	-	-
 4	fra	O	-	-
@@ -5479,7 +5479,7 @@
 14	.	O	-	-
 
 1	"	O	-	-
-2	Voldsturisme	B-MISC	-	-
+2	Voldsturisme	O	-	-
 3	"	O	-	-
 4	bliver	O	-	-
 5	det	O	-	-
@@ -5490,8 +5490,8 @@
 2	om	O	-	-
 3	Seat	B-MISC	-	-
 4	Toledo	I-MISC	-	-
-5	2,0	I-MISC	-	-
-6	GLX	I-MISC	-	-
+5	2,0	O	-	-
+6	GLX	O	-	-
 7	OPBYGNING	O	-	-
 8	:	O	-	-
 9	4/5-personers	O	-	-
@@ -5602,7 +5602,7 @@
 5	beliggende	O	-	-
 6	i	O	-	-
 7	Snares	B-LOC	-	-
-8	Kvarter	B-LOC	-	-
+8	Kvarter	I-LOC	-	-
 9	,	O	-	-
 10	får	O	-	-
 11	nu	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	B-MISC	-	-
+21	Chaussé	O	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5750,7 +5750,7 @@
 17	år	O	-	-
 18	.	O	-	-
 
-1	Nord	B-PER	-	-
+1	Nord	B-ORG	-	-
 2	satsede	O	-	-
 3	aggressivt	O	-	-
 4	på	O	-	-
@@ -6252,7 +6252,7 @@
 9	senere	O	-	-
 10	.	O	-	-
 
-1	vivaldi	O	-	-
+1	vivaldi	B-PER	-	-
 2	er	O	-	-
 3	utrolig	O	-	-
 4	til	O	-	-
@@ -6678,7 +6678,7 @@
 2	var	O	-	-
 3	grufulde	O	-	-
 4	i	O	-	-
-5	DDRs	B-LOC	-	-
+5	DDRs	B-ORG	-	-
 6	eneste	O	-	-
 7	lukkede	O	-	-
 8	børnefængsel	O	-	-
@@ -6994,7 +6994,7 @@
 4	mill.	O	-	-
 5	franc	O	-	-
 6	reddede	O	-	-
-7	Valenciennes	B-ORG	-	-
+7	Valenciennes	B-LOC	-	-
 8	fra	O	-	-
 9	konkurs	O	-	-
 10	.	O	-	-
@@ -7068,8 +7068,8 @@
 7	over	O	-	-
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
-10	McClardÁs	B-ORG	-	-
-11	Bar-B-Que	I-ORG	-	-
+10	McClardÁs	B-LOC	-	-
+11	Bar-B-Que	I-LOC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	den	O	-	-
@@ -7597,9 +7597,9 @@
 1	t-boret20	O	-	-
 
 1	Ved	O	-	-
-2	VM	B-MISC	-	-
-3	i	I-MISC	-	-
-4	Mexico	I-MISC	-	-
+2	VM	O	-	-
+3	i	O	-	-
+4	Mexico	B-LOC	-	-
 5	scorede	O	-	-
 6	han	O	-	-
 7	to	O	-	-
@@ -7658,8 +7658,8 @@
 23	Ugens	B-MISC	-	-
 24	Overraskelse	I-MISC	-	-
 25	-	I-MISC	-	-
-26	uge	I-MISC	-	-
-27	47	I-MISC	-	-
+26	uge	O	-	-
+27	47	O	-	-
 28	"	O	-	-
 29	og	O	-	-
 30	"	O	-	-
@@ -7720,7 +7720,7 @@
 3	.	O	-	-
 
 1	Med	O	-	-
-2	Scout	B-PER	-	-
+2	Scout	B-ORG	-	-
 3	skulle	O	-	-
 4	der	O	-	-
 5	heller	O	-	-
@@ -7849,7 +7849,7 @@
 5	en	O	-	-
 6	pause	O	-	-
 7	hvor	O	-	-
-8	vivaldi	O	-	-
+8	vivaldi	B-PER	-	-
 9	rejser	O	-	-
 10	ud	O	-	-
 11	i	O	-	-
@@ -8254,7 +8254,7 @@
 2	anden	O	-	-
 3	bane	O	-	-
 4	,	O	-	-
-5	Ørestadsbanen	B-ORG	-	-
+5	Ørestadsbanen	B-MISC	-	-
 6	,	O	-	-
 7	skal	O	-	-
 8	gå	O	-	-
@@ -8449,8 +8449,8 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	B-ORG	-	-
-5	legetøj	I-ORG	-	-
+4	DUPLO	O	-	-
+5	legetøj	O	-	-
 6	"	O	-	-
 
 1	Deres	O	-	-
@@ -9048,7 +9048,7 @@
 5	kæmpe	O	-	-
 6	år	O	-	-
 7	for	O	-	-
-8	vivaldi	O	-	-
+8	vivaldi	B-PER	-	-
 9	her	O	-	-
 10	udkom	O	-	-
 11	der	O	-	-
@@ -9206,7 +9206,7 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	B-PER	-	-
+3	Super-Pedersen	B-ORG	-	-
 4	sig	O	-	-
 5	over	O	-	-
 6	Nettos	B-PER	-	-
@@ -9281,7 +9281,7 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-MISC	-	-
+11	DR-Dokumentar	B-ORG	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
@@ -9292,7 +9292,7 @@
 19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-
-22	Pedal-Ove-sagen	B-MISC	-	-
+22	Pedal-Ove-sagen	O	-	-
 23	.	O	-	-
 
 1	"	O	-	-
@@ -9414,7 +9414,7 @@
 8	og	O	-	-
 9	her	O	-	-
 10	triumferede	O	-	-
-11	Ariostea	B-ORG	-	-
+11	Ariostea	B-PER	-	-
 12	med	O	-	-
 13	sejr	O	-	-
 14	i	O	-	-
@@ -9514,7 +9514,7 @@
 23	"	O	-	-
 
 1	"	O	-	-
-2	Mercedes-manden	B-MISC	-	-
+2	Mercedes-manden	B-PER	-	-
 3	"	O	-	-
 4	:	O	-	-
 5	"	O	-	-
@@ -9580,7 +9580,7 @@
 17	.	O	-	-
 
 1	Ligesom	O	-	-
-2	Italiens	B-LOC	-	-
+2	Italiens	O	-	-
 3	politichef	O	-	-
 4	Vincenzo	B-PER	-	-
 5	Parisi	I-PER	-	-
