@@ -23,9 +23,12 @@ def extract_first_names(name_path):
                                 first_names.append(name)
 
     # Data cleaning
+    if first_names:
+        first_names.pop(0)
     ME_BPER = [name.replace("*", "") for name in first_names]
     ME_BPER = list(set(ME_BPER)) # Removing duplicates
     return ME_BPER
+
 
 
 
