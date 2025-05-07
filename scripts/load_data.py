@@ -1,3 +1,6 @@
+
+###################### GETTING TOKENS ######################
+
 # reading label data from a given column
 # this is the readNlu function from the provided span_f1 file
 # minor modifications were made to make it usable with our data. 
@@ -41,7 +44,10 @@ def modified_readNlu(path, target_column = 1): # default to index 1 (thats where
     return annotations
 
 
-# mapping funciton 
+
+
+###################### LABEL AND ID MAPPING ######################
+
 def label_mapping(path):
     '''
     This function generates mappings between labels and their corresponding integer IDs from a labeled dataset.

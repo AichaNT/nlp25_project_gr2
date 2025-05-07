@@ -5,7 +5,11 @@ from transformers import AutoTokenizer
 # load the tokenizer 
 tokenizer = AutoTokenizer.from_pretrained("vesteinn/DanskBERT")
 
-# tokenizing and aligning
+
+
+
+###################### TOKENIZE AND ALIGN DATA ######################
+
 def tokenize_and_align_labels(data):
     '''
     This function tokentizes the input sentences and aligns the original NER labels with the resulting subword tokens.
@@ -69,7 +73,10 @@ def tokenize_and_align_labels(data):
     return tokenized_inputs
 
 
-# converting predictions to NER labels
+
+
+###################### PREDICTION TO NER LABEL MAPPING ######################
+
 def pred2label(predictions, id2label):
     '''
     This function converts model output (logits and true labels) into NER label strings.

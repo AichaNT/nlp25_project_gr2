@@ -1,16 +1,11 @@
 # imports
 import random
 from collections import defaultdict, Counter
+from load_data import extract_labeled_tokens
+   
 
-from scripts.load_data import (
-    label_mapping, extract_labeled_tokens,
-    read_tsv_file, write_tsv_file,
-    write_iob2_file, modified_readNlu,
-    read_iob2_file
-)
+###################### REMOVING ENTITY OVERLAP ######################
 
-
-# main function for fixing overlap
 def fix_overlap(train_data, dev_data, test_data):
     '''
     
@@ -37,7 +32,7 @@ def fix_overlap(train_data, dev_data, test_data):
 
 
 
-#--------- Helper functions -------------
+###################### HELPER FUNCTIONS ######################
 
 def concatenate_data(train_data, dev_data, test_data):
     '''

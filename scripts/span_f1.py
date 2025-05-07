@@ -1,3 +1,6 @@
+
+###################### PROVIDED IN THE PROJECT TEMPLATE ######################
+
 import sys
 
 def readNlu(path):
