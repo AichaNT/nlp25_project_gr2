@@ -8,48 +8,42 @@ General:
 - .gitignore
 - requirements.txt
 
+eda.ipynb:
+
+preprocess.ipynb: 
 
 Data:
-- DaN+ (danish news data)
-    - train
-    - dev
-    - test
+- da_news: contains the DaN+ data downloaded from ([GitHub](https://github.com/bplank/DaNplus)).
+    - train (tsv)
+    - dev (tsv)
+    - test (tsv)
 
-- MENAPT_NER:
-    - B-PER
-    - I-PER
-    - ORG (both B/I)
-    - LOC (both B/I)
-    (- MISC??)
+- me_data: contains the augmented versions of the non-overlapping dev and test sets with only MENAPT NERs.
+    - dev (tsv and iob2)
+    - test (tsv and iob2)
 
+- me_entity_sources: the downloaded lists of MENAPT NERs.
 
-img:
-- all images
-
-
-Scripts: (ryk rundt alt efter hvad der bedst passer hvor)
-- load_data.py
-    - tsv2conll()
-    - 
-
-- data_quality_check.py
-    - no_overlap()
-    - 
-
-- data_augmentation.py
-    - augment_dataset() (used for MENAPT_test, MENAPT_train and MENAPT_dev)
-        - ^^should maybe be dif functions based on what we need
-
-- self_train.py
-    - webscrape()
-    - self_train()
+- no_overlap_da_news: contains the non-overlapping splits of the DaN+ data.
+    - train (tsv)
+    - dev (tsv and iob2)
+    - test (tsv and iob2)
 
 
-- eval.py
-    - span_f1()
-    - significance_test()
-    - metrics() (whatever leftover metrics we want)
+evaluation:
+- aug_preds: the predictions on the non-overlapping and the augmented dev sets for different versions of the train data.
 
-- eda.py
-    - tag_dist()
-    - 
+- baseline_preds: the predictions on the non-overlapping and the augmented dev sets for the non-augmented train set.
+
+- aug_eval.ipynb: notebook with evaluation of the experiments.
+
+- baseline_eval.ipynb: notebook with evaluation of the baseline.
+
+- output.txt: the output of using span_f1.py on the predictions.
+
+
+hpc_jobs: TO DO (Når den er done)
+
+
+scripts: all scripts used in the project. 
+    - Note that span_f1.py was provided as part of the project template.
