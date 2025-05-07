@@ -10,7 +10,7 @@ from scripts.middle_eastern_ne import extract_first_names, get_last_names,  load
 random.seed(42)
 
 ME_BPER = extract_first_names("data_aug_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf")
-ME_IPER = get_last_names("data_aug_sources/middle_eastern_last_names.txt", "../data_aug_sources/KDBGIVE.tsv")
+ME_IPER = get_last_names("data_aug_sources/middle_eastern_last_names.txt", "data_aug_sources/KDBGIVE.tsv")
 ME_LOC = load_location("data_aug_sources/the-middle-east-cities.csv")
 ME_ORG = load_organisation("data_aug_sources/middle_eastern_organisations.csv")
 
