@@ -20,3 +20,4 @@ cd ~/hpc_jobs/
 # Run Scripts
 python baseline.py
 python train_aug.py
+python final_prediction.py
