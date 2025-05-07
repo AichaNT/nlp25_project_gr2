@@ -1,27 +1,18 @@
-################################################# Training code ######################################################
-import sys
-sys.path.append("../")
-
-from scripts.train_pred import tokenize_and_align_labels, pred2label
-from scripts.load_data import label_mapping, read_tsv_file, write_iob2_file
+from scripts.train_pred import tokenize_and_align_labels, pred2label, label_mapping
 
 from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, AutoConfig, AutoTokenizer, DataCollatorForTokenClassification
 from datasets import Dataset
 import torch
-import pickle
 
-with open('used_entities.pkl', 'rb') as f:
-    final_used = pickle.load(f)
-
-
-# path to the data files
-path_me_dev = "data/me_data/middle_eastern_dev.tsv"  
+# path to test sets
+path_test = "data/no_overlap_da_news/da_news_test.tsv"
+path_me_test = "data/me_data/middle_eastern_dev.tsv"  
 
 # saving model name
 model_name = "vesteinn/DanskBERT"
 
 # creating the label to id mapping 
-label2id, id2label = label_mapping(path_train)
+label2id, id2label = label_mapping(path_test)
 
 # number of labels
 num_labels = len(label2id)
