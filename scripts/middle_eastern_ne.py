@@ -9,7 +9,7 @@ def extract_first_names(name_path):
     This function extracts first names from a PDF file and cleans unwanted characters
     '''
     first_names = []
-    with fitz.open("../data_aug_sources/Ordbog_over_muslimske_fornavne_i_DK.pdf") as doc:
+    with fitz.open(name_path) as doc:
         for page in doc: # Iterating through all pages
             blocks = page.get_text("dict")["blocks"] # Extracting text on each page
             for block in blocks: 
