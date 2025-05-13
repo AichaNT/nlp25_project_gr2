@@ -9,7 +9,6 @@ from evaluate import load
 
 # path to the data files
 path_train = "data/no_overlap_da_news/da_news_train.tsv"
-path_dev = "data/no_overlap_da_news/da_news_dev.tsv"
 path_test = "data/no_overlap_da_news/da_news_test.tsv"
 path_me_test = "data/me_data/middle_eastern_test.tsv" 
 
@@ -24,13 +23,11 @@ num_labels = len(label2id)
 
 # reading in the data
 train_data = read_tsv_file(path_train, label2id=label2id)
-dev_data = read_tsv_file(path_dev, label2id=label2id)
 test_data = read_tsv_file(path_test, label2id=label2id)
 me_test_data = read_tsv_file(path_me_test, label2id=label2id)
 
 # convert to huggingface format
 train_dataset = Dataset.from_list(train_data)
-dev_dataset = Dataset.from_list(dev_data)
 test_dataset = Dataset.from_list(test_data)
 me_test_dataset = Dataset.from_list(me_test_data)
 
@@ -39,13 +36,6 @@ tokenized_train_dataset = train_dataset.map(
     tokenize_and_align_labels,
     batched = True,
     remove_columns=train_dataset.column_names
-)
-
-# tokenize and align dev dataset
-tokenized_dev_dataset = dev_dataset.map(
-    tokenize_and_align_labels,
-    batched=True,
-    remove_columns=dev_dataset.column_names
 )
 
 # tokenize and align test dataset
@@ -87,42 +77,18 @@ data_collator = DataCollatorForTokenClassification(tokenizer)
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model.to(device) # move model to device
 
-# load the seqeval metric 
-metric = load("seqeval") 
-
-# function to compute metrics
-def compute_metrics(predictions):
-    '''
-    This function computes evaluation metrics.
-
-    Parameters: 
-    - predictions
-
-    Returns:
-    - a dictionary with precision, recall, f1 and accuracy
-    '''
-    true_labels, pred_labels = pred2label(predictions, id2label)
-
-    results = metric.compute(predictions = pred_labels, references = true_labels)
-
-    return {
-        "Precision": results["overall_precision"],
-        "Recall": results["overall_recall"],
-        "F1-score": results["overall_f1"],
-        "Accuracy": results["overall_accuracy"]
-    }
-
 # define the training arguments
 args = TrainingArguments(
-    output_dir = "output_trainer", 
-    eval_strategy = 'epoch', 
-    save_strategy = "no",
-    learning_rate = 2e-5,
-    per_device_train_batch_size = 2,
-    per_device_eval_batch_size = 2,
-    num_train_epochs = 1,
-    weight_decay = 0.01,
-    remove_unused_columns=False
+    output_dir="output_trainer", 
+    learning_rate=2e-5, # from ScandEval
+    per_device_train_batch_size=32, # from ScandEval
+    weight_decay=0.01,
+    warmup_steps=100, 
+    lr_scheduler_type="linear", # linear LR decay
+    num_train_epochs=5,
+    save_strategy="no", # don't save intermediate checkpoints
+    seed=42, # for reproducibility
+    remove_unused_columns=False # required for NER
 )
 
 # define parameters for trainer
@@ -130,8 +96,6 @@ trainer = Trainer(
     model = model,
     args = args,
     train_dataset = tokenized_train_dataset,
-    eval_dataset = tokenized_dev_dataset,
-    compute_metrics = compute_metrics,
     data_collator = data_collator
 )
 

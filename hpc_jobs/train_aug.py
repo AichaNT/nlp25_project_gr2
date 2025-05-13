@@ -9,7 +9,7 @@ from datasets import Dataset
 import torch
 import pickle
 import random
-random.seed(20)
+random.seed(20) # set seed for the data augmentation
 
 # path to the data files
 path_train = "data/no_overlap_da_news/da_news_train.tsv"
@@ -87,14 +87,16 @@ model.to(device) # move model to device
 
 # define the training arguments
 args = TrainingArguments(
-    output_dir = "output_trainer", 
-    eval_strategy = 'no', 
-    save_strategy = "no",
-    learning_rate = 2e-5,
-    per_device_train_batch_size = 2,
-    num_train_epochs = 1,
-    weight_decay = 0.01,
-    remove_unused_columns=False
+    output_dir="output_trainer", 
+    learning_rate=2e-5, # from ScandEval
+    per_device_train_batch_size=32, # from ScandEval
+    weight_decay=0.01,
+    warmup_steps=100, 
+    lr_scheduler_type="linear", # linear LR decay
+    num_train_epochs=5,
+    save_strategy="no", # don't save intermediate checkpoints
+    seed=42, # for reproducibility
+    remove_unused_columns=False # required for NER
 )
 
 # loop for training sets
