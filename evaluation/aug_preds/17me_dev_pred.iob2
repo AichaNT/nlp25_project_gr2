@@ -8,7 +8,7 @@
 8	klorofyl-turister	O	-	-
 9	"	O	-	-
 10	er	O	-	-
-11	Robinson	B-MISC	-	-
+11	Robinson	B-LOC	-	-
 12	Crusoe	I-LOC	-	-
 13	et	O	-	-
 14	paradis	O	-	-
@@ -92,7 +92,7 @@
 2	den	O	-	-
 3	orangegule	O	-	-
 4	norske	O	-	-
-5	Fanta	O	-	-
+5	Fanta	B-MISC	-	-
 6	,	O	-	-
 7	Solus	B-MISC	-	-
 8	,	O	-	-
@@ -109,8 +109,8 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-ORG	-	-
-7	Hvile	I-ORG	-	-
+6	Bakkens	B-LOC	-	-
+7	Hvile	I-LOC	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -466,7 +466,7 @@
 3	for	O	-	-
 4	ViaVii	B-ORG	-	-
 
-1	Dnata	B-LOC	-	-
+1	Dnata	B-PER	-	-
 2	daværende	O	-	-
 3	landstræner	O	-	-
 4	Morad	B-PER	-	-
@@ -887,7 +887,7 @@
 
 1	Man	O	-	-
 2	indsprøjter	O	-	-
-3	VIP	O	-	-
+3	VIP	B-MISC	-	-
 4	i	O	-	-
 5	penis	O	-	-
 6	kort	O	-	-
@@ -911,7 +911,7 @@
 24	den	O	-	-
 25	indsprøjtede	O	-	-
 26	mængde	O	-	-
-27	VIP	O	-	-
+27	VIP	B-MISC	-	-
 28	.	O	-	-
 
 1	Tilskud	O	-	-
@@ -1003,15 +1003,15 @@
 18	konkurrencen	O	-	-
 19	op	O	-	-
 20	med	O	-	-
-21	Abu	B-ORG	-	-
-22	Ghurayb	I-ORG	-	-
+21	Abu	B-LOC	-	-
+22	Ghurayb	I-LOC	-	-
 23	og	O	-	-
 24	andre	O	-	-
 25	skattely	O	-	-
 26	.	O	-	-
 
 1	"	O	-	-
-2	Jihad	O	-	-
+2	Jihad	B-PER	-	-
 3	"	O	-	-
 4	SULTER	O	-	-
 
@@ -1030,7 +1030,7 @@
 13	i	O	-	-
 14	en	O	-	-
 15	række	O	-	-
-16	Ma’aden	O	-	-
+16	Ma’aden	B-LOC	-	-
 17	og	O	-	-
 18	OBS-butikker	O	-	-
 19	,	O	-	-
@@ -1385,7 +1385,7 @@
 12	mere	O	-	-
 13	stabilt	O	-	-
 14	efter	O	-	-
-15	Sharif	B-PER	-	-
+15	Sharif	B-LOC	-	-
 16	entre	O	-	-
 17	"	O	-	-
 18	.	O	-	-
@@ -1793,7 +1793,7 @@
 17	rådhuse	O	-	-
 18	-	O	-	-
 19	og	O	-	-
-20	Nilesat	O	-	-
+20	Nilesat	B-ORG	-	-
 21	i	O	-	-
 22	Qatar	B-LOC	-	-
 23	Fuel	I-LOC	-	-
@@ -1895,7 +1895,7 @@
 4	jeg	O	-	-
 5	fodboldlærling	O	-	-
 6	i	O	-	-
-7	Alwasat	B-ORG	-	-
+7	Alwasat	B-LOC	-	-
 8	,	O	-	-
 9	og	O	-	-
 10	så	O	-	-
@@ -2356,7 +2356,7 @@
 1	-	O	-	-
 2	Jo	O	-	-
 3	,	O	-	-
-4	Ordu	B-PER	-	-
+4	Ordu	B-LOC	-	-
 5	,	O	-	-
 6	sir	O	-	-
 7	,	O	-	-
@@ -2855,7 +2855,7 @@
 12	musik	O	-	-
 13	til	O	-	-
 14	skotske	O	-	-
-15	Laraki	O	-	-
+15	Laraki	B-LOC	-	-
 16	var	O	-	-
 17	til	O	-	-
 18	at	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	B-LOC	-	-
+1	Hash	B-ORG	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3703,7 +3703,7 @@
 21	de	O	-	-
 22	vil	O	-	-
 23	have	O	-	-
-24	Hussam	B-LOC	-	-
+24	Hussam	B-ORG	-	-
 25	med	O	-	-
 26	som	O	-	-
 27	led	O	-	-
@@ -3966,8 +3966,8 @@
 29	blev	O	-	-
 30	hædret	O	-	-
 31	med	O	-	-
-32	Batelco	B-PER	-	-
-33	Oscar	I-PER	-	-
+32	Batelco	B-ORG	-	-
+33	Oscar	O	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
@@ -4147,7 +4147,7 @@
 4	og	O	-	-
 5	er	O	-	-
 6	forsat	O	-	-
-7	Jamalon	B-LOC	-	-
+7	Jamalon	B-PER	-	-
 8	klare	O	-	-
 9	holdning	O	-	-
 10	,	O	-	-
@@ -4361,7 +4361,7 @@
 5	i	O	-	-
 6	rejsegildet	O	-	-
 7	for	O	-	-
-8	Qaym	B-PER	-	-
+8	Qaym	B-LOC	-	-
 9	.	O	-	-
 
 1	Jo	O	-	-
@@ -4601,7 +4601,7 @@
 
 1	Guvernøren	O	-	-
 2	for	O	-	-
-3	Çanakkale	B-ORG	-	-
+3	Çanakkale	B-LOC	-	-
 4	,	O	-	-
 5	Nail	B-PER	-	-
 6	Oreibi	I-PER	-	-
@@ -4936,8 +4936,8 @@
 6	mm	O	-	-
 7	har	O	-	-
 8	kun	O	-	-
-9	Tunisna	B-MISC	-	-
-10	3-serie	O	-	-
+9	Tunisna	B-LOC	-	-
+10	3-serie	I-MISC	-	-
 11	et	O	-	-
 12	hårstrå	O	-	-
 13	mindre	O	-	-
@@ -4952,13 +4952,13 @@
 22	rummeligheds-giganter	O	-	-
 23	som	O	-	-
 24	Citroen	B-ORG	-	-
-25	XM	I-MISC	-	-
+25	XM	I-ORG	-	-
 26	,	O	-	-
 27	Opel	B-ORG	-	-
 28	Omega	I-ORG	-	-
 29	og	O	-	-
 30	Peugeot	B-ORG	-	-
-31	605	I-MISC	-	-
+31	605	I-ORG	-	-
 32	.	O	-	-
 
 1	Men	O	-	-
@@ -5215,7 +5215,7 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	Nakilat	B-MISC	-	-
+1	Nakilat	B-PER	-	-
 2	"	O	-	-
 3	Gold	B-MISC	-	-
 4	"	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	O	-	-
+21	Chaussé	B-LOC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5780,7 +5780,7 @@
 13	,	O	-	-
 14	(	O	-	-
 15	som	O	-	-
-16	Idriz	B-PER	-	-
+16	Idriz	B-LOC	-	-
 17	er	O	-	-
 18	besjælet	O	-	-
 19	af	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Ahmed	B-LOC	-	-
+4	Ahmed	B-PER	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -6748,7 +6748,7 @@
 2	hentydede	O	-	-
 3	formentlig	O	-	-
 4	til	O	-	-
-5	Daraa	B-PER	-	-
+5	Daraa	B-LOC	-	-
 6	særlige	O	-	-
 7	problem	O	-	-
 8	med	O	-	-
@@ -7068,8 +7068,8 @@
 7	over	O	-	-
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
-10	beIN	B-MISC	-	-
-11	SPORTS	I-PER	-	-
+10	beIN	B-ORG	-	-
+11	SPORTS	I-LOC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	den	O	-	-
@@ -7560,7 +7560,7 @@
 21	forbi	O	-	-
 22	vagterne	O	-	-
 23	foran	O	-	-
-24	Amira	B-PER	-	-
+24	Amira	B-LOC	-	-
 25	,	O	-	-
 26	som	O	-	-
 27	brutalt	O	-	-
@@ -7597,7 +7597,7 @@
 1	t-boret20	O	-	-
 
 1	Ved	O	-	-
-2	VM	O	-	-
+2	VM	B-MISC	-	-
 3	i	O	-	-
 4	Irak	B-LOC	-	-
 5	scorede	O	-	-
@@ -7657,13 +7657,13 @@
 22	"	O	-	-
 23	Ugens	B-MISC	-	-
 24	Overraskelse	I-MISC	-	-
-25	-	O	-	-
+25	-	I-MISC	-	-
 26	uge	O	-	-
-27	47	O	-	-
+27	47	I-MISC	-	-
 28	"	O	-	-
 29	og	O	-	-
 30	"	O	-	-
-31	DUPLO	B-MISC	-	-
+31	DUPLO	O	-	-
 32	legetøj	I-MISC	-	-
 33	"	O	-	-
 34	.	O	-	-
@@ -8025,7 +8025,7 @@
 24	blev	O	-	-
 25	vedtaget	O	-	-
 26	på	O	-	-
-27	Assadissa	B-ORG	-	-
+27	Assadissa	B-LOC	-	-
 28	repræsentantskabsmøde	O	-	-
 29	,	O	-	-
 30	og	O	-	-
@@ -8202,7 +8202,7 @@
 19	gyser	O	-	-
 20	,	O	-	-
 21	"	O	-	-
-22	Spejldans	B-MISC	-	-
+22	Spejldans	O	-	-
 23	"	O	-	-
 24	.	O	-	-
 
@@ -8254,7 +8254,7 @@
 2	anden	O	-	-
 3	bane	O	-	-
 4	,	O	-	-
-5	Ørestadsbanen	B-MISC	-	-
+5	Ørestadsbanen	B-LOC	-	-
 6	,	O	-	-
 7	skal	O	-	-
 8	gå	O	-	-
@@ -8449,8 +8449,8 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	Aiguebelle	O	-	-
-5	legetøj	O	-	-
+4	Aiguebelle	B-MISC	-	-
+5	legetøj	I-MISC	-	-
 6	"	O	-	-
 
 1	Deres	O	-	-
@@ -8542,7 +8542,7 @@
 10	børnene	O	-	-
 11	fra	O	-	-
 12	360VUZ	B-ORG	-	-
-13	Rezayat	I-ORG	-	-
+13	Rezayat	I-LOC	-	-
 14	,	O	-	-
 15	og	O	-	-
 16	siden	O	-	-
@@ -8697,8 +8697,8 @@
 
 1	Blyindholdet	O	-	-
 2	i	O	-	-
-3	98	O	-	-
-4	oktan	O	-	-
+3	98	B-MISC	-	-
+4	oktan	I-MISC	-	-
 5	blyholdig	O	-	-
 6	benzin	O	-	-
 7	har	O	-	-
@@ -8856,9 +8856,9 @@
 5	dristige	O	-	-
 6	film	O	-	-
 7	"	O	-	-
-8	9	B-MISC	-	-
-9	1/2	I-MISC	-	-
-10	uge	I-MISC	-	-
+8	9	O	-	-
+9	1/2	O	-	-
+10	uge	O	-	-
 11	"	O	-	-
 12	.	O	-	-
 
@@ -9048,7 +9048,7 @@
 5	kæmpe	O	-	-
 6	år	O	-	-
 7	for	O	-	-
-8	Manal	B-PER	-	-
+8	Manal	B-ORG	-	-
 9	her	O	-	-
 10	udkom	O	-	-
 11	der	O	-	-
@@ -9209,7 +9209,7 @@
 3	Super-Pedersen	O	-	-
 4	sig	O	-	-
 5	over	O	-	-
-6	Al-Thawra	O	-	-
+6	Al-Thawra	B-ORG	-	-
 7	priser	O	-	-
 
 1	"	O	-	-
@@ -9281,7 +9281,7 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-ORG	-	-
+11	DR-Dokumentar	O	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
@@ -9414,7 +9414,7 @@
 8	og	O	-	-
 9	her	O	-	-
 10	triumferede	O	-	-
-11	Assabeel	B-PER	-	-
+11	Assabeel	B-ORG	-	-
 12	med	O	-	-
 13	sejr	O	-	-
 14	i	O	-	-
@@ -9437,7 +9437,7 @@
 2	henviser	O	-	-
 3	bl.a.	O	-	-
 4	til	O	-	-
-5	Mazzika	B-PER	-	-
+5	Mazzika	B-LOC	-	-
 6	afsløring	O	-	-
 7	af	O	-	-
 8	et	O	-	-
@@ -10019,7 +10019,7 @@
 16	Sharq	I-ORG	-	-
 17	.	O	-	-
 
-1	JoSat	B-ORG	-	-
+1	JoSat	B-PER	-	-
 2	rolle	O	-	-
 3	er	O	-	-
 4	i	O	-	-

@@ -9,7 +9,7 @@
 9	"	O	-	-
 10	er	O	-	-
 11	Robinson	B-MISC	-	-
-12	Crusoe	I-LOC	-	-
+12	Crusoe	I-MISC	-	-
 13	et	O	-	-
 14	paradis	O	-	-
 15	for	O	-	-
@@ -92,9 +92,9 @@
 2	den	O	-	-
 3	orangegule	O	-	-
 4	norske	O	-	-
-5	Fanta	O	-	-
+5	Fanta	B-MISC	-	-
 6	,	O	-	-
-7	Solus	B-MISC	-	-
+7	Solus	B-PER	-	-
 8	,	O	-	-
 9	kan	O	-	-
 10	holde	O	-	-
@@ -109,8 +109,8 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-ORG	-	-
-7	Hvile	I-ORG	-	-
+6	Bakkens	B-MISC	-	-
+7	Hvile	I-MISC	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -444,7 +444,7 @@
 10	godt	O	-	-
 11	.	O	-	-
 
-1	Faraos	B-LOC	-	-
+1	Faraos	B-PER	-	-
 2	skytsgud	O	-	-
 3	Honus	B-PER	-	-
 4	-	O	-	-
@@ -616,7 +616,7 @@
 34	lønforhøjelse	O	-	-
 35	.	O	-	-
 
-1	Fielfraz	B-LOC	-	-
+1	Fielfraz	O	-	-
 2	har	O	-	-
 3	en	O	-	-
 4	særlig	O	-	-
@@ -707,7 +707,7 @@
 8	kroner	O	-	-
 9	.	O	-	-
 
-1	Boligministeriet	B-ORG	-	-
+1	Boligministeriet	O	-	-
 2	:	O	-	-
 
 1	"	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	O	-	-
+6	Pio-episoden	B-MISC	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -887,7 +887,7 @@
 
 1	Man	O	-	-
 2	indsprøjter	O	-	-
-3	VIP	O	-	-
+3	VIP	B-MISC	-	-
 4	i	O	-	-
 5	penis	O	-	-
 6	kort	O	-	-
@@ -911,7 +911,7 @@
 24	den	O	-	-
 25	indsprøjtede	O	-	-
 26	mængde	O	-	-
-27	VIP	O	-	-
+27	VIP	B-MISC	-	-
 28	.	O	-	-
 
 1	Tilskud	O	-	-
@@ -1003,8 +1003,8 @@
 18	konkurrencen	O	-	-
 19	op	O	-	-
 20	med	O	-	-
-21	Cayman	B-ORG	-	-
-22	Islands	I-ORG	-	-
+21	Cayman	B-LOC	-	-
+22	Islands	I-LOC	-	-
 23	og	O	-	-
 24	andre	O	-	-
 25	skattely	O	-	-
@@ -1300,7 +1300,7 @@
 11	kort	O	-	-
 12	efter	O	-	-
 13	at	O	-	-
-14	El-Al-flyet	O	-	-
+14	El-Al-flyet	B-MISC	-	-
 15	med	O	-	-
 16	tre	O	-	-
 17	besætningsmedlemmer	O	-	-
@@ -1424,7 +1424,7 @@
 
 1	-	O	-	-
 2	75	O	-	-
-3	øre	O	-	-
+3	øre	B-MISC	-	-
 4	.	O	-	-
 
 1	På	O	-	-
@@ -2442,7 +2442,7 @@
 13	5-årig	O	-	-
 14	periode	O	-	-
 15	undersøge	O	-	-
-16	Østersøens	O	-	-
+16	Østersøens	B-LOC	-	-
 17	miljø	O	-	-
 18	.	O	-	-
 
@@ -2558,7 +2558,7 @@
 10	overtages	O	-	-
 11	af	O	-	-
 12	en	O	-	-
-13	ECU	B-ORG	-	-
+13	ECU	B-MISC	-	-
 14	.	O	-	-
 
 1	Konkurrencen	O	-	-
@@ -2650,8 +2650,8 @@
 9	,	O	-	-
 10	som	O	-	-
 11	"	O	-	-
-12	Nr.	O	-	-
-13	742	O	-	-
+12	Nr.	B-MISC	-	-
+13	742	I-MISC	-	-
 14	"	O	-	-
 15	må	O	-	-
 16	opleves	O	-	-
@@ -2698,7 +2698,7 @@
 
 1	Det	O	-	-
 2	tyske	O	-	-
-3	Transall	O	-	-
+3	Transall	B-MISC	-	-
 4	fly	O	-	-
 5	taxier	O	-	-
 6	ind	O	-	-
@@ -2775,7 +2775,7 @@
 4	på	O	-	-
 5	Ny	B-ORG	-	-
 6	Holte	I-ORG	-	-
-7	skole	I-ORG	-	-
+7	skole	O	-	-
 8	meget	O	-	-
 9	kreativt	O	-	-
 10	orienteret	O	-	-
@@ -2855,7 +2855,7 @@
 12	musik	O	-	-
 13	til	O	-	-
 14	skotske	O	-	-
-15	Wolffstones	O	-	-
+15	Wolffstones	B-ORG	-	-
 16	var	O	-	-
 17	til	O	-	-
 18	at	O	-	-
@@ -2902,7 +2902,7 @@
 4	.	O	-	-
 
 1	-	O	-	-
-2	Vagga	O	-	-
+2	Vagga	B-PER	-	-
 3	,	O	-	-
 4	mumlede	O	-	-
 5	han	O	-	-
@@ -2934,7 +2934,7 @@
 19	om	O	-	-
 20	at	O	-	-
 21	støtte	O	-	-
-22	Iliescu	B-LOC	-	-
+22	Iliescu	B-PER	-	-
 23	.	O	-	-
 
 1	P-PILLER	O	-	-
@@ -3107,7 +3107,7 @@
 39	tog	O	-	-
 40	sæt	O	-	-
 41	fra	O	-	-
-42	Appelgren	B-ORG	-	-
+42	Appelgren	B-PER	-	-
 43	og	O	-	-
 44	viste	O	-	-
 45	noget	O	-	-
@@ -3149,7 +3149,7 @@
 16	hos	O	-	-
 17	det	O	-	-
 18	private	O	-	-
-19	Unitron-team	O	-	-
+19	Unitron-team	B-ORG	-	-
 20	,	O	-	-
 21	hvor	O	-	-
 22	han	O	-	-
@@ -3192,7 +3192,7 @@
 
 1	Udstyrsmæssigt	O	-	-
 2	placerer	O	-	-
-3	Toledo	B-MISC	-	-
+3	Toledo	B-ORG	-	-
 4	sig	O	-	-
 5	fint	O	-	-
 6	i	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	B-LOC	-	-
+1	Hash	B-PER	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3597,7 +3597,7 @@
 19	.	O	-	-
 
 1	"	O	-	-
-2	Hash	O	-	-
+2	Hash	B-MISC	-	-
 3	er	O	-	-
 4	også	O	-	-
 5	narkotika	O	-	-
@@ -3935,8 +3935,8 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	O	-	-
-2	PALLE	O	-	-
+1	LILLE	B-PER	-	-
+2	PALLE	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
 5	,	O	-	-
@@ -3944,7 +3944,7 @@
 7	har	O	-	-
 8	succes	O	-	-
 9	på	O	-	-
-10	Bakkens	O	-	-
+10	Bakkens	B-LOC	-	-
 11	friluftsscene	O	-	-
 12	,	O	-	-
 13	kom	O	-	-
@@ -3967,13 +3967,13 @@
 30	hædret	O	-	-
 31	med	O	-	-
 32	Bakkens	B-MISC	-	-
-33	Oscar	B-MISC	-	-
+33	Oscar	O	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
 37	og	O	-	-
 38	fornemt	O	-	-
-39	Bjørn-Wiinblad-fad	O	-	-
+39	Bjørn-Wiinblad-fad	B-PER	-	-
 40	.	O	-	-
 
 1	Det	O	-	-
@@ -4051,7 +4051,7 @@
 
 1	-	O	-	-
 2	På	O	-	-
-3	Fønix	B-LOC	-	-
+3	Fønix	B-MISC	-	-
 4	var	O	-	-
 5	man	O	-	-
 6	selvfølgelig	O	-	-
@@ -4800,7 +4800,7 @@
 4	den	O	-	-
 5	handler	O	-	-
 6	om	O	-	-
-7	Justitsministeriets	O	-	-
+7	Justitsministeriets	B-ORG	-	-
 8	og	O	-	-
 9	Rigspolitiets	B-ORG	-	-
 10	manglende	O	-	-
@@ -5217,7 +5217,7 @@
 
 1	ABBA	B-ORG	-	-
 2	"	O	-	-
-3	Gold	O	-	-
+3	Gold	B-MISC	-	-
 4	"	O	-	-
 5	har	O	-	-
 6	været	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	O	-	-
+21	Chaussé	B-ORG	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-PER	-	-
+4	Majors	B-ORG	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -6144,7 +6144,7 @@
 27	gifttønderne	O	-	-
 28	for	O	-	-
 29	500	O	-	-
-30	naira	O	-	-
+30	naira	B-MISC	-	-
 31	(	O	-	-
 32	650	O	-	-
 33	kr.	O	-	-
@@ -6237,7 +6237,7 @@
 1	På	O	-	-
 2	vagt	O	-	-
 3	foran	O	-	-
-4	Cheops	B-MISC	-	-
+4	Cheops	B-LOC	-	-
 5	pyramiden	O	-	-
 6	.	O	-	-
 
@@ -6992,9 +6992,9 @@
 2	på	O	-	-
 3	1,3	O	-	-
 4	mill.	O	-	-
-5	franc	O	-	-
+5	franc	B-MISC	-	-
 6	reddede	O	-	-
-7	Valenciennes	B-LOC	-	-
+7	Valenciennes	B-ORG	-	-
 8	fra	O	-	-
 9	konkurs	O	-	-
 10	.	O	-	-
@@ -7144,8 +7144,8 @@
 8	området	O	-	-
 9	syd	O	-	-
 10	for	O	-	-
-11	Bella	B-LOC	-	-
-12	Centret	I-LOC	-	-
+11	Bella	B-ORG	-	-
+12	Centret	I-ORG	-	-
 13	,	O	-	-
 14	hvor	O	-	-
 15	der	O	-	-
@@ -7597,7 +7597,7 @@
 1	t-boret20	O	-	-
 
 1	Ved	O	-	-
-2	VM	O	-	-
+2	VM	B-MISC	-	-
 3	i	O	-	-
 4	Mexico	B-LOC	-	-
 5	scorede	O	-	-
@@ -7658,8 +7658,8 @@
 23	Ugens	B-MISC	-	-
 24	Overraskelse	I-MISC	-	-
 25	-	I-MISC	-	-
-26	uge	O	-	-
-27	47	O	-	-
+26	uge	I-MISC	-	-
+27	47	I-MISC	-	-
 28	"	O	-	-
 29	og	O	-	-
 30	"	O	-	-
@@ -7720,7 +7720,7 @@
 3	.	O	-	-
 
 1	Med	O	-	-
-2	Scout	B-ORG	-	-
+2	Scout	B-MISC	-	-
 3	skulle	O	-	-
 4	der	O	-	-
 5	heller	O	-	-
@@ -8254,7 +8254,7 @@
 2	anden	O	-	-
 3	bane	O	-	-
 4	,	O	-	-
-5	Ørestadsbanen	B-MISC	-	-
+5	Ørestadsbanen	B-LOC	-	-
 6	,	O	-	-
 7	skal	O	-	-
 8	gå	O	-	-
@@ -8264,7 +8264,7 @@
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
-15	universitet	O	-	-
+15	universitet	B-LOC	-	-
 16	til	O	-	-
 17	Tårnby	B-LOC	-	-
 18	.	O	-	-
@@ -8276,7 +8276,7 @@
 5	ny	O	-	-
 6	teori	O	-	-
 7	i	O	-	-
-8	Propagandaministeriet	B-ORG	-	-
+8	Propagandaministeriet	O	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	gik	O	-	-
@@ -8388,7 +8388,7 @@
 35	boligydelse	O	-	-
 36	.	O	-	-
 
-1	Rom	B-LOC	-	-
+1	Rom	O	-	-
 2	blev	O	-	-
 3	ikke	O	-	-
 4	bygget	O	-	-
@@ -8449,7 +8449,7 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	O	-	-
+4	DUPLO	B-MISC	-	-
 5	legetøj	O	-	-
 6	"	O	-	-
 
@@ -8697,8 +8697,8 @@
 
 1	Blyindholdet	O	-	-
 2	i	O	-	-
-3	98	O	-	-
-4	oktan	O	-	-
+3	98	B-MISC	-	-
+4	oktan	I-MISC	-	-
 5	blyholdig	O	-	-
 6	benzin	O	-	-
 7	har	O	-	-
@@ -8856,9 +8856,9 @@
 5	dristige	O	-	-
 6	film	O	-	-
 7	"	O	-	-
-8	9	O	-	-
-9	1/2	O	-	-
-10	uge	O	-	-
+8	9	B-MISC	-	-
+9	1/2	I-MISC	-	-
+10	uge	I-MISC	-	-
 11	"	O	-	-
 12	.	O	-	-
 
@@ -9048,7 +9048,7 @@
 5	kæmpe	O	-	-
 6	år	O	-	-
 7	for	O	-	-
-8	vivaldi	O	-	-
+8	vivaldi	B-PER	-	-
 9	her	O	-	-
 10	udkom	O	-	-
 11	der	O	-	-
@@ -9281,14 +9281,14 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-ORG	-	-
+11	DR-Dokumentar	O	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
 15	sønderlemmende	O	-	-
 16	kritik	O	-	-
 17	af	O	-	-
-18	Frederikshavns	B-LOC	-	-
+18	Frederikshavns	B-ORG	-	-
 19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-
@@ -9414,7 +9414,7 @@
 8	og	O	-	-
 9	her	O	-	-
 10	triumferede	O	-	-
-11	Ariostea	B-ORG	-	-
+11	Ariostea	B-PER	-	-
 12	med	O	-	-
 13	sejr	O	-	-
 14	i	O	-	-
@@ -9673,7 +9673,7 @@
 2	Vi	O	-	-
 3	ses	O	-	-
 4	i	O	-	-
-5	Helvede	O	-	-
+5	Helvede	B-LOC	-	-
 6	!	O	-	-
 7	"	O	-	-
 8	svarede	O	-	-
@@ -10019,7 +10019,7 @@
 16	Romanesca	I-ORG	-	-
 17	.	O	-	-
 
-1	Unix'	B-ORG	-	-
+1	Unix'	B-PER	-	-
 2	rolle	O	-	-
 3	er	O	-	-
 4	i	O	-	-

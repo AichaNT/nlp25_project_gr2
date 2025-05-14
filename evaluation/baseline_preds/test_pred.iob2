@@ -92,7 +92,7 @@
 
 1	Nye	O	-	-
 2	i	O	-	-
-3	BTCC	B-MISC	-	-
+3	BTCC	B-ORG	-	-
 
 1	Blandt	O	-	-
 2	fodboldspillerne	O	-	-
@@ -166,8 +166,8 @@
 
 1	Det	O	-	-
 2	et-motorede	O	-	-
-3	Cessna	O	-	-
-4	172	O	-	-
+3	Cessna	B-MISC	-	-
+4	172	I-MISC	-	-
 5	fly	O	-	-
 6	med	O	-	-
 7	plads	O	-	-
@@ -713,7 +713,7 @@
 
 1	Når	O	-	-
 2	"	O	-	-
-3	Ørsted	B-MISC	-	-
+3	Ørsted	B-PER	-	-
 4	"	O	-	-
 5	slynges	O	-	-
 6	ud	O	-	-
@@ -766,7 +766,7 @@
 20	betongulv	O	-	-
 21	,	O	-	-
 22	på	O	-	-
-23	mor	O	-	-
+23	mor	B-PER	-	-
 24	,	O	-	-
 25	der	O	-	-
 26	med	O	-	-
@@ -943,10 +943,10 @@
 3	Høifjellshotell	I-LOC	-	-
 4	og	O	-	-
 5	til	O	-	-
-6	Kampsæter	B-LOC	-	-
+6	Kampsæter	O	-	-
 7	og	O	-	-
-8	Ruten	B-LOC	-	-
-9	Fjellstue	I-LOC	-	-
+8	Ruten	B-ORG	-	-
+9	Fjellstue	I-ORG	-	-
 10	.	O	-	-
 
 1	Jeg	O	-	-
@@ -964,7 +964,7 @@
 13	med	O	-	-
 14	at	O	-	-
 15	tage	O	-	-
-16	Chlorella	O	-	-
+16	Chlorella	B-MISC	-	-
 17	fremover	O	-	-
 18	.	O	-	-
 
@@ -1143,7 +1143,7 @@
 11	et	O	-	-
 12	kort	O	-	-
 13	over	O	-	-
-14	Riget	B-LOC	-	-
+14	Riget	B-MISC	-	-
 15	med	O	-	-
 16	et	O	-	-
 17	påklistret	O	-	-
@@ -1161,7 +1161,7 @@
 2	og	O	-	-
 3	styrmænd	O	-	-
 4	på	O	-	-
-5	Isafold	B-ORG	-	-
+5	Isafold	B-LOC	-	-
 6	mødtes	O	-	-
 7	i	O	-	-
 8	går	O	-	-
@@ -1360,7 +1360,7 @@
 12	ting	O	-	-
 13	.	O	-	-
 
-1	Horsens'	B-LOC	-	-
+1	Horsens'	B-ORG	-	-
 2	nærmest	O	-	-
 3	foregående	O	-	-
 4	sejr	O	-	-
@@ -1791,11 +1791,11 @@
 17	overstået	O	-	-
 18	kampen	O	-	-
 19	om	O	-	-
-20	Bala	B-LOC	-	-
+20	Bala	B-MISC	-	-
 21	Hissar	I-LOC	-	-
 22	og	O	-	-
 23	tilintetgøre	O	-	-
-24	Hekmatyars	B-ORG	-	-
+24	Hekmatyars	B-MISC	-	-
 25	luftværnsskyts	O	-	-
 26	"	O	-	-
 27	.	O	-	-
@@ -1939,7 +1939,7 @@
 3	tilsyneladende	O	-	-
 4	kontrol	O	-	-
 5	med	O	-	-
-6	Kabuls	B-LOC	-	-
+6	Kabuls	B-PER	-	-
 7	centrum	O	-	-
 8	,	O	-	-
 9	men	O	-	-
@@ -1976,7 +1976,7 @@
 10	relativt	O	-	-
 11	beskedne	O	-	-
 12	informatikprogram	O	-	-
-13	PIFT	B-MISC	-	-
+13	PIFT	B-ORG	-	-
 14	,	O	-	-
 15	som	O	-	-
 16	ikke	O	-	-
@@ -2079,7 +2079,7 @@
 1	Når	O	-	-
 2	vi	O	-	-
 3	lægger	O	-	-
-4	Autographs	O	-	-
+4	Autographs	B-MISC	-	-
 5	røntgenfilm	O	-	-
 6	af	O	-	-
 7	den	O	-	-
@@ -4548,7 +4548,7 @@
 2	14	O	-	-
 3	dage	O	-	-
 4	med	O	-	-
-5	Chlorella	O	-	-
+5	Chlorella	B-MISC	-	-
 6	mærkede	O	-	-
 7	jeg	O	-	-
 8	en	O	-	-
@@ -4586,7 +4586,7 @@
 
 1	Lasse	B-PER	-	-
 2	Hessel	I-PER	-	-
-3	selv	O	-	-
+3	selv	I-PER	-	-
 4	fremhæver	O	-	-
 5	også	O	-	-
 6	et	O	-	-
@@ -4745,7 +4745,7 @@
 16	Poststrasse	B-LOC	-	-
 17	1	O	-	-
 18	,	O	-	-
-19	W-7530	B-LOC	-	-
+19	W-7530	O	-	-
 20	Pforzheim	B-LOC	-	-
 21	.	O	-	-
 
@@ -5353,7 +5353,7 @@
 12	alderen	O	-	-
 13	,	O	-	-
 14	har	O	-	-
-15	Chlorella	O	-	-
+15	Chlorella	B-MISC	-	-
 16	hjulpet	O	-	-
 17	på	O	-	-
 18	.	O	-	-
@@ -5583,7 +5583,7 @@
 
 1	TVANGSAKKORD	O	-	-
 
-1	Marco	B-PER	-	-
+1	Marco	O	-	-
 2	,	O	-	-
 3	lige	O	-	-
 4	et	O	-	-
@@ -5791,7 +5791,7 @@
 3	er	O	-	-
 4	det	O	-	-
 5	jo	O	-	-
-6	Mozart	O	-	-
+6	Mozart	B-MISC	-	-
 7	år	O	-	-
 8	i	O	-	-
 9	år	O	-	-
@@ -5952,8 +5952,8 @@
 10	Wyatt	I-PER	-	-
 11	,	O	-	-
 12	som	O	-	-
-13	Texan	O	-	-
-14	society	O	-	-
+13	Texan	B-MISC	-	-
+14	society	I-MISC	-	-
 15	princess	O	-	-
 16	Lynn	B-PER	-	-
 17	Wyatt	I-PER	-	-
@@ -6137,8 +6137,8 @@
 35	nu	O	-	-
 36	overtaget	O	-	-
 37	af	O	-	-
-38	landets	O	-	-
-39	Kulturfond	O	-	-
+38	landets	B-ORG	-	-
+39	Kulturfond	B-ORG	-	-
 40	og	O	-	-
 41	skal	O	-	-
 42	istedet	O	-	-
@@ -6402,7 +6402,7 @@
 2	at	O	-	-
 3	demonstrere	O	-	-
 
-1	Funar	B-PER	-	-
+1	Funar	O	-	-
 2	afvises	O	-	-
 3	af	O	-	-
 4	de	O	-	-
@@ -6819,7 +6819,7 @@
 7	1,6	O	-	-
 8	og	O	-	-
 9	en	O	-	-
-10	2,0	O	-	-
+10	2,0	B-MISC	-	-
 11	SW	I-MISC	-	-
 12	SE	I-MISC	-	-
 13	,	O	-	-
@@ -7248,7 +7248,7 @@
 9	og	O	-	-
 10	fremmest	O	-	-
 11	kritiserede	O	-	-
-12	Danidas	B-ORG	-	-
+12	Danidas	B-PER	-	-
 13	fortsatte	O	-	-
 14	engagement	O	-	-
 15	i	O	-	-
@@ -7281,7 +7281,7 @@
 16	pct.	O	-	-
 17	.	O	-	-
 
-1	Sheraton	O	-	-
+1	Sheraton	B-MISC	-	-
 2	i	O	-	-
 3	Luxor	B-LOC	-	-
 4	.	O	-	-
@@ -7581,7 +7581,7 @@
 17	INN	I-ORG	-	-
 18	LYNGBY	I-ORG	-	-
 19	EL-service	O	-	-
-20	BIKUBEN	O	-	-
+20	BIKUBEN	B-ORG	-	-
 21	Beboerbladet	O	-	-
 22	HER	I-ORG	-	-
 23	og	O	-	-
@@ -7697,7 +7697,7 @@
 22	af	O	-	-
 23	leverancer	O	-	-
 24	til	O	-	-
-25	Østlandene	O	-	-
+25	Østlandene	B-LOC	-	-
 26	.	O	-	-
 
 1	Det	O	-	-
@@ -7944,7 +7944,7 @@
 11	,	O	-	-
 12	at	O	-	-
 13	franske	O	-	-
-14	Lyon	B-LOC	-	-
+14	Lyon	B-ORG	-	-
 15	,	O	-	-
 16	som	O	-	-
 17	vi	O	-	-
@@ -7970,7 +7970,7 @@
 5	,	O	-	-
 6	at	O	-	-
 7	når	O	-	-
-8	Superbrugsen	O	-	-
+8	Superbrugsen	B-ORG	-	-
 9	har	O	-	-
 10	en	O	-	-
 11	slagvare	O	-	-
@@ -8571,8 +8571,8 @@
 1	Den	O	-	-
 2	vare	O	-	-
 3	leverer	O	-	-
-4	Paul-Loup	B-PER	-	-
-5	Sulitzer	I-PER	-	-
+4	Paul-Loup	B-ORG	-	-
+5	Sulitzer	I-ORG	-	-
 6	ca.	O	-	-
 7	en	O	-	-
 8	gang	O	-	-
@@ -8737,9 +8737,9 @@
 1	Dyrt	O	-	-
 2	klædte	O	-	-
 3	familier	O	-	-
-4	Jönsson	O	-	-
+4	Jönsson	B-PER	-	-
 5	og	O	-	-
-6	Carlsson'er	O	-	-
+6	Carlsson'er	B-PER	-	-
 7	i	O	-	-
 8	hobetal	O	-	-
 9	slentrer	O	-	-
@@ -8835,7 +8835,7 @@
 18	var	O	-	-
 19	vi	O	-	-
 20	imod	O	-	-
-21	Folkekongressen	O	-	-
+21	Folkekongressen	B-MISC	-	-
 22	.	O	-	-
 
 1	Bortset	O	-	-
@@ -9284,7 +9284,7 @@
 13	.	O	-	-
 
 1	Men	O	-	-
-2	Markedsudvalget	O	-	-
+2	Markedsudvalget	B-ORG	-	-
 3	opdagede	O	-	-
 4	ikke	O	-	-
 5	konsekvensen	O	-	-
@@ -9520,8 +9520,8 @@
 2	danske	O	-	-
 3	importør	O	-	-
 4	,	O	-	-
-5	Vilh.	B-ORG	-	-
-6	Nellemann	I-PER	-	-
+5	Vilh.	B-PER	-	-
+6	Nellemann	I-ORG	-	-
 7	Autoimport	I-ORG	-	-
 8	,	O	-	-
 9	har	O	-	-
@@ -9553,7 +9553,7 @@
 10	i	O	-	-
 11	de	O	-	-
 12	tidligere	O	-	-
-13	Sovjetrepublikker	O	-	-
+13	Sovjetrepublikker	B-LOC	-	-
 14	Uzbekistan	B-LOC	-	-
 15	og	O	-	-
 16	Kazakstan	B-LOC	-	-
@@ -9835,7 +9835,7 @@
 10	end	O	-	-
 11	hele	O	-	-
 12	"	O	-	-
-13	Ørsted	B-MISC	-	-
+13	Ørsted	B-ORG	-	-
 14	"	O	-	-
 15	.	O	-	-
 
@@ -9883,7 +9883,7 @@
 5	en	O	-	-
 6	hyldest	O	-	-
 7	til	O	-	-
-8	Bakken	B-ORG	-	-
+8	Bakken	B-LOC	-	-
 9	.	O	-	-
 
 1	De	O	-	-

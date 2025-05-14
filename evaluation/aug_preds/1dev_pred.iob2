@@ -94,7 +94,7 @@
 4	norske	O	-	-
 5	Fanta	B-MISC	-	-
 6	,	O	-	-
-7	Solus	B-MISC	-	-
+7	Solus	B-PER	-	-
 8	,	O	-	-
 9	kan	O	-	-
 10	holde	O	-	-
@@ -109,8 +109,8 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-LOC	-	-
-7	Hvile	I-LOC	-	-
+6	Bakkens	B-ORG	-	-
+7	Hvile	I-ORG	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -444,7 +444,7 @@
 10	godt	O	-	-
 11	.	O	-	-
 
-1	Faraos	B-PER	-	-
+1	Faraos	B-LOC	-	-
 2	skytsgud	O	-	-
 3	Honus	B-PER	-	-
 4	-	O	-	-
@@ -464,7 +464,7 @@
 1	Intet	O	-	-
 2	gennembrud	O	-	-
 3	for	O	-	-
-4	Nutrio	B-PER	-	-
+4	Nutrio	B-ORG	-	-
 
 1	Frankrigs	B-LOC	-	-
 2	daværende	O	-	-
@@ -616,7 +616,7 @@
 34	lønforhøjelse	O	-	-
 35	.	O	-	-
 
-1	Fielfraz	B-PER	-	-
+1	Fielfraz	B-ORG	-	-
 2	har	O	-	-
 3	en	O	-	-
 4	særlig	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	O	-	-
+6	Pio-episoden	B-MISC	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -1197,7 +1197,7 @@
 10	naturen	O	-	-
 11	nord	O	-	-
 12	for	O	-	-
-13	Bella	B-ORG	-	-
+13	Bella	B-LOC	-	-
 14	Centret	I-LOC	-	-
 15	,	O	-	-
 16	hvor	O	-	-
@@ -1300,7 +1300,7 @@
 11	kort	O	-	-
 12	efter	O	-	-
 13	at	O	-	-
-14	El-Al-flyet	O	-	-
+14	El-Al-flyet	B-MISC	-	-
 15	med	O	-	-
 16	tre	O	-	-
 17	besætningsmedlemmer	O	-	-
@@ -1313,8 +1313,8 @@
 24	lettede	O	-	-
 25	fra	O	-	-
 26	Amsterdams	B-LOC	-	-
-27	Schiphol	I-LOC	-	-
-28	lufthavn	I-LOC	-	-
+27	Schiphol	B-LOC	-	-
+28	lufthavn	O	-	-
 29	.	O	-	-
 
 1	De	O	-	-
@@ -1378,7 +1378,7 @@
 5	bemærke	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	Liverpools	B-ORG	-	-
+8	Liverpools	B-LOC	-	-
 9	forsvar	O	-	-
 10	er	O	-	-
 11	blevet	O	-	-
@@ -1793,10 +1793,10 @@
 17	rådhuse	O	-	-
 18	-	O	-	-
 19	og	O	-	-
-20	MikroData	B-ORG	-	-
+20	MikroData	B-MISC	-	-
 21	i	O	-	-
 22	Bella	B-ORG	-	-
-23	Center	I-ORG	-	-
+23	Center	I-LOC	-	-
 24	.	O	-	-
 
 1	De	O	-	-
@@ -2442,7 +2442,7 @@
 13	5-årig	O	-	-
 14	periode	O	-	-
 15	undersøge	O	-	-
-16	Østersøens	B-LOC	-	-
+16	Østersøens	O	-	-
 17	miljø	O	-	-
 18	.	O	-	-
 
@@ -2553,7 +2553,7 @@
 5	meningen	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	D-marken	B-MISC	-	-
+8	D-marken	O	-	-
 9	skal	O	-	-
 10	overtages	O	-	-
 11	af	O	-	-
@@ -2849,13 +2849,13 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-MISC	-	-
+9	Altans	B-PER	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
 13	til	O	-	-
 14	skotske	O	-	-
-15	Wolffstones	B-MISC	-	-
+15	Wolffstones	B-ORG	-	-
 16	var	O	-	-
 17	til	O	-	-
 18	at	O	-	-
@@ -3107,7 +3107,7 @@
 39	tog	O	-	-
 40	sæt	O	-	-
 41	fra	O	-	-
-42	Appelgren	B-ORG	-	-
+42	Appelgren	B-PER	-	-
 43	og	O	-	-
 44	viste	O	-	-
 45	noget	O	-	-
@@ -3187,7 +3187,7 @@
 5	opvarmet	O	-	-
 6	pøl	O	-	-
 7	og	O	-	-
-8	Volvo	O	-	-
+8	Volvo	B-ORG	-	-
 9	.	O	-	-
 
 1	Udstyrsmæssigt	O	-	-
@@ -3935,7 +3935,7 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	B-PER	-	-
+1	LILLE	O	-	-
 2	PALLE	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
@@ -3973,7 +3973,7 @@
 36	stort	O	-	-
 37	og	O	-	-
 38	fornemt	O	-	-
-39	Bjørn-Wiinblad-fad	O	-	-
+39	Bjørn-Wiinblad-fad	B-PER	-	-
 40	.	O	-	-
 
 1	Det	O	-	-
@@ -4207,8 +4207,8 @@
 1	Og	O	-	-
 2	prismæssigt	O	-	-
 3	ligger	O	-	-
-4	Seat	B-MISC	-	-
-5	Toledo	I-MISC	-	-
+4	Seat	B-ORG	-	-
+5	Toledo	I-ORG	-	-
 6	også	O	-	-
 7	pænt	O	-	-
 8	i	O	-	-
@@ -4691,7 +4691,7 @@
 4	besøgende	O	-	-
 5	ved	O	-	-
 6	sidste	O	-	-
-7	MikroData	B-MISC	-	-
+7	MikroData	O	-	-
 8	for	O	-	-
 9	to	O	-	-
 10	år	O	-	-
@@ -4951,13 +4951,13 @@
 21	af	O	-	-
 22	rummeligheds-giganter	O	-	-
 23	som	O	-	-
-24	Citroen	B-MISC	-	-
+24	Citroen	B-ORG	-	-
 25	XM	I-MISC	-	-
 26	,	O	-	-
-27	Opel	B-MISC	-	-
+27	Opel	B-ORG	-	-
 28	Omega	I-MISC	-	-
 29	og	O	-	-
-30	Peugeot	B-MISC	-	-
+30	Peugeot	B-ORG	-	-
 31	605	I-MISC	-	-
 32	.	O	-	-
 
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	O	-	-
+21	Chaussé	B-MISC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-PER	-	-
+4	Majors	B-ORG	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -6994,7 +6994,7 @@
 4	mill.	O	-	-
 5	franc	O	-	-
 6	reddede	O	-	-
-7	Valenciennes	B-PER	-	-
+7	Valenciennes	B-LOC	-	-
 8	fra	O	-	-
 9	konkurs	O	-	-
 10	.	O	-	-
@@ -7068,7 +7068,7 @@
 7	over	O	-	-
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
-10	McClardÁs	B-PER	-	-
+10	McClardÁs	B-LOC	-	-
 11	Bar-B-Que	B-MISC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
@@ -7434,7 +7434,7 @@
 32	piller	O	-	-
 33	.	O	-	-
 
-1	Bucks	B-PER	-	-
+1	Bucks	B-ORG	-	-
 2	bed	O	-	-
 3	ham	O	-	-
 4	hurtigt	O	-	-
@@ -7560,7 +7560,7 @@
 21	forbi	O	-	-
 22	vagterne	O	-	-
 23	foran	O	-	-
-24	Chikatilo	B-LOC	-	-
+24	Chikatilo	B-PER	-	-
 25	,	O	-	-
 26	som	O	-	-
 27	brutalt	O	-	-
@@ -7597,7 +7597,7 @@
 1	t-boret20	O	-	-
 
 1	Ved	O	-	-
-2	VM	O	-	-
+2	VM	B-MISC	-	-
 3	i	O	-	-
 4	Mexico	B-LOC	-	-
 5	scorede	O	-	-
@@ -7685,7 +7685,7 @@
 15	tankvogn	O	-	-
 16	med	O	-	-
 17	giftstoffet	O	-	-
-18	acrylonitril	O	-	-
+18	acrylonitril	B-MISC	-	-
 19	sprang	O	-	-
 20	læk	O	-	-
 21	.	O	-	-
@@ -8264,7 +8264,7 @@
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
-15	universitet	O	-	-
+15	universitet	B-LOC	-	-
 16	til	O	-	-
 17	Tårnby	B-LOC	-	-
 18	.	O	-	-
@@ -8276,7 +8276,7 @@
 5	ny	O	-	-
 6	teori	O	-	-
 7	i	O	-	-
-8	Propagandaministeriet	B-ORG	-	-
+8	Propagandaministeriet	O	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	gik	O	-	-
@@ -8388,7 +8388,7 @@
 35	boligydelse	O	-	-
 36	.	O	-	-
 
-1	Rom	B-LOC	-	-
+1	Rom	O	-	-
 2	blev	O	-	-
 3	ikke	O	-	-
 4	bygget	O	-	-
@@ -8449,8 +8449,8 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	B-MISC	-	-
-5	legetøj	I-MISC	-	-
+4	DUPLO	B-ORG	-	-
+5	legetøj	I-ORG	-	-
 6	"	O	-	-
 
 1	Deres	O	-	-
@@ -9087,7 +9087,7 @@
 1	I	O	-	-
 2	1972	O	-	-
 3	fik	O	-	-
-4	Skjern	B-PER	-	-
+4	Skjern	B-LOC	-	-
 5	sit	O	-	-
 6	første	O	-	-
 7	værtshus	O	-	-
@@ -9206,7 +9206,7 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	B-PER	-	-
+3	Super-Pedersen	O	-	-
 4	sig	O	-	-
 5	over	O	-	-
 6	Nettos	B-PER	-	-
@@ -9414,7 +9414,7 @@
 8	og	O	-	-
 9	her	O	-	-
 10	triumferede	O	-	-
-11	Ariostea	B-PER	-	-
+11	Ariostea	B-ORG	-	-
 12	med	O	-	-
 13	sejr	O	-	-
 14	i	O	-	-
@@ -9673,7 +9673,7 @@
 2	Vi	O	-	-
 3	ses	O	-	-
 4	i	O	-	-
-5	Helvede	B-LOC	-	-
+5	Helvede	O	-	-
 6	!	O	-	-
 7	"	O	-	-
 8	svarede	O	-	-
@@ -9722,7 +9722,7 @@
 12	,	O	-	-
 13	forbi	O	-	-
 14	Sydhavn	B-LOC	-	-
-15	S-station	O	-	-
+15	S-station	I-LOC	-	-
 16	mod	O	-	-
 17	Sjællandsbroen	B-LOC	-	-
 18	.	O	-	-

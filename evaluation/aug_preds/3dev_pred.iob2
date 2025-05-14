@@ -616,7 +616,7 @@
 34	lønforhøjelse	O	-	-
 35	.	O	-	-
 
-1	Fielfraz	B-PER	-	-
+1	Fielfraz	B-ORG	-	-
 2	har	O	-	-
 3	en	O	-	-
 4	særlig	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	O	-	-
+6	Pio-episoden	B-MISC	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -911,7 +911,7 @@
 24	den	O	-	-
 25	indsprøjtede	O	-	-
 26	mængde	O	-	-
-27	VIP	O	-	-
+27	VIP	B-MISC	-	-
 28	.	O	-	-
 
 1	Tilskud	O	-	-
@@ -1197,8 +1197,8 @@
 10	naturen	O	-	-
 11	nord	O	-	-
 12	for	O	-	-
-13	Bella	B-ORG	-	-
-14	Centret	I-ORG	-	-
+13	Bella	B-LOC	-	-
+14	Centret	I-LOC	-	-
 15	,	O	-	-
 16	hvor	O	-	-
 17	i	O	-	-
@@ -2442,7 +2442,7 @@
 13	5-årig	O	-	-
 14	periode	O	-	-
 15	undersøge	O	-	-
-16	Østersøens	B-LOC	-	-
+16	Østersøens	O	-	-
 17	miljø	O	-	-
 18	.	O	-	-
 
@@ -2553,7 +2553,7 @@
 5	meningen	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	D-marken	B-LOC	-	-
+8	D-marken	O	-	-
 9	skal	O	-	-
 10	overtages	O	-	-
 11	af	O	-	-
@@ -2775,7 +2775,7 @@
 4	på	O	-	-
 5	Ny	B-ORG	-	-
 6	Holte	I-ORG	-	-
-7	skole	I-ORG	-	-
+7	skole	O	-	-
 8	meget	O	-	-
 9	kreativt	O	-	-
 10	orienteret	O	-	-
@@ -2849,7 +2849,7 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-ORG	-	-
+9	Altans	B-PER	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
@@ -2902,7 +2902,7 @@
 4	.	O	-	-
 
 1	-	O	-	-
-2	Vagga	O	-	-
+2	Vagga	B-PER	-	-
 3	,	O	-	-
 4	mumlede	O	-	-
 5	han	O	-	-
@@ -3187,7 +3187,7 @@
 5	opvarmet	O	-	-
 6	pøl	O	-	-
 7	og	O	-	-
-8	Volvo	B-MISC	-	-
+8	Volvo	B-ORG	-	-
 9	.	O	-	-
 
 1	Udstyrsmæssigt	O	-	-
@@ -3250,7 +3250,7 @@
 
 1	Foto	O	-	-
 2	:	O	-	-
-3	WINNIFRED	O	-	-
+3	WINNIFRED	B-PER	-	-
 
 1	Børnenes	O	-	-
 2	forskellige	O	-	-
@@ -3428,7 +3428,7 @@
 3	det	O	-	-
 4	jo	O	-	-
 5	ikke	O	-	-
-6	Justitsministeriets	O	-	-
+6	Justitsministeriets	B-ORG	-	-
 7	embedsmænd	O	-	-
 8	,	O	-	-
 9	der	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	B-MISC	-	-
+1	Hash	O	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3497,7 +3497,7 @@
 4	som	O	-	-
 5	Nature	B-ORG	-	-
 6	eller	O	-	-
-7	Science	I-ORG	-	-
+7	Science	B-ORG	-	-
 8	optages	O	-	-
 9	kun	O	-	-
 10	artikler	O	-	-
@@ -3935,7 +3935,7 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	O	-	-
+1	LILLE	B-PER	-	-
 2	PALLE	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
@@ -3967,7 +3967,7 @@
 30	hædret	O	-	-
 31	med	O	-	-
 32	Bakkens	B-MISC	-	-
-33	Oscar	I-MISC	-	-
+33	Oscar	B-MISC	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
@@ -4691,7 +4691,7 @@
 4	besøgende	O	-	-
 5	ved	O	-	-
 6	sidste	O	-	-
-7	MikroData	B-MISC	-	-
+7	MikroData	O	-	-
 8	for	O	-	-
 9	to	O	-	-
 10	år	O	-	-
@@ -4952,13 +4952,13 @@
 22	rummeligheds-giganter	O	-	-
 23	som	O	-	-
 24	Citroen	B-ORG	-	-
-25	XM	I-MISC	-	-
+25	XM	I-ORG	-	-
 26	,	O	-	-
 27	Opel	B-ORG	-	-
-28	Omega	I-MISC	-	-
+28	Omega	I-ORG	-	-
 29	og	O	-	-
 30	Peugeot	B-ORG	-	-
-31	605	I-MISC	-	-
+31	605	I-ORG	-	-
 32	.	O	-	-
 
 1	Men	O	-	-
@@ -5126,7 +5126,7 @@
 3	har	O	-	-
 4	leget	O	-	-
 5	med	O	-	-
-6	Vagga	B-ORG	-	-
+6	Vagga	B-MISC	-	-
 7	hele	O	-	-
 8	eftermiddagen	O	-	-
 9	.	O	-	-
@@ -5217,7 +5217,7 @@
 
 1	ABBA	B-MISC	-	-
 2	"	O	-	-
-3	Gold	I-MISC	-	-
+3	Gold	B-MISC	-	-
 4	"	O	-	-
 5	har	O	-	-
 6	været	O	-	-
@@ -5232,7 +5232,7 @@
 15	andre	O	-	-
 16	"	O	-	-
 17	greatest	O	-	-
-18	hits	I-MISC	-	-
+18	hits	O	-	-
 19	"	O	-	-
 20	bliver	O	-	-
 21	det	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	O	-	-
+21	Chaussé	B-LOC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -6015,7 +6015,7 @@
 23	søge	O	-	-
 24	specialviden	O	-	-
 25	om	O	-	-
-26	AIDS	B-MISC	-	-
+26	AIDS	O	-	-
 27	andre	O	-	-
 28	steder	O	-	-
 29	,	O	-	-
@@ -6144,7 +6144,7 @@
 27	gifttønderne	O	-	-
 28	for	O	-	-
 29	500	O	-	-
-30	naira	O	-	-
+30	naira	B-MISC	-	-
 31	(	O	-	-
 32	650	O	-	-
 33	kr.	O	-	-
@@ -6678,7 +6678,7 @@
 2	var	O	-	-
 3	grufulde	O	-	-
 4	i	O	-	-
-5	DDRs	B-ORG	-	-
+5	DDRs	B-LOC	-	-
 6	eneste	O	-	-
 7	lukkede	O	-	-
 8	børnefængsel	O	-	-
@@ -6994,7 +6994,7 @@
 4	mill.	O	-	-
 5	franc	O	-	-
 6	reddede	O	-	-
-7	Valenciennes	B-LOC	-	-
+7	Valenciennes	B-ORG	-	-
 8	fra	O	-	-
 9	konkurs	O	-	-
 10	.	O	-	-
@@ -7434,7 +7434,7 @@
 32	piller	O	-	-
 33	.	O	-	-
 
-1	Bucks	B-PER	-	-
+1	Bucks	B-ORG	-	-
 2	bed	O	-	-
 3	ham	O	-	-
 4	hurtigt	O	-	-
@@ -7599,7 +7599,7 @@
 1	Ved	O	-	-
 2	VM	B-MISC	-	-
 3	i	O	-	-
-4	Mexico	I-LOC	-	-
+4	Mexico	B-LOC	-	-
 5	scorede	O	-	-
 6	han	O	-	-
 7	to	O	-	-
@@ -7663,7 +7663,7 @@
 28	"	O	-	-
 29	og	O	-	-
 30	"	O	-	-
-31	DUPLO	B-MISC	-	-
+31	DUPLO	B-ORG	-	-
 32	legetøj	I-MISC	-	-
 33	"	O	-	-
 34	.	O	-	-
@@ -8254,7 +8254,7 @@
 2	anden	O	-	-
 3	bane	O	-	-
 4	,	O	-	-
-5	Ørestadsbanen	B-MISC	-	-
+5	Ørestadsbanen	B-LOC	-	-
 6	,	O	-	-
 7	skal	O	-	-
 8	gå	O	-	-
@@ -8276,7 +8276,7 @@
 5	ny	O	-	-
 6	teori	O	-	-
 7	i	O	-	-
-8	Propagandaministeriet	B-ORG	-	-
+8	Propagandaministeriet	O	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	gik	O	-	-
@@ -8388,7 +8388,7 @@
 35	boligydelse	O	-	-
 36	.	O	-	-
 
-1	Rom	B-LOC	-	-
+1	Rom	O	-	-
 2	blev	O	-	-
 3	ikke	O	-	-
 4	bygget	O	-	-
@@ -8449,8 +8449,8 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	O	-	-
-5	legetøj	O	-	-
+4	DUPLO	B-ORG	-	-
+5	legetøj	I-ORG	-	-
 6	"	O	-	-
 
 1	Deres	O	-	-
@@ -8465,8 +8465,8 @@
 10	bøfdrenge	O	-	-
 11	Sylvester	B-PER	-	-
 12	"	O	-	-
-13	Rambo	I-PER	-	-
-14	"	I-PER	-	-
+13	Rambo	B-PER	-	-
+14	"	O	-	-
 15	Stallone	I-PER	-	-
 16	og	O	-	-
 17	Arnold	B-PER	-	-
@@ -8698,7 +8698,7 @@
 1	Blyindholdet	O	-	-
 2	i	O	-	-
 3	98	O	-	-
-4	oktan	O	-	-
+4	oktan	I-MISC	-	-
 5	blyholdig	O	-	-
 6	benzin	O	-	-
 7	har	O	-	-
@@ -9087,7 +9087,7 @@
 1	I	O	-	-
 2	1972	O	-	-
 3	fik	O	-	-
-4	Skjern	B-LOC	-	-
+4	Skjern	B-ORG	-	-
 5	sit	O	-	-
 6	første	O	-	-
 7	værtshus	O	-	-
@@ -9206,7 +9206,7 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	B-PER	-	-
+3	Super-Pedersen	O	-	-
 4	sig	O	-	-
 5	over	O	-	-
 6	Nettos	B-PER	-	-
@@ -9281,14 +9281,14 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-ORG	-	-
+11	DR-Dokumentar	O	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
 15	sønderlemmende	O	-	-
 16	kritik	O	-	-
 17	af	O	-	-
-18	Frederikshavns	B-ORG	-	-
+18	Frederikshavns	B-LOC	-	-
 19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-

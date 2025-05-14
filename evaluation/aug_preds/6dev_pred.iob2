@@ -92,9 +92,9 @@
 2	den	O	-	-
 3	orangegule	O	-	-
 4	norske	O	-	-
-5	Fanta	O	-	-
+5	Fanta	B-MISC	-	-
 6	,	O	-	-
-7	Solus	B-PER	-	-
+7	Solus	B-MISC	-	-
 8	,	O	-	-
 9	kan	O	-	-
 10	holde	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	O	-	-
+6	Pio-episoden	B-MISC	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -887,7 +887,7 @@
 
 1	Man	O	-	-
 2	indsprøjter	O	-	-
-3	VIP	O	-	-
+3	VIP	B-MISC	-	-
 4	i	O	-	-
 5	penis	O	-	-
 6	kort	O	-	-
@@ -2442,7 +2442,7 @@
 13	5-årig	O	-	-
 14	periode	O	-	-
 15	undersøge	O	-	-
-16	Østersøens	B-LOC	-	-
+16	Østersøens	O	-	-
 17	miljø	O	-	-
 18	.	O	-	-
 
@@ -2553,7 +2553,7 @@
 5	meningen	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	D-marken	B-LOC	-	-
+8	D-marken	O	-	-
 9	skal	O	-	-
 10	overtages	O	-	-
 11	af	O	-	-
@@ -2775,7 +2775,7 @@
 4	på	O	-	-
 5	Ny	B-ORG	-	-
 6	Holte	I-ORG	-	-
-7	skole	I-ORG	-	-
+7	skole	O	-	-
 8	meget	O	-	-
 9	kreativt	O	-	-
 10	orienteret	O	-	-
@@ -2849,7 +2849,7 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-ORG	-	-
+9	Altans	B-PER	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
@@ -2902,7 +2902,7 @@
 4	.	O	-	-
 
 1	-	O	-	-
-2	Vagga	O	-	-
+2	Vagga	B-PER	-	-
 3	,	O	-	-
 4	mumlede	O	-	-
 5	han	O	-	-
@@ -3100,7 +3100,7 @@
 32	nær	O	-	-
 33	ved	O	-	-
 34	mod	O	-	-
-35	Grubba	B-PER	-	-
+35	Grubba	B-ORG	-	-
 36	og	O	-	-
 37	bagefter	O	-	-
 38	også	O	-	-
@@ -3428,7 +3428,7 @@
 3	det	O	-	-
 4	jo	O	-	-
 5	ikke	O	-	-
-6	Justitsministeriets	O	-	-
+6	Justitsministeriets	B-ORG	-	-
 7	embedsmænd	O	-	-
 8	,	O	-	-
 9	der	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	B-MISC	-	-
+1	Hash	O	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3597,7 +3597,7 @@
 19	.	O	-	-
 
 1	"	O	-	-
-2	Hash	B-MISC	-	-
+2	Hash	O	-	-
 3	er	O	-	-
 4	også	O	-	-
 5	narkotika	O	-	-
@@ -3935,8 +3935,8 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	O	-	-
-2	PALLE	O	-	-
+1	LILLE	B-PER	-	-
+2	PALLE	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
 5	,	O	-	-
@@ -3967,7 +3967,7 @@
 30	hædret	O	-	-
 31	med	O	-	-
 32	Bakkens	B-MISC	-	-
-33	Oscar	I-MISC	-	-
+33	Oscar	B-MISC	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
@@ -4208,7 +4208,7 @@
 2	prismæssigt	O	-	-
 3	ligger	O	-	-
 4	Seat	B-ORG	-	-
-5	Toledo	I-ORG	-	-
+5	Toledo	I-MISC	-	-
 6	også	O	-	-
 7	pænt	O	-	-
 8	i	O	-	-
@@ -4691,7 +4691,7 @@
 4	besøgende	O	-	-
 5	ved	O	-	-
 6	sidste	O	-	-
-7	MikroData	B-ORG	-	-
+7	MikroData	O	-	-
 8	for	O	-	-
 9	to	O	-	-
 10	år	O	-	-
@@ -4802,7 +4802,7 @@
 6	om	O	-	-
 7	Justitsministeriets	O	-	-
 8	og	O	-	-
-9	Rigspolitiets	O	-	-
+9	Rigspolitiets	B-ORG	-	-
 10	manglende	O	-	-
 11	respekt	O	-	-
 12	for	O	-	-
@@ -4954,10 +4954,10 @@
 24	Citroen	B-MISC	-	-
 25	XM	I-MISC	-	-
 26	,	O	-	-
-27	Opel	B-MISC	-	-
+27	Opel	B-ORG	-	-
 28	Omega	I-MISC	-	-
 29	og	O	-	-
-30	Peugeot	B-MISC	-	-
+30	Peugeot	B-ORG	-	-
 31	605	I-MISC	-	-
 32	.	O	-	-
 
@@ -5344,7 +5344,7 @@
 32	hverdags-biler	O	-	-
 33	.	O	-	-
 
-1	F.P.Jac	B-PER	-	-
+1	F.P.Jac	B-ORG	-	-
 2	er	O	-	-
 3	sprunget	O	-	-
 4	fra	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	B-MISC	-	-
+21	Chaussé	B-LOC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -6334,7 +6334,7 @@
 
 1	(	O	-	-
 2	Den	O	-	-
-3	sovjetiske	I-ORG	-	-
+3	sovjetiske	O	-	-
 4	folkekongres	O	-	-
 5	har	O	-	-
 6	i	O	-	-
@@ -6678,7 +6678,7 @@
 2	var	O	-	-
 3	grufulde	O	-	-
 4	i	O	-	-
-5	DDRs	B-ORG	-	-
+5	DDRs	B-LOC	-	-
 6	eneste	O	-	-
 7	lukkede	O	-	-
 8	børnefængsel	O	-	-
@@ -7069,7 +7069,7 @@
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
 10	McClardÁs	B-LOC	-	-
-11	Bar-B-Que	B-ORG	-	-
+11	Bar-B-Que	I-LOC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	den	O	-	-
@@ -7373,7 +7373,7 @@
 37	og	O	-	-
 38	vandt	O	-	-
 39	over	O	-	-
-40	Appelgren	B-PER	-	-
+40	Appelgren	B-ORG	-	-
 41	med	O	-	-
 42	21-15	O	-	-
 43	,	O	-	-
@@ -8264,7 +8264,7 @@
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
-15	universitet	O	-	-
+15	universitet	B-LOC	-	-
 16	til	O	-	-
 17	Tårnby	B-LOC	-	-
 18	.	O	-	-
@@ -8276,7 +8276,7 @@
 5	ny	O	-	-
 6	teori	O	-	-
 7	i	O	-	-
-8	Propagandaministeriet	B-ORG	-	-
+8	Propagandaministeriet	O	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	gik	O	-	-
@@ -8388,7 +8388,7 @@
 35	boligydelse	O	-	-
 36	.	O	-	-
 
-1	Rom	B-LOC	-	-
+1	Rom	O	-	-
 2	blev	O	-	-
 3	ikke	O	-	-
 4	bygget	O	-	-
@@ -8449,7 +8449,7 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	B-MISC	-	-
+4	DUPLO	B-ORG	-	-
 5	legetøj	O	-	-
 6	"	O	-	-
 
@@ -8465,8 +8465,8 @@
 10	bøfdrenge	O	-	-
 11	Sylvester	B-PER	-	-
 12	"	O	-	-
-13	Rambo	I-PER	-	-
-14	"	O	-	-
+13	Rambo	B-PER	-	-
+14	"	I-PER	-	-
 15	Stallone	I-PER	-	-
 16	og	O	-	-
 17	Arnold	B-PER	-	-
@@ -9087,7 +9087,7 @@
 1	I	O	-	-
 2	1972	O	-	-
 3	fik	O	-	-
-4	Skjern	B-LOC	-	-
+4	Skjern	B-ORG	-	-
 5	sit	O	-	-
 6	første	O	-	-
 7	værtshus	O	-	-
@@ -9206,10 +9206,10 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	B-ORG	-	-
+3	Super-Pedersen	O	-	-
 4	sig	O	-	-
 5	over	O	-	-
-6	Nettos	B-PER	-	-
+6	Nettos	B-ORG	-	-
 7	priser	O	-	-
 
 1	"	O	-	-
@@ -9281,7 +9281,7 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-ORG	-	-
+11	DR-Dokumentar	O	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
@@ -9414,7 +9414,7 @@
 8	og	O	-	-
 9	her	O	-	-
 10	triumferede	O	-	-
-11	Ariostea	B-PER	-	-
+11	Ariostea	B-ORG	-	-
 12	med	O	-	-
 13	sejr	O	-	-
 14	i	O	-	-
@@ -9673,7 +9673,7 @@
 2	Vi	O	-	-
 3	ses	O	-	-
 4	i	O	-	-
-5	Helvede	O	-	-
+5	Helvede	B-LOC	-	-
 6	!	O	-	-
 7	"	O	-	-
 8	svarede	O	-	-

@@ -109,8 +109,8 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-ORG	-	-
-7	Hvile	I-ORG	-	-
+6	Bakkens	B-MISC	-	-
+7	Hvile	I-MISC	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -616,7 +616,7 @@
 34	lønforhøjelse	O	-	-
 35	.	O	-	-
 
-1	Omantel	O	-	-
+1	Omantel	B-ORG	-	-
 2	har	O	-	-
 3	en	O	-	-
 4	særlig	O	-	-
@@ -707,7 +707,7 @@
 8	kroner	O	-	-
 9	.	O	-	-
 
-1	Saidal	B-PER	-	-
+1	Saidal	B-LOC	-	-
 2	:	O	-	-
 
 1	"	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	O	-	-
+6	Pio-episoden	B-MISC	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -1030,7 +1030,7 @@
 13	i	O	-	-
 14	en	O	-	-
 15	række	O	-	-
-16	Ma’aden	B-LOC	-	-
+16	Ma’aden	B-ORG	-	-
 17	og	O	-	-
 18	OBS-butikker	O	-	-
 19	,	O	-	-
@@ -1312,7 +1312,7 @@
 23	bord	O	-	-
 24	lettede	O	-	-
 25	fra	O	-	-
-26	Kuhdasht	B-LOC	-	-
+26	Kuhdasht	B-ORG	-	-
 27	Zain	I-ORG	-	-
 28	Group	I-ORG	-	-
 29	.	O	-	-
@@ -1795,8 +1795,8 @@
 19	og	O	-	-
 20	Nilesat	B-LOC	-	-
 21	i	O	-	-
-22	Qatar	B-LOC	-	-
-23	Fuel	I-LOC	-	-
+22	Qatar	B-ORG	-	-
+23	Fuel	I-ORG	-	-
 24	.	O	-	-
 
 1	De	O	-	-
@@ -2319,7 +2319,7 @@
 4	man	O	-	-
 5	påvirke	O	-	-
 6	et	O	-	-
-7	Nusaybin	O	-	-
+7	Nusaybin	B-LOC	-	-
 8	lukkede	O	-	-
 9	system	O	-	-
 10	?	O	-	-
@@ -2902,7 +2902,7 @@
 4	.	O	-	-
 
 1	-	O	-	-
-2	Vagga	B-PER	-	-
+2	Vagga	O	-	-
 3	,	O	-	-
 4	mumlede	O	-	-
 5	han	O	-	-
@@ -3428,7 +3428,7 @@
 3	det	O	-	-
 4	jo	O	-	-
 5	ikke	O	-	-
-6	Bimo	O	-	-
+6	Bimo	B-ORG	-	-
 7	embedsmænd	O	-	-
 8	,	O	-	-
 9	der	O	-	-
@@ -3801,7 +3801,7 @@
 27	efter	O	-	-
 28	fejltagelsen	O	-	-
 29	med	O	-	-
-30	Iqraa	B-LOC	-	-
+30	Iqraa	B-ORG	-	-
 31	.	O	-	-
 
 1	Han	O	-	-
@@ -3967,7 +3967,7 @@
 30	hædret	O	-	-
 31	med	O	-	-
 32	Batelco	B-MISC	-	-
-33	Oscar	I-MISC	-	-
+33	Oscar	O	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
@@ -4051,7 +4051,7 @@
 
 1	-	O	-	-
 2	På	O	-	-
-3	Al-Tijari	B-ORG	-	-
+3	Al-Tijari	B-LOC	-	-
 4	var	O	-	-
 5	man	O	-	-
 6	selvfølgelig	O	-	-
@@ -4601,7 +4601,7 @@
 
 1	Guvernøren	O	-	-
 2	for	O	-	-
-3	Çanakkale	O	-	-
+3	Çanakkale	B-LOC	-	-
 4	,	O	-	-
 5	Nail	B-PER	-	-
 6	Oreibi	I-PER	-	-
@@ -4952,13 +4952,13 @@
 22	rummeligheds-giganter	O	-	-
 23	som	O	-	-
 24	Citroen	B-ORG	-	-
-25	XM	I-ORG	-	-
+25	XM	I-MISC	-	-
 26	,	O	-	-
 27	Opel	B-ORG	-	-
-28	Omega	I-ORG	-	-
+28	Omega	I-MISC	-	-
 29	og	O	-	-
 30	Peugeot	B-ORG	-	-
-31	605	I-ORG	-	-
+31	605	I-MISC	-	-
 32	.	O	-	-
 
 1	Men	O	-	-
@@ -5035,7 +5035,7 @@
 3	valget	O	-	-
 4	,	O	-	-
 5	vil	O	-	-
-6	Uzma	B-ORG	-	-
+6	Uzma	B-PER	-	-
 7	være	O	-	-
 8	i	O	-	-
 9	en	O	-	-
@@ -5086,7 +5086,7 @@
 4	i	O	-	-
 5	Al-Ouruba	B-ORG	-	-
 6	,	O	-	-
-7	Ödemiş	B-LOC	-	-
+7	Ödemiş	B-ORG	-	-
 8	smarteste	O	-	-
 9	modeforretning	O	-	-
 10	.	O	-	-
@@ -5215,7 +5215,7 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	Nakilat	B-MISC	-	-
+1	Nakilat	B-PER	-	-
 2	"	O	-	-
 3	Gold	B-MISC	-	-
 4	"	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	O	-	-
+21	Chaussé	B-LOC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -6497,7 +6497,7 @@
 2	impotens	O	-	-
 
 1	Islam	B-PER	-	-
-2	Al nawasir	I-ORG	-	-
+2	Al nawasir	I-PER	-	-
 3	12-årige	O	-	-
 4	søn	O	-	-
 5	Taghrid	B-PER	-	-
@@ -6748,7 +6748,7 @@
 2	hentydede	O	-	-
 3	formentlig	O	-	-
 4	til	O	-	-
-5	Daraa	B-LOC	-	-
+5	Daraa	B-PER	-	-
 6	særlige	O	-	-
 7	problem	O	-	-
 8	med	O	-	-
@@ -7068,8 +7068,8 @@
 7	over	O	-	-
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
-10	beIN	B-MISC	-	-
-11	SPORTS	I-MISC	-	-
+10	beIN	B-ORG	-	-
+11	SPORTS	I-ORG	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	den	O	-	-
@@ -7373,7 +7373,7 @@
 37	og	O	-	-
 38	vandt	O	-	-
 39	over	O	-	-
-40	Matin	B-PER	-	-
+40	Matin	B-ORG	-	-
 41	med	O	-	-
 42	21-15	O	-	-
 43	,	O	-	-
@@ -7560,7 +7560,7 @@
 21	forbi	O	-	-
 22	vagterne	O	-	-
 23	foran	O	-	-
-24	Amira	B-PER	-	-
+24	Amira	B-LOC	-	-
 25	,	O	-	-
 26	som	O	-	-
 27	brutalt	O	-	-
@@ -7610,7 +7610,7 @@
 12	i	O	-	-
 13	bronzekampen	O	-	-
 14	mod	O	-	-
-15	Kahramaa	B-LOC	-	-
+15	Kahramaa	B-ORG	-	-
 16	.	O	-	-
 
 1	Ifølge	O	-	-
@@ -7658,7 +7658,7 @@
 23	Ugens	B-MISC	-	-
 24	Overraskelse	I-MISC	-	-
 25	-	I-MISC	-	-
-26	uge	I-MISC	-	-
+26	uge	O	-	-
 27	47	I-MISC	-	-
 28	"	O	-	-
 29	og	O	-	-
@@ -8254,7 +8254,7 @@
 2	anden	O	-	-
 3	bane	O	-	-
 4	,	O	-	-
-5	Ørestadsbanen	B-MISC	-	-
+5	Ørestadsbanen	B-LOC	-	-
 6	,	O	-	-
 7	skal	O	-	-
 8	gå	O	-	-
@@ -8264,7 +8264,7 @@
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
-15	universitet	O	-	-
+15	universitet	B-LOC	-	-
 16	til	O	-	-
 17	Turhal	B-LOC	-	-
 18	.	O	-	-
@@ -8276,7 +8276,7 @@
 5	ny	O	-	-
 6	teori	O	-	-
 7	i	O	-	-
-8	Propagandaministeriet	B-ORG	-	-
+8	Propagandaministeriet	O	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	gik	O	-	-
@@ -8450,7 +8450,7 @@
 2	kuverten	O	-	-
 3	"	O	-	-
 4	Aiguebelle	B-MISC	-	-
-5	legetøj	O	-	-
+5	legetøj	I-MISC	-	-
 6	"	O	-	-
 
 1	Deres	O	-	-
@@ -8589,7 +8589,7 @@
 2	veje	O	-	-
 3	fører	O	-	-
 4	til	O	-	-
-5	Malayer	B-MISC	-	-
+5	Malayer	B-LOC	-	-
 6	.	O	-	-
 
 1	"	O	-	-
@@ -8698,7 +8698,7 @@
 1	Blyindholdet	O	-	-
 2	i	O	-	-
 3	98	O	-	-
-4	oktan	O	-	-
+4	oktan	I-MISC	-	-
 5	blyholdig	O	-	-
 6	benzin	O	-	-
 7	har	O	-	-
@@ -9281,7 +9281,7 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	O	-	-
+11	DR-Dokumentar	B-ORG	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
@@ -10019,7 +10019,7 @@
 16	Sharq	I-ORG	-	-
 17	.	O	-	-
 
-1	JoSat	B-ORG	-	-
+1	JoSat	B-PER	-	-
 2	rolle	O	-	-
 3	er	O	-	-
 4	i	O	-	-

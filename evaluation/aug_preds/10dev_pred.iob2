@@ -92,7 +92,7 @@
 2	den	O	-	-
 3	orangegule	O	-	-
 4	norske	O	-	-
-5	Fanta	O	-	-
+5	Fanta	B-MISC	-	-
 6	,	O	-	-
 7	Solus	B-MISC	-	-
 8	,	O	-	-
@@ -464,7 +464,7 @@
 1	Intet	O	-	-
 2	gennembrud	O	-	-
 3	for	O	-	-
-4	Nutrio	B-PER	-	-
+4	Nutrio	B-ORG	-	-
 
 1	Frankrigs	B-LOC	-	-
 2	daværende	O	-	-
@@ -616,7 +616,7 @@
 34	lønforhøjelse	O	-	-
 35	.	O	-	-
 
-1	Fielfraz	B-PER	-	-
+1	Fielfraz	O	-	-
 2	har	O	-	-
 3	en	O	-	-
 4	særlig	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	O	-	-
+6	Pio-episoden	B-MISC	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -1198,7 +1198,7 @@
 11	nord	O	-	-
 12	for	O	-	-
 13	Bella	B-ORG	-	-
-14	Centret	I-LOC	-	-
+14	Centret	I-ORG	-	-
 15	,	O	-	-
 16	hvor	O	-	-
 17	i	O	-	-
@@ -1313,7 +1313,7 @@
 24	lettede	O	-	-
 25	fra	O	-	-
 26	Amsterdams	B-LOC	-	-
-27	Schiphol	B-LOC	-	-
+27	Schiphol	I-LOC	-	-
 28	lufthavn	O	-	-
 29	.	O	-	-
 
@@ -1424,7 +1424,7 @@
 
 1	-	O	-	-
 2	75	O	-	-
-3	øre	O	-	-
+3	øre	B-MISC	-	-
 4	.	O	-	-
 
 1	På	O	-	-
@@ -1795,8 +1795,8 @@
 19	og	O	-	-
 20	MikroData	B-ORG	-	-
 21	i	O	-	-
-22	Bella	B-ORG	-	-
-23	Center	I-ORG	-	-
+22	Bella	B-LOC	-	-
+23	Center	I-LOC	-	-
 24	.	O	-	-
 
 1	De	O	-	-
@@ -1895,7 +1895,7 @@
 4	jeg	O	-	-
 5	fodboldlærling	O	-	-
 6	i	O	-	-
-7	Arsenal	B-LOC	-	-
+7	Arsenal	B-ORG	-	-
 8	,	O	-	-
 9	og	O	-	-
 10	så	O	-	-
@@ -2442,7 +2442,7 @@
 13	5-årig	O	-	-
 14	periode	O	-	-
 15	undersøge	O	-	-
-16	Østersøens	O	-	-
+16	Østersøens	B-LOC	-	-
 17	miljø	O	-	-
 18	.	O	-	-
 
@@ -2513,7 +2513,7 @@
 5	sine	O	-	-
 6	færdigheder	O	-	-
 7	før	O	-	-
-8	DM-finalen	B-MISC	-	-
+8	DM-finalen	O	-	-
 9	i	O	-	-
 10	Middelfart	B-LOC	-	-
 11	,	O	-	-
@@ -2553,7 +2553,7 @@
 5	meningen	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	D-marken	B-MISC	-	-
+8	D-marken	O	-	-
 9	skal	O	-	-
 10	overtages	O	-	-
 11	af	O	-	-
@@ -2698,7 +2698,7 @@
 
 1	Det	O	-	-
 2	tyske	O	-	-
-3	Transall	O	-	-
+3	Transall	B-MISC	-	-
 4	fly	O	-	-
 5	taxier	O	-	-
 6	ind	O	-	-
@@ -2775,7 +2775,7 @@
 4	på	O	-	-
 5	Ny	B-ORG	-	-
 6	Holte	I-ORG	-	-
-7	skole	I-ORG	-	-
+7	skole	O	-	-
 8	meget	O	-	-
 9	kreativt	O	-	-
 10	orienteret	O	-	-
@@ -3107,7 +3107,7 @@
 39	tog	O	-	-
 40	sæt	O	-	-
 41	fra	O	-	-
-42	Appelgren	B-ORG	-	-
+42	Appelgren	B-PER	-	-
 43	og	O	-	-
 44	viste	O	-	-
 45	noget	O	-	-
@@ -3149,7 +3149,7 @@
 16	hos	O	-	-
 17	det	O	-	-
 18	private	O	-	-
-19	Unitron-team	O	-	-
+19	Unitron-team	B-ORG	-	-
 20	,	O	-	-
 21	hvor	O	-	-
 22	han	O	-	-
@@ -3495,7 +3495,7 @@
 2	et	O	-	-
 3	tidsskrift	O	-	-
 4	som	O	-	-
-5	Nature	B-ORG	-	-
+5	Nature	B-MISC	-	-
 6	eller	O	-	-
 7	Science	B-MISC	-	-
 8	optages	O	-	-
@@ -3597,7 +3597,7 @@
 19	.	O	-	-
 
 1	"	O	-	-
-2	Hash	O	-	-
+2	Hash	B-MISC	-	-
 3	er	O	-	-
 4	også	O	-	-
 5	narkotika	O	-	-
@@ -3935,10 +3935,10 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	O	-	-
-2	PALLE	O	-	-
+1	LILLE	B-PER	-	-
+2	PALLE	B-PER	-	-
 3	,	O	-	-
-4	t.h.	B-ORG	-	-
+4	t.h.	O	-	-
 5	,	O	-	-
 6	som	O	-	-
 7	har	O	-	-
@@ -3967,13 +3967,13 @@
 30	hædret	O	-	-
 31	med	O	-	-
 32	Bakkens	B-MISC	-	-
-33	Oscar	B-MISC	-	-
+33	Oscar	I-MISC	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
 37	og	O	-	-
 38	fornemt	O	-	-
-39	Bjørn-Wiinblad-fad	O	-	-
+39	Bjørn-Wiinblad-fad	B-PER	-	-
 40	.	O	-	-
 
 1	Det	O	-	-
@@ -4051,7 +4051,7 @@
 
 1	-	O	-	-
 2	På	O	-	-
-3	Fønix	B-LOC	-	-
+3	Fønix	B-MISC	-	-
 4	var	O	-	-
 5	man	O	-	-
 6	selvfølgelig	O	-	-
@@ -4691,7 +4691,7 @@
 4	besøgende	O	-	-
 5	ved	O	-	-
 6	sidste	O	-	-
-7	MikroData	B-MISC	-	-
+7	MikroData	O	-	-
 8	for	O	-	-
 9	to	O	-	-
 10	år	O	-	-
@@ -5215,9 +5215,9 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	ABBA	B-MISC	-	-
+1	ABBA	B-ORG	-	-
 2	"	O	-	-
-3	Gold	I-MISC	-	-
+3	Gold	B-MISC	-	-
 4	"	O	-	-
 5	har	O	-	-
 6	været	O	-	-
@@ -5490,8 +5490,8 @@
 2	om	O	-	-
 3	Seat	B-MISC	-	-
 4	Toledo	I-MISC	-	-
-5	2,0	O	-	-
-6	GLX	O	-	-
+5	2,0	I-MISC	-	-
+6	GLX	I-MISC	-	-
 7	OPBYGNING	O	-	-
 8	:	O	-	-
 9	4/5-personers	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	O	-	-
+21	Chaussé	B-LOC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-LOC	-	-
+4	Majors	B-ORG	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -6144,7 +6144,7 @@
 27	gifttønderne	O	-	-
 28	for	O	-	-
 29	500	O	-	-
-30	naira	O	-	-
+30	naira	B-MISC	-	-
 31	(	O	-	-
 32	650	O	-	-
 33	kr.	O	-	-
@@ -7068,8 +7068,8 @@
 7	over	O	-	-
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
-10	McClardÁs	B-LOC	-	-
-11	Bar-B-Que	I-LOC	-	-
+10	McClardÁs	B-ORG	-	-
+11	Bar-B-Que	B-LOC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	den	O	-	-
@@ -7144,7 +7144,7 @@
 8	området	O	-	-
 9	syd	O	-	-
 10	for	O	-	-
-11	Bella	B-LOC	-	-
+11	Bella	B-ORG	-	-
 12	Centret	I-LOC	-	-
 13	,	O	-	-
 14	hvor	O	-	-
@@ -7373,7 +7373,7 @@
 37	og	O	-	-
 38	vandt	O	-	-
 39	over	O	-	-
-40	Appelgren	B-PER	-	-
+40	Appelgren	B-ORG	-	-
 41	med	O	-	-
 42	21-15	O	-	-
 43	,	O	-	-
@@ -7658,8 +7658,8 @@
 23	Ugens	B-MISC	-	-
 24	Overraskelse	I-MISC	-	-
 25	-	I-MISC	-	-
-26	uge	O	-	-
-27	47	O	-	-
+26	uge	I-MISC	-	-
+27	47	I-MISC	-	-
 28	"	O	-	-
 29	og	O	-	-
 30	"	O	-	-
@@ -8188,8 +8188,8 @@
 5	succes'en	O	-	-
 6	med	O	-	-
 7	"	O	-	-
-8	Gule	O	-	-
-9	handsker	O	-	-
+8	Gule	B-MISC	-	-
+9	handsker	I-MISC	-	-
 10	"	O	-	-
 11	,	O	-	-
 12	og	O	-	-
@@ -8264,7 +8264,7 @@
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
-15	universitet	O	-	-
+15	universitet	B-LOC	-	-
 16	til	O	-	-
 17	Tårnby	B-LOC	-	-
 18	.	O	-	-
@@ -8388,7 +8388,7 @@
 35	boligydelse	O	-	-
 36	.	O	-	-
 
-1	Rom	B-LOC	-	-
+1	Rom	O	-	-
 2	blev	O	-	-
 3	ikke	O	-	-
 4	bygget	O	-	-
@@ -8449,7 +8449,7 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	O	-	-
+4	DUPLO	B-MISC	-	-
 5	legetøj	O	-	-
 6	"	O	-	-
 
@@ -8466,7 +8466,7 @@
 11	Sylvester	B-PER	-	-
 12	"	O	-	-
 13	Rambo	B-PER	-	-
-14	"	O	-	-
+14	"	I-PER	-	-
 15	Stallone	I-PER	-	-
 16	og	O	-	-
 17	Arnold	B-PER	-	-
@@ -8697,8 +8697,8 @@
 
 1	Blyindholdet	O	-	-
 2	i	O	-	-
-3	98	O	-	-
-4	oktan	O	-	-
+3	98	B-MISC	-	-
+4	oktan	I-MISC	-	-
 5	blyholdig	O	-	-
 6	benzin	O	-	-
 7	har	O	-	-
@@ -9087,7 +9087,7 @@
 1	I	O	-	-
 2	1972	O	-	-
 3	fik	O	-	-
-4	Skjern	B-PER	-	-
+4	Skjern	B-LOC	-	-
 5	sit	O	-	-
 6	første	O	-	-
 7	værtshus	O	-	-
@@ -9209,7 +9209,7 @@
 3	Super-Pedersen	O	-	-
 4	sig	O	-	-
 5	over	O	-	-
-6	Nettos	B-PER	-	-
+6	Nettos	B-ORG	-	-
 7	priser	O	-	-
 
 1	"	O	-	-
@@ -9281,14 +9281,14 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-ORG	-	-
+11	DR-Dokumentar	O	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
 15	sønderlemmende	O	-	-
 16	kritik	O	-	-
 17	af	O	-	-
-18	Frederikshavns	B-ORG	-	-
+18	Frederikshavns	B-LOC	-	-
 19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-

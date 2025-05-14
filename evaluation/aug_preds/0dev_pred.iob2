@@ -8,8 +8,8 @@
 8	klorofyl-turister	O	-	-
 9	"	O	-	-
 10	er	O	-	-
-11	Robinson	B-PER	-	-
-12	Crusoe	I-PER	-	-
+11	Robinson	B-MISC	-	-
+12	Crusoe	I-MISC	-	-
 13	et	O	-	-
 14	paradis	O	-	-
 15	for	O	-	-
@@ -94,7 +94,7 @@
 4	norske	O	-	-
 5	Fanta	B-MISC	-	-
 6	,	O	-	-
-7	Solus	B-PER	-	-
+7	Solus	B-MISC	-	-
 8	,	O	-	-
 9	kan	O	-	-
 10	holde	O	-	-
@@ -109,8 +109,8 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-LOC	-	-
-7	Hvile	I-MISC	-	-
+6	Bakkens	B-ORG	-	-
+7	Hvile	I-ORG	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -399,7 +399,7 @@
 15	.	O	-	-
 
 1	Kun	O	-	-
-2	Ugemagasinet	B-ORG	-	-
+2	Ugemagasinet	O	-	-
 3	SØNDAG's	B-ORG	-	-
 4	læger	O	-	-
 5	må	O	-	-
@@ -506,7 +506,7 @@
 16	hoppede	O	-	-
 17	hen	O	-	-
 18	over	O	-	-
-19	Jorden	B-LOC	-	-
+19	Jorden	O	-	-
 
 1	Derfor	O	-	-
 2	er	O	-	-
@@ -1149,7 +1149,7 @@
 24	afskygninger	O	-	-
 25	.	O	-	-
 
-1	Scleroseforeningen	O	-	-
+1	Scleroseforeningen	B-ORG	-	-
 2	er	O	-	-
 3	opbygget	O	-	-
 4	således	O	-	-
@@ -1197,8 +1197,8 @@
 10	naturen	O	-	-
 11	nord	O	-	-
 12	for	O	-	-
-13	Bella	B-ORG	-	-
-14	Centret	I-ORG	-	-
+13	Bella	B-LOC	-	-
+14	Centret	I-LOC	-	-
 15	,	O	-	-
 16	hvor	O	-	-
 17	i	O	-	-
@@ -1378,7 +1378,7 @@
 5	bemærke	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	Liverpools	B-ORG	-	-
+8	Liverpools	B-LOC	-	-
 9	forsvar	O	-	-
 10	er	O	-	-
 11	blevet	O	-	-
@@ -2698,7 +2698,7 @@
 
 1	Det	O	-	-
 2	tyske	O	-	-
-3	Transall	O	-	-
+3	Transall	B-MISC	-	-
 4	fly	O	-	-
 5	taxier	O	-	-
 6	ind	O	-	-
@@ -2849,13 +2849,13 @@
 6	at	O	-	-
 7	skiftet	O	-	-
 8	fra	O	-	-
-9	Altans	B-MISC	-	-
+9	Altans	B-ORG	-	-
 10	lidt	O	-	-
 11	indadrettede	O	-	-
 12	musik	O	-	-
 13	til	O	-	-
 14	skotske	O	-	-
-15	Wolffstones	B-MISC	-	-
+15	Wolffstones	B-ORG	-	-
 16	var	O	-	-
 17	til	O	-	-
 18	at	O	-	-
@@ -3187,7 +3187,7 @@
 5	opvarmet	O	-	-
 6	pøl	O	-	-
 7	og	O	-	-
-8	Volvo	O	-	-
+8	Volvo	B-ORG	-	-
 9	.	O	-	-
 
 1	Udstyrsmæssigt	O	-	-
@@ -3202,7 +3202,7 @@
 1	PERSONALET	O	-	-
 2	i	O	-	-
 3	Werderscher	B-LOC	-	-
-4	Markt	I-ORG	-	-
+4	Markt	I-LOC	-	-
 5	myldrede	O	-	-
 6	ind	O	-	-
 7	i	O	-	-
@@ -3250,7 +3250,7 @@
 
 1	Foto	O	-	-
 2	:	O	-	-
-3	WINNIFRED	O	-	-
+3	WINNIFRED	B-ORG	-	-
 
 1	Børnenes	O	-	-
 2	forskellige	O	-	-
@@ -3944,7 +3944,7 @@
 7	har	O	-	-
 8	succes	O	-	-
 9	på	O	-	-
-10	Bakkens	B-MISC	-	-
+10	Bakkens	B-LOC	-	-
 11	friluftsscene	O	-	-
 12	,	O	-	-
 13	kom	O	-	-
@@ -3966,14 +3966,14 @@
 29	blev	O	-	-
 30	hædret	O	-	-
 31	med	O	-	-
-32	Bakkens	B-MISC	-	-
+32	Bakkens	B-ORG	-	-
 33	Oscar	I-MISC	-	-
 34	,	O	-	-
 35	et	O	-	-
 36	stort	O	-	-
 37	og	O	-	-
 38	fornemt	O	-	-
-39	Bjørn-Wiinblad-fad	B-PER	-	-
+39	Bjørn-Wiinblad-fad	B-MISC	-	-
 40	.	O	-	-
 
 1	Det	O	-	-
@@ -4051,7 +4051,7 @@
 
 1	-	O	-	-
 2	På	O	-	-
-3	Fønix	B-LOC	-	-
+3	Fønix	B-ORG	-	-
 4	var	O	-	-
 5	man	O	-	-
 6	selvfølgelig	O	-	-
@@ -4207,7 +4207,7 @@
 1	Og	O	-	-
 2	prismæssigt	O	-	-
 3	ligger	O	-	-
-4	Seat	B-ORG	-	-
+4	Seat	B-MISC	-	-
 5	Toledo	I-MISC	-	-
 6	også	O	-	-
 7	pænt	O	-	-
@@ -4361,7 +4361,7 @@
 5	i	O	-	-
 6	rejsegildet	O	-	-
 7	for	O	-	-
-8	Nørresø-kollegiet	B-ORG	-	-
+8	Nørresø-kollegiet	B-LOC	-	-
 9	.	O	-	-
 
 1	Jo	O	-	-
@@ -4601,7 +4601,7 @@
 
 1	Guvernøren	O	-	-
 2	for	O	-	-
-3	Erzincan-provinsen	B-LOC	-	-
+3	Erzincan-provinsen	O	-	-
 4	,	O	-	-
 5	Fikret	B-PER	-	-
 6	Cuhadaroglu	I-PER	-	-
@@ -4806,7 +4806,7 @@
 10	manglende	O	-	-
 11	respekt	O	-	-
 12	for	O	-	-
-13	Grundloven	O	-	-
+13	Grundloven	B-MISC	-	-
 14	.	O	-	-
 
 1	Sådan	O	-	-
@@ -4957,7 +4957,7 @@
 27	Opel	B-ORG	-	-
 28	Omega	I-MISC	-	-
 29	og	O	-	-
-30	Peugeot	B-MISC	-	-
+30	Peugeot	B-ORG	-	-
 31	605	I-MISC	-	-
 32	.	O	-	-
 
@@ -5126,7 +5126,7 @@
 3	har	O	-	-
 4	leget	O	-	-
 5	med	O	-	-
-6	Vagga	B-PER	-	-
+6	Vagga	B-MISC	-	-
 7	hele	O	-	-
 8	eftermiddagen	O	-	-
 9	.	O	-	-
@@ -5215,7 +5215,7 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	ABBA	B-ORG	-	-
+1	ABBA	B-MISC	-	-
 2	"	O	-	-
 3	Gold	B-MISC	-	-
 4	"	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-ORG	-	-
+4	Majors	B-PER	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -6994,7 +6994,7 @@
 4	mill.	O	-	-
 5	franc	O	-	-
 6	reddede	O	-	-
-7	Valenciennes	B-PER	-	-
+7	Valenciennes	B-ORG	-	-
 8	fra	O	-	-
 9	konkurs	O	-	-
 10	.	O	-	-
@@ -7404,13 +7404,13 @@
 2	af	O	-	-
 3	lægemidler	O	-	-
 4	som	O	-	-
-5	Kodimagnyl	B-MISC	-	-
+5	Kodimagnyl	B-ORG	-	-
 6	,	O	-	-
-7	Treo	B-MISC	-	-
+7	Treo	B-ORG	-	-
 8	,	O	-	-
-9	Panodil	B-MISC	-	-
+9	Panodil	B-ORG	-	-
 10	og	O	-	-
-11	Pamol	B-MISC	-	-
+11	Pamol	B-ORG	-	-
 12	er	O	-	-
 13	nu	O	-	-
 14	så	O	-	-
@@ -7597,7 +7597,7 @@
 1	t-boret20	O	-	-
 
 1	Ved	O	-	-
-2	VM	B-LOC	-	-
+2	VM	B-MISC	-	-
 3	i	O	-	-
 4	Mexico	B-LOC	-	-
 5	scorede	O	-	-
@@ -7658,7 +7658,7 @@
 23	Ugens	B-MISC	-	-
 24	Overraskelse	I-MISC	-	-
 25	-	I-MISC	-	-
-26	uge	O	-	-
+26	uge	I-MISC	-	-
 27	47	I-MISC	-	-
 28	"	O	-	-
 29	og	O	-	-
@@ -7685,7 +7685,7 @@
 15	tankvogn	O	-	-
 16	med	O	-	-
 17	giftstoffet	O	-	-
-18	acrylonitril	O	-	-
+18	acrylonitril	B-MISC	-	-
 19	sprang	O	-	-
 20	læk	O	-	-
 21	.	O	-	-
@@ -8254,7 +8254,7 @@
 2	anden	O	-	-
 3	bane	O	-	-
 4	,	O	-	-
-5	Ørestadsbanen	B-LOC	-	-
+5	Ørestadsbanen	B-MISC	-	-
 6	,	O	-	-
 7	skal	O	-	-
 8	gå	O	-	-
@@ -8264,7 +8264,7 @@
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
-15	universitet	O	-	-
+15	universitet	B-LOC	-	-
 16	til	O	-	-
 17	Tårnby	B-LOC	-	-
 18	.	O	-	-
@@ -8388,7 +8388,7 @@
 35	boligydelse	O	-	-
 36	.	O	-	-
 
-1	Rom	B-LOC	-	-
+1	Rom	O	-	-
 2	blev	O	-	-
 3	ikke	O	-	-
 4	bygget	O	-	-
@@ -8449,8 +8449,8 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	O	-	-
-5	legetøj	O	-	-
+4	DUPLO	B-MISC	-	-
+5	legetøj	I-MISC	-	-
 6	"	O	-	-
 
 1	Deres	O	-	-
@@ -8465,8 +8465,8 @@
 10	bøfdrenge	O	-	-
 11	Sylvester	B-PER	-	-
 12	"	O	-	-
-13	Rambo	B-PER	-	-
-14	"	I-PER	-	-
+13	Rambo	I-PER	-	-
+14	"	O	-	-
 15	Stallone	I-PER	-	-
 16	og	O	-	-
 17	Arnold	B-PER	-	-
@@ -8856,9 +8856,9 @@
 5	dristige	O	-	-
 6	film	O	-	-
 7	"	O	-	-
-8	9	O	-	-
-9	1/2	O	-	-
-10	uge	O	-	-
+8	9	B-MISC	-	-
+9	1/2	I-MISC	-	-
+10	uge	I-MISC	-	-
 11	"	O	-	-
 12	.	O	-	-
 
@@ -9206,10 +9206,10 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	B-PER	-	-
+3	Super-Pedersen	O	-	-
 4	sig	O	-	-
 5	over	O	-	-
-6	Nettos	B-PER	-	-
+6	Nettos	B-ORG	-	-
 7	priser	O	-	-
 
 1	"	O	-	-
@@ -9288,7 +9288,7 @@
 15	sønderlemmende	O	-	-
 16	kritik	O	-	-
 17	af	O	-	-
-18	Frederikshavns	B-LOC	-	-
+18	Frederikshavns	B-ORG	-	-
 19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-
@@ -9414,7 +9414,7 @@
 8	og	O	-	-
 9	her	O	-	-
 10	triumferede	O	-	-
-11	Ariostea	B-PER	-	-
+11	Ariostea	B-ORG	-	-
 12	med	O	-	-
 13	sejr	O	-	-
 14	i	O	-	-
