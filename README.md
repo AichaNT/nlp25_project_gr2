@@ -1,10 +1,10 @@
 # Generalizing Danish NER to Emerging and Linguistically Distant Named Entities
 
-A project investigating cultural bias in Danish NER models and exploring data augmentation strategies to improve performance on underrepresented entity types.
+A project investigating cultural bias in Danish NER models and exploring data augmentation strategies to improve performance on underrepresented entities.
 
 ## Description
 
-This project analyzes the ability of Danish NER models to generalize to named entities of Middle Eastern origin. We examine bias these models by comparing performance across test sets with emerging and culturally diverse entities. Through data augmentation, we aim to improve model robustness without degrading performance on danish data. We evaluated span-F1 scores across different setups and types of entities.
+This project analyzes the ability of Danish NER models to generalize to named entities of Middle Eastern origin. We examine bias these models by comparing performance across test sets with emerging and culturally diverse entities (RET SÆTNING). Through data augmentation, we aim to improve model robustness without degrading performance on danish data. We evaluated span-F1 scores across different setups and types of entities.
 
 ## Getting Started
 
