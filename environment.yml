@@ -1,4 +1,4 @@
-name: test
+name: nlp_exam
 channels:
   - defaults
 dependencies:
@@ -99,4 +99,4 @@ dependencies:
       - wcwidth==0.2.13
       - xxhash==3.5.0
       - yarl==1.20.0
-prefix: /Applications/anaconda3/envs/test
+prefix: /Applications/anaconda3/envs/nlp_exam
