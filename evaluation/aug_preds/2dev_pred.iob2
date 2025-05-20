@@ -8,8 +8,8 @@
 8	klorofyl-turister	O	-	-
 9	"	O	-	-
 10	er	O	-	-
-11	Robinson	B-PER	-	-
-12	Crusoe	I-PER	-	-
+11	Robinson	B-MISC	-	-
+12	Crusoe	I-MISC	-	-
 13	et	O	-	-
 14	paradis	O	-	-
 15	for	O	-	-
@@ -109,8 +109,8 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-LOC	-	-
-7	Hvile	I-LOC	-	-
+6	Bakkens	B-ORG	-	-
+7	Hvile	I-ORG	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -444,7 +444,7 @@
 10	godt	O	-	-
 11	.	O	-	-
 
-1	Faraos	B-PER	-	-
+1	Faraos	B-LOC	-	-
 2	skytsgud	O	-	-
 3	Honus	B-PER	-	-
 4	-	O	-	-
@@ -616,7 +616,7 @@
 34	lønforhøjelse	O	-	-
 35	.	O	-	-
 
-1	Fielfraz	B-PER	-	-
+1	Fielfraz	B-ORG	-	-
 2	har	O	-	-
 3	en	O	-	-
 4	særlig	O	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	O	-	-
+6	Pio-episoden	B-MISC	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -887,7 +887,7 @@
 
 1	Man	O	-	-
 2	indsprøjter	O	-	-
-3	VIP	O	-	-
+3	VIP	B-MISC	-	-
 4	i	O	-	-
 5	penis	O	-	-
 6	kort	O	-	-
@@ -911,7 +911,7 @@
 24	den	O	-	-
 25	indsprøjtede	O	-	-
 26	mængde	O	-	-
-27	VIP	O	-	-
+27	VIP	B-MISC	-	-
 28	.	O	-	-
 
 1	Tilskud	O	-	-
@@ -1313,7 +1313,7 @@
 24	lettede	O	-	-
 25	fra	O	-	-
 26	Amsterdams	B-LOC	-	-
-27	Schiphol	I-LOC	-	-
+27	Schiphol	B-LOC	-	-
 28	lufthavn	O	-	-
 29	.	O	-	-
 
@@ -1793,7 +1793,7 @@
 17	rådhuse	O	-	-
 18	-	O	-	-
 19	og	O	-	-
-20	MikroData	B-ORG	-	-
+20	MikroData	B-MISC	-	-
 21	i	O	-	-
 22	Bella	B-ORG	-	-
 23	Center	I-ORG	-	-
@@ -1895,7 +1895,7 @@
 4	jeg	O	-	-
 5	fodboldlærling	O	-	-
 6	i	O	-	-
-7	Arsenal	B-LOC	-	-
+7	Arsenal	B-ORG	-	-
 8	,	O	-	-
 9	og	O	-	-
 10	så	O	-	-
@@ -2442,7 +2442,7 @@
 13	5-årig	O	-	-
 14	periode	O	-	-
 15	undersøge	O	-	-
-16	Østersøens	B-LOC	-	-
+16	Østersøens	O	-	-
 17	miljø	O	-	-
 18	.	O	-	-
 
@@ -2513,7 +2513,7 @@
 5	sine	O	-	-
 6	færdigheder	O	-	-
 7	før	O	-	-
-8	DM-finalen	O	-	-
+8	DM-finalen	B-MISC	-	-
 9	i	O	-	-
 10	Middelfart	B-LOC	-	-
 11	,	O	-	-
@@ -2650,8 +2650,8 @@
 9	,	O	-	-
 10	som	O	-	-
 11	"	O	-	-
-12	Nr.	O	-	-
-13	742	O	-	-
+12	Nr.	B-MISC	-	-
+13	742	I-MISC	-	-
 14	"	O	-	-
 15	må	O	-	-
 16	opleves	O	-	-
@@ -2775,7 +2775,7 @@
 4	på	O	-	-
 5	Ny	B-ORG	-	-
 6	Holte	I-ORG	-	-
-7	skole	I-ORG	-	-
+7	skole	O	-	-
 8	meget	O	-	-
 9	kreativt	O	-	-
 10	orienteret	O	-	-
@@ -3100,7 +3100,7 @@
 32	nær	O	-	-
 33	ved	O	-	-
 34	mod	O	-	-
-35	Grubba	B-ORG	-	-
+35	Grubba	B-LOC	-	-
 36	og	O	-	-
 37	bagefter	O	-	-
 38	også	O	-	-
@@ -3149,7 +3149,7 @@
 16	hos	O	-	-
 17	det	O	-	-
 18	private	O	-	-
-19	Unitron-team	O	-	-
+19	Unitron-team	B-ORG	-	-
 20	,	O	-	-
 21	hvor	O	-	-
 22	han	O	-	-
@@ -3250,7 +3250,7 @@
 
 1	Foto	O	-	-
 2	:	O	-	-
-3	WINNIFRED	B-PER	-	-
+3	WINNIFRED	B-ORG	-	-
 
 1	Børnenes	O	-	-
 2	forskellige	O	-	-
@@ -3428,7 +3428,7 @@
 3	det	O	-	-
 4	jo	O	-	-
 5	ikke	O	-	-
-6	Justitsministeriets	O	-	-
+6	Justitsministeriets	B-ORG	-	-
 7	embedsmænd	O	-	-
 8	,	O	-	-
 9	der	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	B-MISC	-	-
+1	Hash	O	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3935,7 +3935,7 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	O	-	-
+1	LILLE	B-PER	-	-
 2	PALLE	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
@@ -3973,7 +3973,7 @@
 36	stort	O	-	-
 37	og	O	-	-
 38	fornemt	O	-	-
-39	Bjørn-Wiinblad-fad	O	-	-
+39	Bjørn-Wiinblad-fad	B-MISC	-	-
 40	.	O	-	-
 
 1	Det	O	-	-
@@ -4051,7 +4051,7 @@
 
 1	-	O	-	-
 2	På	O	-	-
-3	Fønix	B-MISC	-	-
+3	Fønix	B-ORG	-	-
 4	var	O	-	-
 5	man	O	-	-
 6	selvfølgelig	O	-	-
@@ -4691,7 +4691,7 @@
 4	besøgende	O	-	-
 5	ved	O	-	-
 6	sidste	O	-	-
-7	MikroData	B-MISC	-	-
+7	MikroData	O	-	-
 8	for	O	-	-
 9	to	O	-	-
 10	år	O	-	-
@@ -5126,7 +5126,7 @@
 3	har	O	-	-
 4	leget	O	-	-
 5	med	O	-	-
-6	Vagga	B-PER	-	-
+6	Vagga	B-ORG	-	-
 7	hele	O	-	-
 8	eftermiddagen	O	-	-
 9	.	O	-	-
@@ -5217,7 +5217,7 @@
 
 1	ABBA	B-MISC	-	-
 2	"	O	-	-
-3	Gold	I-MISC	-	-
+3	Gold	B-MISC	-	-
 4	"	O	-	-
 5	har	O	-	-
 6	været	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	O	-	-
+21	Chaussé	B-LOC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-PER	-	-
+4	Majors	B-ORG	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -6015,7 +6015,7 @@
 23	søge	O	-	-
 24	specialviden	O	-	-
 25	om	O	-	-
-26	AIDS	O	-	-
+26	AIDS	B-MISC	-	-
 27	andre	O	-	-
 28	steder	O	-	-
 29	,	O	-	-
@@ -6994,7 +6994,7 @@
 4	mill.	O	-	-
 5	franc	O	-	-
 6	reddede	O	-	-
-7	Valenciennes	B-ORG	-	-
+7	Valenciennes	B-LOC	-	-
 8	fra	O	-	-
 9	konkurs	O	-	-
 10	.	O	-	-
@@ -7068,7 +7068,7 @@
 7	over	O	-	-
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
-10	McClardÁs	B-ORG	-	-
+10	McClardÁs	B-LOC	-	-
 11	Bar-B-Que	I-MISC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
@@ -7974,7 +7974,7 @@
 4	skiftede	O	-	-
 5	han	O	-	-
 6	fra	O	-	-
-7	Arsenal	B-LOC	-	-
+7	Arsenal	B-ORG	-	-
 8	til	O	-	-
 9	Manchester	B-ORG	-	-
 10	City	I-ORG	-	-
@@ -8264,7 +8264,7 @@
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
-15	universitet	O	-	-
+15	universitet	B-LOC	-	-
 16	til	O	-	-
 17	Tårnby	B-LOC	-	-
 18	.	O	-	-
@@ -8276,7 +8276,7 @@
 5	ny	O	-	-
 6	teori	O	-	-
 7	i	O	-	-
-8	Propagandaministeriet	B-ORG	-	-
+8	Propagandaministeriet	O	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	gik	O	-	-
@@ -8388,7 +8388,7 @@
 35	boligydelse	O	-	-
 36	.	O	-	-
 
-1	Rom	B-LOC	-	-
+1	Rom	O	-	-
 2	blev	O	-	-
 3	ikke	O	-	-
 4	bygget	O	-	-
@@ -8449,8 +8449,8 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	B-MISC	-	-
-5	legetøj	O	-	-
+4	DUPLO	B-ORG	-	-
+5	legetøj	I-ORG	-	-
 6	"	O	-	-
 
 1	Deres	O	-	-
@@ -8698,7 +8698,7 @@
 1	Blyindholdet	O	-	-
 2	i	O	-	-
 3	98	O	-	-
-4	oktan	O	-	-
+4	oktan	I-MISC	-	-
 5	blyholdig	O	-	-
 6	benzin	O	-	-
 7	har	O	-	-
@@ -9206,10 +9206,10 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	B-PER	-	-
+3	Super-Pedersen	O	-	-
 4	sig	O	-	-
 5	over	O	-	-
-6	Nettos	B-PER	-	-
+6	Nettos	B-ORG	-	-
 7	priser	O	-	-
 
 1	"	O	-	-
@@ -9281,14 +9281,14 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-ORG	-	-
+11	DR-Dokumentar	O	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
 15	sønderlemmende	O	-	-
 16	kritik	O	-	-
 17	af	O	-	-
-18	Frederikshavns	B-ORG	-	-
+18	Frederikshavns	B-LOC	-	-
 19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-
@@ -9414,7 +9414,7 @@
 8	og	O	-	-
 9	her	O	-	-
 10	triumferede	O	-	-
-11	Ariostea	B-PER	-	-
+11	Ariostea	B-ORG	-	-
 12	med	O	-	-
 13	sejr	O	-	-
 14	i	O	-	-

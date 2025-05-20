@@ -8,8 +8,8 @@
 8	klorofyl-turister	O	-	-
 9	"	O	-	-
 10	er	O	-	-
-11	Robinson	B-PER	-	-
-12	Crusoe	I-PER	-	-
+11	Robinson	B-MISC	-	-
+12	Crusoe	I-MISC	-	-
 13	et	O	-	-
 14	paradis	O	-	-
 15	for	O	-	-
@@ -110,7 +110,7 @@
 4	hun	O	-	-
 5	i	O	-	-
 6	Bakkens	B-MISC	-	-
-7	Hvile	I-MISC	-	-
+7	Hvile	I-ORG	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -444,7 +444,7 @@
 10	godt	O	-	-
 11	.	O	-	-
 
-1	Faraos	B-LOC	-	-
+1	Faraos	B-PER	-	-
 2	skytsgud	O	-	-
 3	Honus	B-PER	-	-
 4	-	O	-	-
@@ -464,7 +464,7 @@
 1	Intet	O	-	-
 2	gennembrud	O	-	-
 3	for	O	-	-
-4	Nutrio	B-PER	-	-
+4	Nutrio	B-ORG	-	-
 
 1	Frankrigs	B-LOC	-	-
 2	daværende	O	-	-
@@ -1300,7 +1300,7 @@
 11	kort	O	-	-
 12	efter	O	-	-
 13	at	O	-	-
-14	El-Al-flyet	O	-	-
+14	El-Al-flyet	B-MISC	-	-
 15	med	O	-	-
 16	tre	O	-	-
 17	besætningsmedlemmer	O	-	-
@@ -2513,7 +2513,7 @@
 5	sine	O	-	-
 6	færdigheder	O	-	-
 7	før	O	-	-
-8	DM-finalen	O	-	-
+8	DM-finalen	B-MISC	-	-
 9	i	O	-	-
 10	Middelfart	B-LOC	-	-
 11	,	O	-	-
@@ -2553,7 +2553,7 @@
 5	meningen	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	D-marken	B-MISC	-	-
+8	D-marken	O	-	-
 9	skal	O	-	-
 10	overtages	O	-	-
 11	af	O	-	-
@@ -3100,7 +3100,7 @@
 32	nær	O	-	-
 33	ved	O	-	-
 34	mod	O	-	-
-35	Grubba	B-PER	-	-
+35	Grubba	B-ORG	-	-
 36	og	O	-	-
 37	bagefter	O	-	-
 38	også	O	-	-
@@ -3428,7 +3428,7 @@
 3	det	O	-	-
 4	jo	O	-	-
 5	ikke	O	-	-
-6	Justitsministeriets	O	-	-
+6	Justitsministeriets	B-ORG	-	-
 7	embedsmænd	O	-	-
 8	,	O	-	-
 9	der	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	B-MISC	-	-
+1	Hash	O	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3935,7 +3935,7 @@
 45	erhvervslivet	O	-	-
 46	.	O	-	-
 
-1	LILLE	B-PER	-	-
+1	LILLE	O	-	-
 2	PALLE	B-PER	-	-
 3	,	O	-	-
 4	t.h.	O	-	-
@@ -3973,7 +3973,7 @@
 36	stort	O	-	-
 37	og	O	-	-
 38	fornemt	O	-	-
-39	Bjørn-Wiinblad-fad	O	-	-
+39	Bjørn-Wiinblad-fad	B-PER	-	-
 40	.	O	-	-
 
 1	Det	O	-	-
@@ -4691,7 +4691,7 @@
 4	besøgende	O	-	-
 5	ved	O	-	-
 6	sidste	O	-	-
-7	MikroData	B-MISC	-	-
+7	MikroData	O	-	-
 8	for	O	-	-
 9	to	O	-	-
 10	år	O	-	-
@@ -4800,7 +4800,7 @@
 4	den	O	-	-
 5	handler	O	-	-
 6	om	O	-	-
-7	Justitsministeriets	O	-	-
+7	Justitsministeriets	B-ORG	-	-
 8	og	O	-	-
 9	Rigspolitiets	B-ORG	-	-
 10	manglende	O	-	-
@@ -5215,9 +5215,9 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	ABBA	B-MISC	-	-
+1	ABBA	B-ORG	-	-
 2	"	O	-	-
-3	Gold	I-MISC	-	-
+3	Gold	B-MISC	-	-
 4	"	O	-	-
 5	har	O	-	-
 6	været	O	-	-
@@ -5344,7 +5344,7 @@
 32	hverdags-biler	O	-	-
 33	.	O	-	-
 
-1	F.P.Jac	B-PER	-	-
+1	F.P.Jac	B-ORG	-	-
 2	er	O	-	-
 3	sprunget	O	-	-
 4	fra	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	B-MISC	-	-
+21	Chaussé	B-LOC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -5872,7 +5872,7 @@
 1	De	O	-	-
 2	fleste	O	-	-
 3	af	O	-	-
-4	Majors	B-PER	-	-
+4	Majors	B-ORG	-	-
 5	modstandere	O	-	-
 6	måtte	O	-	-
 7	i	O	-	-
@@ -6015,7 +6015,7 @@
 23	søge	O	-	-
 24	specialviden	O	-	-
 25	om	O	-	-
-26	AIDS	O	-	-
+26	AIDS	B-MISC	-	-
 27	andre	O	-	-
 28	steder	O	-	-
 29	,	O	-	-
@@ -6678,7 +6678,7 @@
 2	var	O	-	-
 3	grufulde	O	-	-
 4	i	O	-	-
-5	DDRs	B-ORG	-	-
+5	DDRs	B-LOC	-	-
 6	eneste	O	-	-
 7	lukkede	O	-	-
 8	børnefængsel	O	-	-
@@ -6994,7 +6994,7 @@
 4	mill.	O	-	-
 5	franc	O	-	-
 6	reddede	O	-	-
-7	Valenciennes	B-ORG	-	-
+7	Valenciennes	B-LOC	-	-
 8	fra	O	-	-
 9	konkurs	O	-	-
 10	.	O	-	-
@@ -7069,7 +7069,7 @@
 8	Clinton-seværdigheder	O	-	-
 9	er	O	-	-
 10	McClardÁs	B-LOC	-	-
-11	Bar-B-Que	B-LOC	-	-
+11	Bar-B-Que	I-LOC	-	-
 12	,	O	-	-
 13	hvor	O	-	-
 14	den	O	-	-
@@ -7373,7 +7373,7 @@
 37	og	O	-	-
 38	vandt	O	-	-
 39	over	O	-	-
-40	Appelgren	B-PER	-	-
+40	Appelgren	B-ORG	-	-
 41	med	O	-	-
 42	21-15	O	-	-
 43	,	O	-	-
@@ -7597,7 +7597,7 @@
 1	t-boret20	O	-	-
 
 1	Ved	O	-	-
-2	VM	O	-	-
+2	VM	B-MISC	-	-
 3	i	O	-	-
 4	Mexico	B-LOC	-	-
 5	scorede	O	-	-
@@ -7657,9 +7657,9 @@
 22	"	O	-	-
 23	Ugens	B-MISC	-	-
 24	Overraskelse	I-MISC	-	-
-25	-	O	-	-
+25	-	I-MISC	-	-
 26	uge	O	-	-
-27	47	O	-	-
+27	47	I-MISC	-	-
 28	"	O	-	-
 29	og	O	-	-
 30	"	O	-	-
@@ -8188,8 +8188,8 @@
 5	succes'en	O	-	-
 6	med	O	-	-
 7	"	O	-	-
-8	Gule	O	-	-
-9	handsker	O	-	-
+8	Gule	B-MISC	-	-
+9	handsker	I-MISC	-	-
 10	"	O	-	-
 11	,	O	-	-
 12	og	O	-	-
@@ -8264,7 +8264,7 @@
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
-15	universitet	O	-	-
+15	universitet	B-LOC	-	-
 16	til	O	-	-
 17	Tårnby	B-LOC	-	-
 18	.	O	-	-
@@ -8276,7 +8276,7 @@
 5	ny	O	-	-
 6	teori	O	-	-
 7	i	O	-	-
-8	Propagandaministeriet	B-ORG	-	-
+8	Propagandaministeriet	O	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	gik	O	-	-
@@ -8388,7 +8388,7 @@
 35	boligydelse	O	-	-
 36	.	O	-	-
 
-1	Rom	B-LOC	-	-
+1	Rom	O	-	-
 2	blev	O	-	-
 3	ikke	O	-	-
 4	bygget	O	-	-
@@ -8449,8 +8449,8 @@
 1	Mærk	O	-	-
 2	kuverten	O	-	-
 3	"	O	-	-
-4	DUPLO	O	-	-
-5	legetøj	O	-	-
+4	DUPLO	B-ORG	-	-
+5	legetøj	I-ORG	-	-
 6	"	O	-	-
 
 1	Deres	O	-	-
@@ -8465,8 +8465,8 @@
 10	bøfdrenge	O	-	-
 11	Sylvester	B-PER	-	-
 12	"	O	-	-
-13	Rambo	I-PER	-	-
-14	"	O	-	-
+13	Rambo	B-PER	-	-
+14	"	I-PER	-	-
 15	Stallone	I-PER	-	-
 16	og	O	-	-
 17	Arnold	B-PER	-	-
@@ -8697,7 +8697,7 @@
 
 1	Blyindholdet	O	-	-
 2	i	O	-	-
-3	98	B-MISC	-	-
+3	98	O	-	-
 4	oktan	I-MISC	-	-
 5	blyholdig	O	-	-
 6	benzin	O	-	-
@@ -9209,7 +9209,7 @@
 3	Super-Pedersen	O	-	-
 4	sig	O	-	-
 5	over	O	-	-
-6	Nettos	B-PER	-	-
+6	Nettos	B-ORG	-	-
 7	priser	O	-	-
 
 1	"	O	-	-
@@ -9281,7 +9281,7 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-ORG	-	-
+11	DR-Dokumentar	O	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
@@ -9289,7 +9289,7 @@
 16	kritik	O	-	-
 17	af	O	-	-
 18	Frederikshavns	B-ORG	-	-
-19	politis	I-ORG	-	-
+19	politis	O	-	-
 20	efterforskningsarbejde	O	-	-
 21	i	O	-	-
 22	Pedal-Ove-sagen	O	-	-
@@ -9673,7 +9673,7 @@
 2	Vi	O	-	-
 3	ses	O	-	-
 4	i	O	-	-
-5	Helvede	O	-	-
+5	Helvede	B-LOC	-	-
 6	!	O	-	-
 7	"	O	-	-
 8	svarede	O	-	-
@@ -9722,7 +9722,7 @@
 12	,	O	-	-
 13	forbi	O	-	-
 14	Sydhavn	B-LOC	-	-
-15	S-station	O	-	-
+15	S-station	I-LOC	-	-
 16	mod	O	-	-
 17	Sjællandsbroen	B-LOC	-	-
 18	.	O	-	-

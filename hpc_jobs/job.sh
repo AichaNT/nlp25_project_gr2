@@ -18,6 +18,7 @@ nvidia-smi
 cd ~/hpc_jobs/
 
 # Run Scripts
-python baseline.py
-python train_aug.py
-python final_prediction.py
+python 01_non_emerging.py
+python 02_baseline.py
+python 03_aug_train.py
+python 04_final_train.py

@@ -1,3 +1,4 @@
+# imports
 import random
 import copy
 
@@ -22,6 +23,10 @@ ME_IPER = get_last_names("data/me_entity_sources/middle_eastern_last_names.txt",
 ME_LOC = load_location("data/me_entity_sources/the-middle-east-cities.csv")
 ME_ORG = load_organisation("data/me_entity_sources/middle_eastern_organisations.csv")
 
+
+
+
+###################### AUGMENTING AND REPLACING ENTITIES ######################
 
 def data_aug_replace(dataset, sentence_amount, ME_LOC=ME_LOC, ME_ORG=ME_ORG,
                      ME_BPER=ME_BPER, ME_IPER=ME_IPER, used_entities = None, train_tokens=train_tokens):

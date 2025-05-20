@@ -979,7 +979,7 @@
 9	også	O	-	-
 10	at	O	-	-
 11	støtte	O	-	-
-12	Nassim	B-PER	-	-
+12	Nassim	B-LOC	-	-
 13	.	O	-	-
 
 1	Flyet	O	-	-
@@ -1041,7 +1041,7 @@
 10	den	O	-	-
 11	lette	O	-	-
 12	mellemklassebil	O	-	-
-13	Leone	B-PER	-	-
+13	Leone	B-MISC	-	-
 14	er	O	-	-
 15	på	O	-	-
 16	vej	O	-	-
@@ -1143,7 +1143,7 @@
 11	et	O	-	-
 12	kort	O	-	-
 13	over	O	-	-
-14	Riget	B-LOC	-	-
+14	Riget	B-MISC	-	-
 15	med	O	-	-
 16	et	O	-	-
 17	påklistret	O	-	-
@@ -1296,7 +1296,7 @@
 4	1630	O	-	-
 5	OPLÆSER	O	-	-
 6	=	O	-	-
-7	Elves	O	-	-
+7	Elves	B-MISC	-	-
 
 1	Nu	O	-	-
 2	ler	O	-	-
@@ -1608,7 +1608,7 @@
 20	som	O	-	-
 21	overassistent	O	-	-
 22	fra	O	-	-
-23	Kezad	B-ORG	-	-
+23	Kezad	B-LOC	-	-
 24	på	O	-	-
 25	grund	O	-	-
 26	af	O	-	-
@@ -1796,7 +1796,7 @@
 22	og	O	-	-
 23	tilintetgøre	O	-	-
 24	Akhisar	B-LOC	-	-
-25	luftværnsskyts	O	-	-
+25	luftværnsskyts	I-ORG	-	-
 26	"	O	-	-
 27	.	O	-	-
 
@@ -2384,7 +2384,7 @@
 5	han	O	-	-
 6	,	O	-	-
 7	at	O	-	-
-8	Nehmeh	B-PER	-	-
+8	Nehmeh	B-ORG	-	-
 9	vil	O	-	-
 10	lægge	O	-	-
 11	op	O	-	-
@@ -2939,7 +2939,7 @@
 4	at	O	-	-
 5	udviklingen	O	-	-
 6	i	O	-	-
-7	Habbouch	B-LOC	-	-
+7	Habbouch	B-ORG	-	-
 8	kører	O	-	-
 9	så	O	-	-
 10	hurtigt	O	-	-
@@ -2964,7 +2964,7 @@
 12	Omdurman	B-ORG	-	-
 13	.	O	-	-
 
-1	Emsteel	O	-	-
+1	Emsteel	B-MISC	-	-
 2	topmodel	O	-	-
 3	,	O	-	-
 4	den	O	-	-
@@ -3948,7 +3948,7 @@
 
 1	O	O	-	-
 2	=	O	-	-
-3	Rafsanjan	B-PER	-	-
+3	Rafsanjan	B-LOC	-	-
 
 1	Man	O	-	-
 2	ved	O	-	-
@@ -4742,7 +4742,7 @@
 13	Al-Mamlaka	B-ORG	-	-
 14	TV	I-ORG	-	-
 15	,	O	-	-
-16	Saudi	B-ORG	-	-
+16	Saudi	B-LOC	-	-
 17	Arabien	I-ORG	-	-
 18	,	O	-	-
 19	W-7530	O	-	-
@@ -4772,7 +4772,7 @@
 2	beklager	O	-	-
 3	vi	O	-	-
 4	i	O	-	-
-5	Kapellet	O	-	-
+5	Kapellet	B-ORG	-	-
 6	dybt	O	-	-
 7	,	O	-	-
 8	da	O	-	-
@@ -4906,7 +4906,7 @@
 6	m/sek	O	-	-
 
 1	Haider	B-PER	-	-
-2	styker	O	-	-
+2	styker	I-PER	-	-
 3	stormede	O	-	-
 4	en	O	-	-
 5	politistation	O	-	-
@@ -4983,7 +4983,7 @@
 9	hende	O	-	-
 10	.	O	-	-
 
-1	Nouvelair	B-PER	-	-
+1	Nouvelair	O	-	-
 2	=	O	-	-
 3	04:30	O	-	-
 
@@ -5039,7 +5039,7 @@
 7	gange	O	-	-
 8	,	O	-	-
 9	fordi	O	-	-
-10	Nevşehir	B-PER	-	-
+10	Nevşehir	B-LOC	-	-
 11	er	O	-	-
 12	så	O	-	-
 13	forurenet	O	-	-
@@ -5161,7 +5161,7 @@
 16	køber	O	-	-
 17	en	O	-	-
 18	dåse	O	-	-
-19	Motorrens	O	-	-
+19	Motorrens	B-MISC	-	-
 20	på	O	-	-
 21	en	O	-	-
 22	tankstation	O	-	-
@@ -5353,7 +5353,7 @@
 12	alderen	O	-	-
 13	,	O	-	-
 14	har	O	-	-
-15	Chlorella	O	-	-
+15	Chlorella	B-MISC	-	-
 16	hjulpet	O	-	-
 17	på	O	-	-
 18	.	O	-	-
@@ -5841,7 +5841,7 @@
 25	lidt	O	-	-
 26	på	O	-	-
 27	Al	B-LOC	-	-
-28	Fahahil	I-ORG	-	-
+28	Fahahil	I-LOC	-	-
 29	,	O	-	-
 30	og	O	-	-
 31	ind	O	-	-
@@ -5865,7 +5865,7 @@
 49	af	O	-	-
 50	det	O	-	-
 51	med	O	-	-
-52	Kong	B-PER	-	-
+52	Kong	O	-	-
 53	Hasina	B-PER	-	-
 54	,	O	-	-
 55	og	O	-	-
@@ -5875,7 +5875,7 @@
 59	blive	O	-	-
 60	på	O	-	-
 61	Al	B-LOC	-	-
-62	Khankah	I-ORG	-	-
+62	Khankah	I-LOC	-	-
 63	fremfor	O	-	-
 64	at	O	-	-
 65	være	O	-	-
@@ -5952,8 +5952,8 @@
 10	Pillai	I-PER	-	-
 11	,	O	-	-
 12	som	O	-	-
-13	Texan	B-ORG	-	-
-14	society	I-ORG	-	-
+13	Texan	O	-	-
+14	society	O	-	-
 15	princess	O	-	-
 16	Sulaiman	B-PER	-	-
 17	Alairayri	I-PER	-	-
@@ -5963,7 +5963,7 @@
 2	havde	O	-	-
 3	nemlig	O	-	-
 4	efter	O	-	-
-5	Siera	B-PER	-	-
+5	Siera	B-ORG	-	-
 6	opfattelse	O	-	-
 7	fejl	O	-	-
 8	og	O	-	-
@@ -6137,7 +6137,7 @@
 35	nu	O	-	-
 36	overtaget	O	-	-
 37	af	O	-	-
-38	landets	O	-	-
+38	landets	B-ORG	-	-
 39	Kulturfond	B-ORG	-	-
 40	og	O	-	-
 41	skal	O	-	-
@@ -6807,7 +6807,7 @@
 14	for	O	-	-
 15	forslaget	O	-	-
 16	i	O	-	-
-17	Folketinget	O	-	-
+17	Folketinget	B-ORG	-	-
 18	.	O	-	-
 
 1	Der	O	-	-
@@ -6902,7 +6902,7 @@
 7	formuen	O	-	-
 8	i	O	-	-
 9	det	O	-	-
-10	I/S	B-ORG	-	-
+10	I/S	O	-	-
 11	,	O	-	-
 12	der	O	-	-
 13	ejer	O	-	-
@@ -7248,7 +7248,7 @@
 9	og	O	-	-
 10	fremmest	O	-	-
 11	kritiserede	O	-	-
-12	218TV	O	-	-
+12	218TV	B-ORG	-	-
 13	fortsatte	O	-	-
 14	engagement	O	-	-
 15	i	O	-	-
@@ -7952,7 +7952,7 @@
 19	i	O	-	-
 20	den	O	-	-
 21	anden	O	-	-
-22	Europa-Cup-runde	O	-	-
+22	Europa-Cup-runde	B-MISC	-	-
 23	sidste	O	-	-
 24	efterår	O	-	-
 25	,	O	-	-
@@ -8323,7 +8323,7 @@
 3	det	O	-	-
 4	også	O	-	-
 5	med	O	-	-
-6	Qom	B-PER	-	-
+6	Qom	B-ORG	-	-
 7	.	O	-	-
 
 1	Sania	B-PER	-	-
@@ -8737,7 +8737,7 @@
 1	Dyrt	O	-	-
 2	klædte	O	-	-
 3	familier	O	-	-
-4	Jönsson	B-PER	-	-
+4	Jönsson	O	-	-
 5	og	O	-	-
 6	Carlsson'er	B-PER	-	-
 7	i	O	-	-
@@ -8755,7 +8755,7 @@
 19	det	O	-	-
 20	centrale	O	-	-
 21	Dogonbadan	B-LOC	-	-
-22	Norrmalm-kvarter	I-LOC	-	-
+22	Norrmalm-kvarter	O	-	-
 23	.	O	-	-
 
 1	To	O	-	-
@@ -8855,7 +8855,7 @@
 2	mener	O	-	-
 3	,	O	-	-
 4	at	O	-	-
-5	Ajeer	B-PER	-	-
+5	Ajeer	B-ORG	-	-
 6	skal	O	-	-
 7	give	O	-	-
 8	præsidenten	O	-	-
@@ -8900,8 +8900,8 @@
 17	vundet	O	-	-
 18	flertallet	O	-	-
 19	i	O	-	-
-20	Mustafakemalpaşa	B-LOC	-	-
-21	menighedsråd	O	-	-
+20	Mustafakemalpaşa	B-ORG	-	-
+21	menighedsråd	I-ORG	-	-
 22	.	O	-	-
 
 1	Nu	O	-	-
@@ -9192,9 +9192,9 @@
 4	,	O	-	-
 5	Koutoubia	B-PER	-	-
 6	,	O	-	-
-7	Tarjama	B-LOC	-	-
+7	Tarjama	B-PER	-	-
 8	,	O	-	-
-9	One	B-LOC	-	-
+9	One	B-MISC	-	-
 10	og	O	-	-
 11	overraskende	O	-	-
 12	kun	O	-	-
@@ -9783,7 +9783,7 @@
 4	i	O	-	-
 5	øvrigt	O	-	-
 6	Marafiq	B-ORG	-	-
-7	børnebogspris	O	-	-
+7	børnebogspris	I-ORG	-	-
 8	for	O	-	-
 9	i	O	-	-
 10	1990	O	-	-
@@ -9835,7 +9835,7 @@
 10	end	O	-	-
 11	hele	O	-	-
 12	"	O	-	-
-13	al-Jamahiriyah	B-MISC	-	-
+13	al-Jamahiriyah	B-ORG	-	-
 14	"	O	-	-
 15	.	O	-	-
 

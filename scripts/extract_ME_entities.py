@@ -1,5 +1,8 @@
+# imports
 import fitz
 import pandas as pd
+
+
 
 
 ###################### MIDDLE EASTERN FIRST NAMES (B-PER) ######################
@@ -63,6 +66,7 @@ def get_last_names(txt_path, tsv_path, column_name="Roman", skiprows=82, sep='\t
 
 
 
+
 ###################### MIDDLE EASTERN LOCATIONS (-LOC) ######################
 
 def add_location(location):
@@ -81,6 +85,7 @@ def load_location(csv_path, sep=';', skiprows=1):
     unique_locations = df["city_da"].drop_duplicates()
     ME_LOC = [add_location(loc) for loc in unique_locations]
     return ME_LOC
+
 
 
 

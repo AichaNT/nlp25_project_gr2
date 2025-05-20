@@ -8,8 +8,8 @@
 8	klorofyl-turister	O	-	-
 9	"	O	-	-
 10	er	O	-	-
-11	Robinson	B-PER	-	-
-12	Crusoe	I-PER	-	-
+11	Robinson	B-MISC	-	-
+12	Crusoe	I-MISC	-	-
 13	et	O	-	-
 14	paradis	O	-	-
 15	for	O	-	-
@@ -109,8 +109,8 @@
 3	synger	O	-	-
 4	hun	O	-	-
 5	i	O	-	-
-6	Bakkens	B-LOC	-	-
-7	Hvile	I-LOC	-	-
+6	Bakkens	B-ORG	-	-
+7	Hvile	I-ORG	-	-
 8	.	O	-	-
 
 1	Trods	O	-	-
@@ -444,7 +444,7 @@
 10	godt	O	-	-
 11	.	O	-	-
 
-1	Faraos	B-PER	-	-
+1	Faraos	B-LOC	-	-
 2	skytsgud	O	-	-
 3	Raja	B-PER	-	-
 4	-	O	-	-
@@ -466,7 +466,7 @@
 3	for	O	-	-
 4	ViaVii	B-ORG	-	-
 
-1	Dnata	B-PER	-	-
+1	Dnata	B-LOC	-	-
 2	daværende	O	-	-
 3	landstræner	O	-	-
 4	Morad	B-PER	-	-
@@ -786,7 +786,7 @@
 3	,	O	-	-
 4	hvor	O	-	-
 5	meget	O	-	-
-6	Pio-episoden	O	-	-
+6	Pio-episoden	B-MISC	-	-
 7	1871-77	O	-	-
 8	fortjener	O	-	-
 9	opmærksomhed	O	-	-
@@ -887,7 +887,7 @@
 
 1	Man	O	-	-
 2	indsprøjter	O	-	-
-3	VIP	O	-	-
+3	VIP	B-MISC	-	-
 4	i	O	-	-
 5	penis	O	-	-
 6	kort	O	-	-
@@ -911,7 +911,7 @@
 24	den	O	-	-
 25	indsprøjtede	O	-	-
 26	mængde	O	-	-
-27	VIP	O	-	-
+27	VIP	B-MISC	-	-
 28	.	O	-	-
 
 1	Tilskud	O	-	-
@@ -1003,15 +1003,15 @@
 18	konkurrencen	O	-	-
 19	op	O	-	-
 20	med	O	-	-
-21	Abu	B-LOC	-	-
-22	Ghurayb	I-LOC	-	-
+21	Abu	B-ORG	-	-
+22	Ghurayb	I-ORG	-	-
 23	og	O	-	-
 24	andre	O	-	-
 25	skattely	O	-	-
 26	.	O	-	-
 
 1	"	O	-	-
-2	Jihad	O	-	-
+2	Jihad	B-MISC	-	-
 3	"	O	-	-
 4	SULTER	O	-	-
 
@@ -1030,7 +1030,7 @@
 13	i	O	-	-
 14	en	O	-	-
 15	række	O	-	-
-16	Ma’aden	O	-	-
+16	Ma’aden	B-ORG	-	-
 17	og	O	-	-
 18	OBS-butikker	O	-	-
 19	,	O	-	-
@@ -1385,7 +1385,7 @@
 12	mere	O	-	-
 13	stabilt	O	-	-
 14	efter	O	-	-
-15	Sharif	O	-	-
+15	Sharif	B-ORG	-	-
 16	entre	O	-	-
 17	"	O	-	-
 18	.	O	-	-
@@ -1796,7 +1796,7 @@
 20	Nilesat	B-LOC	-	-
 21	i	O	-	-
 22	Qatar	B-LOC	-	-
-23	Fuel	I-LOC	-	-
+23	Fuel	I-ORG	-	-
 24	.	O	-	-
 
 1	De	O	-	-
@@ -2319,7 +2319,7 @@
 4	man	O	-	-
 5	påvirke	O	-	-
 6	et	O	-	-
-7	Nusaybin	O	-	-
+7	Nusaybin	B-ORG	-	-
 8	lukkede	O	-	-
 9	system	O	-	-
 10	?	O	-	-
@@ -2650,8 +2650,8 @@
 9	,	O	-	-
 10	som	O	-	-
 11	"	O	-	-
-12	Nr.	O	-	-
-13	742	O	-	-
+12	Nr.	B-MISC	-	-
+13	742	I-MISC	-	-
 14	"	O	-	-
 15	må	O	-	-
 16	opleves	O	-	-
@@ -2855,7 +2855,7 @@
 12	musik	O	-	-
 13	til	O	-	-
 14	skotske	O	-	-
-15	Laraki	B-ORG	-	-
+15	Laraki	B-MISC	-	-
 16	var	O	-	-
 17	til	O	-	-
 18	at	O	-	-
@@ -3100,7 +3100,7 @@
 32	nær	O	-	-
 33	ved	O	-	-
 34	mod	O	-	-
-35	Mansour	B-PER	-	-
+35	Mansour	B-LOC	-	-
 36	og	O	-	-
 37	bagefter	O	-	-
 38	også	O	-	-
@@ -3250,7 +3250,7 @@
 
 1	Foto	O	-	-
 2	:	O	-	-
-3	Shams	B-PER	-	-
+3	Shams	B-ORG	-	-
 
 1	Børnenes	O	-	-
 2	forskellige	O	-	-
@@ -3456,7 +3456,7 @@
 31	)	O	-	-
 32	.	O	-	-
 
-1	Hash	B-MISC	-	-
+1	Hash	O	-	-
 2	fortjener	O	-	-
 3	en	O	-	-
 4	lige	O	-	-
@@ -3791,8 +3791,8 @@
 17	BTCC-serien	O	-	-
 18	,	O	-	-
 19	som	O	-	-
-20	Hossein	B-PER	-	-
-21	Badin	I-PER	-	-
+20	Hossein	B-ORG	-	-
+21	Badin	I-ORG	-	-
 22	nu	O	-	-
 23	har	O	-	-
 24	lagt	O	-	-
@@ -4361,7 +4361,7 @@
 5	i	O	-	-
 6	rejsegildet	O	-	-
 7	for	O	-	-
-8	Qaym	B-LOC	-	-
+8	Qaym	B-PER	-	-
 9	.	O	-	-
 
 1	Jo	O	-	-
@@ -4494,7 +4494,7 @@
 13	Kuwait	B-ORG	-	-
 14	Finance	I-ORG	-	-
 15	House	I-ORG	-	-
-16	aftenskole	I-ORG	-	-
+16	aftenskole	O	-	-
 17	i	O	-	-
 18	Ünye	B-LOC	-	-
 19	.	O	-	-
@@ -4601,7 +4601,7 @@
 
 1	Guvernøren	O	-	-
 2	for	O	-	-
-3	Çanakkale	O	-	-
+3	Çanakkale	B-LOC	-	-
 4	,	O	-	-
 5	Nail	B-PER	-	-
 6	Oreibi	I-PER	-	-
@@ -4691,7 +4691,7 @@
 4	besøgende	O	-	-
 5	ved	O	-	-
 6	sidste	O	-	-
-7	Alshaya	B-LOC	-	-
+7	Alshaya	B-MISC	-	-
 8	for	O	-	-
 9	to	O	-	-
 10	år	O	-	-
@@ -4806,7 +4806,7 @@
 10	manglende	O	-	-
 11	respekt	O	-	-
 12	for	O	-	-
-13	Grundloven	O	-	-
+13	Grundloven	B-MISC	-	-
 14	.	O	-	-
 
 1	Sådan	O	-	-
@@ -5035,7 +5035,7 @@
 3	valget	O	-	-
 4	,	O	-	-
 5	vil	O	-	-
-6	Uzma	B-PER	-	-
+6	Uzma	B-ORG	-	-
 7	være	O	-	-
 8	i	O	-	-
 9	en	O	-	-
@@ -5146,7 +5146,7 @@
 13	,	O	-	-
 14	en	O	-	-
 15	af	O	-	-
-16	Latakia	B-ORG	-	-
+16	Latakia	B-LOC	-	-
 17	mest	O	-	-
 18	respekterede	O	-	-
 19	journalister	O	-	-
@@ -5215,7 +5215,7 @@
 10	igen	O	-	-
 11	.	O	-	-
 
-1	Nakilat	B-PER	-	-
+1	Nakilat	B-MISC	-	-
 2	"	O	-	-
 3	Gold	B-MISC	-	-
 4	"	O	-	-
@@ -5232,7 +5232,7 @@
 15	andre	O	-	-
 16	"	O	-	-
 17	greatest	O	-	-
-18	hits	I-MISC	-	-
+18	hits	O	-	-
 19	"	O	-	-
 20	bliver	O	-	-
 21	det	O	-	-
@@ -5335,7 +5335,7 @@
 23	fortæller	O	-	-
 24	,	O	-	-
 25	at	O	-	-
-26	Al-Kalima	B-MISC	-	-
+26	Al-Kalima	B-ORG	-	-
 27	ikke	O	-	-
 28	kun	O	-	-
 29	kan	O	-	-
@@ -5498,7 +5498,7 @@
 10	sedan	O	-	-
 11	.	O	-	-
 
-1	Comarit	B-ORG	-	-
+1	Comarit	B-MISC	-	-
 2	byder	O	-	-
 3	på	O	-	-
 4	sin	O	-	-
@@ -5510,8 +5510,8 @@
 10	:	O	-	-
 11	Den	O	-	-
 12	nye	O	-	-
-13	minibus	I-MISC	-	-
-14	Talento	I-MISC	-	-
+13	minibus	O	-	-
+14	Talento	B-MISC	-	-
 15	,	O	-	-
 16	en	O	-	-
 17	mindre	O	-	-
@@ -5615,7 +5615,7 @@
 18	,	O	-	-
 19	den	O	-	-
 20	såkaldte	O	-	-
-21	Chaussé	O	-	-
+21	Chaussé	B-LOC	-	-
 22	brobelægning	O	-	-
 23	,	O	-	-
 24	der	O	-	-
@@ -6015,7 +6015,7 @@
 23	søge	O	-	-
 24	specialviden	O	-	-
 25	om	O	-	-
-26	AIDS	O	-	-
+26	AIDS	B-MISC	-	-
 27	andre	O	-	-
 28	steder	O	-	-
 29	,	O	-	-
@@ -6237,8 +6237,8 @@
 1	På	O	-	-
 2	vagt	O	-	-
 3	foran	O	-	-
-4	As	B-LOC	-	-
-5	Salimiyah	I-LOC	-	-
+4	As	B-ORG	-	-
+5	Salimiyah	I-PER	-	-
 6	.	O	-	-
 
 1	Mohammad	B-PER	-	-
@@ -6342,7 +6342,7 @@
 8	vedtaget	O	-	-
 9	at	O	-	-
 10	opløse	O	-	-
-11	Viranşehir	B-ORG	-	-
+11	Viranşehir	B-LOC	-	-
 12	-	O	-	-
 13	men	O	-	-
 14	samtidig	O	-	-
@@ -6748,7 +6748,7 @@
 2	hentydede	O	-	-
 3	formentlig	O	-	-
 4	til	O	-	-
-5	Daraa	B-PER	-	-
+5	Daraa	B-LOC	-	-
 6	særlige	O	-	-
 7	problem	O	-	-
 8	med	O	-	-
@@ -6770,7 +6770,7 @@
 24	de	O	-	-
 25	tjekkiske	O	-	-
 26	lande	O	-	-
-27	Bandırma	B-LOC	-	-
+27	Bandırma	B-ORG	-	-
 28	og	O	-	-
 29	Al-Hudaydah	B-ORG	-	-
 30	på	O	-	-
@@ -7313,7 +7313,7 @@
 9	men	O	-	-
 10	Nasir	B-PER	-	-
 11	Krishnakumar	I-PER	-	-
-12	Al qubaisi	I-PER	-	-
+12	Al qubaisi	I-ORG	-	-
 13	så	O	-	-
 14	sig	O	-	-
 15	tirsdag	O	-	-
@@ -7373,7 +7373,7 @@
 37	og	O	-	-
 38	vandt	O	-	-
 39	over	O	-	-
-40	Matin	B-PER	-	-
+40	Matin	B-ORG	-	-
 41	med	O	-	-
 42	21-15	O	-	-
 43	,	O	-	-
@@ -7560,7 +7560,7 @@
 21	forbi	O	-	-
 22	vagterne	O	-	-
 23	foran	O	-	-
-24	Amira	B-LOC	-	-
+24	Amira	B-PER	-	-
 25	,	O	-	-
 26	som	O	-	-
 27	brutalt	O	-	-
@@ -7610,7 +7610,7 @@
 12	i	O	-	-
 13	bronzekampen	O	-	-
 14	mod	O	-	-
-15	Kahramaa	B-LOC	-	-
+15	Kahramaa	B-ORG	-	-
 16	.	O	-	-
 
 1	Ifølge	O	-	-
@@ -7807,7 +7807,7 @@
 7	at	O	-	-
 8	være	O	-	-
 9	i	O	-	-
-10	AvidBeam	B-LOC	-	-
+10	AvidBeam	B-ORG	-	-
 11	og	O	-	-
 12	har	O	-	-
 13	forlænget	O	-	-
@@ -7837,8 +7837,8 @@
 4	danske	O	-	-
 5	rokoko-kommoder	O	-	-
 6	i	O	-	-
-7	Nahla	O	-	-
-8	Elgibaissi	I-PER	-	-
+7	Nahla	B-MISC	-	-
+8	Elgibaissi	I-MISC	-	-
 9	stil	O	-	-
 10	.	O	-	-
 
@@ -8025,7 +8025,7 @@
 24	blev	O	-	-
 25	vedtaget	O	-	-
 26	på	O	-	-
-27	Assadissa	B-ORG	-	-
+27	Assadissa	B-LOC	-	-
 28	repræsentantskabsmøde	O	-	-
 29	,	O	-	-
 30	og	O	-	-
@@ -8254,7 +8254,7 @@
 2	anden	O	-	-
 3	bane	O	-	-
 4	,	O	-	-
-5	Ørestadsbanen	B-ORG	-	-
+5	Ørestadsbanen	B-LOC	-	-
 6	,	O	-	-
 7	skal	O	-	-
 8	gå	O	-	-
@@ -8264,7 +8264,7 @@
 12	og	O	-	-
 13	vest	O	-	-
 14	om	O	-	-
-15	universitet	O	-	-
+15	universitet	B-LOC	-	-
 16	til	O	-	-
 17	Turhal	B-LOC	-	-
 18	.	O	-	-
@@ -8276,7 +8276,7 @@
 5	ny	O	-	-
 6	teori	O	-	-
 7	i	O	-	-
-8	Propagandaministeriet	B-ORG	-	-
+8	Propagandaministeriet	O	-	-
 9	,	O	-	-
 10	der	O	-	-
 11	gik	O	-	-
@@ -8589,7 +8589,7 @@
 2	veje	O	-	-
 3	fører	O	-	-
 4	til	O	-	-
-5	Malayer	B-MISC	-	-
+5	Malayer	B-LOC	-	-
 6	.	O	-	-
 
 1	"	O	-	-
@@ -8940,7 +8940,7 @@
 2	klub	O	-	-
 3	mente	O	-	-
 4	Iman	B-PER	-	-
-5	far	I-PER	-	-
+5	far	O	-	-
 6	var	O	-	-
 7	sagen	O	-	-
 8	.	O	-	-
@@ -9087,7 +9087,7 @@
 1	I	O	-	-
 2	1972	O	-	-
 3	fik	O	-	-
-4	Manbij	B-PER	-	-
+4	Manbij	B-LOC	-	-
 5	sit	O	-	-
 6	første	O	-	-
 7	værtshus	O	-	-
@@ -9206,7 +9206,7 @@
 
 1	Her	O	-	-
 2	morer	O	-	-
-3	Super-Pedersen	B-PER	-	-
+3	Super-Pedersen	O	-	-
 4	sig	O	-	-
 5	over	O	-	-
 6	Al-Thawra	B-ORG	-	-
@@ -9281,7 +9281,7 @@
 8	,	O	-	-
 9	"	O	-	-
 10	fastslog	O	-	-
-11	DR-Dokumentar	B-ORG	-	-
+11	DR-Dokumentar	O	-	-
 12	gruppen	O	-	-
 13	i	O	-	-
 14	sin	O	-	-
@@ -9580,7 +9580,7 @@
 17	.	O	-	-
 
 1	Ligesom	O	-	-
-2	Arar	O	-	-
+2	Arar	B-LOC	-	-
 3	politichef	O	-	-
 4	Salim	B-PER	-	-
 5	Elbenoune	I-PER	-	-
@@ -9860,7 +9860,7 @@
 14	terrænet	O	-	-
 15	.	O	-	-
 
-1	Hicham	B-PER	-	-
+1	Hicham	O	-	-
 2	,	O	-	-
 3	de	O	-	-
 4	er	O	-	-
