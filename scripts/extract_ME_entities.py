@@ -7,6 +7,7 @@ import pandas as pd
 
 ###################### MIDDLE EASTERN FIRST NAMES (B-PER) ######################
 
+# This function was inspired by https://stackoverflow.com/questions/68382847/extracting-text-using-flags-to-focus-on-bold-italic-font-using-pymupdf Accessed May 20th
 def extract_first_names(name_path):
     '''
     This function extracts first names from a PDF file and cleans unwanted characters.
