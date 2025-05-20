@@ -1,4 +1,6 @@
 
+###################### EXTRACTING TRUE AND PREDICTED LABELS ######################
+
 def extract_true_and_pred_labels(data, pred):
     true_labels = []
 

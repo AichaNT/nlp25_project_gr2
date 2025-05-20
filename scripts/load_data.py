@@ -88,7 +88,10 @@ def label_mapping(path):
     return label2id, id2label
 
 
-# load data function
+
+
+###################### READING TSV FILES ######################
+
 # heavily inspired by the solution from assignment 5
 def read_tsv_file(path, label2id):
     '''
@@ -155,72 +158,11 @@ def read_tsv_file(path, label2id):
     return data
 
 
-# extracting tokens to check for overlap in train, dev and test sets
-def extract_labeled_tokens(dataset, exclude_label = "O", include_label_pair = False):
-    '''
-    This function extracts tokens from a dataset that have a string label different from "exclude_label".
-    Optionally, it can return the (token, label) pairs instead of just tokens.
-
-    Parameters:
-        dataset (List[dict]): The token-tagged dataset.
-        exclude_label (str): The label to ignore (default is "O").
-        include_label_pair (bool): Whether to include the (token, label) pairs in the result (default is False).
-        
-    Returns:
-         Set[str] or Set[Tuple[str, str]]: 
-            - A set of tokens with meaningful (non-"O") labels if "include_label_pair" is False.
-            - A set of (token, label) pairs if "include_label_pair" is True.
-    '''
-
-    # create empty set to store the unique tokens
-    labeled_tokens = set()
-    
-    for sentence in dataset:
-        # iterate over each token and its corresponding tag ID
-        for token, label in zip(sentence["tokens"], sentence["ner_tags"]):
-            if label != exclude_label:                      # check if the tag is not the excluded one
-                if include_label_pair:
-                    labeled_tokens.add((token, label))      # add (token, label) pair if the flag is True
-                else:
-                    labeled_tokens.add(token)               # add just the token if the flag is False
-    
-    return labeled_tokens
 
 
-# wrtiting tsv file
-def write_tsv_file(data, path):
-    '''
-    This function writes a TSV file from structured data containing tokens and the corresponding NER tags.
-    Each line in the file corresponds to a token and its associated tag, separated by a tab.
-    Sentences are separated by empty lines.
+###################### READING IOB2 FILES ######################
 
-    Parameters:
-        data (List[dict]): A list of dictionaries, where each dictionary a sentence. Each dictionary has the following keys:
-            - "tokens": a list of tokens (strings).
-            - "ner_tags": a list of NER labels (strings) corresponding to each token.
-        
-        path (str): The file path where the TSV data will be written.
-
-    Returns:
-        None
-    '''
-
-    # open the output file for writing
-    with open(path, "w", encoding = "utf-8") as file:
-        # iterate over each sentence (dictionary) in the dataset
-        for sentence in data:
-            tokens = sentence["tokens"]             # list of tokens in the sentence
-            ner_tags = sentence["ner_tags"]         # list of NER tags corresponding to the tokens
-            
-            # write each token and its corresponding tag to the file
-            for token, tag in zip(tokens, ner_tags):
-                file.write(f"{token}\t{tag}\n")     # write token and tag separated by a tab
-
-            # separate sentences with an empty line
-            file.write("\n") 
-
-
-# reading iob2 file
+# heavily inspired by the solution from assignment 5
 def read_iob2_file(path, label2id):
     '''
     This function reads an iob2 file containing tokens and NER labels and converts it into structured data.
@@ -285,7 +227,46 @@ def read_iob2_file(path, label2id):
     return data
 
 
-# write iob2 file
+
+
+###################### WRITE TSV FILES ######################
+
+def write_tsv_file(data, path):
+    '''
+    This function writes a TSV file from structured data containing tokens and the corresponding NER tags.
+    Each line in the file corresponds to a token and its associated tag, separated by a tab.
+    Sentences are separated by empty lines.
+
+    Parameters:
+        data (List[dict]): A list of dictionaries, where each dictionary a sentence. Each dictionary has the following keys:
+            - "tokens": a list of tokens (strings).
+            - "ner_tags": a list of NER labels (strings) corresponding to each token.
+        
+        path (str): The file path where the TSV data will be written.
+
+    Returns:
+        None
+    '''
+
+    # open the output file for writing
+    with open(path, "w", encoding = "utf-8") as file:
+        # iterate over each sentence (dictionary) in the dataset
+        for sentence in data:
+            tokens = sentence["tokens"]             # list of tokens in the sentence
+            ner_tags = sentence["ner_tags"]         # list of NER tags corresponding to the tokens
+            
+            # write each token and its corresponding tag to the file
+            for token, tag in zip(tokens, ner_tags):
+                file.write(f"{token}\t{tag}\n")     # write token and tag separated by a tab
+
+            # separate sentences with an empty line
+            file.write("\n") 
+
+
+
+
+###################### WRITE IOB2 FILES ######################
+
 def write_iob2_file(data, predictions = None, path = None, gold = False):
     '''
     This function writes an iob2 file from structured data.
@@ -337,3 +318,41 @@ def write_iob2_file(data, predictions = None, path = None, gold = False):
             
              # separate sentences with an empty line
             file.write("\n")
+
+
+
+
+###################### EXTRACT non-O TOKENS ######################
+
+# extracting tokens to check for overlap in train, dev and test sets
+def extract_labeled_tokens(dataset, exclude_label = "O", include_label_pair = False):
+    '''
+    This function extracts tokens from a dataset that have a string label different from "exclude_label".
+    Optionally, it can return the (token, label) pairs instead of just tokens.
+
+    Parameters:
+        dataset (List[dict]): The token-tagged dataset.
+        exclude_label (str): The label to ignore (default is "O").
+        include_label_pair (bool): Whether to include the (token, label) pairs in the result (default is False).
+        
+    Returns:
+         Set[str] or Set[Tuple[str, str]]: 
+            - A set of tokens with meaningful (non-"O") labels if "include_label_pair" is False.
+            - A set of (token, label) pairs if "include_label_pair" is True.
+    '''
+
+    # create empty set to store the unique tokens
+    labeled_tokens = set()
+    
+    for sentence in dataset:
+        # iterate over each token and its corresponding tag ID
+        for token, label in zip(sentence["tokens"], sentence["ner_tags"]):
+            if label != exclude_label:                      # check if the tag is not the excluded one
+                if include_label_pair:
+                    labeled_tokens.add((token, label))      # add (token, label) pair if the flag is True
+                else:
+                    labeled_tokens.add(token)               # add just the token if the flag is False
+    
+    return labeled_tokens
+
+

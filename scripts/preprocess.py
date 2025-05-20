@@ -2,14 +2,25 @@
 import random
 from collections import defaultdict, Counter
 from scripts.load_data import extract_labeled_tokens
-   
+
+
+
 
 ###################### REMOVING ENTITY OVERLAP ######################
 
 def fix_overlap(train_data, dev_data, test_data):
     '''
-    
+    This function removes overlap of labeled entities across the train, dev, and test splits.
+
+    Parameters:
+        train_data (List[dict]): Training data.
+        dev_data (List[dict]): Development data.
+        test_data (List[dict]): Test data.
+
+    Returns:
+        Tuple[List[dict], List[dict], List[dict]]: A tuple of train, dev, and test splits after removing entity overlaps. 
     '''
+
     # concatenate data
     total_data = concatenate_data(train_data, dev_data, test_data)
 
@@ -32,12 +43,23 @@ def fix_overlap(train_data, dev_data, test_data):
 
 
 
+
 ###################### HELPER FUNCTIONS ######################
 
+# concatenate data
 def concatenate_data(train_data, dev_data, test_data):
     '''
-    
+    This function concatenates the train, dev and test data into a single list.
+
+    Parameters:
+        train_data (List[dict]): Training data.
+        dev_data (List[dict]): Development data.
+        test_data (List[dict]): Test data.
+
+    Returns:
+        List[dict]: Combined dataset as a single list of sentences. 
     '''
+
     total_data = train_data + dev_data + test_data
     return total_data
 
@@ -45,8 +67,13 @@ def concatenate_data(train_data, dev_data, test_data):
 # Build mapping from entity to sentence and sentence to entity
 def enitity_sentence_mapping(data, entities):
     '''
-    
+    This function builds mappings between entities and sentence indices. 
+
+    Parameters:
+
+    Returns:
     '''
+    
     # dict with entities as keys and lists of sentence IDs as values
     entity_to_sents = defaultdict(set)
     sent_to_entities = defaultdict(set) # also creating mapping from sentence ID to entity
@@ -66,6 +93,14 @@ def enitity_sentence_mapping(data, entities):
 
 # Group sentences by overlapping entities
 def group_sentences(entity_to_sents, sent_to_entities):
+    '''
+    This function 
+
+    Parameters:
+
+    Returns:
+    '''
+
     visited = set()
     sentence_groups = []
 
@@ -98,8 +133,13 @@ def group_sentences(entity_to_sents, sent_to_entities):
 # shuffle and split groups by total sentence count
 def split_sentence_groups(sentence_groups):
     '''
-    
+    This function 
+
+    Parameters:
+
+    Returns:
     '''
+
     random.shuffle(sentence_groups)
 
     train_group, dev_group, test_group, count = [], [], [], 0
@@ -120,6 +160,14 @@ def split_sentence_groups(sentence_groups):
 
 # add sentences with only 'O' tags
 def finalize_split_with_o_sentences(data, train_group, dev_group, test_group):
+    '''
+    This function 
+
+    Parameters:
+
+    Returns:
+    '''
+
     used = set(train_group + dev_group + test_group)
     o_tagged = []
 
