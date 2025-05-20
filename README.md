@@ -29,8 +29,11 @@ code blocks for commands
 ## Authors
 
 Karima Mahdaoui, kmah@itu.dk
+
 Felicia Violeta Sørensen, feso@itu.dk
+
 Aicha Nadja Thorman, aith@itu.dk
+
 Nora Zouhtane, nozo@itu.dk
 
 ## Acknowledgments
