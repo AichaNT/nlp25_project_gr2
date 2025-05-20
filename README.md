@@ -1,49 +1,44 @@
-# nlp25_project_gr2
-Repo for the exam project for NLP 2025
+# Generalizing Danish NER to Emerging and Linguistically Distant Named Entities
 
+A project investigating cultural bias in Danish NER models and exploring data augmentation strategies to improve performance on underrepresented entity types.
 
-## Repo stucture
-General:
-- README.md
-- .gitignore
-- requirements.txt
+## Description
 
-eda.ipynb:
+This project analyzes the ability of Danish NER models to generalize to named entities of Middle Eastern origin. We examine bias these models by comparing performance across test sets with emerging and culturally diverse entities. Through data augmentation, we aim to improve model robustness without degrading performance on danish data. We evaluated span-F1 scores across different setups and types of entities.
 
-preprocess.ipynb: 
+## Getting Started
 
-Data:
-- da_news: contains the DaN+ data downloaded from ([GitHub](https://github.com/bplank/DaNplus)).
-    - train (tsv)
-    - dev (tsv)
-    - test (tsv)
+### Dependencies
 
-- me_data: contains the augmented versions of the non-overlapping dev and test sets with only MENAPT NERs.
-    - dev (tsv and iob2)
-    - test (tsv and iob2)
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
 
-- me_entity_sources: the downloaded lists of MENAPT NERs.
+### Installing
 
-- no_overlap_da_news: contains the non-overlapping splits of the DaN+ data.
-    - train (tsv)
-    - dev (tsv and iob2)
-    - test (tsv and iob2)
+* How/where to download your program
+* Any modifications needed to be made to files/folders
 
+### Executing program
 
-evaluation:
-- aug_preds: the predictions on the non-overlapping and the augmented dev sets for different versions of the train data.
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
 
-- baseline_preds: the predictions on the non-overlapping and the augmented dev sets for the non-augmented train set.
+## Authors
 
-- aug_eval.ipynb: notebook with evaluation of the experiments.
+Karima Mahdaoui, kmah@itu.dk
 
-- baseline_eval.ipynb: notebook with evaluation of the baseline.
+Felicia Violeta Sørensen, feso@itu.dk
 
-- output.txt: the output of using span_f1.py on the predictions.
+Aicha Nadja Thorman, aith@itu.dk
 
+Nora Zouhtane, nozo@itu.dk
 
-hpc_jobs: TO DO (Når den er done)
+## Acknowledgments
 
+DaN+ Dataset
 
-scripts: all scripts used in the project. 
-    - Note that span_f1.py was provided as part of the project template.
+[DomPizzie Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+
