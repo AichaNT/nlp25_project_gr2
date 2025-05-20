@@ -1,7 +1,0 @@
-datasets==3.4.1
-evaluate==0.4.3
-fitz==0.0.1.dev2
-numpy==2.2.6
-pandas==2.2.3
-torch==2.6.0
-transformers==4.49.0
