@@ -28,21 +28,39 @@ ME_ORG = load_organisation("data/me_entity_sources/middle_eastern_organisations.
 
 ###################### AUGMENTING AND REPLACING ENTITIES ######################
 
-def data_aug_replace(dataset, sentence_amount, ME_LOC=ME_LOC, ME_ORG=ME_ORG,
-                     ME_BPER=ME_BPER, ME_IPER=ME_IPER, used_entities = None, train_tokens=train_tokens):
-    """
-    Replaces named entities in a subset of the dataset with new MENAPT ones, ensuring:
-    - No reused tokens across datasets
-    - No tokens from train set
-    - Deterministic behavior
-    - Returns updated used_entities (flat set of tokens)
-    """
+def data_aug_replace(dataset, sentence_amount, ME_LOC = ME_LOC, ME_ORG = ME_ORG,
+                     ME_BPER = ME_BPER, ME_IPER = ME_IPER, used_entities = None, train_tokens = train_tokens):
+    '''
+    This function replaces named entities in a subset of the dataset with new MENAPT ones, ensuring:
+        - No reused tokens across datasets
+        - No tokens from train set
+        - Deterministic behavior
+        - Returns updated used_entities (flat set of tokens)
+
+    Parameter:
+        dataset (List[dict]): Dataset with tokens and NER tags.
+        sentence_amount (int): Number of eligible sentences to augment.
+        ME_LOC (List[dict], optional): List of location entities.
+        ME_ORG (List[dict], optional): List of organization entities.
+        ME_BPER (List[str], optional): List of first names.
+        ME_IPER (List[str], optional): List of last names.
+        used_entities (Set[str or Tuple[str]], optional): Set of already-used tokens or token spans. Defaults to empty set.
+        train_tokens (Set[str or Tuple[str]]): Set of tokens or spans from the training data to exclude from augmentation.
+
+    Returns:
+        Tuple[List[dict], Set[str or Tuple[str]]]: 
+            - The augmented dataset with replaced entities.
+            - The updated set of used entity tokens/spans.
+    '''
+
     local_used = set(used_entities)
 
     # extract sentences with containing relevant tags
     eligible_sentences = [sent for sent in dataset if any(tag not in ["O", "B-MISC", "I-MISC"] for tag in sent["ner_tags"])]
+    
     # select random sentences
     selected_sentences = random.sample(eligible_sentences, min(sentence_amount, len(eligible_sentences)))
+    
     # create copy to not modify original dataset 
     modified_dataset = copy.deepcopy(dataset)
 
