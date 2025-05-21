@@ -19,7 +19,7 @@ This project analyzes the ability of Danish NER models to generalize to unseen n
 
 Run the notebook `data_preprocess.ipynb` to:
 - Create non-overlapping DaN+ traning, development and test dataset.
-- Generate augmented development and test set with Middle eastern entities.
+- Generate augmented development and test set with Middle Eastern entities.
 
 ### Training
 
