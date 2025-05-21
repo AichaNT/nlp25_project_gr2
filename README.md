@@ -13,10 +13,12 @@ This project analyzes the ability of Danish NER models to generalize to unseen n
 - Set up the evironment using `requirements.txt`
 - Or, if you're using Conda, create the environment using `environment.yml`
 
-### Executing program
+### Experiment Reproduction
 
-* How to run the program
-* Step-by-step bullets
+#### Preparing the data
+
+####
+
 ```
 code blocks for commands
 ```
