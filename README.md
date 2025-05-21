@@ -41,7 +41,8 @@ To evaluate the performance, of the models run the following notebooks from the 
 
 ## Repository
 Apart from the files mentioned, the repository also contain:
-- ```d
+- `data`: the DaN+ data used and the Middle Eastern named entities used for data augmentation
+- `eda.ipynb´: the 
 
 ## Authors
 
