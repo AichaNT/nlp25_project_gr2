@@ -41,9 +41,9 @@ To evaluate the performance, of the models run the following notebooks from the 
 
 ## Repository
 Apart from the files mentioned, the repository also contain:
-- `data`: the DaN+ data used and the Middle Eastern named entities used for data augmentation
-- `scripts`: the scripts used for data preprocessing, data augmentation, model training, and evaluation
-- `eda.ipynb`: the exploratory data analysis including label distribution, frequency of -part and -deriv, etc.
+- `data`: The DaN+ data used and the Middle Eastern named entities used for data augmentation.
+- `scripts`: The scripts used for data preprocessing, data augmentation, model training, and evaluation.
+- `eda.ipynb`: The exploratory data analysis including label distribution, frequency of -part and -deriv, etc.
 
 ## Authors
 
