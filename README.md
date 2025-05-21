@@ -25,7 +25,7 @@ Run the notebook `data_preprocess.ipynb` to:
 
 To train the models, run the following files from the `hpc_jobs` folder:
 
-- `01_non_emerging.py` - Trains and predicts on the original DaN+ splits.
+- `01_overlapping_splits.py` - Trains and predicts on the original DaN+ splits.
 - `02_baseline.py` - Trains and predicts on non-overlapping datasets.
 - `03_aug_train.py` - Tranins on varying amounts of augmented data.
 - `04_final_train` - Trains on an datasets with 300 augmented sentences.
@@ -34,7 +34,7 @@ To train the models, run the following files from the `hpc_jobs` folder:
 
 To evaluate the performance, of the models run the following notebooks from the `evaluation` folder:
 
-- `01_non_emerging_eval.ipynb`
+- `01_overlapping_splits_eval.ipynb`
 - `02_baseline_eval.ipynb`
 - `03_aug_eval.ipynb`
 - `04_final_eval.ipynb`
