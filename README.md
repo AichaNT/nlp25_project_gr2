@@ -4,7 +4,7 @@ A project investigating bias in Danish NER models and exploring data augmentatio
 
 ## Description
 
-This project analyzes the ability of Danish NER models to generalize to unseen named entities of Middle Eastern origin. We examine bias by comparing the performance of a model trained on Danish data across two Danish test sets containing emerging entities, one of which consists of Middle Eastern names. Through data augmentation, we aim to improve model robustness without degrading performance on the original Danish entities. We evaluate span-F1 scores across different setups and types of entities.
+This project analyzes the ability of Danish NER models to generalize to unseen named entities of Middle Eastern origin. We examine bias by comparing the performance of a model trained on Danish data across two Danish test sets containing emerging named entities, one of which consists of Middle Eastern named entities. Through data augmentation on the training data, we aim to improve model robustness without degrading performance on the original Danish entities. We evaluate span-F1 scores across different setups and types of entities.
 
 ## Getting Started
 
