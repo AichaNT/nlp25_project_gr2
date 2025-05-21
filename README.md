@@ -27,7 +27,7 @@ To train the models, run the following files from the `hpc_jobs` folder:
 
 - `01_overlapping_splits.py` - Trains and predicts on the original DaN+ splits.
 - `02_baseline.py` - Trains and predicts on non-overlapping datasets.
-- `03_aug_train.py` - Tranins on varying amounts of augmented data.
+- `03_aug_train.py` - Trains on varying amounts of augmented data.
 - `04_final_train` - Trains on an datasets with 300 augmented sentences.
 
 ### Evaluating
