@@ -17,11 +17,27 @@ This project analyzes the ability of Danish NER models to generalize to unseen n
 
 ### Preparing the data
 
-###
+Run the notebook `data_preprocess.ipynb` to:
+- Create non-overlapping DaN+ traning, development and test dataset.
+- Generate augmented development and test set with Middle eastern entities.
 
-```
-code blocks for commands
-```
+### Training
+
+To train the models, run the following files from the `hpc_jobs` folder:
+
+- `01_non_emerging.py` - Trains and predicts on the original DaN+ splits.
+- `02_baseline.py` - Trains and predicts on non-overlapping datasets.
+- `03_aug_train.py` - Tranins on varying amounts of augmented data.
+- `04_final_train` - Trains on an datasets with 300 augmented sentences.
+
+### Evaluating
+
+To evaluate the performance, of the models run the following notebooks from the `evaluation` folder:
+
+- `01_non_emerging_eval.ipynb`
+- `02_baseline_eval.ipynb`
+- `03_aug_eval.ipynb`
+- `04_final_eval.ipynb`
 
 ## Authors
 
@@ -35,7 +51,9 @@ Nora Zouhtane, nozo@itu.dk
 
 ## Acknowledgments
 
-DaN+ Dataset
-
 [DomPizzie Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+
+[DaN+ Dataset](https://github.com/bplank/DaNplus)
+
+[DanskBERT](https://huggingface.co/vesteinn/DanskBERT)
 
