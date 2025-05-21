@@ -1,10 +1,10 @@
 # Generalizing Danish NER to Emerging and Linguistically Distant Named Entities
 
-A project investigating bias in Danish NER models and exploring data augmentation strategies to improve performance on underrepresented entities.
+A project investigating bias in Danish NER models and exploring data augmentation strategies to improve performance on underrepresented named entities.
 
 ## Description
 
-This project analyzes the ability of Danish NER models to generalize to unseen named entities of Middle Eastern origin. We examine bias by comparing the performance of a model trained on Danish data across two Danish test sets containing emerging entities, one of which consists of Middle Eastern names. Through data augmentation, we aim to improve model robustness without degrading performance on the original Danish entities. We evaluate span-F1 scores across different setups and types of entities.
+This project analyzes the ability of Danish NER models to generalize to unseen named entities of Middle Eastern origin. We examine bias by comparing the performance of a model trained on Danish data across two Danish test sets containing emerging named entities, one of which consists of Middle Eastern named entities. Through data augmentation on the training data, we aim to improve model robustness without degrading performance on the original Danish entities. We evaluate span-F1 scores across different setups and types of entities.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ This project analyzes the ability of Danish NER models to generalize to unseen n
 
 Run the notebook `data_preprocess.ipynb` to:
 - Create non-overlapping DaN+ traning, development and test dataset.
-- Generate augmented development and test set with Middle eastern entities.
+- Generate augmented development and test set with Middle Eastern entities.
 
 ### Training
 
@@ -27,7 +27,7 @@ To train the models, run the following files from the `hpc_jobs` folder:
 
 - `01_overlapping_splits.py` - Trains and predicts on the original DaN+ splits.
 - `02_baseline.py` - Trains and predicts on non-overlapping datasets.
-- `03_aug_train.py` - Tranins on varying amounts of augmented data.
+- `03_aug_train.py` - Trains on varying amounts of augmented data.
 - `04_final_train` - Trains on an datasets with 300 augmented sentences.
 
 ### Evaluating
@@ -38,6 +38,12 @@ To evaluate the performance, of the models run the following notebooks from the 
 - `02_baseline_eval.ipynb`
 - `03_aug_eval.ipynb`
 - `04_final_eval.ipynb`
+
+## Repository
+Apart from the files mentioned, the repository also contain:
+- `data`: The DaN+ data used and the Middle Eastern named entities used for data augmentation.
+- `scripts`: The scripts used for data preprocessing, data augmentation, model training, and evaluation.
+- `eda.ipynb`: The exploratory data analysis including label distribution, frequency of -part and -deriv, etc.
 
 ## Authors
 
@@ -51,9 +57,8 @@ Nora Zouhtane, nozo@itu.dk
 
 ## Acknowledgments
 
-[DomPizzie Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-
 [DaN+ Dataset](https://github.com/bplank/DaNplus)
 
 [DanskBERT](https://huggingface.co/vesteinn/DanskBERT)
 
+[DomPizzie Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
