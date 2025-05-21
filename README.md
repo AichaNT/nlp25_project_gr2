@@ -1,6 +1,6 @@
 # Generalizing Danish NER to Emerging and Linguistically Distant Named Entities
 
-A project investigating bias in Danish NER models and exploring data augmentation strategies to improve performance on underrepresented entities.
+A project investigating bias in Danish NER models and exploring data augmentation strategies to improve performance on underrepresented named entities.
 
 ## Description
 
