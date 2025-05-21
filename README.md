@@ -42,7 +42,8 @@ To evaluate the performance, of the models run the following notebooks from the 
 ## Repository
 Apart from the files mentioned, the repository also contain:
 - `data`: the DaN+ data used and the Middle Eastern named entities used for data augmentation
-- `eda.ipynb´: the 
+- `eda.ipynb`: the exploratory data analysis including label distribution, frequency of -part and -deriv, etc.
+- `scripts`: the scripts used for data preprocessing, data augmentation, model training, and evaluation
 
 ## Authors
 
@@ -56,9 +57,8 @@ Nora Zouhtane, nozo@itu.dk
 
 ## Acknowledgments
 
-[DomPizzie Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-
 [DaN+ Dataset](https://github.com/bplank/DaNplus)
 
 [DanskBERT](https://huggingface.co/vesteinn/DanskBERT)
 
+[DomPizzie Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
