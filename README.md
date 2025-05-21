@@ -1,22 +1,17 @@
 # Generalizing Danish NER to Emerging and Linguistically Distant Named Entities
 
-A project investigating cultural bias in Danish NER models and exploring data augmentation strategies to improve performance on underrepresented entities.
+A project investigating bias in Danish NER models and exploring data augmentation strategies to improve performance on underrepresented entities.
 
 ## Description
 
-This project analyzes the ability of Danish NER models to generalize to named entities of Middle Eastern origin. We examine bias these models by comparing performance across test sets with emerging and culturally diverse entities (RET SÆTNING). Through data augmentation, we aim to improve model robustness without degrading performance on danish data. We evaluated span-F1 scores across different setups and types of entities.
+This project analyzes the ability of Danish NER models to generalize to unseen named entities of Middle Eastern origin. We examine bias by comparing the performance of a model trained on Danish data across two Danish test sets containing emerging entities, one of which consists of Middle Eastern names. Through data augmentation, we aim to improve model robustness without degrading performance on the original Danish entities. We evaluate span-F1 scores across different setups and types of entities.
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+- Set up the evironment using `requirements.txt`
+- Or, if you're using Conda, create the environment using `environment.yml`
 
 ### Executing program
 
