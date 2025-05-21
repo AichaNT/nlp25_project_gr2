@@ -123,5 +123,5 @@ _, test_predictions = pred2label((test_preds, test_labels), id2label)
 _, me_test_predictions = pred2label((me_test_preds, me_test_labels), id2label)
 
 # write output file for predictions on dev sets
-write_iob2_file(test_data, predictions = test_predictions, path = "final_test_pred.iob2")
-write_iob2_file(me_test_data, predictions = me_test_predictions, path = "final_me_test_pred.iob2")
+write_iob2_file(test_data, predictions = test_predictions, path = "evaluation/final_preds/final_test_pred.iob2")
+write_iob2_file(me_test_data, predictions = me_test_predictions, path = "evaluation/final_preds/final_me_test_pred.iob2")

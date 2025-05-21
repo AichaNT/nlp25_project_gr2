@@ -103,4 +103,4 @@ test_preds, test_labels, _ = trainer.predict(tokenized_test_dataset)
 _, test_predictions = pred2label((test_preds, test_labels), id2label)
 
 # write output file for predictions on test sets
-write_iob2_file(test_data, predictions = test_predictions, path = "non_emerging_test_pred.iob2")
+write_iob2_file(test_data, predictions = test_predictions, path = "evaluation/non_emerging_preds/non_emerging_test_pred.iob2")

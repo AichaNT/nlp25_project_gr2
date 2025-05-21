@@ -133,5 +133,5 @@ for idx, train_data in enumerate(augmented_datasets):
     _, me_dev_predictions = pred2label((me_dev_preds, me_dev_labels), id2label)
 
     # write output file for predictions on dev sets
-    write_iob2_file(dev_data, predictions = dev_predictions, path = f"{idx}dev_pred.iob2")
-    write_iob2_file(me_dev_data, predictions = me_dev_predictions, path = f"{idx}me_dev_pred.iob2")
+    write_iob2_file(dev_data, predictions = dev_predictions, path = f"evaluation/aug_preds/{idx}dev_pred.iob2")
+    write_iob2_file(me_dev_data, predictions = me_dev_predictions, path = f"evaluation/aug_preds/{idx}me_dev_pred.iob2")

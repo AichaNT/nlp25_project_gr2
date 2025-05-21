@@ -119,5 +119,5 @@ me_test_preds, me_test_labels, _ = trainer.predict(tokenized_me_test_dataset)
 _, me_test_predictions = pred2label((me_test_preds, me_test_labels), id2label)
 
 # write output file for predictions on test sets
-write_iob2_file(test_data, predictions = test_predictions, path = "test_pred.iob2")
-write_iob2_file(me_test_data, predictions = me_test_predictions, path = "me_test_pred.iob2")
+write_iob2_file(test_data, predictions = test_predictions, path = "evaluation/baseline_preds/test_pred.iob2")
+write_iob2_file(me_test_data, predictions = me_test_predictions, path = "evaluation/baseline_preds/me_test_pred.iob2")
